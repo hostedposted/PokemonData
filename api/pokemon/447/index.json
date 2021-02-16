@@ -1,0 +1,540 @@
+{
+  "abilities": [
+    {
+      "name": "steadfast",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "inner-focus",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "prankster",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It uses waves called auras to communicate with others of its kind. It doesn\u2019t make any noise during this time, so its enemies can\u2019t detect it.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "riolu"
+    ],
+    [
+      "lucario"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 28,
+  "id": 447,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-central",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "high-jump-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mind-reader",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "foresight",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "detect",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cross-chop",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "follow-me",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blaze-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "meteor-mash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-uppercut",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "copycat",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "force-palm",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drain-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "vacuum-wave",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "bullet-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "circle-throw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "final-gambit",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dual-chop",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "riolu",
+  "names": {
+    "french": "Riolu",
+    "german": "Riolu",
+    "spanish": "Riolu",
+    "italian": "Riolu",
+    "english": "Riolu",
+    "japanease": "\u30ea\u30aa\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 447,
+    "original-sinnoh": 115,
+    "extended-sinnoh": 115,
+    "updated-unova": 33,
+    "conquest-gallery": 50,
+    "kalos-central": 62,
+    "original-alola": 279,
+    "original-poni": 94,
+    "updated-alola": 377,
+    "updated-poni": 124,
+    "galar": 298,
+    "crown-tundra": 134
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "upright",
+  "species": "Emanation Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 70
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 20,
+  "weight_pounds": 45
+}

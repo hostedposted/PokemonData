@@ -1,0 +1,436 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rain-dish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "own-tempo",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Lotad is said to have dwelled on land before. However, this Pok\u00e9mon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+  "egg_groups": [
+    "water1",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "lotad"
+    ],
+    [
+      "lombre"
+    ],
+    [
+      "ludicolo"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 20,
+  "id": 270,
+  "in_games": [
+    "national",
+    "hoenn",
+    "kalos-mountain",
+    "updated-hoenn",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "mist",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "razor-leaf",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "lotad",
+  "names": {
+    "french": "N\u00e9nupiot",
+    "german": "Loturzel",
+    "spanish": "Lotad",
+    "italian": "Lotad",
+    "english": "Lotad",
+    "japanease": "\u30cf\u30b9\u30dc\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 270,
+    "hoenn": 19,
+    "kalos-mountain": 55,
+    "updated-hoenn": 19,
+    "galar": 36
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "armor",
+  "species": "Water Weed Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "water",
+    "grass"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 6
+}

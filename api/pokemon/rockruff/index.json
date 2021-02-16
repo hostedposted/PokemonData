@@ -1,0 +1,317 @@
+{
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vital-spirit",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "steadfast",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 2,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 4,
+    "fairy": 1
+  },
+  "description": "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "rockruff"
+    ],
+    [
+      "lycanroc"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 744,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele",
+    "updated-poni",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "sand-attack",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "rock-throw",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crush-claw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "howl",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fire-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-climb",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "stealth-rock",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "rockruff",
+  "names": {
+    "french": "Rocabot",
+    "german": "Wuffels",
+    "spanish": "Rockruff",
+    "italian": "Rockruff",
+    "english": "Rockruff",
+    "japanease": "\u30a4\u30ef\u30f3\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 744,
+    "original-alola": 103,
+    "original-melemele": 103,
+    "original-poni": 53,
+    "updated-alola": 126,
+    "updated-melemele": 126,
+    "updated-poni": 65,
+    "isle-of-armor": 157
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Puppy Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "weight_kilograms": 9,
+  "weight_pounds": 20
+}

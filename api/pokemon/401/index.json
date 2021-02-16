@@ -1,0 +1,157 @@
+{
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "run-away",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 2,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "When its antennae hit each other, it sounds like the music of a xylophone.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "kricketot"
+    ],
+    [
+      "kricketune"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 401,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "struggle-bug",
+      "level": 6,
+      "tm": false
+    }
+  ],
+  "name": "kricketot",
+  "names": {
+    "french": "Crikzik",
+    "german": "Zirpurze",
+    "spanish": "Kricketot",
+    "italian": "Kricketot",
+    "english": "Kricketot",
+    "japanease": "\u30b3\u30ed\u30dc\u30fc\u30b7"
+  },
+  "pokedex_numbers": {
+    "national": 401,
+    "original-sinnoh": 15,
+    "extended-sinnoh": 15
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "humanoid",
+  "species": "Cricket Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 37
+    },
+    {
+      "name": "attack",
+      "base_stat": 25
+    },
+    {
+      "name": "defense",
+      "base_stat": 41
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 25
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 41
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 5
+}

@@ -1,0 +1,370 @@
+{
+  "abilities": [
+    {
+      "name": "sturdy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sand-stream",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 2,
+    "grass": 1,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It absorbs rays of sunlight and shoots out energy. It\u2019s usually lurking deep beneath the surface.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "roggenrola"
+    ],
+    [
+      "boldore"
+    ],
+    [
+      "gigalith"
+    ]
+  ],
+  "evolves_from_species": "boldore",
+  "growth_rate": "medium-slow",
+  "height": 67,
+  "id": 526,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-coastal",
+    "original-alola",
+    "original-melemele",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele",
+    "updated-poni",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "sand-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-blast",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-gem",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "stealth-rock",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "smack-down",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "gigalith",
+  "names": {
+    "french": "Gigalithe",
+    "german": "Brockoloss",
+    "spanish": "Gigalith",
+    "italian": "Gigalith",
+    "english": "Gigalith",
+    "japanease": "\u30ae\u30ac\u30a4\u30a2\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 526,
+    "original-unova": 32,
+    "updated-unova": 70,
+    "conquest-gallery": 42,
+    "kalos-coastal": 122,
+    "original-alola": 100,
+    "original-melemele": 100,
+    "original-poni": 50,
+    "updated-alola": 122,
+    "updated-melemele": 122,
+    "updated-poni": 62,
+    "galar": 170,
+    "isle-of-armor": 156
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "tentacles",
+  "species": "Compressed Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 85
+    },
+    {
+      "name": "attack",
+      "base_stat": 135
+    },
+    {
+      "name": "defense",
+      "base_stat": 130
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "weight_kilograms": 260,
+  "weight_pounds": 573
+}

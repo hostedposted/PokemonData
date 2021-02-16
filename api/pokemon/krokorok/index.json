@@ -1,0 +1,465 @@
+{
+  "abilities": [
+    {
+      "name": "intimidate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "moxie",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "anger-point",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 90,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "sandile"
+    ],
+    [
+      "krokorok"
+    ],
+    [
+      "krookodile"
+    ]
+  ],
+  "evolves_from_species": "sandile",
+  "growth_rate": "medium-slow",
+  "height": 39,
+  "id": 552,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-coastal",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sand-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sand-tomb",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "krokorok",
+  "names": {
+    "french": "Escroco",
+    "german": "Rokkaiman",
+    "spanish": "Krokorok",
+    "italian": "Krokorok",
+    "english": "Krokorok",
+    "japanease": "\u30ef\u30eb\u30d3\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 552,
+    "original-unova": 58,
+    "updated-unova": 100,
+    "conquest-gallery": 67,
+    "kalos-coastal": 44,
+    "original-alola": 233,
+    "original-ulaula": 105,
+    "updated-alola": 302,
+    "updated-ulaula": 123,
+    "isle-of-armor": 177
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Desert Croc Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 82
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 74
+    }
+  ],
+  "types": [
+    "ground",
+    "dark"
+  ],
+  "weight_kilograms": 33,
+  "weight_pounds": 74
+}

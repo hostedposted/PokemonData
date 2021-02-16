@@ -1,0 +1,429 @@
+{
+  "abilities": [
+    {
+      "name": "prankster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "defiant",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 3,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "tornadus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 59,
+  "id": 641,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "gust",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thrash",
+      "level": 85,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "revenge",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "air-cutter",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "extrasensory",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hammer-arm",
+      "level": 79,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-drop",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hurricane",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "tornadus-incarnate",
+  "names": {
+    "french": "Bor\u00e9as",
+    "german": "Boreos",
+    "spanish": "Tornadus",
+    "italian": "Tornadus",
+    "english": "Tornadus",
+    "japanease": "\u30c8\u30eb\u30cd\u30ed\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 641,
+    "original-unova": 147,
+    "updated-unova": 198
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "arms",
+  "species": "Cyclone Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 79
+    },
+    {
+      "name": "attack",
+      "base_stat": 115
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 125
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 111
+    }
+  ],
+  "types": [
+    "flying"
+  ],
+  "weight_kilograms": 63,
+  "weight_pounds": 139
+}

@@ -1,0 +1,451 @@
+{
+  "abilities": [
+    {
+      "name": "overcoat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "magic-guard",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "regenerator",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "solosis"
+    ],
+    [
+      "duosion"
+    ],
+    [
+      "reuniclus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 577,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "kalos-coastal",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "night-shade",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "confuse-ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psywave",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "acid-armor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "future-sight",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "imprison",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-block",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wonder-room",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "solosis",
+  "names": {
+    "french": "Nucl\u00e9os",
+    "german": "Monozyto",
+    "spanish": "Solosis",
+    "italian": "Solosis",
+    "english": "Solosis",
+    "japanease": "\u30e6\u30cb\u30e9\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 577,
+    "original-unova": 83,
+    "updated-unova": 139,
+    "kalos-coastal": 115,
+    "galar": 270,
+    "crown-tundra": 54
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "ball",
+  "species": "Cell Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 105
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 20
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "weight_kilograms": 1,
+  "weight_pounds": 2
+}

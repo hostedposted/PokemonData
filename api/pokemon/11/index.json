@@ -1,0 +1,155 @@
+{
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 120,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Its hard shell doesn\u2019t crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "caterpie"
+    ],
+    [
+      "metapod"
+    ],
+    [
+      "butterfree"
+    ]
+  ],
+  "evolves_from_species": "caterpie",
+  "growth_rate": "medium",
+  "height": 28,
+  "id": 11,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "kalos-central",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "galar",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "metapod",
+  "names": {
+    "french": "Chrysacier",
+    "german": "Safcon",
+    "spanish": "Metapod",
+    "italian": "Metapod",
+    "english": "Metapod",
+    "japanease": "\u30c8\u30e9\u30f3\u30bb\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 11,
+    "kanto": 11,
+    "original-johto": 25,
+    "updated-johto": 25,
+    "kalos-central": 24,
+    "original-alola": 18,
+    "original-melemele": 18,
+    "original-akala": 9,
+    "updated-alola": 18,
+    "updated-melemele": 18,
+    "updated-akala": 9,
+    "galar": 14,
+    "updated-kanto": 11
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "squiggle",
+  "species": "Cocoon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 20
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 25
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 25
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "weight_kilograms": 10,
+  "weight_pounds": 22
+}

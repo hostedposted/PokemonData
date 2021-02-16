@@ -1,0 +1,503 @@
+{
+  "abilities": [
+    {
+      "name": "swarm",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "steadfast",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Some call it a ninja. Its movements\u2014 imperceptibly quick\u2014are sufficient to cleave the air in two. It\u2019s very popular in Alola.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "scyther"
+    ],
+    [
+      "scizor"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 59,
+  "id": 123,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "extended-sinnoh",
+    "updated-johto",
+    "conquest-gallery",
+    "kalos-mountain",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni",
+    "isle-of-armor",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swords-dance",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wing-attack",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "silver-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "bug-buzz",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "vacuum-wave",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-hit",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "scyther",
+  "names": {
+    "french": "Ins\u00e9cateur",
+    "german": "Sichlor",
+    "spanish": "Scyther",
+    "italian": "Scyther",
+    "english": "Scyther",
+    "japanease": "\u30b9\u30c8\u30e9\u30a4\u30af"
+  },
+  "pokedex_numbers": {
+    "national": 123,
+    "kanto": 123,
+    "original-johto": 110,
+    "extended-sinnoh": 195,
+    "updated-johto": 111,
+    "conquest-gallery": 188,
+    "kalos-mountain": 136,
+    "original-alola": 275,
+    "original-poni": 90,
+    "updated-alola": 365,
+    "updated-poni": 112,
+    "isle-of-armor": 118,
+    "updated-kanto": 123
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "bug-wings",
+  "species": "Mantis Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 110
+    },
+    {
+      "name": "defense",
+      "base_stat": 80
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 105
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "weight_kilograms": 56,
+  "weight_pounds": 123
+}

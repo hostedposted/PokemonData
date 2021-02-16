@@ -1,0 +1,349 @@
+{
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "They\u2019ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "xurkitree"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 150,
+  "id": 796,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder-punch",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "wrap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "thunder-wave",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spark",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ingrain",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "tail-glow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "discharge",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "power-whip",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ion-deluge",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "eerie-impulse",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "electric-terrain",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "xurkitree",
+  "names": {
+    "french": "C\u00e2blif\u00e8re",
+    "german": "Voltriant",
+    "spanish": "Xurkitree",
+    "italian": "Xurkitree",
+    "english": "Xurkitree",
+    "japanease": "\u30c7\u30f3\u30b8\u30e5\u30e2\u30af"
+  },
+  "pokedex_numbers": {
+    "national": 796,
+    "original-alola": 296,
+    "updated-alola": 396
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "species": "Glowing Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 83
+    },
+    {
+      "name": "attack",
+      "base_stat": 89
+    },
+    {
+      "name": "defense",
+      "base_stat": 71
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 173
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 71
+    },
+    {
+      "name": "speed",
+      "base_stat": 83
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "weight_kilograms": 100,
+  "weight_pounds": 220
+}

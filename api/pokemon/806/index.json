@@ -1,0 +1,318 @@
+{
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 30,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents\u2019 surprise to rob them of their vitality.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "blacephalon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 71,
+  "id": 806,
+  "in_games": [
+    "national",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-burst",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stored-power",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "quash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mind-blown",
+      "level": 59,
+      "tm": false
+    }
+  ],
+  "name": "blacephalon",
+  "names": {
+    "french": "Pierroteknik",
+    "german": "Kopplosio",
+    "spanish": "Blacephalon",
+    "italian": "Blacephalon",
+    "english": "Blacephalon",
+    "japanease": "\u30ba\u30ac\u30c9\u30fc\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 806,
+    "updated-alola": 393
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "humanoid",
+  "species": "Fireworks Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 53
+    },
+    {
+      "name": "attack",
+      "base_stat": 127
+    },
+    {
+      "name": "defense",
+      "base_stat": 53
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 151
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 79
+    },
+    {
+      "name": "speed",
+      "base_stat": 107
+    }
+  ],
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "weight_kilograms": 13,
+  "weight_pounds": 29
+}

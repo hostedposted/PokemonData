@@ -1,0 +1,406 @@
+{
+  "abilities": [
+    {
+      "name": "clear-body",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 2,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 4,
+    "fairy": 1
+  },
+  "description": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "diancie"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 28,
+  "id": 719,
+  "in_games": [
+    "national"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-throw",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sharpen",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "level": 70,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-gem",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "stealth-rock",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "guard-split",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "moonblast",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "diamond-storm",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "diancie",
+  "names": {
+    "french": "Diancie",
+    "german": "Diancie",
+    "spanish": "Diancie",
+    "italian": "Diancie",
+    "english": "Diancie",
+    "japanease": "\u30c7\u30a3\u30a2\u30f3\u30b7\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 719
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "arms",
+  "species": "Jewel Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 150
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 150
+    },
+    {
+      "name": "speed",
+      "base_stat": 50
+    }
+  ],
+  "types": [
+    "rock",
+    "fairy"
+  ],
+  "weight_kilograms": 9,
+  "weight_pounds": 19
+}

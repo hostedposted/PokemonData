@@ -1,0 +1,422 @@
+{
+  "abilities": [
+    {
+      "name": "poison-point",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swarm",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "speed-boost",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "venipede"
+    ],
+    [
+      "whirlipede"
+    ],
+    [
+      "scolipede"
+    ]
+  ],
+  "evolves_from_species": "whirlipede",
+  "growth_rate": "medium-slow",
+  "height": 98,
+  "id": 545,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-central",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "poison-sting",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "megahorn",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "baton-pass",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "pursuit",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-tail",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-climb",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steamroller",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venom-drench",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smart-strike",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "scolipede",
+  "names": {
+    "french": "Brutapode",
+    "german": "Cerapendra",
+    "spanish": "Scolipede",
+    "italian": "Scolipede",
+    "english": "Scolipede",
+    "japanease": "\u30da\u30f3\u30c9\u30e9\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 545,
+    "original-unova": 51,
+    "updated-unova": 45,
+    "conquest-gallery": 33,
+    "kalos-central": 122,
+    "isle-of-armor": 76
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "armor",
+  "species": "Megapede Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 89
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 69
+    },
+    {
+      "name": "speed",
+      "base_stat": 112
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "weight_kilograms": 200,
+  "weight_pounds": 442
+}

@@ -1,0 +1,472 @@
+{
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "infiltrator",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "prankster",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 4,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "espurr"
+    ],
+    [
+      "meowstic"
+    ]
+  ],
+  "evolves_from_species": "espurr",
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 678,
+  "in_games": [
+    "national",
+    "kalos-central",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confusion",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "imprison",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "miracle-eye",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "magic-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "disarming-voice",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "misty-terrain",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "meowstic-male",
+  "names": {
+    "french": "Mistigrix",
+    "german": "Psiaugon",
+    "spanish": "Meowstic",
+    "italian": "Meowstic",
+    "english": "Meowstic",
+    "japanease": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 678,
+    "kalos-central": 115,
+    "galar": 209
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "upright",
+  "species": "Constraint Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 74
+    },
+    {
+      "name": "attack",
+      "base_stat": 48
+    },
+    {
+      "name": "defense",
+      "base_stat": 76
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 83
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 81
+    },
+    {
+      "name": "speed",
+      "base_stat": 104
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 19
+}

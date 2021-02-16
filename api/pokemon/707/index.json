@@ -1,0 +1,393 @@
+{
+  "abilities": [
+    {
+      "name": "prankster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "magician",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "klefki"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast",
+  "height": 8,
+  "id": 707,
+  "in_games": [
+    "national",
+    "kalos-mountain",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spikes",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "lock-on",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "imprison",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "metal-sound",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-block",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "switcheroo",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-shot",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magic-room",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "foul-play",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "draining-kiss",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "crafty-shield",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "play-rough",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "fairy-wind",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "fairy-lock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "klefki",
+  "names": {
+    "french": "Trousselin",
+    "german": "Clavion",
+    "spanish": "Klefki",
+    "italian": "Klefki",
+    "english": "Klefki",
+    "japanease": "\u30af\u30ec\u30c3\u30d5\u30a3"
+  },
+  "pokedex_numbers": {
+    "national": 707,
+    "kalos-mountain": 50,
+    "original-alola": 241,
+    "original-ulaula": 113,
+    "updated-alola": 314,
+    "updated-ulaula": 135,
+    "isle-of-armor": 28
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "ball",
+  "species": "Key Ring Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 57
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 91
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 87
+    },
+    {
+      "name": "speed",
+      "base_stat": 75
+    }
+  ],
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

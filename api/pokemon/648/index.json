@@ -1,0 +1,550 @@
+{
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "meloetta"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 24,
+  "id": 648,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sing",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confusion",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "perish-song",
+      "level": 85,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "level": 71,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "hyper-voice",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wake-up-slap",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "close-combat",
+      "level": 78,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "drain-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magic-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "echoed-voice",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "acrobatics",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dual-chop",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "relic-song",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "meloetta-aria",
+  "names": {
+    "french": "Meloetta",
+    "german": "Meloetta",
+    "spanish": "Meloetta",
+    "italian": "Meloetta",
+    "english": "Meloetta",
+    "japanease": "\u30e1\u30ed\u30a8\u30c3\u30bf"
+  },
+  "pokedex_numbers": {
+    "national": 648,
+    "original-unova": 154,
+    "updated-unova": 299
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Melody Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 100
+    },
+    {
+      "name": "attack",
+      "base_stat": 77
+    },
+    {
+      "name": "defense",
+      "base_stat": 77
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 128
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 128
+    },
+    {
+      "name": "speed",
+      "base_stat": 90
+    }
+  ],
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 14
+}

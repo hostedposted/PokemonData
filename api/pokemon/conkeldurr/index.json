@@ -1,0 +1,438 @@
+{
+  "abilities": [
+    {
+      "name": "guts",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sheer-force",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "iron-fist",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+  "egg_groups": [
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "timburr"
+    ],
+    [
+      "gurdurr"
+    ],
+    [
+      "conkeldurr"
+    ]
+  ],
+  "evolves_from_species": "gurdurr",
+  "growth_rate": "medium-slow",
+  "height": 55,
+  "id": 534,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-mountain",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-throw",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bulk-up",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "wake-up-slap",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "hammer-arm",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drain-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "chip-away",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "conkeldurr",
+  "names": {
+    "french": "B\u00e9tochef",
+    "german": "Meistagrif",
+    "spanish": "Conkeldurr",
+    "italian": "Conkeldurr",
+    "english": "Conkeldurr",
+    "japanease": "\u30ed\u30fc\u30d6\u30b7\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 534,
+    "original-unova": 40,
+    "updated-unova": 75,
+    "conquest-gallery": 103,
+    "kalos-mountain": 95,
+    "galar": 173,
+    "crown-tundra": 59
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Muscular Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 105
+    },
+    {
+      "name": "attack",
+      "base_stat": 140
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 65
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 87,
+  "weight_pounds": 192
+}

@@ -1,0 +1,453 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "poison-touch",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "water-absorb",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 4,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+  "egg_groups": [
+    "water1"
+  ],
+  "evolution_chain": [
+    [
+      "tympole"
+    ],
+    [
+      "palpitoad"
+    ],
+    [
+      "seismitoad"
+    ]
+  ],
+  "evolves_from_species": "palpitoad",
+  "growth_rate": "medium-slow",
+  "height": 59,
+  "id": 537,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "acid",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "muddy-water",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gastro-acid",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-ring",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drain-punch",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "echoed-voice",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "seismitoad",
+  "names": {
+    "french": "Crapustule",
+    "german": "Branawarz",
+    "spanish": "Seismitoad",
+    "italian": "Seismitoad",
+    "english": "Seismitoad",
+    "japanease": "\u30ac\u30de\u30b2\u30ed\u30b2"
+  },
+  "pokedex_numbers": {
+    "national": 537,
+    "original-unova": 43,
+    "updated-unova": 230,
+    "galar": 134
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Vibration Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 105
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 85
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 74
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "weight_kilograms": 62,
+  "weight_pounds": 137
+}

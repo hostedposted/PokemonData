@@ -1,0 +1,428 @@
+{
+  "abilities": [
+    {
+      "name": "swarm",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chlorophyll",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "overcoat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 4,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "sewaddle"
+    ],
+    [
+      "swadloon"
+    ],
+    [
+      "leavanny"
+    ]
+  ],
+  "evolves_from_species": "swadloon",
+  "growth_rate": "medium-slow",
+  "height": 47,
+  "id": 542,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "razor-leaf",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-blade",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "entrainment",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fell-stinger",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "leavanny",
+  "names": {
+    "french": "Manternel",
+    "german": "Matrifol",
+    "spanish": "Leavanny",
+    "italian": "Leavanny",
+    "english": "Leavanny",
+    "japanease": "\u30cf\u30cf\u30b3\u30e2\u30ea"
+  },
+  "pokedex_numbers": {
+    "national": 542,
+    "original-unova": 48,
+    "updated-unova": 19,
+    "conquest-gallery": 126
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Nurturing Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 75
+    },
+    {
+      "name": "attack",
+      "base_stat": 103
+    },
+    {
+      "name": "defense",
+      "base_stat": 80
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 92
+    }
+  ],
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "weight_kilograms": 20,
+  "weight_pounds": 45
+}

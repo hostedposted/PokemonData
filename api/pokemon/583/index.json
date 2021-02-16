@@ -1,0 +1,339 @@
+{
+  "abilities": [
+    {
+      "name": "ice-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snow-cloak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "weak-armor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "This hearty Pok\u00e9mon survived the Ice Age. It\u2019s incredibly popular in very hot regions.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "vanillite"
+    ],
+    [
+      "vanillish"
+    ],
+    [
+      "vanilluxe"
+    ]
+  ],
+  "evolves_from_species": "vanillite",
+  "growth_rate": "slow",
+  "height": 43,
+  "id": 583,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "kalos-mountain",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mist",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "ice-beam",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acid-armor",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sheer-cold",
+      "level": 58,
+      "tm": false
+    },
+    {
+      "name": "icicle-spear",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "avalanche",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "mirror-shot",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "vanillish",
+  "names": {
+    "french": "Sorboul",
+    "german": "Gelatroppo",
+    "spanish": "Vanillish",
+    "italian": "Vanillish",
+    "english": "Vanillish",
+    "japanease": "\u30d0\u30cb\u30ea\u30c3\u30c1"
+  },
+  "pokedex_numbers": {
+    "national": 583,
+    "original-unova": 89,
+    "updated-unova": 256,
+    "kalos-mountain": 86,
+    "original-alola": 256,
+    "original-ulaula": 128,
+    "updated-alola": 333,
+    "updated-ulaula": 154,
+    "galar": 73,
+    "crown-tundra": 23
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "blob",
+  "species": "Icy Snow Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 51
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 59
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "weight_kilograms": 41,
+  "weight_pounds": 90
+}

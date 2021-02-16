@@ -1,0 +1,272 @@
+{
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 4
+  },
+  "description": "Evolves into Urshifu-1 @ 0 (TowerOfWaters) [0]",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "kubfu"
+    ],
+    [
+      "urshifu"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 24,
+  "id": 891,
+  "in_games": [
+    "national",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "rock smash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "focus energy",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "aerial ace",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "scary face",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "brick break",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "detect",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "bulk up",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "iron head",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "dynamic punch",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "close combat",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "focus punch",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "kubfu",
+  "names": {
+    "french": "Wushours",
+    "german": "Dakuma",
+    "spanish": "Kubfu",
+    "italian": "Kubfu",
+    "english": "Kubfu",
+    "japanease": "\u30c0\u30af\u30de"
+  },
+  "pokedex_numbers": {
+    "national": 891,
+    "isle-of-armor": 100
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 53
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 72
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 26
+}

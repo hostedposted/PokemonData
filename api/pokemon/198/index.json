@@ -1,0 +1,542 @@
+{
+  "abilities": [
+    {
+      "name": "insomnia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "super-luck",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "prankster",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 30,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It searches for shiny things for its boss. Murkrow\u2019s presence is said to be unlucky, so many people detest it.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "murkrow"
+    ],
+    [
+      "honchkrow"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 20,
+  "id": 198,
+  "in_games": [
+    "national",
+    "original-johto",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-johto",
+    "kalos-mountain",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "wing-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "mirror-move",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "perish-song",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flatter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pluck",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psycho-shift",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "punishment",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brave-bird",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "foul-play",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "murkrow",
+  "names": {
+    "french": "Corn\u00e8bre",
+    "german": "Kramurx",
+    "spanish": "Murkrow",
+    "italian": "Murkrow",
+    "english": "Murkrow",
+    "japanease": "\u30e4\u30df\u30ab\u30e9\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 198,
+    "original-johto": 208,
+    "original-sinnoh": 74,
+    "extended-sinnoh": 74,
+    "updated-johto": 213,
+    "kalos-mountain": 51,
+    "original-alola": 277,
+    "original-poni": 92,
+    "updated-alola": 78,
+    "updated-melemele": 78
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "wings",
+  "species": "Darkness Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 42
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 85
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 42
+    },
+    {
+      "name": "speed",
+      "base_stat": 91
+    }
+  ],
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 5
+}

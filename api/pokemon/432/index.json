@@ -1,0 +1,467 @@
+{
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "own-tempo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "defiant",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "glameow"
+    ],
+    [
+      "purugly"
+    ]
+  ],
+  "evolves_from_species": "glameow",
+  "growth_rate": "fast",
+  "height": 39,
+  "id": 432,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assist",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "purugly",
+  "names": {
+    "french": "Chaffreux",
+    "german": "Shnurgarst",
+    "spanish": "Purugly",
+    "italian": "Purugly",
+    "english": "Purugly",
+    "japanease": "\u30d6\u30cb\u30e3\u30c3\u30c8"
+  },
+  "pokedex_numbers": {
+    "national": 432,
+    "original-sinnoh": 77,
+    "extended-sinnoh": 77
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "quadruped",
+  "species": "Tiger Cat Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 71
+    },
+    {
+      "name": "attack",
+      "base_stat": 82
+    },
+    {
+      "name": "defense",
+      "base_stat": 64
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 64
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 59
+    },
+    {
+      "name": "speed",
+      "base_stat": 112
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 44,
+  "weight_pounds": 97
+}

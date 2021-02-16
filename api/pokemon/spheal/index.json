@@ -1,0 +1,453 @@
+{
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ice-body",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "oblivious",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pok\u00e9mon can be seen rolling about on ice and crossing the sea.",
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "spheal"
+    ],
+    [
+      "sealeo"
+    ],
+    [
+      "walrein"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 31,
+  "id": 363,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-unova",
+    "conquest-gallery",
+    "updated-hoenn",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "aurora-beam",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fissure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "rock-slide",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "powder-snow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "belly-drum",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stockpile",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "spit-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swallow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-ball",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sheer-cold",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "spheal",
+  "names": {
+    "french": "Obalie",
+    "german": "Seemops",
+    "spanish": "Spheal",
+    "italian": "Spheal",
+    "english": "Spheal",
+    "japanease": "\u30bf\u30de\u30b6\u30e9\u30b7"
+  },
+  "pokedex_numbers": {
+    "national": 363,
+    "hoenn": 173,
+    "updated-unova": 243,
+    "conquest-gallery": 60,
+    "updated-hoenn": 182,
+    "crown-tundra": 159
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "fish",
+  "species": "Clap Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    "ice",
+    "water"
+  ],
+  "weight_kilograms": 40,
+  "weight_pounds": 87
+}

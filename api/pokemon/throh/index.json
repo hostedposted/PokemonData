@@ -1,0 +1,438 @@
+{
+  "abilities": [
+    {
+      "name": "guts",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "inner-focus",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mold-breaker",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+  "egg_groups": [
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "throh"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 51,
+  "id": 538,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "kalos-coastal",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seismic-toss",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "vital-throw",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "revenge",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bulk-up",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "storm-throw",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "circle-throw",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mat-block",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "throh",
+  "names": {
+    "french": "Judokrak",
+    "german": "Jiutesto",
+    "spanish": "Throh",
+    "italian": "Throh",
+    "english": "Throh",
+    "japanease": "\u30ca\u30b2\u30ad"
+  },
+  "pokedex_numbers": {
+    "national": 538,
+    "original-unova": 44,
+    "updated-unova": 267,
+    "kalos-coastal": 97,
+    "galar": 248
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Judo Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 120
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 85
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 56,
+  "weight_pounds": 122
+}

@@ -1,0 +1,447 @@
+{
+  "abilities": [
+    {
+      "name": "contrary",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "suction-cups",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "infiltrator",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 80,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 4,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
+  "egg_groups": [
+    "water1",
+    "water2"
+  ],
+  "evolution_chain": [
+    [
+      "inkay"
+    ],
+    [
+      "malamar"
+    ]
+  ],
+  "evolves_from_species": "inkay",
+  "growth_rate": "medium",
+  "height": 59,
+  "id": 687,
+  "in_games": [
+    "national",
+    "kalos-coastal",
+    "updated-alola",
+    "updated-melemele",
+    "updated-poni",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psybeam",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "constrict",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psywave",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pluck",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "switcheroo",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psycho-cut",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "topsy-turvy",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "malamar",
+  "names": {
+    "french": "Sepiatroce",
+    "german": "Calamanero",
+    "spanish": "Malamar",
+    "italian": "Malamar",
+    "english": "Malamar",
+    "japanease": "\u30ab\u30e9\u30de\u30cd\u30ed"
+  },
+  "pokedex_numbers": {
+    "national": 687,
+    "kalos-coastal": 11,
+    "updated-alola": 27,
+    "updated-melemele": 27,
+    "updated-poni": 11,
+    "galar": 291,
+    "isle-of-armor": 109
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "blob",
+  "species": "Overturning Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 86
+    },
+    {
+      "name": "attack",
+      "base_stat": 92
+    },
+    {
+      "name": "defense",
+      "base_stat": 88
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 68
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 73
+    }
+  ],
+  "types": [
+    "dark",
+    "psychic"
+  ],
+  "weight_kilograms": 47,
+  "weight_pounds": 104
+}

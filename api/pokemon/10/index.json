@@ -1,0 +1,160 @@
+{
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "run-away",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "caterpie"
+    ],
+    [
+      "metapod"
+    ],
+    [
+      "butterfree"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 10,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "kalos-central",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "galar",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "string-shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "caterpie",
+  "names": {
+    "french": "Chenipan",
+    "german": "Raupy",
+    "spanish": "Caterpie",
+    "italian": "Caterpie",
+    "english": "Caterpie",
+    "japanease": "\u30ad\u30e3\u30bf\u30d4\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 10,
+    "kanto": 10,
+    "original-johto": 24,
+    "updated-johto": 24,
+    "kalos-central": 23,
+    "original-alola": 17,
+    "original-melemele": 17,
+    "original-akala": 8,
+    "updated-alola": 17,
+    "updated-melemele": 17,
+    "updated-akala": 8,
+    "galar": 13,
+    "updated-kanto": 10
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "armor",
+  "species": "Worm Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 35
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 20
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 20
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 6
+}

@@ -1,0 +1,508 @@
+{
+  "abilities": [
+    {
+      "name": "pickup",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cheek-pouch",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "huge-power",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 127,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it\u2019s finished digging, it lounges lazily.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "bunnelby"
+    ],
+    [
+      "diggersby"
+    ]
+  ],
+  "evolves_from_species": "bunnelby",
+  "growth_rate": "medium",
+  "height": 39,
+  "id": 660,
+  "in_games": [
+    "national",
+    "kalos-central",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-slap",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-kick",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "hammer-arm",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gastro-acid",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rototiller",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "diggersby",
+  "names": {
+    "french": "Excavarenne",
+    "german": "Grebbit",
+    "spanish": "Diggersby",
+    "italian": "Diggersby",
+    "english": "Diggersby",
+    "japanease": "\u30db\u30eb\u30fc\u30c9"
+  },
+  "pokedex_numbers": {
+    "national": 660,
+    "kalos-central": 11,
+    "galar": 49
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "upright",
+  "species": "Digging Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 85
+    },
+    {
+      "name": "attack",
+      "base_stat": 56
+    },
+    {
+      "name": "defense",
+      "base_stat": 77
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 77
+    },
+    {
+      "name": "speed",
+      "base_stat": 78
+    }
+  ],
+  "types": [
+    "normal",
+    "ground"
+  ],
+  "weight_kilograms": 42,
+  "weight_pounds": 93
+}

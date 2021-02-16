@@ -1,0 +1,299 @@
+{
+  "abilities": [
+    {
+      "name": "dauntless-shield",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 10,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "This Pok\u00e9mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "zamazenta"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 114,
+  "id": 889,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "metal burst",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "wide guard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "metal claw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "howl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "iron head",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "laser focus",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 66,
+      "tm": false
+    },
+    {
+      "name": "close combat",
+      "level": 77,
+      "tm": false
+    },
+    {
+      "name": "giga impact",
+      "level": 88,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "zamazenta-hero",
+  "names": {
+    "french": "Zamazent",
+    "german": "Zamazenta",
+    "spanish": "Zamazenta",
+    "italian": "Zamazenta",
+    "english": "Zamazenta",
+    "japanease": "\u30b6\u30de\u30bc\u30f3\u30bf"
+  },
+  "pokedex_numbers": {
+    "national": 889,
+    "galar": 399
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "quadruped",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 92
+    },
+    {
+      "name": "attack",
+      "base_stat": 130
+    },
+    {
+      "name": "defense",
+      "base_stat": 115
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 115
+    },
+    {
+      "name": "speed",
+      "base_stat": 138
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 210,
+  "weight_pounds": 463
+}

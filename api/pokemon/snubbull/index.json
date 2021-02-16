@@ -1,0 +1,618 @@
+{
+  "abilities": [
+    {
+      "name": "intimidate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "run-away",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rattled",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "In contrast to its appearance, it\u2019s quite timid. When playing with other puppy Pok\u00e9mon, it sometimes gets bullied.",
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "evolution_chain": [
+    [
+      "snubbull"
+    ],
+    [
+      "granbull"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast",
+  "height": 24,
+  "id": 209,
+  "in_games": [
+    "national",
+    "original-johto",
+    "updated-johto",
+    "kalos-coastal",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tail-whip",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bite",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seismic-toss",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "metronome",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "lick",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "feint-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-bell",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "present",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smelling-salts",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fake-tears",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "close-combat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-fang",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ice-fang",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fire-fang",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-rough",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "snubbull",
+  "names": {
+    "french": "Snubbull",
+    "german": "Snubbull",
+    "spanish": "Snubbull",
+    "italian": "Snubbull",
+    "english": "Snubbull",
+    "japanease": "\u30d6\u30eb\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 209,
+    "original-johto": 123,
+    "updated-johto": 125,
+    "kalos-coastal": 71,
+    "original-alola": 258,
+    "original-poni": 73,
+    "updated-alola": 339,
+    "updated-poni": 86
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "humanoid",
+  "species": "Fairy Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 17
+}

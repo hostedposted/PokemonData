@@ -1,0 +1,409 @@
+{
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "arena-trap",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sheer-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 4,
+    "electric": 0,
+    "grass": 4,
+    "ice": 4,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "trapinch"
+    ],
+    [
+      "vibrava"
+    ],
+    [
+      "flygon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 28,
+  "id": 328,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-unova",
+    "kalos-mountain",
+    "updated-hoenn",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "gust",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sand-attack",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fissure",
+      "level": 89,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sand-tomb",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "level": 81,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "trapinch",
+  "names": {
+    "french": "Kraknoix",
+    "german": "Knacklion",
+    "spanish": "Trapinch",
+    "italian": "Trapinch",
+    "english": "Trapinch",
+    "japanease": "\u30ca\u30c3\u30af\u30e9\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 328,
+    "hoenn": 116,
+    "updated-unova": 121,
+    "kalos-mountain": 3,
+    "updated-hoenn": 121,
+    "original-alola": 235,
+    "original-ulaula": 107,
+    "updated-alola": 304,
+    "updated-ulaula": 125,
+    "galar": 321
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "armor",
+  "species": "Ant Pit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 10
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "weight_kilograms": 15,
+  "weight_pounds": 33
+}

@@ -1,0 +1,486 @@
+{
+  "abilities": [
+    {
+      "name": "gluttony",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "torrent",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "panpour"
+    ],
+    [
+      "simipour"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 515,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-central"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lick",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "recycle",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-sport",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "gastro-acid",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "acrobatics",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "water-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "disarming-voice",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "play-nice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "panpour",
+  "names": {
+    "french": "Flotajou",
+    "german": "Sodamak",
+    "spanish": "Panpour",
+    "italian": "Panpour",
+    "english": "Panpour",
+    "japanease": "\u30d2\u30e4\u30c3\u30d7"
+  },
+  "pokedex_numbers": {
+    "national": 515,
+    "original-unova": 21,
+    "updated-unova": 41,
+    "conquest-gallery": 140,
+    "kalos-central": 33
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "upright",
+  "species": "Spray Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 53
+    },
+    {
+      "name": "defense",
+      "base_stat": 48
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 53
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 48
+    },
+    {
+      "name": "speed",
+      "base_stat": 64
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 14,
+  "weight_pounds": 30
+}

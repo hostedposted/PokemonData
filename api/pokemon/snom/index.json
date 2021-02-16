@@ -1,0 +1,175 @@
+{
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ice-scales",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 4,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "snom"
+    ],
+    [
+      "frosmoth"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 872,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "powder snow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "struggle bug",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fairy wind",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "mirror coat",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "bug bite",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "snom",
+  "names": {
+    "french": "Frissonille",
+    "german": "Snomnom",
+    "spanish": "Snom",
+    "italian": "Snom",
+    "english": "Snom",
+    "japanease": "\u30e6\u30ad\u30cf\u30df"
+  },
+  "pokedex_numbers": {
+    "national": 872,
+    "galar": 349,
+    "crown-tundra": 1
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "squiggle",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 30
+    },
+    {
+      "name": "attack",
+      "base_stat": 25
+    },
+    {
+      "name": "defense",
+      "base_stat": 35
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 20
+    }
+  ],
+  "types": [
+    "ice",
+    "bug"
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 8
+}

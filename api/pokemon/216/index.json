@@ -1,0 +1,589 @@
+{
+  "abilities": [
+    {
+      "name": "pickup",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "quick-feet",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "honey-gather",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 4,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "This Pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "teddiursa"
+    ],
+    [
+      "ursaring"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 216,
+  "in_games": [
+    "national",
+    "original-johto",
+    "updated-johto",
+    "kalos-mountain"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "thrash",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "seismic-toss",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "metronome",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "lick",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "belly-drum",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "metal-claw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cross-chop",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fake-tears",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "close-combat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "night-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "chip-away",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-rough",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "play-nice",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baby-doll-eyes",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "teddiursa",
+  "names": {
+    "french": "Teddiursa",
+    "german": "Teddiursa",
+    "spanish": "Teddiursa",
+    "italian": "Teddiursa",
+    "english": "Teddiursa",
+    "japanease": "\u30d2\u30e1\u30b0\u30de"
+  },
+  "pokedex_numbers": {
+    "national": 216,
+    "original-johto": 193,
+    "updated-johto": 198,
+    "kalos-mountain": 132
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "upright",
+  "species": "Little Bear Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 40
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 9,
+  "weight_pounds": 19
+}

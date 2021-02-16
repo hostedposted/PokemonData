@@ -1,0 +1,121 @@
+{
+  "abilities": [
+    {
+      "name": "sturdy",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "cosmog"
+    ],
+    [
+      "cosmoem"
+    ],
+    [
+      "solgaleo",
+      "lunala"
+    ]
+  ],
+  "evolves_from_species": "cosmog",
+  "growth_rate": "slow",
+  "height": 4,
+  "id": 790,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "teleport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cosmic-power",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "cosmoem",
+  "names": {
+    "french": "Cosmovum",
+    "german": "Cosmovum",
+    "spanish": "Cosmoem",
+    "italian": "Cosmoem",
+    "english": "Cosmoem",
+    "japanease": "\u30b3\u30b9\u30e2\u30a6\u30e0"
+  },
+  "pokedex_numbers": {
+    "national": 790,
+    "original-alola": 290,
+    "updated-alola": 388
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "ball",
+  "species": "Protostar Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 43
+    },
+    {
+      "name": "attack",
+      "base_stat": 29
+    },
+    {
+      "name": "defense",
+      "base_stat": 131
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 29
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 131
+    },
+    {
+      "name": "speed",
+      "base_stat": 37
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "weight_kilograms": 1000,
+  "weight_pounds": 2204
+}

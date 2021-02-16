@@ -1,0 +1,327 @@
+{
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skill-link",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pickup",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "pikipek"
+    ],
+    [
+      "trumbeak"
+    ],
+    [
+      "toucannon"
+    ]
+  ],
+  "evolves_from_species": "pikipek",
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 732,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "original-ulaula",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "updated-ulaula",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-attack",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "hyper-voice",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-blast",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "trumbeak",
+  "names": {
+    "french": "Piclairon",
+    "german": "Trompeck",
+    "spanish": "Trumbeak",
+    "italian": "Trumbeak",
+    "english": "Trumbeak",
+    "japanease": "\u30b1\u30e9\u30e9\u30c3\u30d1"
+  },
+  "pokedex_numbers": {
+    "national": 732,
+    "original-alola": 11,
+    "original-melemele": 11,
+    "original-akala": 2,
+    "original-ulaula": 2,
+    "original-poni": 2,
+    "updated-alola": 11,
+    "updated-melemele": 11,
+    "updated-akala": 2,
+    "updated-ulaula": 2,
+    "updated-poni": 2
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "wings",
+  "species": "Bugle Beak Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 75
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "weight_kilograms": 15,
+  "weight_pounds": 33
+}

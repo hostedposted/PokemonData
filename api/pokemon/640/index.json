@@ -1,0 +1,402 @@
+{
+  "abilities": [
+    {
+      "name": "justified",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Legends say this Pok\u00e9mon confounded opponents with its swift movements.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "virizion"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 79,
+  "id": 640,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-kick",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magical-leaf",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-blade",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "close-combat",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "sacred-sword",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "virizion",
+  "names": {
+    "french": "Viridium",
+    "german": "Viridium",
+    "spanish": "Virizion",
+    "italian": "Virizion",
+    "english": "Virizion",
+    "japanease": "\u30d3\u30ea\u30b8\u30aa\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 640,
+    "original-unova": 146,
+    "updated-unova": 227,
+    "crown-tundra": 207
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Grassland Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 91
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 72
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 129
+    },
+    {
+      "name": "speed",
+      "base_stat": 108
+    }
+  ],
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "weight_kilograms": 200,
+  "weight_pounds": 441
+}

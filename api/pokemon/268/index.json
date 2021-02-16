@@ -1,0 +1,141 @@
+{
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 120,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pok\u00e9mon will also not forget the pain it endured.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "wurmple"
+    ],
+    [
+      "silcoon",
+      "cascoon"
+    ],
+    [
+      "beautifly",
+      "dustox"
+    ]
+  ],
+  "evolves_from_species": "wurmple",
+  "growth_rate": "medium",
+  "height": 28,
+  "id": 268,
+  "in_games": [
+    "national",
+    "hoenn",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-hoenn"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "cascoon",
+  "names": {
+    "french": "Blindalys",
+    "german": "Panekon",
+    "spanish": "Cascoon",
+    "italian": "Cascoon",
+    "english": "Cascoon",
+    "japanease": "\u30de\u30e6\u30eb\u30c9"
+  },
+  "pokedex_numbers": {
+    "national": 268,
+    "hoenn": 17,
+    "original-sinnoh": 51,
+    "extended-sinnoh": 51,
+    "updated-hoenn": 17
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "ball",
+  "species": "Cocoon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 35
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 25
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 25
+    },
+    {
+      "name": "speed",
+      "base_stat": 15
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 25
+}

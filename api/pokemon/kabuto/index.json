@@ -1,0 +1,509 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "battle-armor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "weak-armor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 1,
+    "electric": 2,
+    "grass": 4,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "This Pok\u00e9mon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "kabuto"
+    ],
+    [
+      "kabutops"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 140,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "updated-alola",
+    "updated-akala",
+    "crown-tundra",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sand-attack",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hydro-pump",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aurora-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confuse-ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "foresight",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wring-out",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-jet",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "kabuto",
+  "names": {
+    "french": "Kabuto",
+    "german": "Kabuto",
+    "spanish": "Kabuto",
+    "italian": "Kabuto",
+    "english": "Kabuto",
+    "japanease": "\u30ab\u30d6\u30c8"
+  },
+  "pokedex_numbers": {
+    "national": 140,
+    "kanto": 140,
+    "original-johto": 222,
+    "updated-johto": 227,
+    "updated-alola": 229,
+    "updated-akala": 130,
+    "crown-tundra": 125,
+    "updated-kanto": 140
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "armor",
+  "species": "Shellfish Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 30
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 90
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 55
+    }
+  ],
+  "types": [
+    "rock",
+    "water"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 25
+}

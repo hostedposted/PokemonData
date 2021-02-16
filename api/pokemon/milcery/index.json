@@ -1,0 +1,232 @@
+{
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "aroma-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "milcery"
+    ],
+    [
+      "alcremie"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 8,
+  "id": 868,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "aromatic mist",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet kiss",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "sweet scent",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "draining kiss",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "acid armor",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "dazzling gleam",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "recover",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "misty terrain",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "entrainment",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "baby-doll eyes",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "last resort",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "milcery",
+  "names": {
+    "french": "Cr\u00e8my",
+    "german": "Hokumil",
+    "spanish": "Milcery",
+    "italian": "Milcery",
+    "english": "Milcery",
+    "japanease": "\u30de\u30db\u30df\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 868,
+    "galar": 185
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "ball",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 61
+    },
+    {
+      "name": "speed",
+      "base_stat": 34
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "weight_kilograms": 0,
+  "weight_pounds": 1
+}

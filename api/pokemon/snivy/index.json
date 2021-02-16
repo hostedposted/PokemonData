@@ -1,0 +1,448 @@
+{
+  "abilities": [
+    {
+      "name": "overgrow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "contrary",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+  "egg_groups": [
+    "ground",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "snivy"
+    ],
+    [
+      "servine"
+    ],
+    [
+      "serperior"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 495,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "vine-whip",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "wrap",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "glare",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magical-leaf",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-blade",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "wring-out",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "gastro-acid",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "coil",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-tornado",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "grassy-terrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "snivy",
+  "names": {
+    "french": "Vip\u00e9lierre",
+    "german": "Serpifeu",
+    "spanish": "Snivy",
+    "italian": "Snivy",
+    "english": "Snivy",
+    "japanease": "\u30c4\u30bf\u30fc\u30b8\u30e3"
+  },
+  "pokedex_numbers": {
+    "national": 495,
+    "original-unova": 1,
+    "updated-unova": 1,
+    "conquest-gallery": 118
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "upright",
+  "species": "Grass Snake Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 45
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 55
+    },
+    {
+      "name": "speed",
+      "base_stat": 63
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 18
+}

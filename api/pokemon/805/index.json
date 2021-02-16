@@ -1,0 +1,293 @@
+{
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 30,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 2,
+    "electric": 1,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "When stone walls started moving and attacking, the brute\u2019s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "stakataka"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 217,
+  "id": 805,
+  "in_games": [
+    "national",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "rock-throw",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "rock-blast",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "wide-guard",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "autotomize",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "stakataka",
+  "names": {
+    "french": "Ama-Ama",
+    "german": "Muramura",
+    "spanish": "Stakataka",
+    "italian": "Stakataka",
+    "english": "Stakataka",
+    "japanease": "\u30c4\u30f3\u30c7\u30c4\u30f3\u30c7"
+  },
+  "pokedex_numbers": {
+    "national": 805,
+    "updated-alola": 392
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Rampart Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 61
+    },
+    {
+      "name": "attack",
+      "base_stat": 131
+    },
+    {
+      "name": "defense",
+      "base_stat": 211
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 53
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 101
+    },
+    {
+      "name": "speed",
+      "base_stat": 13
+    }
+  ],
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "weight_kilograms": 820,
+  "weight_pounds": 1808
+}

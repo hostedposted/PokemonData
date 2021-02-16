@@ -1,0 +1,482 @@
+{
+  "abilities": [
+    {
+      "name": "swarm",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "insomnia",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sniper",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Although the poison from its fangs isn\u2019t that strong, it\u2019s potent enough to weaken prey that gets caught in its web.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "spinarak"
+    ],
+    [
+      "ariados"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast",
+  "height": 20,
+  "id": 167,
+  "in_games": [
+    "national",
+    "original-johto",
+    "updated-johto",
+    "kalos-mountain",
+    "original-alola",
+    "original-melemele",
+    "original-ulaula",
+    "updated-alola",
+    "updated-melemele",
+    "updated-ulaula"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-sting",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "twineedle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "pin-missile",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "sonic-boom",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "disable",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "psybeam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "night-shade",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "constrict",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "leech-life",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spider-web",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "megahorn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "toxic-spikes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "night-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-sneak",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "cross-poison",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage-powder",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electroweb",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sticky-web",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic-thread",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "lunge",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "spinarak",
+  "names": {
+    "french": "Mimigal",
+    "german": "Webarak",
+    "spanish": "Spinarak",
+    "italian": "Spinarak",
+    "english": "Spinarak",
+    "japanease": "\u30a4\u30c8\u30de\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 167,
+    "original-johto": 32,
+    "updated-johto": 32,
+    "kalos-mountain": 107,
+    "original-alola": 22,
+    "original-melemele": 22,
+    "original-ulaula": 10,
+    "updated-alola": 22,
+    "updated-melemele": 22,
+    "updated-ulaula": 10
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "armor",
+  "species": "String Spit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 19
+}

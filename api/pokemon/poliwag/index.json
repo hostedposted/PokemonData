@@ -1,0 +1,466 @@
+{
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "damp",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "swift-swim",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+  "egg_groups": [
+    "water1"
+  ],
+  "evolution_chain": [
+    [
+      "poliwag"
+    ],
+    [
+      "poliwhirl"
+    ],
+    [
+      "poliwrath",
+      "politoed"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 60,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "kalos-mountain",
+    "original-alola",
+    "original-akala",
+    "original-ulaula",
+    "updated-alola",
+    "updated-akala",
+    "updated-ulaula",
+    "isle-of-armor",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-slap",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mist",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-gun",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "psywave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "splash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mind-reader",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "belly-drum",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "refresh",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-ball",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-shot",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wake-up-slap",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-bomb",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "poliwag",
+  "names": {
+    "french": "Ptitard",
+    "german": "Quapsel",
+    "spanish": "Poliwag",
+    "italian": "Poliwag",
+    "english": "Poliwag",
+    "japanease": "\u30cb\u30e7\u30ed\u30e2"
+  },
+  "pokedex_numbers": {
+    "national": 60,
+    "kanto": 60,
+    "original-johto": 72,
+    "updated-johto": 72,
+    "kalos-mountain": 33,
+    "original-alola": 149,
+    "original-akala": 76,
+    "original-ulaula": 68,
+    "updated-alola": 182,
+    "updated-akala": 83,
+    "updated-ulaula": 74,
+    "isle-of-armor": 142,
+    "updated-kanto": 60
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "legs",
+  "species": "Tadpole Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 50
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 90
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 27
+}

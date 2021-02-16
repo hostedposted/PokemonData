@@ -1,0 +1,390 @@
+{
+  "abilities": [
+    {
+      "name": "cute-charm",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "skill-link",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "minccino"
+    ],
+    [
+      "cinccino"
+    ]
+  ],
+  "evolves_from_species": "minccino",
+  "growth_rate": "fast",
+  "height": 20,
+  "id": 573,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "updated-alola",
+    "updated-ulaula",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "sing",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tickle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-blast",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tail-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cinccino",
+  "names": {
+    "french": "Pashmilla",
+    "german": "Chillabell",
+    "spanish": "Cinccino",
+    "italian": "Cinccino",
+    "english": "Cinccino",
+    "japanease": "\u30c1\u30e9\u30c1\u30fc\u30ce"
+  },
+  "pokedex_numbers": {
+    "national": 573,
+    "original-unova": 79,
+    "updated-unova": 108,
+    "conquest-gallery": 97,
+    "updated-alola": 267,
+    "updated-ulaula": 88,
+    "galar": 51
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Scarf Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 75
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 65
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 115
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 17
+}

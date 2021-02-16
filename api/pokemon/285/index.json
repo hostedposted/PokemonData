@@ -1,0 +1,383 @@
+{
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "poison-heal",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "quick-feet",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pok\u00e9mon\u2019s spores are so toxic, they make trees and weeds wilt.",
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "shroomish"
+    ],
+    [
+      "breloom"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast-then-very-slow",
+  "height": 16,
+  "id": 285,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-hoenn"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-powder",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "stun-spore",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spore",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "charm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-tears",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wake-up-slap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "drain-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "shroomish",
+  "names": {
+    "french": "Balignon",
+    "german": "Knilz",
+    "spanish": "Shroomish",
+    "italian": "Shroomish",
+    "english": "Shroomish",
+    "japanease": "\u30ad\u30ce\u30b3\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 285,
+    "hoenn": 34,
+    "updated-hoenn": 35
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "legs",
+  "species": "Mushroom Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 35
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 10
+}

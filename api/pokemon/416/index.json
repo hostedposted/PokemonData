@@ -1,0 +1,441 @@
+{
+  "abilities": [
+    {
+      "name": "pressure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unnerve",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "combee"
+    ],
+    [
+      "vespiquen"
+    ]
+  ],
+  "evolves_from_species": "combee",
+  "growth_rate": "medium-slow",
+  "height": 47,
+  "id": 416,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "kalos-central",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gust",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "poison-sting",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "destiny-bond",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "sweet-scent",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "air-slash",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-gem",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attack-order",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "defend-order",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "heal-order",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fell-stinger",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "vespiquen",
+  "names": {
+    "french": "Apireine",
+    "german": "Honweisel",
+    "spanish": "Vespiquen",
+    "italian": "Vespiquen",
+    "english": "Vespiquen",
+    "japanease": "\u30d3\u30fc\u30af\u30a4\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 416,
+    "original-sinnoh": 54,
+    "extended-sinnoh": 54,
+    "updated-unova": 143,
+    "kalos-central": 77,
+    "galar": 117,
+    "isle-of-armor": 204
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "bug-wings",
+  "species": "Beehive Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 102
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 102
+    },
+    {
+      "name": "speed",
+      "base_stat": 40
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "weight_kilograms": 38,
+  "weight_pounds": 85
+}

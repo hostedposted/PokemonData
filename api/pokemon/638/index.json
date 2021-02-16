@@ -1,0 +1,402 @@
+{
+  "abilities": [
+    {
+      "name": "justified",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pok\u00e9mon.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "cobalion"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 83,
+  "id": 638,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-kick",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-claw",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-burst",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "close-combat",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "sacred-sword",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cobalion",
+  "names": {
+    "french": "Cobaltium",
+    "german": "Kobalium",
+    "spanish": "Cobalion",
+    "italian": "Cobalion",
+    "english": "Cobalion",
+    "japanease": "\u30b3\u30d0\u30eb\u30aa\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 638,
+    "original-unova": 144,
+    "updated-unova": 225,
+    "crown-tundra": 205
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Iron Will Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 91
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 129
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 72
+    },
+    {
+      "name": "speed",
+      "base_stat": 108
+    }
+  ],
+  "types": [
+    "steel",
+    "fighting"
+  ],
+  "weight_kilograms": 250,
+  "weight_pounds": 551
+}

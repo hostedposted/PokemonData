@@ -1,0 +1,340 @@
+{
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "pheromosa"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 71,
+  "id": 795,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "stomp",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "double-kick",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "jump-kick",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "high-jump-kick",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "triple-kick",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "silver-wind",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "me-first",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-buzz",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quiver-dance",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lunge",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "speed-swap",
+      "level": 73,
+      "tm": false
+    }
+  ],
+  "name": "pheromosa",
+  "names": {
+    "french": "Cancrelove",
+    "german": "Schabelle",
+    "spanish": "Pheromosa",
+    "italian": "Pheromosa",
+    "english": "Pheromosa",
+    "japanease": "\u30d5\u30a7\u30ed\u30fc\u30c1\u30a7"
+  },
+  "pokedex_numbers": {
+    "national": 795,
+    "original-alola": 295,
+    "updated-alola": 395
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "humanoid",
+  "species": "Lissome Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 71
+    },
+    {
+      "name": "attack",
+      "base_stat": 137
+    },
+    {
+      "name": "defense",
+      "base_stat": 37
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 137
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 37
+    },
+    {
+      "name": "speed",
+      "base_stat": 151
+    }
+  ],
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "weight_kilograms": 25,
+  "weight_pounds": 55
+}

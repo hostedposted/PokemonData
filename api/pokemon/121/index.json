@@ -1,0 +1,545 @@
+{
+  "abilities": [
+    {
+      "name": "illuminate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "natural-cure",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "analytic",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
+  "egg_groups": [
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "staryu"
+    ],
+    [
+      "starmie"
+    ]
+  ],
+  "evolves_from_species": "staryu",
+  "growth_rate": "slow",
+  "height": 43,
+  "id": 121,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "hoenn",
+    "updated-johto",
+    "updated-unova",
+    "kalos-coastal",
+    "updated-hoenn",
+    "original-alola",
+    "original-akala",
+    "updated-alola",
+    "updated-akala",
+    "isle-of-armor",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teleport",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confuse-ray",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psywave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tri-attack",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rapid-spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "avalanche",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spotlight",
+      "level": 1,
+      "tm": false
+    }
+  ],
+  "name": "starmie",
+  "names": {
+    "french": "Staross",
+    "german": "Starmie",
+    "spanish": "Starmie",
+    "italian": "Starmie",
+    "english": "Starmie",
+    "japanease": "\u30b9\u30bf\u30fc\u30df\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 121,
+    "kanto": 121,
+    "original-johto": 168,
+    "hoenn": 144,
+    "updated-johto": 170,
+    "updated-unova": 239,
+    "kalos-coastal": 35,
+    "updated-hoenn": 149,
+    "original-alola": 185,
+    "original-akala": 112,
+    "updated-alola": 224,
+    "updated-akala": 125,
+    "isle-of-armor": 99,
+    "updated-kanto": 121
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "blob",
+  "species": "Mysterious Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 85
+    },
+    {
+      "name": "speed",
+      "base_stat": 115
+    }
+  ],
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "weight_kilograms": 80,
+  "weight_pounds": 176
+}

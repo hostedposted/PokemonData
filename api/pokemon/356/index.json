@@ -1,0 +1,576 @@
+{
+  "abilities": [
+    {
+      "name": "pressure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "frisk",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 90,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Dusclops absorbs anything, however large the object may be. This Pok\u00e9mon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops\u2019s bidding.",
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "duskull"
+    ],
+    [
+      "dusclops"
+    ],
+    [
+      "dusknoir"
+    ]
+  ],
+  "evolves_from_species": "duskull",
+  "growth_rate": "fast",
+  "height": 63,
+  "id": 356,
+  "in_games": [
+    "national",
+    "hoenn",
+    "extended-sinnoh",
+    "conquest-gallery",
+    "updated-hoenn",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "disable",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seismic-toss",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "metronome",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "foresight",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mean-look",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "pursuit",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "future-sight",
+      "level": 58,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "will-o-wisp",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-punch",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gravity",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-sneak",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hex",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "dusclops",
+  "names": {
+    "french": "T\u00e9raclope",
+    "german": "Zwirrklop",
+    "spanish": "Dusclops",
+    "italian": "Dusclops",
+    "english": "Dusclops",
+    "japanease": "\u30b5\u30de\u30e8\u30fc\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 356,
+    "hoenn": 149,
+    "extended-sinnoh": 190,
+    "conquest-gallery": 70,
+    "updated-hoenn": 154,
+    "galar": 136
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "humanoid",
+  "species": "Beckon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 70
+    },
+    {
+      "name": "defense",
+      "base_stat": 130
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 130
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "weight_kilograms": 31,
+  "weight_pounds": 67
+}

@@ -1,0 +1,345 @@
+{
+  "abilities": [
+    {
+      "name": "overgrow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "long-reach",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "rowlet"
+    ],
+    [
+      "dartrix"
+    ],
+    [
+      "decidueye"
+    ]
+  ],
+  "evolves_from_species": "rowlet",
+  "growth_rate": "medium-slow",
+  "height": 28,
+  "id": 723,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "updated-alola",
+    "updated-melemele"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-attack",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foresight",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "leaf-blade",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pluck",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brave-bird",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "nasty-plot",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leafage",
+      "level": 1,
+      "tm": false
+    }
+  ],
+  "name": "dartrix",
+  "names": {
+    "french": "Effl\u00e8che",
+    "german": "Arboretoss",
+    "spanish": "Dartrix",
+    "italian": "Dartrix",
+    "english": "Dartrix",
+    "japanease": "\u30d5\u30af\u30b9\u30ed\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 723,
+    "original-alola": 2,
+    "original-melemele": 2,
+    "updated-alola": 2,
+    "updated-melemele": 2
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "wings",
+  "species": "Blade Quill Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 78
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 70
+    },
+    {
+      "name": "speed",
+      "base_stat": 52
+    }
+  ],
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "weight_kilograms": 16,
+  "weight_pounds": 35
+}

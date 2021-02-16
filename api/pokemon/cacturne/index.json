@@ -1,0 +1,524 @@
+{
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "water-absorb",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 4,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pok\u00e9mon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+  "egg_groups": [
+    "plant",
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "cacnea"
+    ],
+    [
+      "cacturne"
+    ]
+  ],
+  "evolves_from_species": "cacnea",
+  "growth_rate": "medium-slow",
+  "height": 51,
+  "id": 332,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-hoenn"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sand-attack",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-sting",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "pin-missile",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seismic-toss",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cotton-spore",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spikes",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "destiny-bond",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ingrain",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "revenge",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "needle-arm",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "drain-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spiky-shield",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cacturne",
+  "names": {
+    "french": "Cacturne",
+    "german": "Noktuska",
+    "spanish": "Cacturne",
+    "italian": "Cacturne",
+    "english": "Cacturne",
+    "japanease": "\u30ce\u30af\u30bf\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 332,
+    "hoenn": 120,
+    "updated-hoenn": 125
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "humanoid",
+  "species": "Scarecrow Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 115
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 115
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 55
+    }
+  ],
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "weight_kilograms": 77,
+  "weight_pounds": 171
+}

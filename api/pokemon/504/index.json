@@ -1,0 +1,429 @@
+{
+  "abilities": [
+    {
+      "name": "run-away",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "keen-eye",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "analytic",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Extremely cautious, one of them will always be on the lookout, but it won\u2019t notice a foe coming from behind.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "patrat"
+    ],
+    [
+      "watchog"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 504,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "kalos-mountain"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slam",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "sand-attack",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-fang",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "super-fang",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foresight",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "pursuit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "revenge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "assurance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "nasty-plot",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tearful-look",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "patrat",
+  "names": {
+    "french": "Ratentif",
+    "german": "Nagelotz",
+    "spanish": "Patrat",
+    "italian": "Patrat",
+    "english": "Patrat",
+    "japanease": "\u30df\u30cd\u30ba\u30df"
+  },
+  "pokedex_numbers": {
+    "national": 504,
+    "original-unova": 10,
+    "updated-unova": 10,
+    "kalos-mountain": 46
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Scout Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 55
+    },
+    {
+      "name": "defense",
+      "base_stat": 39
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 39
+    },
+    {
+      "name": "speed",
+      "base_stat": 42
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 26
+}

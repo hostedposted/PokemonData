@@ -1,0 +1,488 @@
+{
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hydration",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ice-body",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Thanks to its thick fat, cold seas don\u2019t bother it at all, but it gets tired pretty easily in warm waters.",
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "seel"
+    ],
+    [
+      "dewgong"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 43,
+  "id": 86,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "updated-unova",
+    "updated-alola",
+    "updated-melemele",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pay-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "horn-drill",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "growl",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "disable",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-gun",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aurora-beam",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "perish-song",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "encore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "stockpile",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "spit-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swallow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icicle-spear",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-sport",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "ice-shard",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-jet",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "entrainment",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drill-run",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "belch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smart-strike",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "seel",
+  "names": {
+    "french": "Otaria",
+    "german": "Jurob",
+    "spanish": "Seel",
+    "italian": "Seel",
+    "english": "Seel",
+    "japanease": "\u30d1\u30a6\u30ef\u30a6"
+  },
+  "pokedex_numbers": {
+    "national": 86,
+    "kanto": 86,
+    "original-johto": 176,
+    "updated-johto": 178,
+    "updated-unova": 265,
+    "updated-alola": 115,
+    "updated-melemele": 115,
+    "updated-kanto": 86
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "fish",
+  "species": "Sea Lion Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 45
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 70
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 90,
+  "weight_pounds": 198
+}

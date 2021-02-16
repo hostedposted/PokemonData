@@ -1,0 +1,388 @@
+{
+  "abilities": [
+    {
+      "name": "dark-aura",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "yveltal"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 228,
+  "id": 717,
+  "in_games": [
+    "national",
+    "kalos-mountain"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "disable",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "level": 88,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-attack",
+      "level": 93,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 80,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "dragon-rush",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "level": 72,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-drop",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hurricane",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "snarl",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "phantom-force",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "oblivion-wing",
+      "level": 26,
+      "tm": false
+    }
+  ],
+  "name": "yveltal",
+  "names": {
+    "french": "Yveltal",
+    "german": "Yveltal",
+    "spanish": "Yveltal",
+    "italian": "Yveltal",
+    "english": "Yveltal",
+    "japanease": "\u30a4\u30d9\u30eb\u30bf\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 717,
+    "kalos-mountain": 149
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "wings",
+  "species": "Destruction Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 126
+    },
+    {
+      "name": "attack",
+      "base_stat": 131
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 131
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 98
+    },
+    {
+      "name": "speed",
+      "base_stat": 99
+    }
+  ],
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "weight_kilograms": 203,
+  "weight_pounds": 448
+}

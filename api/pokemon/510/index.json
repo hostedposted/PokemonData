@@ -1,0 +1,436 @@
+{
+  "abilities": [
+    {
+      "name": "limber",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unburden",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "prankster",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 90,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 4
+  },
+  "description": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "purrloin"
+    ],
+    [
+      "liepard"
+    ]
+  ],
+  "evolves_from_species": "purrloin",
+  "growth_rate": "medium",
+  "height": 43,
+  "id": 510,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "kalos-mountain",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sand-attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "assist",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "night-slash",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-rough",
+      "level": 58,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "liepard",
+  "names": {
+    "french": "L\u00e9opardus",
+    "german": "Kleoparda",
+    "spanish": "Liepard",
+    "italian": "Liepard",
+    "english": "Liepard",
+    "japanease": "\u30ec\u30d1\u30eb\u30c0\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 510,
+    "original-unova": 16,
+    "updated-unova": 13,
+    "kalos-mountain": 43,
+    "galar": 45
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Cruel Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 64
+    },
+    {
+      "name": "attack",
+      "base_stat": 88
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 88
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 106
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "weight_kilograms": 38,
+  "weight_pounds": 83
+}

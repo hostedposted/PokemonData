@@ -1,0 +1,447 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "water-absorb",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "water-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 25,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Mantyke are friendly toward people and will approach boats closely. The patterns on their backs differ depending on their habitat.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "mantyke"
+    ],
+    [
+      "mantine"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 39,
+  "id": 458,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "kalos-coastal",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "wing-attack",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "amnesia",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "splash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "mantyke",
+  "names": {
+    "french": "Babimanta",
+    "german": "Mantirps",
+    "spanish": "Mantyke",
+    "italian": "Mantyke",
+    "english": "Mantyke",
+    "japanease": "\u30bf\u30de\u30f3\u30bf"
+  },
+  "pokedex_numbers": {
+    "national": 458,
+    "original-sinnoh": 140,
+    "extended-sinnoh": 140,
+    "updated-unova": 233,
+    "kalos-coastal": 139,
+    "updated-alola": 145,
+    "updated-melemele": 145,
+    "updated-akala": 49,
+    "galar": 354,
+    "isle-of-armor": 46
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "wings",
+  "species": "Kite Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 20
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 120
+    },
+    {
+      "name": "speed",
+      "base_stat": 50
+    }
+  ],
+  "types": [
+    "water",
+    "flying"
+  ],
+  "weight_kilograms": 65,
+  "weight_pounds": 143
+}

@@ -1,0 +1,495 @@
+{
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shell-armor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sheer-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 4,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pok\u00e9mon quickly tires.",
+  "egg_groups": [
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "krabby"
+    ],
+    [
+      "kingler"
+    ]
+  ],
+  "evolves_from_species": "krabby",
+  "growth_rate": "medium",
+  "height": 51,
+  "id": 99,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "galar",
+    "isle-of-armor",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "vice-grip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "guillotine",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slam",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "crabhammer",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-claw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "kingler",
+  "names": {
+    "french": "Krabboss",
+    "german": "Kingler",
+    "spanish": "Kingler",
+    "italian": "Kingler",
+    "english": "Kingler",
+    "japanease": "\u30ad\u30f3\u30b0\u30e9\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 99,
+    "kanto": 99,
+    "original-johto": 165,
+    "updated-johto": 167,
+    "galar": 99,
+    "isle-of-armor": 39,
+    "updated-kanto": 99
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "armor",
+  "species": "Pincer Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 130
+    },
+    {
+      "name": "defense",
+      "base_stat": 115
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 75
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 60,
+  "weight_pounds": 132
+}

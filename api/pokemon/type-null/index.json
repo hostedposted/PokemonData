@@ -1,0 +1,339 @@
+{
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "There\u2019s danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "type-null"
+    ],
+    [
+      "silvally"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 75,
+  "id": 772,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "level": 70,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 80,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tri-attack",
+      "level": 75,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "imprison",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "crush-claw",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "metal-sound",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-block",
+      "level": 85,
+      "tm": false
+    },
+    {
+      "name": "punishment",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "double-hit",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "type-null",
+  "names": {
+    "french": "Type:0",
+    "german": "Typ:Null",
+    "spanish": "Type: Null",
+    "italian": "Type: Null",
+    "english": "Type: Null",
+    "japanease": "\u30bf\u30a4\u30d7\uff1a\u30cc\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 772,
+    "original-alola": 203,
+    "updated-alola": 259,
+    "galar": 381
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Synthetic Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 95
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 95
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 95
+    },
+    {
+      "name": "speed",
+      "base_stat": 59
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 120,
+  "weight_pounds": 266
+}

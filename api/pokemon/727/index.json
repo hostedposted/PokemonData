@@ -1,0 +1,425 @@
+{
+  "abilities": [
+    {
+      "name": "blaze",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "intimidate",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "litten"
+    ],
+    [
+      "torracat"
+    ],
+    [
+      "incineroar"
+    ]
+  ],
+  "evolves_from_species": "torracat",
+  "growth_rate": "medium-slow",
+  "height": 71,
+  "id": 727,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "updated-alola",
+    "updated-melemele"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-kick",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lick",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-life",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "outrage",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cross-chop",
+      "level": 66,
+      "tm": false
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blast-burn",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flare-blitz",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-fang",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "darkest-lariat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "throat-chop",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "incineroar",
+  "names": {
+    "french": "F\u00e9linferno",
+    "german": "Fuegro",
+    "spanish": "Incineroar",
+    "italian": "Incineroar",
+    "english": "Incineroar",
+    "japanease": "\u30ac\u30aa\u30ac\u30a8\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 727,
+    "original-alola": 6,
+    "original-melemele": 6,
+    "updated-alola": 6,
+    "updated-melemele": 6
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "species": "Heel Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 95
+    },
+    {
+      "name": "attack",
+      "base_stat": 115
+    },
+    {
+      "name": "defense",
+      "base_stat": 90
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 90
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "fire",
+    "dark"
+  ],
+  "weight_kilograms": 83,
+  "weight_pounds": 183
+}

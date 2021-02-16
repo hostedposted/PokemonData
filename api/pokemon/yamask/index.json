@@ -1,0 +1,456 @@
+{
+  "abilities": [
+    {
+      "name": "mummy",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 190,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+  "egg_groups": [
+    "mineral",
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "yamask"
+    ],
+    [
+      "cofagrigus",
+      "runerigus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 562,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "disable",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "destiny-bond",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "memento",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "imprison",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "grudge",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "snatch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fake-tears",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-block",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic-spikes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "guard-split",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "power-split",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ally-switch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hex",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "crafty-shield",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "yamask",
+  "names": {
+    "french": "Tutafeh",
+    "german": "Makabaja",
+    "spanish": "Yamask",
+    "italian": "Yamask",
+    "english": "Yamask",
+    "japanease": "\u30c7\u30b9\u30de\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 562,
+    "original-unova": 68,
+    "updated-unova": 124,
+    "galar": 327
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "arms",
+  "species": "Spirit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 38
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 65
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 3
+}

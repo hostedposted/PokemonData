@@ -1,0 +1,470 @@
+{
+  "abilities": [
+    {
+      "name": "magma-armor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "solid-rock",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "anger-point",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 150,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 4,
+    "electric": 0,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "The humps on Camerupt\u2019s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pok\u00e9mon apparently erupts often when it is enraged.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "numel"
+    ],
+    [
+      "camerupt"
+    ]
+  ],
+  "evolves_from_species": "numel",
+  "growth_rate": "medium",
+  "height": 75,
+  "id": 323,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-unova",
+    "updated-hoenn"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "fissure",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "focus-energy",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "self-destruct",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "eruption",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lava-plume",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "iron-head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-burst",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "camerupt",
+  "names": {
+    "french": "Cam\u00e9rupt",
+    "german": "Camerupt",
+    "spanish": "Camerupt",
+    "italian": "Camerupt",
+    "english": "Camerupt",
+    "japanease": "\u30d0\u30af\u30fc\u30c0"
+  },
+  "pokedex_numbers": {
+    "national": 323,
+    "hoenn": 102,
+    "updated-unova": 205,
+    "updated-hoenn": 107
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "quadruped",
+  "species": "Eruption Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 105
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 40
+    }
+  ],
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "weight_kilograms": 220,
+  "weight_pounds": 485
+}

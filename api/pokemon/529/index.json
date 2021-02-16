@@ -1,0 +1,376 @@
+{
+  "abilities": [
+    {
+      "name": "sand-rush",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sand-force",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mold-breaker",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 1,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "drilbur"
+    ],
+    [
+      "excadrill"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 529,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "submission",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "fissure",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fury-swipes",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "metal-claw",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "crush-claw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-climb",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drill-run",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "drilbur",
+  "names": {
+    "french": "Rototaupe",
+    "german": "Rotomurf",
+    "spanish": "Drilbur",
+    "italian": "Drilbur",
+    "english": "Drilbur",
+    "japanease": "\u30e2\u30b0\u30ea\u30e5\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 529,
+    "original-unova": 35,
+    "updated-unova": 76,
+    "conquest-gallery": 152,
+    "galar": 166
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "upright",
+  "species": "Mole Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 68
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 19
+}

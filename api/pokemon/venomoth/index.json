@@ -1,0 +1,497 @@
+{
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tinted-lens",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "wonder-skin",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Venomoth is nocturnal\u2014it is a Pok\u00e9mon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "venonat"
+    ],
+    [
+      "venomoth"
+    ]
+  ],
+  "evolves_from_species": "venonat",
+  "growth_rate": "medium",
+  "height": 59,
+  "id": 49,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gust",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "supersonic",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "disable",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-powder",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stun-spore",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "sleep-powder",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confusion",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teleport",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-life",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psywave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foresight",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-fang",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-buzz",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quiver-dance",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "venomoth",
+  "names": {
+    "french": "A\u00e9romite",
+    "german": "Omot",
+    "spanish": "Venomoth",
+    "italian": "Venomoth",
+    "english": "Venomoth",
+    "japanease": "\u30e2\u30eb\u30d5\u30a9\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 49,
+    "kanto": 49,
+    "original-johto": 109,
+    "updated-johto": 110,
+    "updated-kanto": 49
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "bug-wings",
+  "species": "Poison Moth Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 90
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 28
+}

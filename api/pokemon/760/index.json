@@ -1,0 +1,358 @@
+{
+  "abilities": [
+    {
+      "name": "fluffy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "klutz",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 70,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It boasts tremendous physical strength. Many people call it the most dangerous Pok\u00e9mon in the Alola region.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "stufful"
+    ],
+    [
+      "bewear"
+    ]
+  ],
+  "evolves_from_species": "stufful",
+  "growth_rate": "medium",
+  "height": 83,
+  "id": 760,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-akala",
+    "original-poni",
+    "updated-alola",
+    "updated-akala",
+    "updated-poni",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 62,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hammer-arm",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baby-doll-eyes",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "brutal-swing",
+      "level": 14,
+      "tm": false
+    }
+  ],
+  "name": "bewear",
+  "names": {
+    "french": "Chelours",
+    "german": "Kosturso",
+    "spanish": "Bewear",
+    "italian": "Bewear",
+    "english": "Bewear",
+    "japanease": "\u30ad\u30c6\u30eb\u30b0\u30de"
+  },
+  "pokedex_numbers": {
+    "national": 760,
+    "original-alola": 170,
+    "original-akala": 97,
+    "original-poni": 64,
+    "updated-alola": 206,
+    "updated-akala": 107,
+    "updated-poni": 77,
+    "galar": 95
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "species": "Strong Arm Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 120
+    },
+    {
+      "name": "attack",
+      "base_stat": 125
+    },
+    {
+      "name": "defense",
+      "base_stat": 80
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "weight_kilograms": 135,
+  "weight_pounds": 298
+}

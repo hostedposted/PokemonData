@@ -1,0 +1,455 @@
+{
+  "abilities": [
+    {
+      "name": "rough-skin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "speed-boost",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 225,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
+  "egg_groups": [
+    "water2"
+  ],
+  "evolution_chain": [
+    [
+      "carvanha"
+    ],
+    [
+      "sharpedo"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 31,
+  "id": 318,
+  "in_games": [
+    "national",
+    "hoenn",
+    "kalos-central",
+    "updated-hoenn",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "take-down",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "destiny-bond",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "ancient-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-fang",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-fang",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-jet",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic-fangs",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "carvanha",
+  "names": {
+    "french": "Carvanha",
+    "german": "Kanivanha",
+    "spanish": "Carvanha",
+    "italian": "Carvanha",
+    "english": "Carvanha",
+    "japanease": "\u30ad\u30d0\u30cb\u30a2"
+  },
+  "pokedex_numbers": {
+    "national": 318,
+    "hoenn": 97,
+    "kalos-central": 55,
+    "updated-hoenn": 102,
+    "original-alola": 264,
+    "original-poni": 79,
+    "updated-alola": 345,
+    "updated-poni": 92,
+    "isle-of-armor": 111
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "fish",
+  "species": "Savage Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 20
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 65
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 20
+    },
+    {
+      "name": "speed",
+      "base_stat": 65
+    }
+  ],
+  "types": [
+    "water",
+    "dark"
+  ],
+  "weight_kilograms": 21,
+  "weight_pounds": 46
+}

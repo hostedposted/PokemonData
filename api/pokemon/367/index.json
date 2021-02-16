@@ -1,0 +1,396 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "water-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 4,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+  "egg_groups": [
+    "water1"
+  ],
+  "evolution_chain": [
+    [
+      "clamperl"
+    ],
+    [
+      "huntail",
+      "gorebyss"
+    ]
+  ],
+  "evolves_from_species": "clamperl",
+  "growth_rate": "slow-then-very-fast",
+  "height": 67,
+  "id": 367,
+  "in_games": [
+    "national",
+    "hoenn",
+    "kalos-coastal",
+    "updated-hoenn",
+    "updated-alola",
+    "updated-melemele",
+    "updated-ulaula"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "super-fang",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "feint-attack",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "whirlpool",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-fang",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "coil",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "huntail",
+  "names": {
+    "french": "Serpang",
+    "german": "Aalabyss",
+    "spanish": "Huntail",
+    "italian": "Huntail",
+    "english": "Huntail",
+    "japanease": "\u30cf\u30f3\u30c6\u30fc\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 367,
+    "hoenn": 177,
+    "kalos-coastal": 142,
+    "updated-hoenn": 186,
+    "updated-alola": 141,
+    "updated-melemele": 141,
+    "updated-ulaula": 62
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "squiggle",
+  "species": "Deep Sea Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 104
+    },
+    {
+      "name": "defense",
+      "base_stat": 105
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 94
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 52
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 27,
+  "weight_pounds": 60
+}

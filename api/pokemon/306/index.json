@@ -1,0 +1,669 @@
+{
+  "abilities": [
+    {
+      "name": "sturdy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rock-head",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "heavy-metal",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 2,
+    "electric": 1,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+  "egg_groups": [
+    "monster"
+  ],
+  "evolution_chain": [
+    [
+      "aron"
+    ],
+    [
+      "lairon"
+    ],
+    [
+      "aggron"
+    ]
+  ],
+  "evolves_from_species": "lairon",
+  "growth_rate": "slow",
+  "height": 83,
+  "id": 306,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-mountain",
+    "updated-hoenn",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seismic-toss",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "defense-curl",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "outrage",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "metal-claw",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-burst",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dragon-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "avalanche",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-climb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "autotomize",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heavy-slam",
+      "level": 65,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smart-strike",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "aggron",
+  "names": {
+    "french": "Galeking",
+    "german": "Stolloss",
+    "spanish": "Aggron",
+    "italian": "Aggron",
+    "english": "Aggron",
+    "japanease": "\u30dc\u30b9\u30b4\u30c9\u30e9"
+  },
+  "pokedex_numbers": {
+    "national": 306,
+    "hoenn": 72,
+    "updated-unova": 168,
+    "conquest-gallery": 151,
+    "kalos-mountain": 101,
+    "updated-hoenn": 74,
+    "crown-tundra": 193
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "upright",
+  "species": "Iron Armor Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 110
+    },
+    {
+      "name": "defense",
+      "base_stat": 180
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 50
+    }
+  ],
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "weight_kilograms": 360,
+  "weight_pounds": 794
+}

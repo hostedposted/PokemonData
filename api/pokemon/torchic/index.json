@@ -1,0 +1,485 @@
+{
+  "abilities": [
+    {
+      "name": "blaze",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "speed-boost",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "Torchic has a place inside its body where it keeps its flame. Give it a hug\u2014it will be glowing with warmth. This Pok\u00e9mon is covered all over by a fluffy coat of down.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "torchic"
+    ],
+    [
+      "combusken"
+    ],
+    [
+      "blaziken"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 16,
+  "id": 255,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-hoenn"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sand-attack",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "low-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "seismic-toss",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-spin",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "mirror-move",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smelling-salts",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "crush-claw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-burst",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "torchic",
+  "names": {
+    "french": "Poussifeu",
+    "german": "Flemmli",
+    "spanish": "Torchic",
+    "italian": "Torchic",
+    "english": "Torchic",
+    "japanease": "\u30a2\u30c1\u30e3\u30e2"
+  },
+  "pokedex_numbers": {
+    "national": 255,
+    "hoenn": 4,
+    "updated-hoenn": 4
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "legs",
+  "species": "Chick Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 6
+}

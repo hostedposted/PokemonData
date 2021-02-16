@@ -1,0 +1,350 @@
+{
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "buzzwole"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 94,
+  "id": 794,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "comet-punch",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "ice-punch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "focus-energy",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leech-life",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "vital-throw",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hammer-arm",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fell-stinger",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "lunge",
+      "level": 53,
+      "tm": false
+    }
+  ],
+  "name": "buzzwole",
+  "names": {
+    "french": "Mouscoto",
+    "german": "Masskito",
+    "spanish": "Buzzwole",
+    "italian": "Buzzwole",
+    "english": "Buzzwole",
+    "japanease": "\u30de\u30c3\u30b7\u30d6\u30fc\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 794,
+    "original-alola": 294,
+    "updated-alola": 394
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "tentacles",
+  "species": "Swollen Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 107
+    },
+    {
+      "name": "attack",
+      "base_stat": 139
+    },
+    {
+      "name": "defense",
+      "base_stat": 139
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 53
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 53
+    },
+    {
+      "name": "speed",
+      "base_stat": 79
+    }
+  ],
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "weight_kilograms": 334,
+  "weight_pounds": 735
+}

@@ -1,0 +1,462 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "water-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "buizel"
+    ],
+    [
+      "floatzel"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 28,
+  "id": 418,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "kalos-mountain"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-slap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "razor-wind",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sonic-boom",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "fury-swipes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "odor-sleuth",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "me-first",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "switcheroo",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-jet",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "double-hit",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "soak",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tail-slap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "buizel",
+  "names": {
+    "french": "Must\u00e9bou\u00e9e",
+    "german": "Bamelin",
+    "spanish": "Buizel",
+    "italian": "Buizel",
+    "english": "Buizel",
+    "japanease": "\u30d6\u30a4\u30bc\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 418,
+    "original-sinnoh": 56,
+    "extended-sinnoh": 56,
+    "updated-unova": 149,
+    "kalos-mountain": 58
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "quadruped",
+  "species": "Sea Weasel Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 35
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 85
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 30,
+  "weight_pounds": 65
+}

@@ -1,0 +1,543 @@
+{
+  "abilities": [
+    {
+      "name": "run-away",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "klutz",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "limber",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it\u2019s attacked by an enemy.",
+  "egg_groups": [
+    "ground",
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "buneary"
+    ],
+    [
+      "lopunny"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 427,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "updated-alola",
+    "updated-melemele",
+    "updated-poni",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "jump-kick",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dizzy-punch",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "splash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-kiss",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "foresight",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "charm",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "baton-pass",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "encore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fake-tears",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "cosmic-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sky-uppercut",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "healing-wish",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "copycat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "drain-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "switcheroo",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-hit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "entrainment",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "after-you",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "circle-throw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baby-doll-eyes",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "buneary",
+  "names": {
+    "french": "Laporeille",
+    "german": "Haspiror",
+    "spanish": "Buneary",
+    "italian": "Buneary",
+    "english": "Buneary",
+    "japanease": "\u30df\u30df\u30ed\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 427,
+    "original-sinnoh": 67,
+    "extended-sinnoh": 67,
+    "updated-unova": 80,
+    "updated-alola": 24,
+    "updated-melemele": 24,
+    "updated-poni": 8,
+    "isle-of-armor": 4
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "upright",
+  "species": "Rabbit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 66
+    },
+    {
+      "name": "defense",
+      "base_stat": 44
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 44
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 56
+    },
+    {
+      "name": "speed",
+      "base_stat": 85
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 12
+}

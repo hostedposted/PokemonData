@@ -1,0 +1,438 @@
+{
+  "abilities": [
+    {
+      "name": "sap-sipper",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hydration",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gooey",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 2
+  },
+  "description": "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies\u2019 attacks slide right off.",
+  "egg_groups": [
+    "dragon"
+  ],
+  "evolution_chain": [
+    [
+      "goomy"
+    ],
+    [
+      "sliggoo"
+    ],
+    [
+      "goodra"
+    ]
+  ],
+  "evolves_from_species": "sliggoo",
+  "growth_rate": "slow",
+  "height": 79,
+  "id": 706,
+  "in_games": [
+    "national",
+    "kalos-mountain",
+    "original-alola",
+    "original-akala",
+    "original-ulaula",
+    "original-poni",
+    "updated-alola",
+    "updated-akala",
+    "updated-ulaula",
+    "updated-poni",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "outrage",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-breath",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "muddy-water",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "feint",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "dragon-pulse",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "draco-meteor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "power-whip",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "goodra",
+  "names": {
+    "french": "Muplodocus",
+    "german": "Viscogon",
+    "spanish": "Goodra",
+    "italian": "Goodra",
+    "english": "Goodra",
+    "japanease": "\u30cc\u30e1\u30eb\u30b4\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 706,
+    "kalos-mountain": 21,
+    "original-alola": 180,
+    "original-akala": 107,
+    "original-ulaula": 76,
+    "original-poni": 68,
+    "updated-alola": 219,
+    "updated-akala": 120,
+    "updated-ulaula": 83,
+    "updated-poni": 81,
+    "galar": 391,
+    "isle-of-armor": 62
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "upright",
+  "species": "Dragon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 90
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 110
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 150
+    },
+    {
+      "name": "speed",
+      "base_stat": 80
+    }
+  ],
+  "types": [
+    "dragon"
+  ],
+  "weight_kilograms": 150,
+  "weight_pounds": 332
+}

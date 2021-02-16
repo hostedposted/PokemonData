@@ -1,0 +1,540 @@
+{
+  "abilities": [
+    {
+      "name": "intimidate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shed-skin",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "The eggs of bird Pok\u00e9mon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+  "egg_groups": [
+    "ground",
+    "dragon"
+  ],
+  "evolution_chain": [
+    [
+      "ekans"
+    ],
+    [
+      "arbok"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 79,
+  "id": 23,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "conquest-gallery",
+    "kalos-mountain",
+    "updated-alola",
+    "updated-melemele",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wrap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-sting",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "disable",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "acid",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fissure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "glare",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spite",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "beat-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "stockpile",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "spit-up",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "swallow",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gastro-acid",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dark-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "switcheroo",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-bomb",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "gunk-shot",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "coil",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "acid-spray",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "belch",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "ekans",
+  "names": {
+    "french": "Abo",
+    "german": "Rettan",
+    "spanish": "Ekans",
+    "italian": "Ekans",
+    "english": "Ekans",
+    "japanease": "\u30a2\u30fc\u30dc"
+  },
+  "pokedex_numbers": {
+    "national": 23,
+    "kanto": 23,
+    "original-johto": 50,
+    "updated-johto": 50,
+    "conquest-gallery": 54,
+    "kalos-mountain": 37,
+    "updated-alola": 61,
+    "updated-melemele": 61,
+    "updated-kanto": 23
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "squiggle",
+  "species": "Snake Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 35
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 44
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 54
+    },
+    {
+      "name": "speed",
+      "base_stat": 55
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "weight_kilograms": 7,
+  "weight_pounds": 15
+}

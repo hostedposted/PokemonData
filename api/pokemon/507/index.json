@@ -1,0 +1,375 @@
+{
+  "abilities": [
+    {
+      "name": "intimidate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sand-rush",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "scrappy",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "lillipup"
+    ],
+    [
+      "herdier"
+    ],
+    [
+      "stoutland"
+    ]
+  ],
+  "evolves_from_species": "lillipup",
+  "growth_rate": "medium-slow",
+  "height": 35,
+  "id": 507,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "original-alola",
+    "original-akala",
+    "updated-alola",
+    "updated-akala",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-rough",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "herdier",
+  "names": {
+    "french": "Ponchien",
+    "german": "Terribark",
+    "spanish": "Herdier",
+    "italian": "Herdier",
+    "english": "Herdier",
+    "japanease": "\u30cf\u30fc\u30c7\u30ea\u30a2"
+  },
+  "pokedex_numbers": {
+    "national": 507,
+    "original-unova": 13,
+    "updated-unova": 23,
+    "original-alola": 121,
+    "original-akala": 48,
+    "updated-alola": 151,
+    "updated-akala": 52,
+    "isle-of-armor": 114
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Loyal Dog Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 65
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 15,
+  "weight_pounds": 32
+}

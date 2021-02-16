@@ -1,0 +1,695 @@
+{
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "multiscale",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "You\u2019ll often hear tales of this kindhearted Pok\u00e9mon rescuing people or Pok\u00e9mon that are drowning.",
+  "egg_groups": [
+    "water1",
+    "dragon"
+  ],
+  "evolution_chain": [
+    [
+      "dratini"
+    ],
+    [
+      "dragonair"
+    ],
+    [
+      "dragonite"
+    ]
+  ],
+  "evolves_from_species": "dragonair",
+  "growth_rate": "slow",
+  "height": 87,
+  "id": 149,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "updated-johto",
+    "conquest-gallery",
+    "kalos-mountain",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni",
+    "crown-tundra",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wing-attack",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "horn-drill",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wrap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flamethrower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-rage",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "outrage",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-dance",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "dragon-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-rush",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "draco-meteor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-drop",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-tail",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "hurricane",
+      "level": 81,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "dragonite",
+  "names": {
+    "french": "Dracolosse",
+    "german": "Dragoran",
+    "spanish": "Dragonite",
+    "italian": "Dragonite",
+    "english": "Dragonite",
+    "japanease": "\u30ab\u30a4\u30ea\u30e5\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 149,
+    "kanto": 149,
+    "original-johto": 243,
+    "updated-johto": 248,
+    "conquest-gallery": 78,
+    "kalos-mountain": 147,
+    "original-alola": 283,
+    "original-poni": 98,
+    "updated-alola": 381,
+    "updated-poni": 128,
+    "crown-tundra": 196,
+    "updated-kanto": 149
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "upright",
+  "species": "Dragon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 91
+    },
+    {
+      "name": "attack",
+      "base_stat": 134
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 100
+    },
+    {
+      "name": "speed",
+      "base_stat": 80
+    }
+  ],
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "weight_kilograms": 210,
+  "weight_pounds": 463
+}

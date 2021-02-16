@@ -1,0 +1,342 @@
+{
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skill-link",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sheer-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Known for forming harmonious couples, this Pok\u00e9mon is brought to wedding ceremonies as a good luck charm.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "pikipek"
+    ],
+    [
+      "trumbeak"
+    ],
+    [
+      "toucannon"
+    ]
+  ],
+  "evolves_from_species": "trumbeak",
+  "growth_rate": "medium",
+  "height": 43,
+  "id": 733,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "original-ulaula",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "updated-ulaula",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-attack",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "hyper-voice",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-blast",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "beak-blast",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "toucannon",
+  "names": {
+    "french": "Bazoucan",
+    "german": "Tukanon",
+    "spanish": "Toucannon",
+    "italian": "Toucannon",
+    "english": "Toucannon",
+    "japanease": "\u30c9\u30c7\u30ab\u30d0\u30b7"
+  },
+  "pokedex_numbers": {
+    "national": 733,
+    "original-alola": 12,
+    "original-melemele": 12,
+    "original-akala": 3,
+    "original-ulaula": 3,
+    "original-poni": 3,
+    "updated-alola": 12,
+    "updated-melemele": 12,
+    "updated-akala": 3,
+    "updated-ulaula": 3,
+    "updated-poni": 3
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "wings",
+  "species": "Cannon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 80
+    },
+    {
+      "name": "attack",
+      "base_stat": 120
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 75
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "weight_kilograms": 26,
+  "weight_pounds": 57
+}

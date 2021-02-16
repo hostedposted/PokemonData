@@ -1,0 +1,291 @@
+{
+  "abilities": [
+    {
+      "name": "ripen",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gluttony",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "thick-fat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "applin"
+    ],
+    [
+      "flapple",
+      "appletun"
+    ]
+  ],
+  "evolves_from_species": "applin",
+  "growth_rate": "slow-then-very-fast",
+  "height": 16,
+  "id": 842,
+  "in_games": [
+    "national",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "withdraw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet scent",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "leech seed",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "bullet seed",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "recover",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "apple acid",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "body slam",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "dragon pulse",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "energy ball",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "appletun",
+  "names": {
+    "french": "Dratatin",
+    "german": "Schlapfel",
+    "spanish": "Appletun",
+    "italian": "Appletun",
+    "english": "Appletun",
+    "japanease": "\u30bf\u30eb\u30c3\u30d7\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 842,
+    "galar": 207,
+    "isle-of-armor": 21
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "quadruped",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 110
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 80
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "weight_kilograms": 13,
+  "weight_pounds": 29
+}

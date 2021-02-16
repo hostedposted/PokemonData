@@ -1,0 +1,439 @@
+{
+  "abilities": [
+    {
+      "name": "speed-boost",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "compound-eyes",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "frisk",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok\u00e9mon uses its flying ability to quickly chase down targeted prey.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "yanma"
+    ],
+    [
+      "yanmega"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 47,
+  "id": 193,
+  "in_games": [
+    "national",
+    "original-johto",
+    "extended-sinnoh",
+    "updated-johto",
+    "updated-unova",
+    "kalos-coastal"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "wing-attack",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "sonic-boom",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "swift",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leech-life",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "foresight",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "detect",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "bug-buzz",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "yanma",
+  "names": {
+    "french": "Yanma",
+    "german": "Yanma",
+    "spanish": "Yanma",
+    "italian": "Yanma",
+    "english": "Yanma",
+    "japanease": "\u30e4\u30f3\u30e4\u30f3\u30de"
+  },
+  "pokedex_numbers": {
+    "national": 193,
+    "original-johto": 101,
+    "extended-sinnoh": 183,
+    "updated-johto": 101,
+    "updated-unova": 286,
+    "kalos-coastal": 87
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "bug-wings",
+  "species": "Clear Wing Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 75
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 95
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "weight_kilograms": 38,
+  "weight_pounds": 84
+}

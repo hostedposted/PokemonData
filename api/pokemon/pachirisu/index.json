@@ -1,0 +1,467 @@
+{
+  "abilities": [
+    {
+      "name": "run-away",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pickup",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "volt-absorb",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "evolution_chain": [
+    [
+      "pachirisu"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 417,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "kalos-coastal"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tail-whip",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bite",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swift",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-fang",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "super-fang",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-kiss",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "charm",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spark",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flatter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "follow-me",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-tears",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "discharge",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "gunk-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electro-ball",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bestow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ion-deluge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baby-doll-eyes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "nuzzle",
+      "level": 19,
+      "tm": false
+    }
+  ],
+  "name": "pachirisu",
+  "names": {
+    "french": "Pachirisu",
+    "german": "Pachirisu",
+    "spanish": "Pachirisu",
+    "italian": "Pachirisu",
+    "english": "Pachirisu",
+    "japanease": "\u30d1\u30c1\u30ea\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 417,
+    "original-sinnoh": 55,
+    "extended-sinnoh": 55,
+    "kalos-coastal": 132
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "quadruped",
+  "species": "EleSquirrel Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 45
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 90
+    },
+    {
+      "name": "speed",
+      "base_stat": 95
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 9
+}

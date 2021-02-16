@@ -1,0 +1,275 @@
+{
+  "abilities": [
+    {
+      "name": "overgrow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grassy-surge",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "When it\u2019s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won\u2019t even notice that it\u2019s already knocked out its opponent.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "grookey"
+    ],
+    [
+      "thwackey"
+    ],
+    [
+      "rillaboom"
+    ]
+  ],
+  "evolves_from_species": "grookey",
+  "growth_rate": "medium-slow",
+  "height": 28,
+  "id": 811,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double hit",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double hit",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "branch poke",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "razor leaf",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "knock off",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "wood hammer",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "thwackey",
+  "names": {
+    "french": "Badabouin",
+    "german": "Chimstix",
+    "spanish": "Thwackey",
+    "italian": "Thwackey",
+    "english": "Thwackey",
+    "japanease": "\u30d0\u30c1\u30f3\u30ad\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 811,
+    "galar": 2
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 80
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 14,
+  "weight_pounds": 31
+}

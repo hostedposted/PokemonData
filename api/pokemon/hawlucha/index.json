@@ -1,0 +1,524 @@
+{
+  "abilities": [
+    {
+      "name": "limber",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unburden",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mold-breaker",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 100,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents\u2019 blind spots. It\u2019s also skilled at using superb submission holds.",
+  "egg_groups": [
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "hawlucha"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 31,
+  "id": 701,
+  "in_games": [
+    "national",
+    "kalos-coastal",
+    "updated-alola",
+    "updated-melemele",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "karate-chop",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "fire-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wing-attack",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "high-jump-kick",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "sky-attack",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "feint",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "me-first",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drain-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "entrainment",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ally-switch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sky-drop",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dual-chop",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flying-press",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "hawlucha",
+  "names": {
+    "french": "Brutalibr\u00e9",
+    "german": "Resladero",
+    "spanish": "Hawlucha",
+    "italian": "Hawlucha",
+    "english": "Hawlucha",
+    "japanease": "\u30eb\u30c1\u30e3\u30d6\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 701,
+    "kalos-coastal": 89,
+    "updated-alola": 96,
+    "updated-melemele": 96,
+    "galar": 320
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "humanoid",
+  "species": "Wrestling Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 78
+    },
+    {
+      "name": "attack",
+      "base_stat": 92
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 74
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 63
+    },
+    {
+      "name": "speed",
+      "base_stat": 118
+    }
+  ],
+  "types": [
+    "fighting",
+    "flying"
+  ],
+  "weight_kilograms": 22,
+  "weight_pounds": 47
+}

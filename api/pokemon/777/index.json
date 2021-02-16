@@ -1,0 +1,387 @@
+{
+  "abilities": [
+    {
+      "name": "iron-barbs",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lightning-rod",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sturdy",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 180,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 0,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "evolution_chain": [
+    [
+      "togedemaru"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 777,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "twineedle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "pin-missile",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "thunder-shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spark",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "present",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fake-out",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "wish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnet-rise",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "discharge",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "fell-stinger",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "disarming-voice",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spiky-shield",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "electric-terrain",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "nuzzle",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "zing-zap",
+      "level": 33,
+      "tm": false
+    }
+  ],
+  "name": "togedemaru",
+  "names": {
+    "french": "Togedemaru",
+    "german": "Togedemaru",
+    "spanish": "Togedemaru",
+    "italian": "Togedemaru",
+    "english": "Togedemaru",
+    "japanease": "\u30c8\u30b2\u30c7\u30de\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 777,
+    "original-alola": 225,
+    "original-ulaula": 97,
+    "updated-alola": 292,
+    "updated-ulaula": 113,
+    "galar": 348
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "species": "Roly-Poly Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 98
+    },
+    {
+      "name": "defense",
+      "base_stat": 63
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 73
+    },
+    {
+      "name": "speed",
+      "base_stat": 96
+    }
+  ],
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

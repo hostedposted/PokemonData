@@ -1,0 +1,394 @@
+{
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "solar-power",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "early-bird",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 235,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "sunkern"
+    ],
+    [
+      "sunflora"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 191,
+  "in_games": [
+    "national",
+    "original-johto",
+    "updated-johto",
+    "updated-unova"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "growth",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "morning-sun",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ingrain",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-whistle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grassy-terrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "sunkern",
+  "names": {
+    "french": "Tournegrin",
+    "german": "Sonnkern",
+    "spanish": "Sunkern",
+    "italian": "Sunkern",
+    "english": "Sunkern",
+    "japanease": "\u30d2\u30de\u30ca\u30c3\u30c4"
+  },
+  "pokedex_numbers": {
+    "national": 191,
+    "original-johto": 102,
+    "updated-johto": 103,
+    "updated-unova": 20
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "ball",
+  "species": "Seed Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 30
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 4
+}

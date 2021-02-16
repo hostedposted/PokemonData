@@ -1,0 +1,518 @@
+{
+  "abilities": [
+    {
+      "name": "flame-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vital-spirit",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "The hotter the place, the better they feel. Magmar in Alola are said to be hardier than those in other areas.",
+  "egg_groups": [
+    "humanshape"
+  ],
+  "evolution_chain": [
+    [
+      "magby"
+    ],
+    [
+      "magmar"
+    ],
+    [
+      "magmortar"
+    ]
+  ],
+  "evolves_from_species": "magby",
+  "growth_rate": "medium",
+  "height": 51,
+  "id": 126,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "extended-sinnoh",
+    "updated-johto",
+    "updated-unova",
+    "original-alola",
+    "original-akala",
+    "updated-alola",
+    "updated-akala",
+    "crown-tundra",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-punch",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "thunder-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "submission",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-kick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seismic-toss",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-spin",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teleport",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smokescreen",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "confuse-ray",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metronome",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smog",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psywave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-climb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lava-plume",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-burst",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "clear-smog",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dual-chop",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "magmar",
+  "names": {
+    "french": "Magmar",
+    "german": "Magmar",
+    "spanish": "Magmar",
+    "italian": "Magmar",
+    "english": "Magmar",
+    "japanease": "\u30d6\u30fc\u30d0\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 126,
+    "kanto": 126,
+    "original-johto": 151,
+    "extended-sinnoh": 201,
+    "updated-johto": 153,
+    "updated-unova": 54,
+    "original-alola": 167,
+    "original-akala": 94,
+    "updated-alola": 201,
+    "updated-akala": 102,
+    "crown-tundra": 19,
+    "updated-kanto": 126
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "upright",
+  "species": "Spitfire Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 57
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 85
+    },
+    {
+      "name": "speed",
+      "base_stat": 93
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "weight_kilograms": 44,
+  "weight_pounds": 98
+}

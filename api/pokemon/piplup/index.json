@@ -1,0 +1,463 @@
+{
+  "abilities": [
+    {
+      "name": "torrent",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "defiant",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "piplup"
+    ],
+    [
+      "prinplup"
+    ],
+    [
+      "empoleon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 16,
+  "id": 393,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "conquest-gallery"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-attack",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mist",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "feather-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pluck",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-hit",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-trip",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "piplup",
+  "names": {
+    "spanish": "Piplup",
+    "italian": "Piplup",
+    "english": "Piplup",
+    "french": "Tiplouf",
+    "german": "Plinfa",
+    "japanease": "\u30dd\u30c3\u30c1\u30e3\u30de"
+  },
+  "pokedex_numbers": {
+    "national": 393,
+    "original-sinnoh": 7,
+    "extended-sinnoh": 7,
+    "conquest-gallery": 133
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "humanoid",
+  "species": "Penguin Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 53
+    },
+    {
+      "name": "attack",
+      "base_stat": 51
+    },
+    {
+      "name": "defense",
+      "base_stat": 53
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 61
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 56
+    },
+    {
+      "name": "speed",
+      "base_stat": 40
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 5,
+  "weight_pounds": 11
+}

@@ -1,0 +1,431 @@
+{
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cursed-body",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "damp",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Fishermen are terrified of Jellicent. It\u2019s rumored to drag them into the sea and steal their lives away.",
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "frillish"
+    ],
+    [
+      "jellicent"
+    ]
+  ],
+  "evolves_from_species": "frillish",
+  "growth_rate": "medium",
+  "height": 87,
+  "id": 593,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "updated-alola",
+    "updated-ulaula",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-spout",
+      "level": 69,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "wring-out",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hex",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "jellicent",
+  "names": {
+    "french": "Moyade",
+    "german": "Apoquallyp",
+    "spanish": "Jellicent",
+    "italian": "Jellicent",
+    "english": "Jellicent",
+    "japanease": "\u30d6\u30eb\u30f3\u30b2\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 593,
+    "original-unova": 99,
+    "updated-unova": 181,
+    "updated-alola": 319,
+    "updated-ulaula": 140,
+    "galar": 306,
+    "isle-of-armor": 193
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "tentacles",
+  "species": "Floating Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 100
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 85
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 105
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "weight_kilograms": 135,
+  "weight_pounds": 298
+}

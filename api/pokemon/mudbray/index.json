@@ -1,0 +1,326 @@
+{
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "stamina",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "inner-focus",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 4,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "mudbray"
+    ],
+    [
+      "mudsdale"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 39,
+  "id": 749,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-akala",
+    "original-ulaula",
+    "original-poni",
+    "updated-alola",
+    "updated-akala",
+    "updated-ulaula",
+    "updated-poni",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "stomp",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "double-kick",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "mega-kick",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "mud-sport",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "close-combat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-bomb",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "heavy-slam",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "rototiller",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "high-horsepower",
+      "level": 24,
+      "tm": false
+    }
+  ],
+  "name": "mudbray",
+  "names": {
+    "french": "Tiboudet",
+    "german": "Pampuli",
+    "spanish": "Mudbray",
+    "italian": "Mudbray",
+    "english": "Mudbray",
+    "japanease": "\u30c9\u30ed\u30d0\u30f3\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 749,
+    "original-alola": 132,
+    "original-akala": 59,
+    "original-ulaula": 58,
+    "original-poni": 59,
+    "updated-alola": 165,
+    "updated-akala": 66,
+    "updated-ulaula": 64,
+    "updated-poni": 71,
+    "galar": 84
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Donkey Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 55
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "weight_kilograms": 110,
+  "weight_pounds": 243
+}

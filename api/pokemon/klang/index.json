@@ -1,0 +1,352 @@
+{
+  "abilities": [
+    {
+      "name": "plus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "minus",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "clear-body",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 60,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 4,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn\u2019t return, it will die.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "klink"
+    ],
+    [
+      "klang"
+    ],
+    [
+      "klinklang"
+    ]
+  ],
+  "evolves_from_species": "klink",
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 600,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "vice-grip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "thunder-shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "lock-on",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-shot",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "discharge",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "charge-beam",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "autotomize",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shift-gear",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gear-grind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "klang",
+  "names": {
+    "french": "Clic",
+    "german": "Kliklak",
+    "spanish": "Klang",
+    "italian": "Klang",
+    "english": "Klang",
+    "japanease": "\u30ae\u30ae\u30a2\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 600,
+    "original-unova": 106,
+    "updated-unova": 131,
+    "galar": 114
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "heads",
+  "species": "Gear Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 85
+    },
+    {
+      "name": "speed",
+      "base_stat": 50
+    }
+  ],
+  "types": [
+    "steel"
+  ],
+  "weight_kilograms": 51,
+  "weight_pounds": 112
+}

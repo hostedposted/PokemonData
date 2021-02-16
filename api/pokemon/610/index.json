@@ -1,0 +1,427 @@
+{
+  "abilities": [
+    {
+      "name": "rivalry",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mold-breaker",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unnerve",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "evolution_chain": [
+    [
+      "axew"
+    ],
+    [
+      "fraxure"
+    ],
+    [
+      "haxorus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 24,
+  "id": 610,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "conquest-gallery",
+    "kalos-central",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "guillotine",
+      "level": 51,
+      "tm": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swords-dance",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-rage",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-energy",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "outrage",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "dragon-dance",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-pulse",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "draco-meteor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dual-chop",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "axew",
+  "names": {
+    "french": "Coupenotte",
+    "german": "Milza",
+    "spanish": "Axew",
+    "italian": "Axew",
+    "english": "Axew",
+    "japanease": "\u30ad\u30d0\u30b4"
+  },
+  "pokedex_numbers": {
+    "national": 610,
+    "original-unova": 116,
+    "updated-unova": 183,
+    "conquest-gallery": 144,
+    "kalos-central": 148,
+    "galar": 324
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "upright",
+  "species": "Tusk Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 46
+    },
+    {
+      "name": "attack",
+      "base_stat": 87
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 57
+    }
+  ],
+  "types": [
+    "dragon"
+  ],
+  "weight_kilograms": 18,
+  "weight_pounds": 40
+}

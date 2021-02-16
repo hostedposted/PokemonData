@@ -1,0 +1,264 @@
+{
+  "abilities": [
+    {
+      "name": "limber",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 180,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Its tentacles tear off easily, but it isn\u2019t alarmed when that happens\u2014it knows they\u2019ll grow back. It\u2019s about as smart as a three-year-old.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "clobbopus"
+    ],
+    [
+      "grapploct"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 852,
+  "in_games": [
+    "national",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "rock smash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "feint",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "detect",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "brick break",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "bulk up",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "submission",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "pain split",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "soak",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "sucker punch",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "circle throw",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "seismic toss",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "power-up punch",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "clobbopus",
+  "names": {
+    "french": "Poulpaf",
+    "german": "Klopptopus",
+    "spanish": "Clobbopus",
+    "italian": "Clobbopus",
+    "english": "Clobbopus",
+    "japanease": "\u30bf\u30bf\u30c3\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 852,
+    "galar": 351,
+    "isle-of-armor": 129
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "tentacles",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 68
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 32
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 9
+}

@@ -1,0 +1,344 @@
+{
+  "abilities": [
+    {
+      "name": "hunger-switch",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 180,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "morpeko"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 877,
+  "in_games": [
+    "national",
+    "galar",
+    "isle-of-armor",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tail whip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "power trip",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "flatter",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "spark",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "bullet seed",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "aura wheel",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "super fang",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "rapid spin",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "parting shot",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "fake out",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "morpeko",
+  "names": {
+    "french": "Morpeko",
+    "german": "Morpeko",
+    "spanish": "Morpeko",
+    "italian": "Morpeko",
+    "english": "Morpeko",
+    "japanease": "\u30e2\u30eb\u30da\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 877,
+    "galar": 344,
+    "isle-of-armor": 104,
+    "crown-tundra": 157
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 58
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 58
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 58
+    },
+    {
+      "name": "speed",
+      "base_stat": 97
+    }
+  ],
+  "types": [
+    "electric",
+    "dark"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

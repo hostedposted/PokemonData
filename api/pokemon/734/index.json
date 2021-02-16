@@ -1,0 +1,353 @@
+{
+  "abilities": [
+    {
+      "name": "stakeout",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "strong-jaw",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "adaptability",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "yungoos"
+    ],
+    [
+      "gumshoos"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 734,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "original-ulaula",
+    "original-poni",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "updated-ulaula",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "sand-attack",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "hyper-fang",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "super-fang",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "mud-slap",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "revenge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "thunder-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ice-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fire-fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "yungoos",
+  "names": {
+    "french": "Manglouton",
+    "german": "Mangunior",
+    "spanish": "Yungoos",
+    "italian": "Yungoos",
+    "english": "Yungoos",
+    "japanease": "\u30e4\u30f3\u30b0\u30fc\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 734,
+    "original-alola": 13,
+    "original-melemele": 13,
+    "original-akala": 4,
+    "original-ulaula": 4,
+    "original-poni": 4,
+    "updated-alola": 13,
+    "updated-melemele": 13,
+    "updated-akala": 4,
+    "updated-ulaula": 4,
+    "updated-poni": 4
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Loitering Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 48
+    },
+    {
+      "name": "attack",
+      "base_stat": 70
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 13
+}

@@ -1,0 +1,385 @@
+{
+  "abilities": [
+    {
+      "name": "sap-sipper",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grass-pelt",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "If it has sunshine and water, it doesn\u2019t need to eat, because it can generate energy from the leaves on its back.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "skiddo"
+    ],
+    [
+      "gogoat"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 35,
+  "id": 672,
+  "in_games": [
+    "national",
+    "kalos-central"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "vine-whip",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "tail-whip",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-seed",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "milk-drink",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulk-up",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "leaf-blade",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "horn-leech",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "grassy-terrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "skiddo",
+  "names": {
+    "french": "Cabriolaine",
+    "german": "M\u00e4hikel",
+    "spanish": "Skiddo",
+    "italian": "Skiddo",
+    "english": "Skiddo",
+    "japanease": "\u30e1\u30a7\u30fc\u30af\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 672,
+    "kalos-central": 89
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "quadruped",
+  "species": "Mount Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 66
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 48
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 62
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 57
+    },
+    {
+      "name": "speed",
+      "base_stat": 52
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 31,
+  "weight_pounds": 68
+}

@@ -1,0 +1,563 @@
+{
+  "abilities": [
+    {
+      "name": "synchronize",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "early-bird",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "magic-bounce",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The look in its eyes gives the impression that it\u2019s carefully observing you. If you approach it, Natu will hop away.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "natu"
+    ],
+    [
+      "xatu"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 8,
+  "id": 177,
+  "in_games": [
+    "national",
+    "original-johto",
+    "hoenn",
+    "updated-johto",
+    "updated-hoenn",
+    "updated-alola",
+    "updated-akala",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "teleport",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "night-shade",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-attack",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feint-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "future-sight",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wish",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "refresh",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "miracle-eye",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pluck",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psycho-shift",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "lucky-chant",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "me-first",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "power-swap",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "guard-swap",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magic-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "synchronoise",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "simple-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stored-power",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "ally-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "natu",
+  "names": {
+    "french": "Natu",
+    "german": "Natu",
+    "spanish": "Natu",
+    "italian": "Natu",
+    "english": "Natu",
+    "japanease": "\u30cd\u30a4\u30c6\u30a3"
+  },
+  "pokedex_numbers": {
+    "national": 177,
+    "original-johto": 159,
+    "hoenn": 162,
+    "updated-johto": 161,
+    "updated-hoenn": 169,
+    "updated-alola": 252,
+    "updated-akala": 153,
+    "galar": 92
+  },
+  "region": "johto",
+  "region_id": 2,
+  "shape": "wings",
+  "species": "Tiny Bird Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 50
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 70
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 4
+}

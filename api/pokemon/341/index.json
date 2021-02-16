@@ -1,0 +1,505 @@
+{
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shell-armor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "adaptability",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 205,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 4,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It can adapt very well to its environment. Feebas and Corphish are about the only Pok\u00e9mon to live in stagnant ditches.",
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "corphish"
+    ],
+    [
+      "crawdaunt"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast-then-very-slow",
+  "height": 24,
+  "id": 341,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-unova",
+    "kalos-central",
+    "updated-hoenn",
+    "updated-alola",
+    "updated-poni",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "vice-grip",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "guillotine",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "swords-dance",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "crabhammer",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-claw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "ancient-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dragon-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trump-card",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "switcheroo",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-jet",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-hit",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "chip-away",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "razor-shell",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "corphish",
+  "names": {
+    "french": "\u00c9crapince",
+    "german": "Krebscorps",
+    "spanish": "Corphish",
+    "italian": "Corphish",
+    "english": "Corphish",
+    "japanease": "\u30d8\u30a4\u30ac\u30cb"
+  },
+  "pokedex_numbers": {
+    "national": 341,
+    "hoenn": 129,
+    "updated-unova": 279,
+    "kalos-central": 51,
+    "updated-hoenn": 134,
+    "updated-alola": 357,
+    "updated-poni": 104,
+    "galar": 102,
+    "isle-of-armor": 91
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "armor",
+  "species": "Ruffian Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 43
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 35
+    },
+    {
+      "name": "speed",
+      "base_stat": 35
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 25
+}

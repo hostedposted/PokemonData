@@ -1,0 +1,357 @@
+{
+  "abilities": [
+    {
+      "name": "corrosion",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "oblivious",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 4,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "It punishes Salandit that couldn\u2019t bring it food with a fierce slap of its flame-spewing palm.",
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "evolution_chain": [
+    [
+      "salandit"
+    ],
+    [
+      "salazzle"
+    ]
+  ],
+  "evolves_from_species": "salandit",
+  "growth_rate": "medium",
+  "height": 47,
+  "id": 758,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-akala",
+    "updated-alola",
+    "updated-akala",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-slap",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "disable",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "dragon-rage",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smog",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-gas",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leech-life",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet-scent",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "torment",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-pulse",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "nasty-plot",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "flame-burst",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-tail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venom-drench",
+      "level": 51,
+      "tm": false
+    }
+  ],
+  "name": "salazzle",
+  "names": {
+    "french": "Malamandre",
+    "german": "Amfira",
+    "spanish": "Salazzle",
+    "italian": "Salazzle",
+    "english": "Salazzle",
+    "japanease": "\u30a8\u30f3\u30cb\u30e5\u30fc\u30c8"
+  },
+  "pokedex_numbers": {
+    "national": 758,
+    "original-alola": 162,
+    "original-akala": 89,
+    "updated-alola": 196,
+    "updated-akala": 97,
+    "galar": 245,
+    "isle-of-armor": 160
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Toxic Lizard Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 68
+    },
+    {
+      "name": "attack",
+      "base_stat": 64
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 111
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 117
+    }
+  ],
+  "types": [
+    "poison",
+    "fire"
+  ],
+  "weight_kilograms": 22,
+  "weight_pounds": 49
+}

@@ -1,0 +1,380 @@
+{
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 190,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "cherubi"
+    ],
+    [
+      "cherrim"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 420,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "morning-sun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "weather-ball",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aromatherapy",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "grass-whistle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magical-leaf",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "healing-wish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lucky-chant",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-pulse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "petal-blizzard",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "flower-shield",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "grassy-terrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cherubi",
+  "names": {
+    "french": "Ceribou",
+    "german": "Kikugi",
+    "spanish": "Cherubi",
+    "italian": "Cherubi",
+    "english": "Cherubi",
+    "japanease": "\u30c1\u30a7\u30ea\u30f3\u30dc"
+  },
+  "pokedex_numbers": {
+    "national": 420,
+    "original-sinnoh": 58,
+    "extended-sinnoh": 58,
+    "galar": 128
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "heads",
+  "species": "Cherry Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 35
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 62
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 53
+    },
+    {
+      "name": "speed",
+      "base_stat": 35
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

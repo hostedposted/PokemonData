@@ -1,0 +1,313 @@
+{
+  "abilities": [
+    {
+      "name": "clear-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "infiltrator",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "cursed-body",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 2,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any Pok\u00e9mon it finds for the missing Dreepy.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "dreepy"
+    ],
+    [
+      "drakloak"
+    ],
+    [
+      "dragapult"
+    ]
+  ],
+  "evolves_from_species": "dreepy",
+  "growth_rate": "slow",
+  "height": 55,
+  "id": 886,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "dragon pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "dragon pulse",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "lock-on",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "assurance",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "hex",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "double hit",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "dragon dance",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "phantom force",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "take down",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "dragon rush",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 66,
+      "tm": false
+    },
+    {
+      "name": "last resort",
+      "level": 72,
+      "tm": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "drakloak",
+  "names": {
+    "french": "Dispareptil",
+    "german": "Phandra",
+    "spanish": "Drakloak",
+    "italian": "Drakloak",
+    "english": "Drakloak",
+    "japanease": "\u30c9\u30ed\u30f3\u30c1"
+  },
+  "pokedex_numbers": {
+    "national": 886,
+    "galar": 396,
+    "crown-tundra": 111
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "arms",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 68
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 60
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 102
+    }
+  ],
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "weight_kilograms": 11,
+  "weight_pounds": 24
+}

@@ -1,0 +1,298 @@
+{
+  "abilities": [
+    {
+      "name": "steam-engine",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flame-body",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "flash-fire",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 4,
+    "electric": 1,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "While it\u2019s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "rolycoly"
+    ],
+    [
+      "carkol"
+    ],
+    [
+      "coalossal"
+    ]
+  ],
+  "evolves_from_species": "carkol",
+  "growth_rate": "medium-slow",
+  "height": 110,
+  "id": 839,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tar shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tar shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flame charge",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "smokescreen",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rapid spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "smack down",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock polish",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "ancient power",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "incinerate",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "stealth rock",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "heat crash",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "rock blast",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "burn up",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "coalossal",
+  "names": {
+    "french": "Monthracite",
+    "german": "Montecarbo",
+    "spanish": "Coalossal",
+    "italian": "Coalossal",
+    "english": "Coalossal",
+    "japanease": "\u30bb\u30ad\u30bf\u30f3\u30b6\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 839,
+    "galar": 163,
+    "crown-tundra": 178
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 110
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 120
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 90
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "weight_kilograms": 310,
+  "weight_pounds": 685
+}

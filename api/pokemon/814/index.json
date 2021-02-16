@@ -1,0 +1,245 @@
+{
+  "abilities": [
+    {
+      "name": "blaze",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "libero",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "scorbunny"
+    ],
+    [
+      "raboot"
+    ],
+    [
+      "cinderace"
+    ]
+  ],
+  "evolves_from_species": "scorbunny",
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 814,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double kick",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "flame charge",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "raboot",
+  "names": {
+    "french": "Lapyro",
+    "german": "Kickerlo",
+    "spanish": "Raboot",
+    "italian": "Raboot",
+    "english": "Raboot",
+    "japanease": "\u30e9\u30d3\u30d5\u30c3\u30c8"
+  },
+  "pokedex_numbers": {
+    "national": 814,
+    "galar": 5
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 86
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 94
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "weight_kilograms": 9,
+  "weight_pounds": 20
+}

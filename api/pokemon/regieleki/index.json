@@ -1,0 +1,279 @@
+{
+  "abilities": [
+    {
+      "name": "transistor",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 3,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": null,
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "regieleki"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 47,
+  "id": 894,
+  "in_games": [
+    "national",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rapid spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "ancient power",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "shock wave",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "thunder wave",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "extreme speed",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "thunder cage",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "magnet rise",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "lock-on",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "zap cannon",
+      "level": 66,
+      "tm": false
+    },
+    {
+      "name": "hyper beam",
+      "level": 72,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "level": 78,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "regieleki",
+  "names": {
+    "french": "Regieleki",
+    "german": "Regieleki",
+    "spanish": "Regieleki",
+    "italian": "Regieleki",
+    "english": "Regieleki",
+    "japanease": "\u30ec\u30b8\u30a8\u30ec\u30ad"
+  },
+  "pokedex_numbers": {
+    "national": 894,
+    "crown-tundra": 200
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 80
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 200
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "weight_kilograms": 145,
+  "weight_pounds": 320
+}

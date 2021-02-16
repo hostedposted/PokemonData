@@ -1,0 +1,148 @@
+{
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "compound-eyes",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "friend-guard",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "scatterbug"
+    ],
+    [
+      "spewpa"
+    ],
+    [
+      "vivillon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 664,
+  "in_games": [
+    "national",
+    "kalos-central"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "poison-powder",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "stun-spore",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "string-shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "rage-powder",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "scatterbug",
+  "names": {
+    "french": "L\u00e9pidonille",
+    "german": "Purmel",
+    "spanish": "Scatterbug",
+    "italian": "Scatterbug",
+    "english": "Scatterbug",
+    "japanease": "\u30b3\u30d5\u30ad\u30e0\u30b7"
+  },
+  "pokedex_numbers": {
+    "national": 664,
+    "kalos-central": 20
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "armor",
+  "species": "Scatterdust Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 38
+    },
+    {
+      "name": "attack",
+      "base_stat": 35
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 27
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 25
+    },
+    {
+      "name": "speed",
+      "base_stat": 35
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 6
+}

@@ -1,0 +1,397 @@
+{
+  "abilities": [
+    {
+      "name": "full-metal-body",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "In writings from the distant past, it\u2019s called by the name \u201cthe beast that devours the sun.\u201d",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "cosmog"
+    ],
+    [
+      "cosmoem"
+    ],
+    [
+      "solgaleo",
+      "lunala"
+    ]
+  ],
+  "evolves_from_species": "cosmoem",
+  "growth_rate": "slow",
+  "height": 134,
+  "id": 791,
+  "in_games": [
+    "national",
+    "original-alola",
+    "updated-alola"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teleport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-claw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "morning-sun",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "cosmic-power",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wake-up-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-burst",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "flare-blitz",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snarl",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "noble-roar",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunsteel-strike",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "solgaleo",
+  "names": {
+    "french": "Solgaleo",
+    "german": "Solgaleo",
+    "spanish": "Solgaleo",
+    "italian": "Solgaleo",
+    "english": "Solgaleo",
+    "japanease": "\u30bd\u30eb\u30ac\u30ec\u30aa"
+  },
+  "pokedex_numbers": {
+    "national": 791,
+    "original-alola": 291,
+    "updated-alola": 389
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "quadruped",
+  "species": "Sunne Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 137
+    },
+    {
+      "name": "attack",
+      "base_stat": 137
+    },
+    {
+      "name": "defense",
+      "base_stat": 107
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 113
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 89
+    },
+    {
+      "name": "speed",
+      "base_stat": 97
+    }
+  ],
+  "types": [
+    "psychic",
+    "steel"
+  ],
+  "weight_kilograms": 230,
+  "weight_pounds": 507
+}

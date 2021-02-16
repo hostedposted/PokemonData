@@ -1,0 +1,290 @@
+{
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "static",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "slush-rush",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "This Pok\u00e9mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "arctozolt"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 91,
+  "id": 881,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "powder snow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunder shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "charge",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "echoed voice",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "ancient power",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "avalanche",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "freeze-dry",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "discharge",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "bolt beak",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "icicle crash",
+      "level": 70,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "level": 77,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "arctozolt",
+  "names": {
+    "french": "Galvagla",
+    "german": "Lecryodon",
+    "spanish": "Arctozolt",
+    "italian": "Arctozolt",
+    "english": "Arctozolt",
+    "japanease": "\u30d1\u30c3\u30c1\u30eb\u30c9\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 881,
+    "galar": 375
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 90
+    },
+    {
+      "name": "attack",
+      "base_stat": 100
+    },
+    {
+      "name": "defense",
+      "base_stat": 90
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 55
+    }
+  ],
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "weight_kilograms": 150,
+  "weight_pounds": 331
+}

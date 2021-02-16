@@ -1,0 +1,376 @@
+{
+  "abilities": [
+    {
+      "name": "torrent",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "liquid-voice",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "popplio"
+    ],
+    [
+      "brionne"
+    ],
+    [
+      "primarina"
+    ]
+  ],
+  "evolves_from_species": "brionne",
+  "growth_rate": "medium-slow",
+  "height": 71,
+  "id": 730,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-melemele",
+    "updated-alola",
+    "updated-melemele"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "double-slap",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sing",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-voice",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "hydro-cannon",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "aqua-jet",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "disarming-voice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "misty-terrain",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baby-doll-eyes",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "sparkling-aria",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "primarina",
+  "names": {
+    "french": "Oratoria",
+    "german": "Primarene",
+    "spanish": "Primarina",
+    "italian": "Primarina",
+    "english": "Primarina",
+    "japanease": "\u30a2\u30b7\u30ec\u30fc\u30cc"
+  },
+  "pokedex_numbers": {
+    "national": 730,
+    "original-alola": 9,
+    "original-melemele": 9,
+    "updated-alola": 9,
+    "updated-melemele": 9
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "fish",
+  "species": "Soloist Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 80
+    },
+    {
+      "name": "attack",
+      "base_stat": 74
+    },
+    {
+      "name": "defense",
+      "base_stat": 74
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 126
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 116
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "weight_kilograms": 44,
+  "weight_pounds": 97
+}

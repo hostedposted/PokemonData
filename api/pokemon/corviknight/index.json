@@ -1,0 +1,308 @@
+{
+  "abilities": [
+    {
+      "name": "pressure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unnerve",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mirror-armor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "rookidee"
+    ],
+    [
+      "corvisquire"
+    ],
+    [
+      "corviknight"
+    ]
+  ],
+  "evolves_from_species": "corvisquire",
+  "growth_rate": "medium-slow",
+  "height": 87,
+  "id": 823,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "steel wing",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "steel wing",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "metal sound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "power trip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hone claws",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fury attack",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "scary face",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "drill peck",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "brave bird",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "corviknight",
+  "names": {
+    "french": "Corvaillus",
+    "german": "Krarmor",
+    "spanish": "Corviknight",
+    "italian": "Corviknight",
+    "english": "Corviknight",
+    "japanease": "\u30a2\u30fc\u30de\u30fc\u30ac\u30a2"
+  },
+  "pokedex_numbers": {
+    "national": 823,
+    "galar": 23,
+    "crown-tundra": 165
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "wings",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 98
+    },
+    {
+      "name": "attack",
+      "base_stat": 87
+    },
+    {
+      "name": "defense",
+      "base_stat": 105
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 53
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 85
+    },
+    {
+      "name": "speed",
+      "base_stat": 67
+    }
+  ],
+  "types": [
+    "flying",
+    "steel"
+  ],
+  "weight_kilograms": 75,
+  "weight_pounds": 165
+}

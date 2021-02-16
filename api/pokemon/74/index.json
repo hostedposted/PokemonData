@@ -1,0 +1,543 @@
+{
+  "abilities": [
+    {
+      "name": "rock-head",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sturdy",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 4,
+    "electric": 0,
+    "grass": 4,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "geodude"
+    ],
+    [
+      "graveler"
+    ],
+    [
+      "golem"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 16,
+  "id": 74,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "hoenn",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-johto",
+    "kalos-mountain",
+    "updated-hoenn",
+    "original-alola",
+    "original-ulaula",
+    "updated-alola",
+    "updated-ulaula",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flamethrower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "submission",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seismic-toss",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-throw",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "fissure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "defense-curl",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metronome",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "self-destruct",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "explosion",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-blast",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "hammer-arm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-climb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "autotomize",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "geodude",
+  "names": {
+    "french": "Racaillou",
+    "german": "Kleinstein",
+    "spanish": "Geodude",
+    "italian": "Geodude",
+    "english": "Geodude",
+    "japanease": "\u30a4\u30b7\u30c4\u30d6\u30c6"
+  },
+  "pokedex_numbers": {
+    "national": 74,
+    "kanto": 74,
+    "original-johto": 34,
+    "hoenn": 57,
+    "original-sinnoh": 31,
+    "extended-sinnoh": 31,
+    "updated-johto": 34,
+    "kalos-mountain": 9,
+    "updated-hoenn": 58,
+    "original-alola": 229,
+    "original-ulaula": 101,
+    "updated-alola": 298,
+    "updated-ulaula": 119,
+    "updated-kanto": 74
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "arms",
+  "species": "Rock Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 100
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 20
+    }
+  ],
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "weight_kilograms": 20,
+  "weight_pounds": 44
+}

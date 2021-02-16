@@ -1,0 +1,458 @@
+{
+  "abilities": [
+    {
+      "name": "tangled-feet",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "screen-cleaner",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ice-body",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "mime-jr"
+    ],
+    [
+      "mr-mime"
+    ],
+    [
+      "mr-rime"
+    ]
+  ],
+  "evolves_from_species": "mr-mime",
+  "growth_rate": "medium",
+  "height": 59,
+  "id": 866,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "fake tears",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "slack off",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "after you",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "copycat",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "encore",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "role play",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "recycle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "light screen",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "safeguard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "dazzling gleam",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "misty terrain",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rapid spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "baton pass",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ice shard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confusion",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "ally switch",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "icy wind",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "double kick",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "hypnosis",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "mirror coat",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "sucker punch",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "freeze-dry",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "teeter dance",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "mr-rime",
+  "names": {
+    "french": "M. Glaquette",
+    "german": "Pantifrost",
+    "spanish": "Mr. Rime",
+    "italian": "Mr. Rime",
+    "english": "Mr. Rime",
+    "japanease": "\u30d0\u30ea\u30b3\u30aa\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 866,
+    "galar": 366,
+    "crown-tundra": 12
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 80
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 110
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 100
+    },
+    {
+      "name": "speed",
+      "base_stat": 70
+    }
+  ],
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "weight_kilograms": 58,
+  "weight_pounds": 128
+}

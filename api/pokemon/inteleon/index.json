@@ -1,0 +1,310 @@
+{
+  "abilities": [
+    {
+      "name": "torrent",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sniper",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Its nictitating membranes let it pick out foes\u2019 weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "sobble"
+    ],
+    [
+      "drizzile"
+    ],
+    [
+      "inteleon"
+    ]
+  ],
+  "evolves_from_species": "drizzile",
+  "growth_rate": "medium-slow",
+  "height": 75,
+  "id": 818,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "snipe shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snipe shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "acrobatics",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water pulse",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "tearful look",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "sucker punch",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "liquidation",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "soak",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "rain dance",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "hydro pump",
+      "level": 62,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "inteleon",
+  "names": {
+    "french": "L\u00e9zargus",
+    "german": "Intelleon",
+    "spanish": "Inteleon",
+    "italian": "Inteleon",
+    "english": "Inteleon",
+    "japanease": "\u30a4\u30f3\u30c6\u30ec\u30aa\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 818,
+    "galar": 9
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 125
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 65
+    },
+    {
+      "name": "speed",
+      "base_stat": 120
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 45,
+  "weight_pounds": 100
+}

@@ -1,0 +1,346 @@
+{
+  "abilities": [
+    {
+      "name": "no-guard",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 180,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 2,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "If anyone dares to grab its hilt, it wraps a blue cloth around that person\u2019s arm and drains that person\u2019s life energy completely.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "honedge"
+    ],
+    [
+      "doublade"
+    ],
+    [
+      "aegislash"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 31,
+  "id": 679,
+  "in_games": [
+    "national",
+    "kalos-central",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slash",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "destiny-bond",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "false-swipe",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-cutter",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pursuit",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "metal-sound",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-trick",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "night-slash",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "shadow-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-sneak",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-head",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "wide-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "autotomize",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "retaliate",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "sacred-sword",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "honedge",
+  "names": {
+    "french": "Monorpale",
+    "german": "Gramokles",
+    "spanish": "Honedge",
+    "italian": "Honedge",
+    "english": "Honedge",
+    "japanease": "\u30d2\u30c8\u30c4\u30ad"
+  },
+  "pokedex_numbers": {
+    "national": 679,
+    "kalos-central": 117,
+    "galar": 330
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "blob",
+  "species": "Sword Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 100
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 37
+    },
+    {
+      "name": "speed",
+      "base_stat": 28
+    }
+  ],
+  "types": [
+    "steel",
+    "ghost"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 4
+}

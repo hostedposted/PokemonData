@@ -1,0 +1,407 @@
+{
+  "abilities": [
+    {
+      "name": "healer",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "aroma-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 140,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
+  "egg_groups": [
+    "fairy"
+  ],
+  "evolution_chain": [
+    [
+      "spritzee"
+    ],
+    [
+      "aromatisse"
+    ]
+  ],
+  "evolves_from_species": "spritzee",
+  "growth_rate": "medium",
+  "height": 31,
+  "id": 683,
+  "in_games": [
+    "national",
+    "kalos-central",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-kiss",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "charm",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-bell",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatherapy",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "drain-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "heal-pulse",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "disarming-voice",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "draining-kiss",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "misty-terrain",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "fairy-wind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatic-mist",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "aromatisse",
+  "names": {
+    "french": "Cocotine",
+    "german": "Parfinesse",
+    "spanish": "Aromatisse",
+    "italian": "Aromatisse",
+    "english": "Aromatisse",
+    "japanease": "\u30d5\u30ec\u30d5\u30ef\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 683,
+    "kalos-central": 130,
+    "galar": 213
+  },
+  "region": "kalos",
+  "region_id": 6,
+  "shape": "humanoid",
+  "species": "Fragrance Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 101
+    },
+    {
+      "name": "attack",
+      "base_stat": 72
+    },
+    {
+      "name": "defense",
+      "base_stat": 72
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 99
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 89
+    },
+    {
+      "name": "speed",
+      "base_stat": 29
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "weight_kilograms": 16,
+  "weight_pounds": 34
+}

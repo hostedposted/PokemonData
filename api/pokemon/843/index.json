@@ -1,0 +1,264 @@
+{
+  "abilities": [
+    {
+      "name": "sand-spit",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shed-skin",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 4,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "silicobra"
+    ],
+    [
+      "sandaconda"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 87,
+  "id": 843,
+  "in_games": [
+    "national",
+    "galar",
+    "isle-of-armor"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "wrap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sand attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "minimize",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "brutal swing",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "glare",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "slam",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "coil",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "sand tomb",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "dragon rush",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "last resort",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "belch",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "poison tail",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "silicobra",
+  "names": {
+    "french": "Dunaja",
+    "german": "Salanga",
+    "spanish": "Silicobra",
+    "italian": "Silicobra",
+    "english": "Silicobra",
+    "japanease": "\u30b9\u30ca\u30d8\u30d3"
+  },
+  "pokedex_numbers": {
+    "national": 843,
+    "galar": 312,
+    "isle-of-armor": 174
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "squiggle",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 52
+    },
+    {
+      "name": "attack",
+      "base_stat": 57
+    },
+    {
+      "name": "defense",
+      "base_stat": 75
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 46
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 17
+}

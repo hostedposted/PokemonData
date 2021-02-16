@@ -1,0 +1,358 @@
+{
+  "abilities": [
+    {
+      "name": "punk-rock",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "plus",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "technician",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "This short-tempered and aggressive Pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "toxel"
+    ],
+    [
+      "toxtricity"
+    ]
+  ],
+  "evolves_from_species": "toxel",
+  "growth_rate": "medium-slow",
+  "height": 63,
+  "id": 849,
+  "in_games": [
+    "national",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "spark",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spark",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "eerie impulse",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "belch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tearful look",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "nuzzle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "acid",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunder shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "acid spray",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "noble roar",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "charge",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "shock wave",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "scary face",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "discharge",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "poison jab",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "overdrive",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "boomburst",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "shift gear",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "mega-kick",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "toxtricity-amped",
+  "names": {
+    "french": "Salarsen",
+    "german": "Riffex",
+    "spanish": "Toxtricity",
+    "italian": "Toxtricity",
+    "english": "Toxtricity",
+    "japanease": "\u30b9\u30c8\u30ea\u30f3\u30c0\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 849,
+    "galar": 311
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 75
+    },
+    {
+      "name": "attack",
+      "base_stat": 98
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 114
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 70
+    },
+    {
+      "name": "speed",
+      "base_stat": 75
+    }
+  ],
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "weight_kilograms": 40,
+  "weight_pounds": 88
+}

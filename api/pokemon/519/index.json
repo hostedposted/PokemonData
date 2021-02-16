@@ -1,0 +1,353 @@
+{
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "super-luck",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rivalry",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "gray",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "These Pok\u00e9mon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "pidove"
+    ],
+    [
+      "tranquill"
+    ],
+    [
+      "unfezant"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 519,
+  "in_games": [
+    "national",
+    "original-unova",
+    "updated-unova",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "gust",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leer",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-attack",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "detect",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "steel-wing",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "morning-sun",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "wish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "air-cutter",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lucky-chant",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "night-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "air-slash",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bestow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "pidove",
+  "names": {
+    "french": "Poichigeon",
+    "german": "Dusselgurr",
+    "spanish": "Pidove",
+    "italian": "Pidove",
+    "english": "Pidove",
+    "japanease": "\u30de\u30e1\u30d1\u30c8"
+  },
+  "pokedex_numbers": {
+    "national": 519,
+    "original-unova": 25,
+    "updated-unova": 14,
+    "galar": 26
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "wings",
+  "species": "Tiny Pigeon Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 55
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 36
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 43
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 5
+}

@@ -1,0 +1,234 @@
+{
+  "abilities": [
+    {
+      "name": "fluffy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "run-away",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bulletproof",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "If its fleece grows too long, Wooloo won\u2019t be able to move. Cloth made with the wool of this Pok\u00e9mon is surprisingly strong.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "wooloo"
+    ],
+    [
+      "dubwool"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 831,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "defense curl",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "copycat",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "guard split",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "double kick",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "take down",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "guard swap",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "cotton guard",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "wooloo",
+  "names": {
+    "french": "Moumouton",
+    "german": "Wolly",
+    "spanish": "Wooloo",
+    "italian": "Wooloo",
+    "english": "Wooloo",
+    "japanease": "\u30a6\u30fc\u30eb\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 831,
+    "galar": 34,
+    "crown-tundra": 3
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "quadruped",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 42
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 48
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 13
+}

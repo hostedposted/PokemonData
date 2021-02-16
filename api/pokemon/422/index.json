@@ -1,0 +1,418 @@
+{
+  "abilities": [
+    {
+      "name": "sticky-hold",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "storm-drain",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "When it senses danger, a purple liquid oozes out of it. The liquid is thought to be something like greasy sweat.",
+  "egg_groups": [
+    "water1",
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "shellos"
+    ],
+    [
+      "gastrodon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 422,
+  "in_games": [
+    "national",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "mist",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "counter",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fissure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "harden",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "sludge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "acid-armor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "mirror-coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ancient-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stockpile",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "spit-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swallow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "memento",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-sport",
+      "level": 2,
+      "tm": false
+    },
+    {
+      "name": "muddy-water",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trump-card",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mud-bomb",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "clear-smog",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "shellos",
+  "names": {
+    "french": "Sancoki",
+    "german": "Schalellos",
+    "spanish": "Shellos",
+    "italian": "Shellos",
+    "english": "Shellos",
+    "japanease": "\u30ab\u30e9\u30ca\u30af\u30b7"
+  },
+  "pokedex_numbers": {
+    "national": 422,
+    "original-sinnoh": 60,
+    "extended-sinnoh": 60,
+    "original-alola": 260,
+    "original-poni": 75,
+    "updated-alola": 341,
+    "updated-poni": 88,
+    "galar": 230
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "squiggle",
+  "species": "Sea Slug Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 76
+    },
+    {
+      "name": "attack",
+      "base_stat": 48
+    },
+    {
+      "name": "defense",
+      "base_stat": 48
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 57
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 62
+    },
+    {
+      "name": "speed",
+      "base_stat": 34
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 14
+}

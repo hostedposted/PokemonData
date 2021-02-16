@@ -1,0 +1,514 @@
+{
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "solar-power",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "harvest",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 1,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+  "egg_groups": [
+    "monster",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "tropius"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 79,
+  "id": 357,
+  "in_games": [
+    "national",
+    "hoenn",
+    "extended-sinnoh",
+    "updated-unova",
+    "updated-hoenn",
+    "updated-alola",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "gust",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "whirlwind",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "stomp",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "growth",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "outrage",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magical-leaf",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "leaf-blade",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dragon-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "dragon-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bestow",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-tornado",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-hammer",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "tropius",
+  "names": {
+    "french": "Tropius",
+    "german": "Tropius",
+    "spanish": "Tropius",
+    "italian": "Tropius",
+    "english": "Tropius",
+    "japanease": "\u30c8\u30ed\u30d4\u30a6\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 357,
+    "hoenn": 150,
+    "extended-sinnoh": 185,
+    "updated-unova": 288,
+    "updated-hoenn": 156,
+    "updated-alola": 354,
+    "updated-poni": 101
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "quadruped",
+  "species": "Fruit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 99
+    },
+    {
+      "name": "attack",
+      "base_stat": 68
+    },
+    {
+      "name": "defense",
+      "base_stat": 83
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 72
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 87
+    },
+    {
+      "name": "speed",
+      "base_stat": 51
+    }
+  ],
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "weight_kilograms": 100,
+  "weight_pounds": 220
+}

@@ -1,0 +1,477 @@
+{
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "poison-point",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "leaf-guard",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 150,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pok\u00e9mon\u2019s head contain a vicious poison.",
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "budew"
+    ],
+    [
+      "roselia"
+    ],
+    [
+      "roserade"
+    ]
+  ],
+  "evolves_from_species": "budew",
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 315,
+  "in_games": [
+    "national",
+    "hoenn",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-unova",
+    "kalos-central",
+    "updated-hoenn",
+    "galar"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "poison-sting",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "pin-missile",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stun-spore",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "sleep-powder",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "petal-dance",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "mind-reader",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cotton-spore",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spikes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fury-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 57,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ingrain",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatherapy",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "grass-whistle",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "magical-leaf",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic-spikes",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "power-whip",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "petal-blizzard",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "roselia",
+  "names": {
+    "french": "Ros\u00e9lia",
+    "german": "Roselia",
+    "spanish": "Roselia",
+    "italian": "Roselia",
+    "english": "Roselia",
+    "japanease": "\u30ed\u30bc\u30ea\u30a2"
+  },
+  "pokedex_numbers": {
+    "national": 315,
+    "hoenn": 94,
+    "original-sinnoh": 26,
+    "extended-sinnoh": 26,
+    "updated-unova": 134,
+    "kalos-central": 72,
+    "updated-hoenn": 98,
+    "galar": 60
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "humanoid",
+  "species": "Thorn Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 65
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 4
+}

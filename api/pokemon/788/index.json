@@ -1,0 +1,374 @@
+{
+  "abilities": [
+    {
+      "name": "misty-surge",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "telepathy",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 3,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Although it\u2019s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "tapu-fini"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 51,
+  "id": 788,
+  "in_games": [
+    "national",
+    "original-alola",
+    "original-poni",
+    "updated-alola",
+    "updated-poni"
+  ],
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mist",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 58,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "withdraw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "haze",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "refresh",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "muddy-water",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "soak",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-pulse",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "misty-terrain",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smart-strike",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natures-madness",
+      "level": 43,
+      "tm": false
+    }
+  ],
+  "name": "tapu-fini",
+  "names": {
+    "french": "Tokopisco",
+    "german": "Kapu-Kime",
+    "spanish": "Tapu Fini",
+    "italian": "Tapu Fini",
+    "english": "Tapu Fini",
+    "japanease": "\u30ab\u30d7\u30fb\u30ec\u30d2\u30ec"
+  },
+  "pokedex_numbers": {
+    "national": 788,
+    "original-alola": 288,
+    "original-poni": 100,
+    "updated-alola": 386,
+    "updated-poni": 130
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "arms",
+  "species": "Land Spirit Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 115
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 95
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 130
+    },
+    {
+      "name": "speed",
+      "base_stat": 85
+    }
+  ],
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "weight_kilograms": 21,
+  "weight_pounds": 47
+}

@@ -1,0 +1,556 @@
+{
+  "abilities": [
+    {
+      "name": "levitate",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 190,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Poisonous gas comprises 95% of its body. It\u2019s said that the remaining 5% is made up of the souls of those who died from the gas.",
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "gastly"
+    ],
+    [
+      "haunter"
+    ],
+    [
+      "gengar"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 51,
+  "id": 92,
+  "in_games": [
+    "national",
+    "kanto",
+    "original-johto",
+    "original-sinnoh",
+    "extended-sinnoh",
+    "updated-johto",
+    "conquest-gallery",
+    "kalos-mountain",
+    "original-alola",
+    "original-melemele",
+    "original-akala",
+    "original-ulaula",
+    "updated-alola",
+    "updated-melemele",
+    "updated-akala",
+    "updated-ulaula",
+    "galar",
+    "updated-kanto"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "fire-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ice-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "thunder-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "disable",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mega-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hypnosis",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "night-shade",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "self-destruct",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "lick",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "smog",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "psywave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nightmare",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scary-face",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zap-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "destiny-bond",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "perish-song",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mean-look",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grudge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "snatch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sucker-punch",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wonder-room",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "telekinesis",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "clear-smog",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hex",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "reflect-type",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "gastly",
+  "names": {
+    "french": "Fantominus",
+    "german": "Nebulak",
+    "spanish": "Gastly",
+    "italian": "Gastly",
+    "english": "Gastly",
+    "japanease": "\u30b4\u30fc\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 92,
+    "kanto": 92,
+    "original-johto": 58,
+    "original-sinnoh": 69,
+    "extended-sinnoh": 69,
+    "updated-johto": 58,
+    "conquest-gallery": 112,
+    "kalos-mountain": 30,
+    "original-alola": 61,
+    "original-melemele": 61,
+    "original-akala": 23,
+    "original-ulaula": 32,
+    "updated-alola": 73,
+    "updated-melemele": 73,
+    "updated-akala": 23,
+    "updated-ulaula": 32,
+    "galar": 141,
+    "updated-kanto": 92
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "ball",
+  "species": "Gas Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 30
+    },
+    {
+      "name": "attack",
+      "base_stat": 35
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 100
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 35
+    },
+    {
+      "name": "speed",
+      "base_stat": 80
+    }
+  ],
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "weight_kilograms": 0,
+  "weight_pounds": 0
+}

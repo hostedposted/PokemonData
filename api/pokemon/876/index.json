@@ -1,0 +1,287 @@
+{
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "synchronize",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "psychic-surge",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 30,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "indeedee"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "fast",
+  "height": 35,
+  "id": 876,
+  "in_games": [
+    "national",
+    "galar",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "stored power",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "play nice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "encore",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "disarming voice",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "helping hand",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "after you",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "calm mind",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "power split",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "psychic terrain",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "last resort",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "psych up",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "fake out",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "extrasensory",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "indeedee-male",
+  "names": {
+    "french": "Wimessir",
+    "german": "Servol",
+    "spanish": "Indeedee",
+    "italian": "Indeedee",
+    "english": "Indeedee",
+    "japanease": "\u30a4\u30a8\u30c3\u30b5\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 876,
+    "galar": 337,
+    "crown-tundra": 171
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 105
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 95
+    },
+    {
+      "name": "speed",
+      "base_stat": 95
+    }
+  ],
+  "types": [
+    "psychic",
+    "normal"
+  ],
+  "weight_kilograms": 28,
+  "weight_pounds": 62
+}

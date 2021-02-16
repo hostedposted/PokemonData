@@ -1,0 +1,271 @@
+{
+  "abilities": [
+    {
+      "name": "cheek-pouch",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gluttony",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "skwovet"
+    ],
+    [
+      "greedent"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 819,
+  "in_games": [
+    "national",
+    "galar",
+    "isle-of-armor",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tail whip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "stuff cheeks",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "stockpile",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "swallow",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "spit up",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "body slam",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "bullet seed",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "super fang",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "belch",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "defense curl",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "last resort",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "belly drum",
+      "tm": null,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": false
+    }
+  ],
+  "name": "skwovet",
+  "names": {
+    "french": "Rongourmand",
+    "german": "Raffel",
+    "spanish": "Skwovet",
+    "italian": "Skwovet",
+    "english": "Skwovet",
+    "japanease": "\u30db\u30b7\u30ac\u30ea\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 819,
+    "galar": 24,
+    "isle-of-armor": 9,
+    "crown-tundra": 5
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "upright",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 55
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 35
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 6
+}

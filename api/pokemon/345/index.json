@@ -1,0 +1,449 @@
+{
+  "abilities": [
+    {
+      "name": "suction-cups",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "storm-drain",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 2,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It sticks to rocks with its powerful suckers and can\u2019t be washed away no matter how rough the surf gets.",
+  "egg_groups": [
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "lileep"
+    ],
+    [
+      "cradily"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow-then-very-fast",
+  "height": 39,
+  "id": 345,
+  "in_games": [
+    "national",
+    "hoenn",
+    "updated-hoenn",
+    "updated-alola",
+    "updated-akala",
+    "crown-tundra"
+  ],
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "acid",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "barrier",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "constrict",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "amnesia",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "ancient-power",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "stockpile",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "spit-up",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "swallow",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ingrain",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wring-out",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "gastro-acid",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "lileep",
+  "names": {
+    "french": "Lilia",
+    "german": "Liliep",
+    "spanish": "Lileep",
+    "italian": "Lileep",
+    "english": "Lileep",
+    "japanease": "\u30ea\u30ea\u30fc\u30e9"
+  },
+  "pokedex_numbers": {
+    "national": 345,
+    "hoenn": 133,
+    "updated-hoenn": 138,
+    "updated-alola": 231,
+    "updated-akala": 132,
+    "crown-tundra": 183
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "blob",
+  "species": "Sea Lily Pok\u00e9mon",
+  "sprites": {},
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 66
+    },
+    {
+      "name": "attack",
+      "base_stat": 41
+    },
+    {
+      "name": "defense",
+      "base_stat": 77
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 61
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 87
+    },
+    {
+      "name": "speed",
+      "base_stat": 23
+    }
+  ],
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "weight_kilograms": 24,
+  "weight_pounds": 52
+}
