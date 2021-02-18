@@ -471,7 +471,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Multiplying Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/579.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/579.png"
+  },
   "stats": [
     {
       "name": "hp",

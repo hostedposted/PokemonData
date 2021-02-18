@@ -517,7 +517,10 @@
   "region_id": 2,
   "shape": "wings",
   "species": "Mystic Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/178.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/178.png"
+  },
   "stats": [
     {
       "name": "hp",

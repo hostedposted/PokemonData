@@ -486,7 +486,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Rushing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/264.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/264.png"
+  },
   "stats": [
     {
       "name": "hp",

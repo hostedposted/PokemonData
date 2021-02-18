@@ -424,7 +424,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Bolt Strike Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/642.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/642.png"
+  },
   "stats": [
     {
       "name": "hp",

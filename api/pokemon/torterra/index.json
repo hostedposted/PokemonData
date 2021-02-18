@@ -436,7 +436,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Continent Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/389.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/389.png"
+  },
   "stats": [
     {
       "name": "hp",

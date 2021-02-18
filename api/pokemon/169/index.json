@@ -466,7 +466,10 @@
   "region_id": 2,
   "shape": "bug-wings",
   "species": "Bat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/169.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/169.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -392,7 +392,10 @@
   "region_id": 6,
   "shape": "upright",
   "species": "Digging Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/659.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/659.png"
+  },
   "stats": [
     {
       "name": "hp",

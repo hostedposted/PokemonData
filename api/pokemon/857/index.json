@@ -232,7 +232,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "humanoid",
-  "sprites": {},
+  "species": "Serene Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/857.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/857.png"
+  },
   "stats": [
     {
       "name": "hp",

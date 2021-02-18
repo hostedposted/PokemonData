@@ -257,7 +257,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "wings",
-  "sprites": {},
+  "species": "Tiny Bird Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/821.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/821.png"
+  },
   "stats": [
     {
       "name": "hp",

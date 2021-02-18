@@ -388,7 +388,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Irate Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/633.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/633.png"
+  },
   "stats": [
     {
       "name": "hp",

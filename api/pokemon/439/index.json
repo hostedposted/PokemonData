@@ -520,7 +520,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Mime Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/439.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/439.png"
+  },
   "stats": [
     {
       "name": "hp",

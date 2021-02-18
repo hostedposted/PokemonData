@@ -290,7 +290,10 @@
   "region_id": 7,
   "shape": "fish",
   "species": "Pop Star Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/729.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/729.png"
+  },
   "stats": [
     {
       "name": "hp",

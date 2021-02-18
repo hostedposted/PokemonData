@@ -302,7 +302,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Proud Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/521.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/521.png"
+  },
   "stats": [
     {
       "name": "hp",

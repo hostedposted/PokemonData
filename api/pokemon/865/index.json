@@ -242,7 +242,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "wings",
-  "sprites": {},
+  "species": "Wild Duck Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/865.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/865.png"
+  },
   "stats": [
     {
       "name": "hp",

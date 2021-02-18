@@ -484,7 +484,10 @@
   "region_id": 1,
   "shape": "blob",
   "species": "Star Shape Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/120.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/120.png"
+  },
   "stats": [
     {
       "name": "hp",

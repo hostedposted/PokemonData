@@ -372,7 +372,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Teamwork Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/766.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/766.png"
+  },
   "stats": [
     {
       "name": "hp",

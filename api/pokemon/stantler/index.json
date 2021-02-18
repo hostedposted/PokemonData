@@ -509,7 +509,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Big Horn Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/234.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/234.png"
+  },
   "stats": [
     {
       "name": "hp",

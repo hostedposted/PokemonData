@@ -457,7 +457,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Live Coal Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/240.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/240.png"
+  },
   "stats": [
     {
       "name": "hp",

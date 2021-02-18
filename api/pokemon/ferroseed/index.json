@@ -349,7 +349,10 @@
   "region_id": 5,
   "shape": "ball",
   "species": "Thorn Seed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/597.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/597.png"
+  },
   "stats": [
     {
       "name": "hp",

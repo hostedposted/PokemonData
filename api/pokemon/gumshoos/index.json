@@ -308,7 +308,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Stakeout Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/735.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/735.png"
+  },
   "stats": [
     {
       "name": "hp",

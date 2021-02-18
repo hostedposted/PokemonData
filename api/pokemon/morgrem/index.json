@@ -247,7 +247,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "humanoid",
-  "sprites": {},
+  "species": "Devious Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/860.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/860.png"
+  },
   "stats": [
     {
       "name": "hp",

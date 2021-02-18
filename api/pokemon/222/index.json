@@ -545,7 +545,10 @@
   "region_id": 2,
   "shape": "armor",
   "species": "Coral Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/222.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/222.png"
+  },
   "stats": [
     {
       "name": "hp",

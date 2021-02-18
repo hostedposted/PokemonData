@@ -473,7 +473,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Fixation Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/574.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/574.png"
+  },
   "stats": [
     {
       "name": "hp",

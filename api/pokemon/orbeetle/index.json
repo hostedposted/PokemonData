@@ -282,7 +282,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "wings",
-  "sprites": {},
+  "species": "Seven Spot Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/826.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/826.png"
+  },
   "stats": [
     {
       "name": "hp",

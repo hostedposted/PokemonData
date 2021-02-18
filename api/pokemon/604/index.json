@@ -425,7 +425,10 @@
   "region_id": 5,
   "shape": "fish",
   "species": "EleFish Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/604.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/604.png"
+  },
   "stats": [
     {
       "name": "hp",

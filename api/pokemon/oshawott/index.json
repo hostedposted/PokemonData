@@ -397,7 +397,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Sea Otter Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/501.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/501.png"
+  },
   "stats": [
     {
       "name": "hp",

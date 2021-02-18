@@ -244,7 +244,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Drawn Sword Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/798.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/798.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -464,7 +464,10 @@
   "region_id": 3,
   "shape": "fish",
   "species": "Brutal Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/319.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/319.png"
+  },
   "stats": [
     {
       "name": "hp",

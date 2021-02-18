@@ -457,7 +457,10 @@
   "region_id": 2,
   "shape": "armor",
   "species": "Mold Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/213.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/213.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -254,7 +254,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Alloy Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/884.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/884.png"
+  },
   "stats": [
     {
       "name": "hp",

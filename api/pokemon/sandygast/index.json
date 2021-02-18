@@ -298,7 +298,10 @@
   "region_id": 7,
   "shape": "squiggle",
   "species": "Sand Heap Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/769.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/769.png"
+  },
   "stats": [
     {
       "name": "hp",

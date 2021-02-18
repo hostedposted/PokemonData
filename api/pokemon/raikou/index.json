@@ -404,7 +404,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Thunder Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/243.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/243.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -500,7 +500,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Kicking Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/106.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/106.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -463,7 +463,10 @@
   "region_id": 2,
   "shape": "bug-wings",
   "species": "Pincer Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/212.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/212.png"
+  },
   "stats": [
     {
       "name": "hp",

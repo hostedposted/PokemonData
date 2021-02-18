@@ -362,7 +362,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Season Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/586.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/586.png"
+  },
   "stats": [
     {
       "name": "hp",

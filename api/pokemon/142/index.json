@@ -545,7 +545,10 @@
   "region_id": 1,
   "shape": "wings",
   "species": "Fossil Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/142.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/142.png"
+  },
   "stats": [
     {
       "name": "hp",

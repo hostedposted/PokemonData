@@ -282,7 +282,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Puppy Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/744.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/744.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -332,7 +332,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Flailing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/759.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/759.png"
+  },
   "stats": [
     {
       "name": "hp",

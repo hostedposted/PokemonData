@@ -490,7 +490,10 @@
   "region_id": 4,
   "shape": "arms",
   "species": "Balloon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/425.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/425.png"
+  },
   "stats": [
     {
       "name": "hp",

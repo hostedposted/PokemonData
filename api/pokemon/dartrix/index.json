@@ -309,7 +309,10 @@
   "region_id": 7,
   "shape": "wings",
   "species": "Blade Quill Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/723.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/723.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -341,7 +341,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Heavyweight Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/450.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/450.png"
+  },
   "stats": [
     {
       "name": "hp",

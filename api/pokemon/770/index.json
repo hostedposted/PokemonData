@@ -288,7 +288,10 @@
   "region_id": 7,
   "shape": "squiggle",
   "species": "Sand Castle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/770.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/770.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -372,7 +372,10 @@
   "region_id": 3,
   "shape": "blob",
   "species": "Shed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/292.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/292.png"
+  },
   "stats": [
     {
       "name": "hp",

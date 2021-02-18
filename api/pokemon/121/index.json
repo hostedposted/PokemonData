@@ -509,7 +509,10 @@
   "region_id": 1,
   "shape": "blob",
   "species": "Mysterious Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/121.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/121.png"
+  },
   "stats": [
     {
       "name": "hp",

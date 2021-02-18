@@ -344,7 +344,10 @@
   "region_id": 6,
   "shape": "quadruped",
   "species": "Ice Chunk Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/712.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/712.png"
+  },
   "stats": [
     {
       "name": "hp",

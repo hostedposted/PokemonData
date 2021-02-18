@@ -390,7 +390,10 @@
   "region_id": 5,
   "shape": "bug-wings",
   "species": "Sun Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/637.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/637.png"
+  },
   "stats": [
     {
       "name": "hp",

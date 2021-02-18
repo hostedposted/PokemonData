@@ -605,7 +605,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Long Tail Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/190.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/190.png"
+  },
   "stats": [
     {
       "name": "hp",

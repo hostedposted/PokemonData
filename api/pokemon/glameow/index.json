@@ -447,7 +447,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Catty Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/431.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/431.png"
+  },
   "stats": [
     {
       "name": "hp",

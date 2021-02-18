@@ -354,7 +354,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Bouquet Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/407.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/407.png"
+  },
   "stats": [
     {
       "name": "hp",

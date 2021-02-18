@@ -279,7 +279,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "bug-wings",
-  "sprites": {},
+  "species": "Frost Moth Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/873.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/873.png"
+  },
   "stats": [
     {
       "name": "hp",

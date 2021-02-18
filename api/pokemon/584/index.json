@@ -324,7 +324,10 @@
   "region_id": 5,
   "shape": "heads",
   "species": "Snowstorm Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/584.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/584.png"
+  },
   "stats": [
     {
       "name": "hp",

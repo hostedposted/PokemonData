@@ -257,7 +257,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Rampart Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/805.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/805.png"
+  },
   "stats": [
     {
       "name": "hp",

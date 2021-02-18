@@ -239,7 +239,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "blob",
-  "sprites": {},
+  "species": "Cotton Bloom Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/830.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/830.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -530,7 +530,10 @@
   "region_id": 2,
   "shape": "humanoid",
   "species": "Kiss Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/238.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/238.png"
+  },
   "stats": [
     {
       "name": "hp",

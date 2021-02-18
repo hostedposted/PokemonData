@@ -490,7 +490,10 @@
   "region_id": 1,
   "shape": "squiggle",
   "species": "Cobra Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/24.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/24.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -403,7 +403,10 @@
   "region_id": 2,
   "shape": "bug-wings",
   "species": "Clear Wing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/193.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/193.png"
+  },
   "stats": [
     {
       "name": "hp",

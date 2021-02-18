@@ -399,7 +399,10 @@
   "region_id": 5,
   "shape": "tentacles",
   "species": "Thorn Pod Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/598.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/598.png"
+  },
   "stats": [
     {
       "name": "hp",

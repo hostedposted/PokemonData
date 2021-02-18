@@ -497,7 +497,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Kitten Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/300.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/300.png"
+  },
   "stats": [
     {
       "name": "hp",

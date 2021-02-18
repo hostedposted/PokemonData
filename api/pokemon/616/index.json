@@ -340,7 +340,10 @@
   "region_id": 5,
   "shape": "ball",
   "species": "Snail Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/616.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/616.png"
+  },
   "stats": [
     {
       "name": "hp",

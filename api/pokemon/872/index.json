@@ -139,7 +139,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "squiggle",
-  "sprites": {},
+  "species": "Worm Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/872.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/872.png"
+  },
   "stats": [
     {
       "name": "hp",

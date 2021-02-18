@@ -353,7 +353,10 @@
   "region_id": 6,
   "shape": "bug-wings",
   "species": "Scale Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/666.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/666.png"
+  },
   "stats": [
     {
       "name": "hp",

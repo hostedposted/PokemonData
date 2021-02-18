@@ -366,7 +366,10 @@
   "region_id": 7,
   "shape": "wings",
   "species": "Moone Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/792.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/792.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -399,7 +399,10 @@
   "region_id": 3,
   "shape": "squiggle",
   "species": "Tender Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/350.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/350.png"
+  },
   "stats": [
     {
       "name": "hp",

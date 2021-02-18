@@ -436,7 +436,10 @@
   "region_id": 6,
   "shape": "quadruped",
   "species": "Tundra Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/699.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/699.png"
+  },
   "stats": [
     {
       "name": "hp",

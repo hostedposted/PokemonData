@@ -482,7 +482,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Automaton Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/623.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/623.png"
+  },
   "stats": [
     {
       "name": "hp",

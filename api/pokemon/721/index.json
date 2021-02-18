@@ -350,7 +350,10 @@
   "region_id": 6,
   "shape": "quadruped",
   "species": "Steam Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/721.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/721.png"
+  },
   "stats": [
     {
       "name": "hp",

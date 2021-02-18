@@ -233,7 +233,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "tentacles",
-  "sprites": {},
+  "species": "Sea Urchin Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/871.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/871.png"
+  },
   "stats": [
     {
       "name": "hp",

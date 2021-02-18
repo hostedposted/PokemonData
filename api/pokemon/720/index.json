@@ -465,7 +465,10 @@
   "region_id": 6,
   "shape": "arms",
   "species": "Mischief Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/720.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/720.png"
+  },
   "stats": [
     {
       "name": "hp",

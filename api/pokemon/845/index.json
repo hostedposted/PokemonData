@@ -246,7 +246,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "wings",
-  "sprites": {},
+  "species": "Gulp Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/845.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/845.png"
+  },
   "stats": [
     {
       "name": "hp",

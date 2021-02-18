@@ -436,7 +436,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Handstand Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/237.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/237.png"
+  },
   "stats": [
     {
       "name": "hp",

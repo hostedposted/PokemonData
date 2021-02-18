@@ -497,7 +497,10 @@
   "region_id": 4,
   "shape": "tentacles",
   "species": "Renegade Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/487.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/487.png"
+  },
   "stats": [
     {
       "name": "hp",

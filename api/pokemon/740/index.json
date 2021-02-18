@@ -343,7 +343,10 @@
   "region_id": 7,
   "shape": "armor",
   "species": "Woolly Crab Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/740.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/740.png"
+  },
   "stats": [
     {
       "name": "hp",

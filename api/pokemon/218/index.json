@@ -413,7 +413,10 @@
   "region_id": 2,
   "shape": "squiggle",
   "species": "Lava Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/218.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/218.png"
+  },
   "stats": [
     {
       "name": "hp",

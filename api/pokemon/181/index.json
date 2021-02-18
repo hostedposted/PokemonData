@@ -486,7 +486,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Light Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/181.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/181.png"
+  },
   "stats": [
     {
       "name": "hp",

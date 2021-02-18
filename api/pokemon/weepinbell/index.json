@@ -391,7 +391,10 @@
   "region_id": 1,
   "shape": "blob",
   "species": "Flycatcher Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/70.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/70.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -503,7 +503,10 @@
   "region_id": 4,
   "shape": "upright",
   "species": "Rabbit Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/428.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/428.png"
+  },
   "stats": [
     {
       "name": "hp",

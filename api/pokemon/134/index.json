@@ -498,7 +498,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Bubble Jet Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/134.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/134.png"
+  },
   "stats": [
     {
       "name": "hp",

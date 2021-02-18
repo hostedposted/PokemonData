@@ -308,7 +308,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "humanoid",
-  "sprites": {},
+  "species": "Two-Sided Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/877.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/877.png"
+  },
   "stats": [
     {
       "name": "hp",

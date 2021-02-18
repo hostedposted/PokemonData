@@ -479,7 +479,10 @@
   "region_id": 2,
   "shape": "wings",
   "species": "Owl Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/163.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/163.png"
+  },
   "stats": [
     {
       "name": "hp",

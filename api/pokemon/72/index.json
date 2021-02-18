@@ -513,7 +513,10 @@
   "region_id": 1,
   "shape": "tentacles",
   "species": "Jellyfish Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/72.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/72.png"
+  },
   "stats": [
     {
       "name": "hp",

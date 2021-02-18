@@ -433,7 +433,10 @@
   "region_id": 4,
   "shape": "arms",
   "species": "Snow Land Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/478.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/478.png"
+  },
   "stats": [
     {
       "name": "hp",

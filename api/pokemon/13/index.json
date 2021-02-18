@@ -106,7 +106,10 @@
   "region_id": 1,
   "shape": "armor",
   "species": "Hairy Bug Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/13.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/13.png"
+  },
   "stats": [
     {
       "name": "hp",

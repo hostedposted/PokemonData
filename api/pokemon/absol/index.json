@@ -630,7 +630,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Disaster Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/359.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/359.png"
+  },
   "stats": [
     {
       "name": "hp",

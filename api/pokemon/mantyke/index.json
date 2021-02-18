@@ -411,7 +411,10 @@
   "region_id": 4,
   "shape": "wings",
   "species": "Kite Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/458.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/458.png"
+  },
   "stats": [
     {
       "name": "hp",

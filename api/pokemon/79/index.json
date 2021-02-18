@@ -594,7 +594,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Dopey Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/79.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/79.png"
+  },
   "stats": [
     {
       "name": "hp",

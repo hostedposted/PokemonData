@@ -373,7 +373,10 @@
   "region_id": 3,
   "shape": "fish",
   "species": "Rendezvous Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/370.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/370.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -511,7 +511,10 @@
   "region_id": 6,
   "shape": "upright",
   "species": "Playful Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/674.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/674.png"
+  },
   "stats": [
     {
       "name": "hp",

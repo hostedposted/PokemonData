@@ -561,7 +561,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Big Jaw Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/160.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/160.png"
+  },
   "stats": [
     {
       "name": "hp",

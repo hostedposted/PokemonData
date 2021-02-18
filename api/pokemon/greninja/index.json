@@ -428,7 +428,10 @@
   "region_id": 6,
   "shape": "humanoid",
   "species": "Ninja Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/658.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/658.png"
+  },
   "stats": [
     {
       "name": "hp",

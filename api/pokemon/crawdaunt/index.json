@@ -485,7 +485,10 @@
   "region_id": 3,
   "shape": "armor",
   "species": "Rogue Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/342.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/342.png"
+  },
   "stats": [
     {
       "name": "hp",

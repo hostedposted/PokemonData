@@ -397,7 +397,10 @@
   "region_id": 6,
   "shape": "blob",
   "species": "Pumpkin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/711.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/711.png"
+  },
   "stats": [
     {
       "name": "hp",

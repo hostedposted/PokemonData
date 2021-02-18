@@ -450,7 +450,10 @@
   "region_id": 3,
   "shape": "legs",
   "species": "Chick Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/255.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/255.png"
+  },
   "stats": [
     {
       "name": "hp",

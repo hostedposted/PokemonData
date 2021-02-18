@@ -302,7 +302,10 @@
   "region_id": 7,
   "shape": "blob",
   "species": "Illuminating Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/755.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/755.png"
+  },
   "stats": [
     {
       "name": "hp",

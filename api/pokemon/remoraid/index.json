@@ -451,7 +451,10 @@
   "region_id": 2,
   "shape": "fish",
   "species": "Jet Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/223.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/223.png"
+  },
   "stats": [
     {
       "name": "hp",

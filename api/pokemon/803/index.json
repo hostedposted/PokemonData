@@ -200,7 +200,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Poison Pin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/803.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/803.png"
+  },
   "stats": [
     {
       "name": "hp",

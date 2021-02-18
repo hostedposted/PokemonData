@@ -476,7 +476,10 @@
   "region_id": 3,
   "shape": "wings",
   "species": "Humming Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/334.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/334.png"
+  },
   "stats": [
     {
       "name": "hp",

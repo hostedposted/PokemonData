@@ -441,7 +441,10 @@
   "region_id": 3,
   "shape": "arms",
   "species": "Bounce Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/325.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/325.png"
+  },
   "stats": [
     {
       "name": "hp",

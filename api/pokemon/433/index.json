@@ -443,7 +443,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Bell Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/433.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/433.png"
+  },
   "stats": [
     {
       "name": "hp",

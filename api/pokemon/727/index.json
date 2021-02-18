@@ -389,7 +389,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Heel Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/727.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/727.png"
+  },
   "stats": [
     {
       "name": "hp",

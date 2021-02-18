@@ -372,7 +372,10 @@
   "region_id": 7,
   "shape": "squiggle",
   "species": "Disguise Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/778.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/778.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -291,7 +291,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Donkey Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/749.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/749.png"
+  },
   "stats": [
     {
       "name": "hp",

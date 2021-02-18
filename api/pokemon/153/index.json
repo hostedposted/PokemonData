@@ -376,7 +376,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Leaf Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/153.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/153.png"
+  },
   "stats": [
     {
       "name": "hp",

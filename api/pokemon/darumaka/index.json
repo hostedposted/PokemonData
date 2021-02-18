@@ -398,7 +398,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Zen Charm Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/554.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/554.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -392,7 +392,10 @@
   "region_id": 6,
   "shape": "upright",
   "species": "Royal Heir Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/696.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/696.png"
+  },
   "stats": [
     {
       "name": "hp",

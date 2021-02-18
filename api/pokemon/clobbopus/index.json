@@ -229,7 +229,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "tentacles",
-  "sprites": {},
+  "species": "Tantrum Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/852.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/852.png"
+  },
   "stats": [
     {
       "name": "hp",

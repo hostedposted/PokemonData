@@ -103,7 +103,10 @@
   "region_id": 6,
   "shape": "blob",
   "species": "Scatterdust Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/665.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/665.png"
+  },
   "stats": [
     {
       "name": "hp",

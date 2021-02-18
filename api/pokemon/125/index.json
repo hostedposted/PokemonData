@@ -508,7 +508,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Electric Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/125.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/125.png"
+  },
   "stats": [
     {
       "name": "hp",

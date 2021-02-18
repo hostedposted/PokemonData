@@ -388,7 +388,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Scaly Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/784.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/784.png"
+  },
   "stats": [
     {
       "name": "hp",

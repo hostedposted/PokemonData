@@ -631,7 +631,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Flame Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/6.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/6.png"
+  },
   "stats": [
     {
       "name": "hp",

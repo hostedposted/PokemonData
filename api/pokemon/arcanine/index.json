@@ -453,7 +453,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Legendary Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/59.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/59.png"
+  },
   "stats": [
     {
       "name": "hp",

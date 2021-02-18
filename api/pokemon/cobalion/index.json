@@ -366,7 +366,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Iron Will Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/638.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/638.png"
+  },
   "stats": [
     {
       "name": "hp",

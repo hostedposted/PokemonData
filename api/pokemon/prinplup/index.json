@@ -408,7 +408,10 @@
   "region_id": 4,
   "shape": "upright",
   "species": "Penguin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/394.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/394.png"
+  },
   "stats": [
     {
       "name": "hp",

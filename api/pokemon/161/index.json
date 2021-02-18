@@ -529,7 +529,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Scout Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/161.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/161.png"
+  },
   "stats": [
     {
       "name": "hp",

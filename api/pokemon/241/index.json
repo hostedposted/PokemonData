@@ -555,7 +555,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Milk Cow Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/241.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/241.png"
+  },
   "stats": [
     {
       "name": "hp",

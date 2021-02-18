@@ -335,7 +335,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Gratitude Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/492.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/492.png"
+  },
   "stats": [
     {
       "name": "hp",

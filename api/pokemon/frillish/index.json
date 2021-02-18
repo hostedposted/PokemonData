@@ -405,7 +405,10 @@
   "region_id": 5,
   "shape": "tentacles",
   "species": "Floating Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/592.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/592.png"
+  },
   "stats": [
     {
       "name": "hp",

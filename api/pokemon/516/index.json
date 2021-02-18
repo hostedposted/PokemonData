@@ -411,7 +411,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Geyser Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/516.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/516.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -366,7 +366,10 @@
   "region_id": 3,
   "shape": "squiggle",
   "species": "South Sea Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/368.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/368.png"
+  },
   "stats": [
     {
       "name": "hp",

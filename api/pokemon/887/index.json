@@ -317,7 +317,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Stealth Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/887.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/887.png"
+  },
   "stats": [
     {
       "name": "hp",

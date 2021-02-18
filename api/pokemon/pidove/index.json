@@ -317,7 +317,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Tiny Pigeon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/519.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/519.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -282,7 +282,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Fireworks Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/806.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/806.png"
+  },
   "stats": [
     {
       "name": "hp",

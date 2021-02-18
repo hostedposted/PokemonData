@@ -304,7 +304,10 @@
   "region_id": 7,
   "shape": "blob",
   "species": "Brutal Star Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/747.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/747.png"
+  },
   "stats": [
     {
       "name": "hp",

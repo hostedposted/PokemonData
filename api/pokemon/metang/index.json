@@ -479,7 +479,10 @@
   "region_id": 3,
   "shape": "arms",
   "species": "Iron Claw Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/375.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/375.png"
+  },
   "stats": [
     {
       "name": "hp",

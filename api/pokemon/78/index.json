@@ -414,7 +414,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Fire Horse Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/78.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/78.png"
+  },
   "stats": [
     {
       "name": "hp",

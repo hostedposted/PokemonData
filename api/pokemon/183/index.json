@@ -510,7 +510,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Aqua Mouse Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/183.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/183.png"
+  },
   "stats": [
     {
       "name": "hp",

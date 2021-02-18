@@ -563,7 +563,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Classy Cat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/53.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/53.png"
+  },
   "stats": [
     {
       "name": "hp",

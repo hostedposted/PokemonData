@@ -443,7 +443,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Avianoid Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/561.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/561.png"
+  },
   "stats": [
     {
       "name": "hp",

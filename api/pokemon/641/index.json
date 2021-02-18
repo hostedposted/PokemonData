@@ -394,7 +394,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Cyclone Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/641.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/641.png"
+  },
   "stats": [
     {
       "name": "hp",

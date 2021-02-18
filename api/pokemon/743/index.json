@@ -317,7 +317,10 @@
   "region_id": 7,
   "shape": "bug-wings",
   "species": "Bee Fly Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/743.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/743.png"
+  },
   "stats": [
     {
       "name": "hp",

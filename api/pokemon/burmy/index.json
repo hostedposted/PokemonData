@@ -115,7 +115,10 @@
   "region_id": 4,
   "shape": "blob",
   "species": "Bagworm Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/412.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/412.png"
+  },
   "stats": [
     {
       "name": "hp",

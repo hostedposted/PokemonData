@@ -429,7 +429,10 @@
   "region_id": 5,
   "shape": "fish",
   "species": "Trap Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/618.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/618.png"
+  },
   "stats": [
     {
       "name": "hp",

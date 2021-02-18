@@ -99,7 +99,10 @@
   "region_id": 1,
   "shape": "ball",
   "species": "Transform Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/132.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/132.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -500,7 +500,10 @@
   "region_id": 3,
   "shape": "arms",
   "species": "Wind Chime Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/358.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/358.png"
+  },
   "stats": [
     {
       "name": "hp",

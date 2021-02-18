@@ -335,7 +335,10 @@
   "region_id": 5,
   "shape": "tentacles",
   "species": "Compressed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/526.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/526.png"
+  },
   "stats": [
     {
       "name": "hp",

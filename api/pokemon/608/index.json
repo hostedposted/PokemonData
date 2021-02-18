@@ -378,7 +378,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Lamp Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/608.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/608.png"
+  },
   "stats": [
     {
       "name": "hp",

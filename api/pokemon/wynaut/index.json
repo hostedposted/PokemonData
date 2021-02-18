@@ -116,7 +116,10 @@
   "region_id": 3,
   "shape": "upright",
   "species": "Bright Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/360.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/360.png"
+  },
   "stats": [
     {
       "name": "hp",

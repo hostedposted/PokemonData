@@ -86,7 +86,10 @@
   "region_id": 7,
   "shape": "ball",
   "species": "Nebula Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/789.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/789.png"
+  },
   "stats": [
     {
       "name": "hp",

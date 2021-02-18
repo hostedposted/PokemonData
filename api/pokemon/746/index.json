@@ -300,7 +300,10 @@
   "region_id": 7,
   "shape": "fish",
   "species": "Small Fry Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/746.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/746.png"
+  },
   "stats": [
     {
       "name": "hp",

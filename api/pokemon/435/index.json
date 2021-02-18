@@ -421,7 +421,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Skunk Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/435.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/435.png"
+  },
   "stats": [
     {
       "name": "hp",

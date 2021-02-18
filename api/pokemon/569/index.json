@@ -364,7 +364,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Trash Heap Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/569.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/569.png"
+  },
   "stats": [
     {
       "name": "hp",

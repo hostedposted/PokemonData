@@ -417,7 +417,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Vibration Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/537.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/537.png"
+  },
   "stats": [
     {
       "name": "hp",

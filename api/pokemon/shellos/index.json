@@ -383,7 +383,10 @@
   "region_id": 4,
   "shape": "squiggle",
   "species": "Sea Slug Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/422.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/422.png"
+  },
   "stats": [
     {
       "name": "hp",

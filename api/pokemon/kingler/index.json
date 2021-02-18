@@ -460,7 +460,10 @@
   "region_id": 1,
   "shape": "armor",
   "species": "Pincer Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/99.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/99.png"
+  },
   "stats": [
     {
       "name": "hp",

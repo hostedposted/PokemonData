@@ -456,7 +456,10 @@
   "region_id": 3,
   "shape": "arms",
   "species": "Requiem Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/355.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/355.png"
+  },
   "stats": [
     {
       "name": "hp",

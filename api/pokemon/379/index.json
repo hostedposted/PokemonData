@@ -463,7 +463,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Iron Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/379.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/379.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -318,7 +318,10 @@
   "region_id": 6,
   "shape": "wings",
   "species": "Ember Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/662.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/662.png"
+  },
   "stats": [
     {
       "name": "hp",

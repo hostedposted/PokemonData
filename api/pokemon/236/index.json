@@ -386,7 +386,10 @@
   "region_id": 2,
   "shape": "humanoid",
   "species": "Scuffle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/236.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/236.png"
+  },
   "stats": [
     {
       "name": "hp",

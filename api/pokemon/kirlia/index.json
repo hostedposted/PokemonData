@@ -511,7 +511,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Emotion Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/281.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/281.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -401,7 +401,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Bash Buffalo Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/626.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/626.png"
+  },
   "stats": [
     {
       "name": "hp",

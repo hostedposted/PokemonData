@@ -378,7 +378,10 @@
   "region_id": 7,
   "shape": "arms",
   "species": "Land Spirit Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/787.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/787.png"
+  },
   "stats": [
     {
       "name": "hp",

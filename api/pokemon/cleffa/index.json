@@ -578,7 +578,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Star Shape Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/173.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/173.png"
+  },
   "stats": [
     {
       "name": "hp",

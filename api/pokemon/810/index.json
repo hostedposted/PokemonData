@@ -265,7 +265,11 @@
   "region": "alola",
   "region_id": 7,
   "shape": "upright",
-  "sprites": {},
+  "species": "Chimp Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/810.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/810.png"
+  },
   "stats": [
     {
       "name": "hp",

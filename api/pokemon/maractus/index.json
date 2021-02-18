@@ -366,7 +366,10 @@
   "region_id": 5,
   "shape": "blob",
   "species": "Cactus Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/556.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/556.png"
+  },
   "stats": [
     {
       "name": "hp",

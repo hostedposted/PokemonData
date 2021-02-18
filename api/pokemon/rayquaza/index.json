@@ -526,7 +526,10 @@
   "region_id": 3,
   "shape": "squiggle",
   "species": "Sky High Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/384.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/384.png"
+  },
   "stats": [
     {
       "name": "hp",

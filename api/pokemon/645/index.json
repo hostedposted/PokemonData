@@ -374,7 +374,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Abundance Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/645.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/645.png"
+  },
   "stats": [
     {
       "name": "hp",

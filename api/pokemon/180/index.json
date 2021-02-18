@@ -436,7 +436,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Wool Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/180.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/180.png"
+  },
   "stats": [
     {
       "name": "hp",

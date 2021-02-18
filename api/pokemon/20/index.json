@@ -503,7 +503,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Mouse Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/20.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/20.png"
+  },
   "stats": [
     {
       "name": "hp",

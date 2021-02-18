@@ -318,7 +318,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "blob",
-  "sprites": {},
+  "species": "Grudge Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/867.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/867.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -514,7 +514,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Melody Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/648.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/648.png"
+  },
   "stats": [
     {
       "name": "hp",

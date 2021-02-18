@@ -230,7 +230,11 @@
   "region": "alola",
   "region_id": 7,
   "shape": "upright",
-  "sprites": {},
+  "species": "Rabbit Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/813.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/813.png"
+  },
   "stats": [
     {
       "name": "hp",

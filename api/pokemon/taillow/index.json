@@ -384,7 +384,10 @@
   "region_id": 3,
   "shape": "wings",
   "species": "Tiny Swallow Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/276.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/276.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -419,7 +419,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Bite Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/262.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/262.png"
+  },
   "stats": [
     {
       "name": "hp",

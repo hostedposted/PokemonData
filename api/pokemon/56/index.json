@@ -653,7 +653,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Pig Monkey Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/56.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/56.png"
+  },
   "stats": [
     {
       "name": "hp",

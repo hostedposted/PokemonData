@@ -340,7 +340,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Cavalry Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/589.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/589.png"
+  },
   "stats": [
     {
       "name": "hp",

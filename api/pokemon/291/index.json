@@ -392,7 +392,10 @@
   "region_id": 3,
   "shape": "bug-wings",
   "species": "Ninja Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/291.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/291.png"
+  },
   "stats": [
     {
       "name": "hp",

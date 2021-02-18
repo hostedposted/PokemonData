@@ -476,7 +476,10 @@
   "region_id": 1,
   "shape": "legs",
   "species": "Virtual Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/137.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/137.png"
+  },
   "stats": [
     {
       "name": "hp",

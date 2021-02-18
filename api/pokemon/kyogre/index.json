@@ -404,7 +404,10 @@
   "region_id": 3,
   "shape": "fish",
   "species": "Sea Basin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/382.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/382.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -362,7 +362,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Sewing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/540.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/540.png"
+  },
   "stats": [
     {
       "name": "hp",

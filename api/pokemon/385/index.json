@@ -499,7 +499,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Wish Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/385.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/385.png"
+  },
   "stats": [
     {
       "name": "hp",

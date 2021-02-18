@@ -383,7 +383,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Muscular Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/533.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/533.png"
+  },
   "stats": [
     {
       "name": "hp",

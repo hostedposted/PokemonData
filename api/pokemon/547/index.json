@@ -355,7 +355,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Windveiled Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/547.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/547.png"
+  },
   "stats": [
     {
       "name": "hp",

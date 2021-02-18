@@ -433,7 +433,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Evolution Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/133.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/133.png"
+  },
   "stats": [
     {
       "name": "hp",

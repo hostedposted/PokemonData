@@ -299,7 +299,10 @@
   "region_id": 7,
   "shape": "tentacles",
   "species": "Brutal Star Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/748.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/748.png"
+  },
   "stats": [
     {
       "name": "hp",

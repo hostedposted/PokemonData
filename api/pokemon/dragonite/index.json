@@ -659,7 +659,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Dragon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/149.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/149.png"
+  },
   "stats": [
     {
       "name": "hp",

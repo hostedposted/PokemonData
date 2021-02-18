@@ -366,7 +366,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Grassland Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/640.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/640.png"
+  },
   "stats": [
     {
       "name": "hp",

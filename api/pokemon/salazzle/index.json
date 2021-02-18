@@ -321,7 +321,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Toxic Lizard Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/758.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/758.png"
+  },
   "stats": [
     {
       "name": "hp",

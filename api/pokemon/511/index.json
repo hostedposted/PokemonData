@@ -441,7 +441,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Grass Monkey Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/511.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/511.png"
+  },
   "stats": [
     {
       "name": "hp",

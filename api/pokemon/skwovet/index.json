@@ -236,7 +236,11 @@
   "region": "alola",
   "region_id": 7,
   "shape": "upright",
-  "sprites": {},
+  "species": "Cheeky Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/819.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/819.png"
+  },
   "stats": [
     {
       "name": "hp",

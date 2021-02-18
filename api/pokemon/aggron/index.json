@@ -633,7 +633,10 @@
   "region_id": 3,
   "shape": "upright",
   "species": "Iron Armor Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/306.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/306.png"
+  },
   "stats": [
     {
       "name": "hp",

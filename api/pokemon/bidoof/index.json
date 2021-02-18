@@ -437,7 +437,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Plump Mouse Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/399.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/399.png"
+  },
   "stats": [
     {
       "name": "hp",

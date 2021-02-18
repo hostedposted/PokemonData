@@ -555,7 +555,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Superpower Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/68.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/68.png"
+  },
   "stats": [
     {
       "name": "hp",

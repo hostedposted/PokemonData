@@ -659,7 +659,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Balloon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/39.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/39.png"
+  },
   "stats": [
     {
       "name": "hp",

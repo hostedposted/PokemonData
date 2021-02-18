@@ -345,7 +345,10 @@
   "region_id": 4,
   "shape": "heads",
   "species": "Cherry Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/420.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/420.png"
+  },
   "stats": [
     {
       "name": "hp",

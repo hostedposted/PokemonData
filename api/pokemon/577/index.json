@@ -416,7 +416,10 @@
   "region_id": 5,
   "shape": "ball",
   "species": "Cell Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/577.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/577.png"
+  },
   "stats": [
     {
       "name": "hp",

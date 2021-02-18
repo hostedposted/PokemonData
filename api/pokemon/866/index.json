@@ -422,7 +422,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "humanoid",
-  "sprites": {},
+  "species": "Comedian Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/866.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/866.png"
+  },
   "stats": [
     {
       "name": "hp",

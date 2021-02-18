@@ -495,7 +495,10 @@
   "region_id": 1,
   "shape": "arms",
   "species": "Gas Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/93.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/93.png"
+  },
   "stats": [
     {
       "name": "hp",

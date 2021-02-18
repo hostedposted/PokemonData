@@ -413,7 +413,10 @@
   "region_id": 5,
   "shape": "blob",
   "species": "Candle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/607.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/607.png"
+  },
   "stats": [
     {
       "name": "hp",

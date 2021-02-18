@@ -464,7 +464,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Moonlight Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/197.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/197.png"
+  },
   "stats": [
     {
       "name": "hp",

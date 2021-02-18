@@ -425,7 +425,10 @@
   "region_id": 1,
   "shape": "heads",
   "species": "Mole Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/51.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/51.png"
+  },
   "stats": [
     {
       "name": "hp",

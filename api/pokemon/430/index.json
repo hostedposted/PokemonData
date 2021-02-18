@@ -422,7 +422,10 @@
   "region_id": 4,
   "shape": "wings",
   "species": "Big Boss Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/430.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/430.png"
+  },
   "stats": [
     {
       "name": "hp",

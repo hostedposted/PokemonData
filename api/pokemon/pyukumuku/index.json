@@ -260,7 +260,10 @@
   "region_id": 7,
   "shape": "squiggle",
   "species": "Sea Cucumber Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/771.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/771.png"
+  },
   "stats": [
     {
       "name": "hp",

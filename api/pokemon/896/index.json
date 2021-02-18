@@ -229,7 +229,10 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Wild Horse Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/896.png"
+  },
   "stats": [
     {
       "name": "hp",

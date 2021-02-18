@@ -424,7 +424,10 @@
   "region_id": 3,
   "shape": "fish",
   "species": "Ball Whale Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/320.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/320.png"
+  },
   "stats": [
     {
       "name": "hp",

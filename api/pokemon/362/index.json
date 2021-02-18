@@ -405,7 +405,10 @@
   "region_id": 3,
   "shape": "ball",
   "species": "Face Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/362.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/362.png"
+  },
   "stats": [
     {
       "name": "hp",

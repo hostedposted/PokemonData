@@ -571,7 +571,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Psi Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/63.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/63.png"
+  },
   "stats": [
     {
       "name": "hp",

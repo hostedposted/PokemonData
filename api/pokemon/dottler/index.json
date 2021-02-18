@@ -212,7 +212,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "armor",
-  "sprites": {},
+  "species": "Radome Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/825.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/825.png"
+  },
   "stats": [
     {
       "name": "hp",

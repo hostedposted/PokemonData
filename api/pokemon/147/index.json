@@ -479,7 +479,10 @@
   "region_id": 1,
   "shape": "squiggle",
   "species": "Dragon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/147.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/147.png"
+  },
   "stats": [
     {
       "name": "hp",

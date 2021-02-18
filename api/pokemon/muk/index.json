@@ -504,7 +504,10 @@
   "region_id": 1,
   "shape": "arms",
   "species": "Sludge Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/89.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/89.png"
+  },
   "stats": [
     {
       "name": "hp",

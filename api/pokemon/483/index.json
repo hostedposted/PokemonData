@@ -476,7 +476,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Temporal Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/483.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/483.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -334,7 +334,10 @@
   "region_id": 7,
   "shape": "wings",
   "species": "Grass Quill Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/722.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/722.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -220,7 +220,11 @@
   "region": "alola",
   "region_id": 7,
   "shape": "upright",
-  "sprites": {},
+  "species": "Water lizard Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/817.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/817.png"
+  },
   "stats": [
     {
       "name": "hp",

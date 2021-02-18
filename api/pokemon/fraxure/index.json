@@ -372,7 +372,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Axe Jaw Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/611.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/611.png"
+  },
   "stats": [
     {
       "name": "hp",

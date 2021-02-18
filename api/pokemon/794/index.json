@@ -314,7 +314,10 @@
   "region_id": 7,
   "shape": "tentacles",
   "species": "Swollen Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/794.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/794.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -340,7 +340,10 @@
   "region_id": 7,
   "shape": "fish",
   "species": "Soloist Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/730.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/730.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -487,7 +487,10 @@
   "region_id": 3,
   "shape": "upright",
   "species": "Wild Monkey Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/288.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/288.png"
+  },
   "stats": [
     {
       "name": "hp",

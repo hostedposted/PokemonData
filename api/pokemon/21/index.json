@@ -434,7 +434,10 @@
   "region_id": 1,
   "shape": "wings",
   "species": "Tiny Bird Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/21.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/21.png"
+  },
   "stats": [
     {
       "name": "hp",

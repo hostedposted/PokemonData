@@ -413,7 +413,10 @@
   "region_id": 4,
   "shape": "ball",
   "species": "Bronze Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/436.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/436.png"
+  },
   "stats": [
     {
       "name": "hp",

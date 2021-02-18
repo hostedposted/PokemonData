@@ -302,7 +302,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "arms",
-  "sprites": {},
+  "species": "Coral Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/864.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/864.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -479,7 +479,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Seed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/1.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/1.png"
+  },
   "stats": [
     {
       "name": "hp",

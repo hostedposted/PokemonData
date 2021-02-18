@@ -371,7 +371,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Drowsing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/518.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/518.png"
+  },
   "stats": [
     {
       "name": "hp",

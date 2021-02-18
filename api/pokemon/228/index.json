@@ -490,7 +490,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Dark Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/228.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/228.png"
+  },
   "stats": [
     {
       "name": "hp",

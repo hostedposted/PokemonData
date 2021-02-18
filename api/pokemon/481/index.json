@@ -449,7 +449,10 @@
   "region_id": 4,
   "shape": "upright",
   "species": "Emotion Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/481.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/481.png"
+  },
   "stats": [
     {
       "name": "hp",

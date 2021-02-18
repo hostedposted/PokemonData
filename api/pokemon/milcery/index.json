@@ -197,7 +197,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "ball",
-  "sprites": {},
+  "species": "Cream Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/868.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/868.png"
+  },
   "stats": [
     {
       "name": "hp",

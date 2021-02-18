@@ -365,7 +365,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Iron Ant Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/632.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/632.png"
+  },
   "stats": [
     {
       "name": "hp",

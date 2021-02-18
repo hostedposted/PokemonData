@@ -352,7 +352,10 @@
   "region_id": 6,
   "shape": "squiggle",
   "species": "Howitzer Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/693.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/693.png"
+  },
   "stats": [
     {
       "name": "hp",

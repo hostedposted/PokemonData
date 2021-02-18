@@ -669,7 +669,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Hermit Crab Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/80.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/80.png"
+  },
   "stats": [
     {
       "name": "hp",

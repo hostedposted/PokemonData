@@ -251,7 +251,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "legs",
-  "sprites": {},
+  "species": "Big Rock Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/874.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/874.png"
+  },
   "stats": [
     {
       "name": "hp",

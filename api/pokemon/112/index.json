@@ -664,7 +664,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Drill Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/112.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/112.png"
+  },
   "stats": [
     {
       "name": "hp",

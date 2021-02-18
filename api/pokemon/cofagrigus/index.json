@@ -391,7 +391,10 @@
   "region_id": 5,
   "shape": "blob",
   "species": "Coffin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/563.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/563.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -318,7 +318,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Loitering Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/734.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/734.png"
+  },
   "stats": [
     {
       "name": "hp",

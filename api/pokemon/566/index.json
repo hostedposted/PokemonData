@@ -423,7 +423,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "First Bird Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/566.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/566.png"
+  },
   "stats": [
     {
       "name": "hp",

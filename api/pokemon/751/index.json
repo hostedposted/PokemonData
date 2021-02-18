@@ -300,7 +300,10 @@
   "region_id": 7,
   "shape": "legs",
   "species": "Water Bubble Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/751.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/751.png"
+  },
   "stats": [
     {
       "name": "hp",

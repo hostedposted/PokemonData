@@ -571,7 +571,10 @@
   "region_id": 6,
   "shape": "humanoid",
   "species": "Daunting Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/675.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/675.png"
+  },
   "stats": [
     {
       "name": "hp",

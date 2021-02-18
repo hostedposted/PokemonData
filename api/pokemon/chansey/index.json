@@ -720,7 +720,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Egg Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/113.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/113.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -322,7 +322,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Strong Arm Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/760.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/760.png"
+  },
   "stats": [
     {
       "name": "hp",

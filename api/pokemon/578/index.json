@@ -391,7 +391,10 @@
   "region_id": 5,
   "shape": "ball",
   "species": "Mitosis Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/578.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/578.png"
+  },
   "stats": [
     {
       "name": "hp",

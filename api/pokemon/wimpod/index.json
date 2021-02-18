@@ -225,7 +225,10 @@
   "region_id": 7,
   "shape": "tentacles",
   "species": "Turn Tail Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/767.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/767.png"
+  },
   "stats": [
     {
       "name": "hp",

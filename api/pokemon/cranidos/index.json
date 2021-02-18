@@ -480,7 +480,10 @@
   "region_id": 4,
   "shape": "upright",
   "species": "Head Butt Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/408.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/408.png"
+  },
   "stats": [
     {
       "name": "hp",

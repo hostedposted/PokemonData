@@ -630,7 +630,10 @@
   "region_id": 3,
   "shape": "upright",
   "species": "Color Swap Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/352.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/352.png"
+  },
   "stats": [
     {
       "name": "hp",

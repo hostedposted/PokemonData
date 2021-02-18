@@ -463,7 +463,10 @@
   "region_id": 4,
   "shape": "armor",
   "species": "Scorpion Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/451.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/451.png"
+  },
   "stats": [
     {
       "name": "hp",

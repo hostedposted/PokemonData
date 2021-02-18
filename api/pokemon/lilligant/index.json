@@ -327,7 +327,10 @@
   "region_id": 5,
   "shape": "blob",
   "species": "Flowering Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/549.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/549.png"
+  },
   "stats": [
     {
       "name": "hp",

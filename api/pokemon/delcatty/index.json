@@ -432,7 +432,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Prim Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/301.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/301.png"
+  },
   "stats": [
     {
       "name": "hp",

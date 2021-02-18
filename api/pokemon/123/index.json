@@ -467,7 +467,10 @@
   "region_id": 1,
   "shape": "bug-wings",
   "species": "Mantis Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/123.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/123.png"
+  },
   "stats": [
     {
       "name": "hp",

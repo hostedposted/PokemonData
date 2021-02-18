@@ -448,7 +448,10 @@
   "region_id": 6,
   "shape": "upright",
   "species": "Fox Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/655.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/655.png"
+  },
   "stats": [
     {
       "name": "hp",

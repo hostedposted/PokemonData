@@ -361,7 +361,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Sunne Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/791.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/791.png"
+  },
   "stats": [
     {
       "name": "hp",

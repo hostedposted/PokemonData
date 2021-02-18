@@ -305,7 +305,10 @@
   "region_id": 4,
   "shape": "legs",
   "species": "Blossom Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/421.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/421.png"
+  },
   "stats": [
     {
       "name": "hp",

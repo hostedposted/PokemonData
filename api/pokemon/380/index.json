@@ -554,7 +554,10 @@
   "region_id": 3,
   "shape": "wings",
   "species": "Eon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/380.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/380.png"
+  },
   "stats": [
     {
       "name": "hp",

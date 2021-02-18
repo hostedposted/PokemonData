@@ -234,7 +234,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Dog Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/836.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/836.png"
+  },
   "stats": [
     {
       "name": "hp",

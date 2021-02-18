@@ -209,7 +209,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Snapping Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/833.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/833.png"
+  },
   "stats": [
     {
       "name": "hp",

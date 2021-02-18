@@ -534,7 +534,10 @@
   "region_id": 2,
   "shape": "squiggle",
   "species": "Land Snake Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/206.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/206.png"
+  },
   "stats": [
     {
       "name": "hp",

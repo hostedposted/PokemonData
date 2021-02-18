@@ -439,7 +439,10 @@
   "region_id": 3,
   "shape": "bug-wings",
   "species": "Vibration Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/329.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/329.png"
+  },
   "stats": [
     {
       "name": "hp",

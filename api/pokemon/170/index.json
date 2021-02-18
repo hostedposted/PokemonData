@@ -440,7 +440,10 @@
   "region_id": 2,
   "shape": "fish",
   "species": "Angler Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/170.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/170.png"
+  },
   "stats": [
     {
       "name": "hp",

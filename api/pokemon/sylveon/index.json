@@ -359,7 +359,10 @@
   "region_id": 6,
   "shape": "quadruped",
   "species": "Intertwining Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/700.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/700.png"
+  },
   "stats": [
     {
       "name": "hp",

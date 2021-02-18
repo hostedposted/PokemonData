@@ -86,7 +86,10 @@
   "region_id": 7,
   "shape": "ball",
   "species": "Protostar Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/790.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/790.png"
+  },
   "stats": [
     {
       "name": "hp",

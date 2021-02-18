@@ -404,7 +404,10 @@
   "region_id": 1,
   "shape": "heads",
   "species": "Poison Gas Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/110.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/110.png"
+  },
   "stats": [
     {
       "name": "hp",

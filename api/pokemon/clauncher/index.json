@@ -327,7 +327,10 @@
   "region_id": 6,
   "shape": "armor",
   "species": "Water Gun Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/692.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/692.png"
+  },
   "stats": [
     {
       "name": "hp",

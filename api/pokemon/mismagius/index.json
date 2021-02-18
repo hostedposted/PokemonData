@@ -442,7 +442,10 @@
   "region_id": 4,
   "shape": "ball",
   "species": "Magical Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/429.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/429.png"
+  },
   "stats": [
     {
       "name": "hp",

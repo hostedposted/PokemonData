@@ -355,7 +355,10 @@
   "region_id": 7,
   "shape": "ball",
   "species": "Posy Picker Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/764.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/764.png"
+  },
   "stats": [
     {
       "name": "hp",

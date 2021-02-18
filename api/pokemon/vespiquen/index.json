@@ -405,7 +405,10 @@
   "region_id": 4,
   "shape": "bug-wings",
   "species": "Beehive Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/416.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/416.png"
+  },
   "stats": [
     {
       "name": "hp",

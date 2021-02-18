@@ -237,7 +237,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "legs",
-  "sprites": {},
+  "species": "Calm Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/856.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/856.png"
+  },
   "stats": [
     {
       "name": "hp",

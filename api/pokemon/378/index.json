@@ -456,7 +456,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Iceberg Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/378.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/378.png"
+  },
   "stats": [
     {
       "name": "hp",

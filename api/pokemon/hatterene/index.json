@@ -287,7 +287,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "blob",
-  "sprites": {},
+  "species": "Silent Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/858.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/858.png"
+  },
   "stats": [
     {
       "name": "hp",

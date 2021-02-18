@@ -304,7 +304,10 @@
   "region_id": 7,
   "shape": "quadruped",
   "species": "Fire Cat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/726.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/726.png"
+  },
   "stats": [
     {
       "name": "hp",

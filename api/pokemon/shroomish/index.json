@@ -348,7 +348,10 @@
   "region_id": 3,
   "shape": "legs",
   "species": "Mushroom Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/285.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/285.png"
+  },
   "stats": [
     {
       "name": "hp",

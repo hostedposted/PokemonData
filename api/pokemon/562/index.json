@@ -421,7 +421,10 @@
   "region_id": 5,
   "shape": "arms",
   "species": "Spirit Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/562.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/562.png"
+  },
   "stats": [
     {
       "name": "hp",

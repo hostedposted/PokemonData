@@ -563,7 +563,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Bone Keeper Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/105.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/105.png"
+  },
   "stats": [
     {
       "name": "hp",

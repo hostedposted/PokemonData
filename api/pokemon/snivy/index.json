@@ -413,7 +413,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Grass Snake Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/495.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/495.png"
+  },
   "stats": [
     {
       "name": "hp",

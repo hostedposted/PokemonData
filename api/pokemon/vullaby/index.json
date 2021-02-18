@@ -398,7 +398,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Diapered Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/629.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/629.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -419,7 +419,10 @@
   "region_id": 3,
   "shape": "fish",
   "species": "Savage Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/318.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/318.png"
+  },
   "stats": [
     {
       "name": "hp",

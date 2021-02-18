@@ -214,7 +214,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "tentacles",
-  "sprites": {},
+  "species": "Radiator Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/850.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/850.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -406,7 +406,10 @@
   "region_id": 6,
   "shape": "tentacles",
   "species": "Revolving Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/686.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/686.png"
+  },
   "stats": [
     {
       "name": "hp",

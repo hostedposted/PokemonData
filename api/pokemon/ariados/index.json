@@ -426,7 +426,10 @@
   "region_id": 2,
   "shape": "armor",
   "species": "Long Leg Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/168.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/168.png"
+  },
   "stats": [
     {
       "name": "hp",

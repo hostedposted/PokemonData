@@ -249,7 +249,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Fossil Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/880.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/880.png"
+  },
   "stats": [
     {
       "name": "hp",

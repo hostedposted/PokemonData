@@ -395,7 +395,10 @@
   "region_id": 4,
   "shape": "upright",
   "species": "Cave Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/444.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/444.png"
+  },
   "stats": [
     {
       "name": "hp",

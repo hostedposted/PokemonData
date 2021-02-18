@@ -238,7 +238,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Hex Nut Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/809.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/809.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -288,7 +288,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Sickle Grass Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/753.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/753.png"
+  },
   "stats": [
     {
       "name": "hp",

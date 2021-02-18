@@ -323,7 +323,10 @@
   "region_id": 7,
   "shape": "ball",
   "species": "Meteor Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/774.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/774.png"
+  },
   "stats": [
     {
       "name": "hp",

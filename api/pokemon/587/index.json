@@ -383,7 +383,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Sky Squirrel Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/587.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/587.png"
+  },
   "stats": [
     {
       "name": "hp",

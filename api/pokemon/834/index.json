@@ -294,7 +294,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Bite Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/834.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/834.png"
+  },
   "stats": [
     {
       "name": "hp",

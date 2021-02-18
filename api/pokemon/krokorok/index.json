@@ -429,7 +429,10 @@
   "region_id": 5,
   "shape": "quadruped",
   "species": "Desert Croc Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/552.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/552.png"
+  },
   "stats": [
     {
       "name": "hp",

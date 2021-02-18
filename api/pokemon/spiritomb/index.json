@@ -418,7 +418,10 @@
   "region_id": 4,
   "shape": "blob",
   "species": "Forbidden Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/442.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/442.png"
+  },
   "stats": [
     {
       "name": "hp",

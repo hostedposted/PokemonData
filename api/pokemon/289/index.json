@@ -522,7 +522,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Lazy Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/289.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/289.png"
+  },
   "stats": [
     {
       "name": "hp",

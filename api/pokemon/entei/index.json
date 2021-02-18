@@ -399,7 +399,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Volcano Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/244.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/244.png"
+  },
   "stats": [
     {
       "name": "hp",

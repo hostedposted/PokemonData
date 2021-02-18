@@ -345,7 +345,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Torch Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/636.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/636.png"
+  },
   "stats": [
     {
       "name": "hp",

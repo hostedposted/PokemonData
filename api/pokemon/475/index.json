@@ -619,7 +619,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Blade Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/475.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/475.png"
+  },
   "stats": [
     {
       "name": "hp",

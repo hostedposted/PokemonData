@@ -232,7 +232,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Fox Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/827.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/827.png"
+  },
   "stats": [
     {
       "name": "hp",

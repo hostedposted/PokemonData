@@ -393,7 +393,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Weed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/44.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/44.png"
+  },
   "stats": [
     {
       "name": "hp",

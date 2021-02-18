@@ -311,7 +311,10 @@
   "region_id": 7,
   "shape": "wings",
   "species": "Woodpecker Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/731.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/731.png"
+  },
   "stats": [
     {
       "name": "hp",

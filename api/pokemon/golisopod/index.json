@@ -370,7 +370,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Hard Scale Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/768.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/768.png"
+  },
   "stats": [
     {
       "name": "hp",

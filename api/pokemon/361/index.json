@@ -355,7 +355,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Snow Hat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/361.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/361.png"
+  },
   "stats": [
     {
       "name": "hp",

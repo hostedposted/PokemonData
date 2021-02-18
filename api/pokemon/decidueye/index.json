@@ -364,7 +364,10 @@
   "region_id": 7,
   "shape": "wings",
   "species": "Arrow Quill Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/724.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/724.png"
+  },
   "stats": [
     {
       "name": "hp",

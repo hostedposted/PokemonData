@@ -145,7 +145,10 @@
   "region_id": 4,
   "shape": "heads",
   "species": "Tiny Bee Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/415.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/415.png"
+  },
   "stats": [
     {
       "name": "hp",

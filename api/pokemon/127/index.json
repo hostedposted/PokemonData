@@ -505,7 +505,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Stag Beetle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/127.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/127.png"
+  },
   "stats": [
     {
       "name": "hp",

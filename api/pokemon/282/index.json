@@ -546,7 +546,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Embrace Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/282.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/282.png"
+  },
   "stats": [
     {
       "name": "hp",

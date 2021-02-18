@@ -479,7 +479,10 @@
   "region_id": 4,
   "shape": "wings",
   "species": "Fang Scorpion Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/472.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/472.png"
+  },
   "stats": [
     {
       "name": "hp",

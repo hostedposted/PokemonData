@@ -488,7 +488,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Scarecrow Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/332.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/332.png"
+  },
   "stats": [
     {
       "name": "hp",

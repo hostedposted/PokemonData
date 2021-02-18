@@ -469,7 +469,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Turtle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/8.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/8.png"
+  },
   "stats": [
     {
       "name": "hp",

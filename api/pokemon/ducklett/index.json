@@ -335,7 +335,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Water Bird Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/580.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/580.png"
+  },
   "stats": [
     {
       "name": "hp",

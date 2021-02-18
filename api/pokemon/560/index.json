@@ -475,7 +475,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Hoodlum Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/560.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/560.png"
+  },
   "stats": [
     {
       "name": "hp",

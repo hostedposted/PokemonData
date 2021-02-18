@@ -437,7 +437,10 @@
   "region_id": 6,
   "shape": "upright",
   "species": "Constraint Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/678.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/678.png"
+  },
   "stats": [
     {
       "name": "hp",

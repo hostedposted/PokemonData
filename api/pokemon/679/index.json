@@ -310,7 +310,10 @@
   "region_id": 6,
   "shape": "blob",
   "species": "Sword Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/679.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/679.png"
+  },
   "stats": [
     {
       "name": "hp",

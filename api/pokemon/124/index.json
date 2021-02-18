@@ -609,7 +609,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Human Shape Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/124.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/124.png"
+  },
   "stats": [
     {
       "name": "hp",

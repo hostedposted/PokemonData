@@ -423,7 +423,10 @@
   "region_id": 1,
   "shape": "arms",
   "species": "Magnet Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/81.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/81.png"
+  },
   "stats": [
     {
       "name": "hp",

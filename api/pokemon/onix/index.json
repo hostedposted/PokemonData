@@ -493,7 +493,10 @@
   "region_id": 1,
   "shape": "squiggle",
   "species": "Rock Snake Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/95.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/95.png"
+  },
   "stats": [
     {
       "name": "hp",

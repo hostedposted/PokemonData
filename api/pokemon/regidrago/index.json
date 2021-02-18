@@ -204,7 +204,10 @@
   "region": "galar",
   "region_id": 8,
   "shape": "humanoid",
-  "sprites": {},
+  "species": "Dragon Orb Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/895.png"
+  },
   "stats": [
     {
       "name": "hp",

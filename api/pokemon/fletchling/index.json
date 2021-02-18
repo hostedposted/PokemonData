@@ -298,7 +298,10 @@
   "region_id": 6,
   "shape": "wings",
   "species": "Tiny Robin Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/661.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/661.png"
+  },
   "stats": [
     {
       "name": "hp",

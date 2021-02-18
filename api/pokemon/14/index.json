@@ -106,7 +106,10 @@
   "region_id": 1,
   "shape": "squiggle",
   "species": "Cocoon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/14.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/14.png"
+  },
   "stats": [
     {
       "name": "hp",

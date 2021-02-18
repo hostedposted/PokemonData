@@ -417,7 +417,10 @@
   "region_id": 1,
   "shape": "legs",
   "species": "Twin Bird Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/84.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/84.png"
+  },
   "stats": [
     {
       "name": "hp",

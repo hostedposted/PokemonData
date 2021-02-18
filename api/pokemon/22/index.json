@@ -414,7 +414,10 @@
   "region_id": 1,
   "shape": "wings",
   "species": "Beak Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/22.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/22.png"
+  },
   "stats": [
     {
       "name": "hp",

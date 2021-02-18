@@ -310,7 +310,10 @@
   "region_id": 5,
   "shape": "tentacles",
   "species": "Ore Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/525.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/525.png"
+  },
   "stats": [
     {
       "name": "hp",

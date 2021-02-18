@@ -263,7 +263,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Viking Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/863.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/863.png"
+  },
   "stats": [
     {
       "name": "hp",

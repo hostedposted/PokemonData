@@ -340,7 +340,10 @@
   "region_id": 5,
   "shape": "legs",
   "species": "Mantle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/524.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/524.png"
+  },
   "stats": [
     {
       "name": "hp",

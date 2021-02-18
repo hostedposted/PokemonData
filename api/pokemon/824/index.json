@@ -107,7 +107,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "armor",
-  "sprites": {},
+  "species": "Larva Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/824.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/824.png"
+  },
   "stats": [
     {
       "name": "hp",

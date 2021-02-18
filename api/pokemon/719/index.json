@@ -370,7 +370,10 @@
   "region_id": 6,
   "shape": "arms",
   "species": "Jewel Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/719.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/719.png"
+  },
   "stats": [
     {
       "name": "hp",

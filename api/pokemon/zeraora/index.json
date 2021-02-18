@@ -297,7 +297,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Thunderclap Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/807.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/807.png"
+  },
   "stats": [
     {
       "name": "hp",

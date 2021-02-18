@@ -350,7 +350,10 @@
   "region_id": 5,
   "shape": "wings",
   "species": "Eaglet Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/627.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/627.png"
+  },
   "stats": [
     {
       "name": "hp",

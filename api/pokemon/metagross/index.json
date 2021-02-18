@@ -494,7 +494,10 @@
   "region_id": 3,
   "shape": "heads",
   "species": "Iron Leg Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/376.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/376.png"
+  },
   "stats": [
     {
       "name": "hp",

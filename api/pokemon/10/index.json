@@ -125,7 +125,10 @@
   "region_id": 1,
   "shape": "armor",
   "species": "Worm Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/10.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/10.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -342,7 +342,10 @@
   "region_id": 6,
   "shape": "legs",
   "species": "Cotton Candy Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/684.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/684.png"
+  },
   "stats": [
     {
       "name": "hp",

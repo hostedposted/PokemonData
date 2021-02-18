@@ -383,7 +383,10 @@
   "region_id": 3,
   "shape": "legs",
   "species": "Acorn Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/273.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/273.png"
+  },
   "stats": [
     {
       "name": "hp",

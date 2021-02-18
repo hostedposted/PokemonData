@@ -490,7 +490,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Pitch-Black Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/491.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/491.png"
+  },
   "stats": [
     {
       "name": "hp",

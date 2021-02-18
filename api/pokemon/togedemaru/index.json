@@ -351,7 +351,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Roly-Poly Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/777.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/777.png"
+  },
   "stats": [
     {
       "name": "hp",

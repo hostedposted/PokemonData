@@ -237,7 +237,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Wushu Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/891.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/891.png"
+  },
   "stats": [
     {
       "name": "hp",

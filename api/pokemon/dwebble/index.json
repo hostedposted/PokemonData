@@ -384,7 +384,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Rock Inn Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/557.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/557.png"
+  },
   "stats": [
     {
       "name": "hp",

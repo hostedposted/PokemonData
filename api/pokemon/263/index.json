@@ -486,7 +486,10 @@
   "region_id": 3,
   "shape": "quadruped",
   "species": "Tiny Raccoon Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/263.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/263.png"
+  },
   "stats": [
     {
       "name": "hp",

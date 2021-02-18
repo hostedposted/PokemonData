@@ -588,7 +588,10 @@
   "region_id": 1,
   "shape": "humanoid",
   "species": "Hypnosis Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/96.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/96.png"
+  },
   "stats": [
     {
       "name": "hp",

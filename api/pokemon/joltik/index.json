@@ -388,7 +388,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Attaching Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/595.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/595.png"
+  },
   "stats": [
     {
       "name": "hp",

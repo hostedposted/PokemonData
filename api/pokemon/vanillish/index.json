@@ -304,7 +304,10 @@
   "region_id": 5,
   "shape": "blob",
   "species": "Icy Snow Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/583.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/583.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -596,7 +596,10 @@
   "region_id": 1,
   "shape": "upright",
   "species": "Duck Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/55.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/55.png"
+  },
   "stats": [
     {
       "name": "hp",

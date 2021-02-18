@@ -431,7 +431,10 @@
   "region_id": 1,
   "shape": "legs",
   "species": "Tadpole Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/60.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/60.png"
+  },
   "stats": [
     {
       "name": "hp",

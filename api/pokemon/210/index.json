@@ -598,7 +598,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Fairy Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/210.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/210.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -461,7 +461,10 @@
   "region_id": 1,
   "shape": "bug-wings",
   "species": "Poison Moth Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/49.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/49.png"
+  },
   "stats": [
     {
       "name": "hp",

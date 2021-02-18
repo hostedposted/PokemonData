@@ -152,7 +152,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "upright",
-  "sprites": {},
+  "species": "Baby Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/848.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/848.png"
+  },
   "stats": [
     {
       "name": "hp",

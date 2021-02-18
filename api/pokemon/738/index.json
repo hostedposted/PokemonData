@@ -314,7 +314,10 @@
   "region_id": 7,
   "shape": "armor",
   "species": "Stag Beetle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/738.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/738.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -405,7 +405,10 @@
   "region_id": 3,
   "shape": "armor",
   "species": "Old Shrimp Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/347.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/347.png"
+  },
   "stats": [
     {
       "name": "hp",

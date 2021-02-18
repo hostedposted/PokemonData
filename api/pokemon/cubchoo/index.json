@@ -385,7 +385,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Chill Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/613.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/613.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -389,7 +389,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Boundary Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/646.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/646.png"
+  },
   "stats": [
     {
       "name": "hp",

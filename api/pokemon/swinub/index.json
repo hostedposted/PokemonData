@@ -420,7 +420,10 @@
   "region_id": 2,
   "shape": "quadruped",
   "species": "Pig Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/220.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/220.png"
+  },
   "stats": [
     {
       "name": "hp",

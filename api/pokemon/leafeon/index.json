@@ -420,7 +420,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Verdant Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/470.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/470.png"
+  },
   "stats": [
     {
       "name": "hp",

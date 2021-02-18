@@ -342,7 +342,10 @@
   "region_id": 5,
   "shape": "heads",
   "species": "Gear Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/601.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/601.png"
+  },
   "stats": [
     {
       "name": "hp",

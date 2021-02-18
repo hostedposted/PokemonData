@@ -311,7 +311,10 @@
   "region_id": 3,
   "shape": "ball",
   "species": "Bivalve Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/366.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/366.png"
+  },
   "stats": [
     {
       "name": "hp",

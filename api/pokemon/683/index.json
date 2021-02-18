@@ -372,7 +372,10 @@
   "region_id": 6,
   "shape": "humanoid",
   "species": "Fragrance Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/683.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/683.png"
+  },
   "stats": [
     {
       "name": "hp",

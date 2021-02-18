@@ -506,7 +506,10 @@
   "region_id": 2,
   "shape": "wings",
   "species": "Darkness Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/198.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/198.png"
+  },
   "stats": [
     {
       "name": "hp",

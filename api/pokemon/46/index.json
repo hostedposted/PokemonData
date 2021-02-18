@@ -514,7 +514,10 @@
   "region_id": 1,
   "shape": "armor",
   "species": "Mushroom Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/46.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/46.png"
+  },
   "stats": [
     {
       "name": "hp",

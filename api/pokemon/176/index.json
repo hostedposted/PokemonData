@@ -600,7 +600,10 @@
   "region_id": 2,
   "shape": "humanoid",
   "species": "Happiness Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/176.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/176.png"
+  },
   "stats": [
     {
       "name": "hp",

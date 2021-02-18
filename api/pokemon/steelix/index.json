@@ -494,7 +494,10 @@
   "region_id": 2,
   "shape": "squiggle",
   "species": "Iron Snake Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/208.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/208.png"
+  },
   "stats": [
     {
       "name": "hp",

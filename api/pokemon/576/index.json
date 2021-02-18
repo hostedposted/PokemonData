@@ -473,7 +473,10 @@
   "region_id": 5,
   "shape": "humanoid",
   "species": "Astral Body Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/576.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/576.png"
+  },
   "stats": [
     {
       "name": "hp",

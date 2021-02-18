@@ -269,7 +269,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "quadruped",
-  "sprites": {},
+  "species": "Copperderm Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/879.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/879.png"
+  },
   "stats": [
     {
       "name": "hp",

@@ -564,7 +564,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "DNA Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/386.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/386.png"
+  },
   "stats": [
     {
       "name": "hp",

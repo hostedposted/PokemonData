@@ -379,7 +379,10 @@
   "region_id": 4,
   "shape": "wings",
   "species": "Starling Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/396.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/396.png"
+  },
   "stats": [
     {
       "name": "hp",

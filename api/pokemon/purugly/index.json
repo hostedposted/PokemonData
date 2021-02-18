@@ -432,7 +432,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Tiger Cat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/432.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/432.png"
+  },
   "stats": [
     {
       "name": "hp",

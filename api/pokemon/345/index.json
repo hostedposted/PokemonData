@@ -413,7 +413,10 @@
   "region_id": 3,
   "shape": "blob",
   "species": "Sea Lily Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/345.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/345.png"
+  },
   "stats": [
     {
       "name": "hp",

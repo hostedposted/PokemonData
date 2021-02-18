@@ -386,7 +386,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "Megapede Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/545.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/545.png"
+  },
   "stats": [
     {
       "name": "hp",

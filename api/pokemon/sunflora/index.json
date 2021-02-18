@@ -374,7 +374,10 @@
   "region_id": 2,
   "shape": "humanoid",
   "species": "Sun Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/192.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/192.png"
+  },
   "stats": [
     {
       "name": "hp",

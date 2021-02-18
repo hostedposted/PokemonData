@@ -579,7 +579,10 @@
   "region_id": 2,
   "shape": "wings",
   "species": "Diving Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/249.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/249.png"
+  },
   "stats": [
     {
       "name": "hp",

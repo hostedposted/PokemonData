@@ -450,7 +450,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Jolly Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/271.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/271.png"
+  },
   "stats": [
     {
       "name": "hp",

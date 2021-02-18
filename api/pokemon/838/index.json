@@ -227,7 +227,11 @@
   "region": "galar",
   "region_id": 8,
   "shape": "legs",
-  "sprites": {},
+  "species": "Coal Pok\u00e9mon",
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/838.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/838.png"
+  },
   "stats": [
     {
       "name": "hp",

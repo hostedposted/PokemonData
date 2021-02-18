@@ -363,7 +363,10 @@
   "region_id": 5,
   "shape": "armor",
   "species": "EleSpider Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/596.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/596.png"
+  },
   "stats": [
     {
       "name": "hp",

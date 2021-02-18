@@ -328,7 +328,10 @@
   "region_id": 5,
   "shape": "ball",
   "species": "Crystallizing Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/615.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/615.png"
+  },
   "stats": [
     {
       "name": "hp",

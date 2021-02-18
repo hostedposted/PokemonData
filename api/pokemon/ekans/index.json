@@ -505,7 +505,10 @@
   "region_id": 1,
   "shape": "squiggle",
   "species": "Snake Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/23.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/23.png"
+  },
   "stats": [
     {
       "name": "hp",

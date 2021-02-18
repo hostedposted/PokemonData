@@ -361,7 +361,10 @@
   "region_id": 4,
   "shape": "quadruped",
   "species": "Grove Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/388.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/388.png"
+  },
   "stats": [
     {
       "name": "hp",

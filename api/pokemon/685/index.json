@@ -337,7 +337,10 @@
   "region_id": 6,
   "shape": "humanoid",
   "species": "Meringue Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/685.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/685.png"
+  },
   "stats": [
     {
       "name": "hp",

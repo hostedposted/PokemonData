@@ -554,7 +554,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Little Bear Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/216.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/216.png"
+  },
   "stats": [
     {
       "name": "hp",

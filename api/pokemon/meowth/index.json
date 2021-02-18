@@ -568,7 +568,10 @@
   "region_id": 1,
   "shape": "quadruped",
   "species": "Scratch Cat Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/52.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/52.png"
+  },
   "stats": [
     {
       "name": "hp",

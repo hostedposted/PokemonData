@@ -366,7 +366,10 @@
   "region_id": 7,
   "shape": "upright",
   "species": "Blast Turtle Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/776.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/776.png"
+  },
   "stats": [
     {
       "name": "hp",

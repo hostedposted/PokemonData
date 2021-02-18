@@ -353,7 +353,10 @@
   "region_id": 6,
   "shape": "wings",
   "species": "Scorching Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/663.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/663.png"
+  },
   "stats": [
     {
       "name": "hp",

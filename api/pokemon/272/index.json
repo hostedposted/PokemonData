@@ -475,7 +475,10 @@
   "region_id": 3,
   "shape": "humanoid",
   "species": "Carefree Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/272.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/272.png"
+  },
   "stats": [
     {
       "name": "hp",

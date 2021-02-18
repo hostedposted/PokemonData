@@ -269,7 +269,10 @@
   "region_id": 7,
   "shape": "armor",
   "species": "Larva Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/736.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/736.png"
+  },
   "stats": [
     {
       "name": "hp",

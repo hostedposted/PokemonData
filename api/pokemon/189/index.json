@@ -393,7 +393,10 @@
   "region_id": 2,
   "shape": "upright",
   "species": "Cottonweed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/189.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/189.png"
+  },
   "stats": [
     {
       "name": "hp",

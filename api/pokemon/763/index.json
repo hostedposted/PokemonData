@@ -316,7 +316,10 @@
   "region_id": 7,
   "shape": "humanoid",
   "species": "Fruit Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/763.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/763.png"
+  },
   "stats": [
     {
       "name": "hp",

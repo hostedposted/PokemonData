@@ -472,7 +472,10 @@
   "region_id": 6,
   "shape": "heads",
   "species": "Two-Handed Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/688.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/688.png"
+  },
   "stats": [
     {
       "name": "hp",

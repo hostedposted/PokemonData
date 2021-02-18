@@ -451,7 +451,10 @@
   "region_id": 5,
   "shape": "upright",
   "species": "Spray Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/515.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/515.png"
+  },
   "stats": [
     {
       "name": "hp",

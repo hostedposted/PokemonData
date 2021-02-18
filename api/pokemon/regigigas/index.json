@@ -410,7 +410,10 @@
   "region_id": 4,
   "shape": "humanoid",
   "species": "Colossal Pok\u00e9mon",
-  "sprites": {},
+  "sprites": {
+    "default": "https://hostedposted.github.io/api/sprites/pokemon/486.png",
+    "shiny": "https://hostedposted.github.io/api/sprites/pokemon/shiny/486.png"
+  },
   "stats": [
     {
       "name": "hp",
