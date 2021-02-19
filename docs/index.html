@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="Documentation for www.thepokeapi.com">
+    <meta name="keywords" content="Pokemon, API, Pokemon API, pokemon-api, PokemonData">
+
+    <title>Pokemon-API | Documentation</title>
+
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="css/jquery.json-view.min.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" href="js/highlight/styles/atom-one-dark.css">
+    <script src="js/highlight/highlight.pack.js"></script>
+    <script>
+        hljs.initHighlightingOnLoad();
+    </script>
+</head>
+<body>
+    <header>
+            <div class="theme-switch-wrapper">
+                <p><strong id="theme-text">Dark Mode&nbsp;</strong></p>
+                <label class="theme-switch" for="checkbox">
+                <input type="checkbox" id="checkbox" />
+                <div class="slider round"></div>
+                </label>
+            </div>
+    </header>
+    <div id="wrapper">
+        <div class="container">
+            <section id="top" class="section docs-heading">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="big-title text-center">
+                            <h1>ThePokeApi Documentation</h1>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+            </section>
+            <div class="row">
+                <div class="col-md-3">
+                    <nav class="docs-sidebar" data-spy="affix" data-offset-top="300" data-offset-bottom="200" role="navigation">
+                        <ul class="nav">
+                            <li><a href="#line2">API Quickstart</a></li>
+                            <li><a href="#line3">GET Methods</a>
+                                <ul class="nav">
+                                    <li><a href="#line3_1">Pokemon</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#line4">Usage Examples</a>
+                                <ul class="nav">
+                                    <li><a href="#line4_1">Node.js (JavaScript)</a></li>
+                                    <li><a href="#line4_2">Python</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-md-9">
+                    <section class="welcome">
+                        <div class="row">
+                            <div class="col-md-12 left-align">
+                                <div class="row">
+                                    <div class="col-md-12 full">
+                                        <div class="intro1">
+                                            <ul>
+                                                <li><strong>Project Name : </strong>ThePokeApi</li>
+                                                <li><strong>Project URL : </strong> <a href="https://github.com/hostedposted/PokemonData" target="_blank">https://github.com/hostedposted/PokemonData</a></li>
+                                                <li><strong>Query Endpoint : </strong> <a href="https://thepokeapi.com/" target="_blank">thepokeapi.com/</a></li>
+                                            </ul>
+                                        </div>
+                                        <hr>
+                                        <div>
+                                            <p>This documentation is to help you use the query endpoint.
+                                                </br>
+                                                </br>
+                                                <b>Tip:</b> Use your browser's "find on page" feature to search for a specific resource ( <kbd>Ctrl+F</kbd> or <kbd>Cmd+F</kbd> )
+                                            </p>
+                                            </br>
+                                            </br>
+                                            <h4>Notice</h4>
+                                            <p>This is a <b>consumption-only API.</b>
+                                                </br>
+                                                <b>The API is rate limited to 2,500 calls an hour.</b>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="line2" class="section">
+                        <div class="row">
+                            <div class="col-md-12 left-align">
+                                <h2 class="dark-text">API Quickstart<a href="#top">#back to top</a>
+                                    <hr>
+                                </h2>
+                            </div>
+                        </div>
+                        <h4>Get a random Pokemon!</h4>
+                        <p>Using the language / framework of your choice:
+                            <ul class="bullet-list">
+                                <li>Load <a href="https://thepokeapi.com/pokemon/random">https://thepokeapi.com/pokemon/random</a></li>
+                                <li>Parse the response body</li>
+                                <li>Load it's the required parameters (e.g. <code>body.id</code> or <code>body.name</code>)</li>
+                            </ul>
+                            Try that or some other stuff below:
+                            <form id="poke-form">
+                                <div class="form-group form-input">
+                                    <label for="input" class="form-label">thepokeapi.com/</label>
+                                    <input type="text" name="input" id="input" value="" required>
+                                    <input type="submit" value="Fetch Data" class="submit" onclick="fetchAPI($('#input').val().toLowerCase().trim())" />
+                                </div>
+                            </form>
+                            <p>
+                                <b>Confused?</b> You can try <a onclick="putValue('pokemon/pikachu')">pokemon/pikachu</a>, <a onclick="putValue('pokemon/500')">pokemon/500</a>,
+                                etc.
+                            </p>
+                            <pre><code class="json"><div id="pokeData"></div></code></pre>
+                        </p>
+                        <hr>
+                    </section>
+                    <section id="line3" class="section">
+                        <div class="row">
+                            <div class="col-md-12 left-align">
+                                <h2 class="dark-text">GET Methods<a href="#top">#back to top</a>
+                                    <hr>
+                                </h2>
+                            </div>
+                        </div>
+                        <section id="line3_1" class="section">
+                            <h4 class="dark-text"><code>/pokemon</code></h4>
+                            <h4 class="mini-title"><code>/pokemon/all</code></h4>
+                            <p>Retrieves the complete pokemon database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/all" target="blank_">https://thepokeapi.com/pokemon/all</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="getpokemonall"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/pokemon/random</code></h4>
+                            <p>Retrives a random pokemon from the database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/random" target="blank_">https://thepokeapi.com/pokemon/random</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="getpokemonrand"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/pokemon/{name}</code></h4>
+                            <p>Searches the database and retrives pokemon named {name}.<br>Request URL : <a href="https://thepokeapi.com/pokemon/infernape" target="blank_">https://thepokeapi.com/pokemon/infernape</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="getpokemonname"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/pokemon/{dexid}</code></h4>
+                            <p>Searches the database and retrives pokemon numbered {dexid}.<br>Request URL : <a href="https://thepokeapi.com/pokemon/696" target="blank_">https://thepokeapi.com/pokemon/696</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="getpokemonid"></div></code></pre>
+                            <hr>
+                        </section>
+                    </section>
+                    <section id="line4" class="section">
+                        <div class="row">
+                            <div class="col-md-12 left-align">
+                                <h2 class="dark-text">Usage Examples<a href="#top">#back to top</a>
+                                    <hr>
+                                </h2>
+                            </div>
+                        </div>
+                        <section id="line4_1" class="section">
+                            <h4 class="dark-text">Node.js (JavaScript)</h4>
+                            <h4 class="mini-title"><strong>Using npm fetch</strong></h4>
+                            <ul class="bullet-list">
+                                <li><strong>Install <code>fetch</code> using npm (or yarn)</strong></li>
+                                <pre><code>npm i fetch</code></pre> or
+                                <pre><code>yarn add node-fetch</code></pre>
+                                <li><strong>Create a file <code>ThePokeApi.js</code></strong></li>
+                                <pre><code>
+const fetchUrl = require("fetch ").fetchUrl;
+
+const url = 'https://thepokeapi.com/pokemon/random';
+
+fetchUrl(url, function(error, meta, body) {
+    if (!error) {
+        var data = new String();
+        data = JSON.parse(body)
+        // Do something with data
+        console.log(data.name)
+    }
+});
+                                </code></pre>
+                                <li><strong>Run the file using the following code (in the terminal)</strong></li>
+                                <pre><code>node ThePokeApi.js</code></pre>
+                                <li><strong>You will see the following output in the terminal in this case</strong></li>
+froakie
+                            </ul>
+                        </section>
+                        <section id="line4_2" class="section">
+                            <h4 class="dark-text">Python</h4>
+                            <ul class="bullet-list">
+                                <li><strong>Install <code>requests</code> using pip or any other package manager</strong></li>
+                                <pre><code>pip install requests</code></pre>
+                                <li><strong>Create a file <code>ThePokeApi.py</code></strong></li>
+                                <pre><code class="py">
+import requests
+
+response = requests.get("https://thepokeapi.com/pokemon/random").json()
+
+print(response['name'])
+                                </code></pre>
+                                <li><strong>Run the file in your IDE or by running the following code</strong></li>
+                                <pre><code>python -u "{pathToFile}\ThePokeApi.py"</code></pre>
+                                <li><strong>You will see the following output in this case</strong></li>
+                                cufant
+                        </section>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.min.js "></script>
+    <script src="js/bootstrap.min.js "></script>
+    <script src="js/wow.js "></script>
+    <script src="js/custom.js "></script>
+    <script src="js/main.js "></script>
+    <script src="js/themes.js "></script>
+    <script src="js/jsonsamples.js"></script>
+</body>
+
+</html>
