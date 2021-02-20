@@ -54,6 +54,7 @@
                             <li><a href="#line3">GET Methods</a>
                                 <ul class="nav">
                                     <li><a href="#line3_1">Pokemon</a></li>
+                                    <li><a href="#line3_2">Type</a></li>
                                 </ul>
                             </li>
                             <li><a href="#line4">Usage Examples</a>
@@ -111,7 +112,6 @@
                             <ul class="bullet-list">
                                 <li>Load <a href="https://thepokeapi.com/pokemon/random">https://thepokeapi.com/pokemon/random</a></li>
                                 <li>Parse the response body</li>
-                                <li>Load it's the required parameters (e.g. <code>body.id</code> or <code>body.name</code>)</li>
                             </ul>
                             Try that or some other stuff below:
                             <form id="poke-form">
@@ -122,7 +122,7 @@
                                 </div>
                             </form>
                             <p>
-                                <b>Confused?</b> You can try <a onclick="putValue('pokemon/pikachu')">pokemon/pikachu</a>, <a onclick="putValue('pokemon/500')">pokemon/500</a>,
+                                <b>Confused?</b> You can try <a onclick="putValue('pokemon/pikachu')">pokemon/pikachu</a>, <a onclick="putValue('pokemon/500')">pokemon/500</a>, <a onclick="putValue('type/1')">type/1</a>, <a onclick="putValue('type/fairy')">type/fairy</a>, 
                                 etc.
                             </p>
                             <pre><code class="json"><div id="pokeData"></div></code></pre>
@@ -145,7 +145,7 @@
                             <pre><code><div class="getpokemonall"></div></code></pre>
 
                             <h4 class="mini-title"><code>/pokemon/random</code></h4>
-                            <p>Retrives a random pokemon from the database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/random" target="blank_">https://thepokeapi.com/pokemon/random</a></p>
+                            <p>Retrieves a random pokemon from the database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/random" target="blank_">https://thepokeapi.com/pokemon/random</a></p>
                             <b>Output sample:</b>
                             <pre><code><div class="getpokemonrand"></div></code></pre>
 
@@ -158,6 +158,29 @@
                             <p>Searches the database and retrives pokemon numbered {dexid}.<br>Request URL : <a href="https://thepokeapi.com/pokemon/696" target="blank_">https://thepokeapi.com/pokemon/696</a></p>
                             <b>Output sample:</b>
                             <pre><code><div class="getpokemonid"></div></code></pre>
+                            <hr>
+                        </section>
+                        <section id="line3_2" class="section">
+                            <h4 class="dark-text"><code>/types</code></h4>
+                            <h4 class="mini-title"><code>/types/all</code></h4>
+                            <p>Retrieves the complete types database.<br>Request URL : <a href="https://thepokeapi.com/type/all" target="blank_">https://thepokeapi.com/type/all</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="gettypeall"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/types/random</code></h4>
+                            <p>Retrives a random type from the database.<br>Request URL : <a href="https://thepokeapi.com/type/random" target="blank_">https://thepokeapi.com/type/random</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="gettyperand"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/types/{name}</code></h4>
+                            <p>Searches the database and retrives type named {name}.<br>Request URL : <a href="https://thepokeapi.com/type/fairy" target="blank_">https://thepokeapi.com/type/fairy</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="gettypename"></div></code></pre>
+
+                            <h4 class="mini-title"><code>/types/{typesID}</code></h4>
+                            <p>Searches the database and retrives type numbered {typesID}.<br>Request URL : <a href="https://thepokeapi.com/type/15" target="blank_">https://thepokeapi.com/type/15</a></p>
+                            <b>Output sample:</b>
+                            <pre><code><div class="gettypeid"></div></code></pre>
                             <hr>
                         </section>
                     </section>
