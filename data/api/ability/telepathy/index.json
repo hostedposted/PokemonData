@@ -1,5 +1,5 @@
 {
-  "description": "Anticipe et \u00e9vite les\nattaques de ses alli\u00e9s.",
+  "description": "Anticipates an ally\u2019s\nattack and dodges it.",
   "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
   "id": 140,
   "name": "telepathy",

@@ -1,5 +1,5 @@
 {
-  "description": "\u305c\u3093\u3044\u3093\u306e\u3000\u30d5\u30a7\u30a2\u30ea\u30fc\n\u308f\u3056\u304c\u3000\u3064\u3088\u304f\u306a\u308b\u3002",
+  "description": "Powers up each Pok\u00e9mon\u2019s\nFairy-type moves.",
   "effect": "Strengthens fairy moves for all friendly and opposing Pok\u00e9mon.",
   "id": 187,
   "name": "fairy-aura",

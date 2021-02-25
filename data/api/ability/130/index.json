@@ -1,5 +1,5 @@
 {
-  "description": "Peut emp\u00eacher l\u2019ennemi de\nr\u00e9utiliser une attaque.",
+  "description": "May disable a move used\non the Pok\u00e9mon.",
   "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
   "id": 130,
   "name": "cursed-body",

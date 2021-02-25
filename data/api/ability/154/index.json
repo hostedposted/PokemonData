@@ -1,5 +1,5 @@
 {
-  "description": "Monte l\u2019Attaque si une\natt. T\u00e9n\u00e8bres le touche.",
+  "description": "Raises Attack when hit by\na Dark-type move.",
   "effect": "Whenever a dark-type move hits this Pok\u00e9mon, its Attack rises one stage.\n\nThe move is not negated in any way.",
   "id": 154,
   "name": "justified",

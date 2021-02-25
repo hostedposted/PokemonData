@@ -1,5 +1,5 @@
 {
-  "description": "Adopte l\u2019apparence du\nPok\u00e9mon adverse.",
+  "description": "It transforms itself into\nthe Pok\u00e9mon it is facing.",
   "effect": "This Pok\u00e9mon transforms into a random opponent upon entering battle.  This effect is identical to the move transform.",
   "id": 150,
   "name": "imposter",

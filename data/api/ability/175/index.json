@@ -1,5 +1,5 @@
 {
-  "description": "\u307f\u304b\u305f\u306e\u3000\u30dd\u30b1\u30e2\u30f3\u306f\n\u306d\u3080\u3089\u306a\u304f\u306a\u308b\u3002",
+  "description": "Prevents itself and ally Pok\u00e9mon\nfrom falling asleep.",
   "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
   "id": 175,
   "name": "sweet-veil",

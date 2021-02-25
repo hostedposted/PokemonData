@@ -1,5 +1,5 @@
 {
-  "description": "Sa peur de certains types\naugmente sa Vitesse.",
+  "description": "Some move types scare\nit and boost its Speed.",
   "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
   "id": 155,
   "name": "rattled",

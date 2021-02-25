@@ -1,5 +1,5 @@
 {
-  "description": "\u3075\u308c\u305f\u3000\u3042\u3044\u3066\u306e\n\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+  "description": "Contact with the Pok\u00e9mon\nlowers the attacker\u2019s Speed stat.",
   "effect": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact.",
   "id": 183,
   "name": "gooey",

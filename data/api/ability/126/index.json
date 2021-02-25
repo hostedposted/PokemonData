@@ -1,5 +1,5 @@
 {
-  "description": "Inverse les variations\nde stats.",
+  "description": "Makes stat changes have\nan opposite effect.",
   "effect": "Whenever this Pok\u00e9mon's stats would be raised, they are instead lowered by the same amount, and vice versa.",
   "id": 126,
   "name": "contrary",

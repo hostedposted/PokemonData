@@ -1,5 +1,5 @@
 {
-  "description": "Monte la Pr\u00e9cision des\nPok\u00e9mon de l\u2019\u00e9quipe.",
+  "description": "Boosts the accuracy of its\nallies and itself.",
   "effect": "All friendly Pok\u00e9mon's moves, including this Pok\u00e9mon's own moves, have 1.1\u00d7 their usual accuracy while this Pok\u00e9mon is in battle.",
   "id": 162,
   "name": "victory-star",

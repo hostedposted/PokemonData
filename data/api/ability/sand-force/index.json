@@ -1,5 +1,5 @@
 {
-  "description": "Renforce des capacit\u00e9s en\ncas de temp\u00eate de sable.",
+  "description": "Boosts certain moves\u2019\npower in a sandstorm.",
   "effect": "During a sandstorm, this Pok\u00e9mon's rock-, ground-, and steel-type moves have 1.3\u00d7 their base power.  This Pok\u00e9mon does not take sandstorm damage, regardless of type.",
   "id": 159,
   "name": "sand-force",

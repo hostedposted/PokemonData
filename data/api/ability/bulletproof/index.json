@@ -1,5 +1,5 @@
 {
-  "description": "\u305f\u307e\u3084\u3000\u3070\u304f\u3060\u3093\u306b\n\u3042\u305f\u3089\u306a\u3044\u3002",
+  "description": "Protects the Pok\u00e9mon from\nsome ball and bomb moves.",
   "effect": "Protects against bullet, ball, and bomb-based moves.",
   "id": 171,
   "name": "bulletproof",

@@ -1,5 +1,5 @@
 {
-  "description": "Diminue les d\u00e9g\u00e2ts subis\npar les alli\u00e9s.",
+  "description": "Reduces damage done\nto allies.",
   "effect": "All friendly Pok\u00e9mon take 0.75\u00d7 as much direct damage from moves while this Pok\u00e9mon is in battle.\n\nThis effect stacks if multiple allied Pok\u00e9mon have it.",
   "id": 132,
   "name": "friend-guard",

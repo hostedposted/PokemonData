@@ -1,5 +1,5 @@
 {
-  "description": "\u3042\u3044\u3066\u306e\u3000\u308f\u3056\u3084\u3000\u3068\u304f\u305b\u3044\u3067\n\u306e\u3046\u308a\u3087\u304f\u3092\u3000\u3055\u3052\u3089\u308c\u306a\u3044\u3002",
+  "description": "Prevents other Pok\u00e9mon\u2019s moves or Abilities from\nlowering the Pok\u00e9mon\u2019s stats.",
   "effect": "This Pok\u00e9mon's stats cannot be lowered by other Pok\u00e9mon's moves or abilities.  This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap.\n\nThis Ability is not bypassed by mold breaker, teravolt, or turboblaze.",
   "id": 230,
   "name": "full-metal-body",

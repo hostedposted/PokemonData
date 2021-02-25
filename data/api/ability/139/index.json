@@ -1,5 +1,5 @@
 {
-  "description": "Pu\u00f2 ricreare una bacca utilizzata.",
+  "description": "May create another\nBerry after one is used.",
   "effect": "After each turn, if the last item this Pok\u00e9mon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.",
   "id": 139,
   "name": "harvest",

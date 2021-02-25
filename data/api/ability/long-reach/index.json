@@ -1,5 +1,5 @@
 {
-  "description": "\u3059\u3079\u3066\u306e\u3000\u308f\u3056\u3092\n\u3042\u3044\u3066\u306b\u3000\u305b\u3063\u3057\u3087\u304f\u3000\u3057\u306a\u3044\u3067\n\u3060\u3059\u3053\u3068\u304c\u3000\u3067\u304d\u308b\u3002",
+  "description": "The Pok\u00e9mon uses its moves without making contact\nwith the target.",
   "effect": "A move used by this Pok\u00e9mon will not make contact.",
   "id": 203,
   "name": "long-reach",

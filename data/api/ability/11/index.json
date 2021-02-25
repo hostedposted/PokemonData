@@ -1,5 +1,5 @@
 {
-  "description": "\u307f\u305a\u3092\u3000\u53d7\u3051\u308b\u3068\n\u56de\u5fa9\u3059\u308b\u3002",
+  "description": "Changes water into HP.",
   "effect": "Whenever a water-type move hits this Pok\u00e9mon, it heals for 1/4 of its maximum HP, negating any other effect on it.\n\nWater moves will ignore this Pok\u00e9mon's substitute.",
   "id": 11,
   "name": "water-absorb",

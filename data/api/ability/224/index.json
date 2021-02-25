@@ -1,5 +1,5 @@
 {
-  "description": "\u3042\u3044\u3066\u3092\u3000\u305f\u304a\u3057\u305f\u3068\u304d\n\u3058\u3076\u3093\u306e\u3000\u3044\u3061\u3070\u3093\u3000\u305f\u304b\u3044\n\u306e\u3046\u308a\u3087\u304f\u304c\u3000\u3042\u304c\u308b\u3002\u3000",
+  "description": "The Pok\u00e9mon boosts its most proficient stat each\ntime it knocks out a Pok\u00e9mon.",
   "effect": "Raises this Pok\u00e9mon's highest stat by one stage when it faints another Pok\u00e9mon.",
   "id": 224,
   "name": "beast-boost",

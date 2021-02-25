@@ -1,5 +1,5 @@
 {
-  "description": "\u30a8\u30ec\u30ad\u30d5\u30a3\u30fc\u30eb\u30c9\u3000\u306e\u3068\u304d\n\u3059\u3070\u3084\u3055\u304c\u3000\uff12\u3070\u3044\u306b\u3000\u306a\u308b\u3002",
+  "description": "Doubles the Pok\u00e9mon\u2019s Speed stat on\nElectric Terrain.",
   "effect": "Doubles this Pok\u00e9mon's Speed on Electric Terrain.",
   "id": 207,
   "name": "surge-surfer",

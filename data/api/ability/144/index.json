@@ -1,5 +1,5 @@
 {
-  "description": "Restaure un peu de PV\nsi le Pok\u00e9mon est retir\u00e9.",
+  "description": "Restores a little HP when\nwithdrawn from battle.",
   "effect": "This Pok\u00e9mon regains 1/3 of its maximum HP when it is switched out for another Pok\u00e9mon under any circumstances other than having fainted.\n\nThis ability does not take effect when a battle ends.",
   "id": 144,
   "name": "regenerator",

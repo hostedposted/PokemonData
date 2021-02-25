@@ -1,5 +1,5 @@
 {
-  "description": "Renvoie les attaques\nde statut.",
+  "description": "Reflects status-\nchanging moves.",
   "effect": "When this Pok\u00e9mon is targeted by a move flagged as being reflectable, the move is redirected to its user.\n\nAll reflectable moves are non-damaging, and most non-damaging moves that target other Pok\u00e9mon are reflectable.\n\nA move reflected by this ability or magic coat cannot be reflected back.",
   "id": 156,
   "name": "magic-bounce",

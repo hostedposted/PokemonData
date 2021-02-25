@@ -1,5 +1,5 @@
 {
-  "description": "\u305b\u3093\u3068\u3046\u30e2\u30fc\u30c9\u3067\n\u3059\u304c\u305f\u304c\u3000\u304b\u308f\u308b\u3002",
+  "description": "The Pok\u00e9mon changes form\ndepending on how it battles.",
   "effect": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
   "id": 176,
   "name": "stance-change",

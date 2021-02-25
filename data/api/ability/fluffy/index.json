@@ -1,5 +1,5 @@
 {
-  "description": "\u3042\u3044\u3066\u304b\u3089\u3000\u3046\u3051\u305f\u3000\u305b\u3063\u3057\u3087\u304f\u3059\u308b\u3000\u308f\u3056\u306e\n\u30c0\u30e1\u30fc\u30b8\u3092\u3000\u306f\u3093\u3052\u3093\u3059\u308b\u304c\u3000\u307b\u306e\u304a\u30bf\u30a4\u30d7\u306e\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u306f\u3000\uff12\u3070\u3044\u306b\u306a\u308b\u3002",
+  "description": "Halves the damage taken from moves that make\ndirect contact, but doubles that of Fire-type moves.",
   "effect": "Damage from contact moves is halved.  Damage from Fire moves is doubled.",
   "id": 218,
   "name": "fluffy",

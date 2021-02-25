@@ -1,5 +1,5 @@
 {
-  "description": "Peut empoisonner l\u2019ennemi\npar simple contact.",
+  "description": "May poison targets when a\nPok\u00e9mon makes contact.",
   "effect": "This Pok\u00e9mon's contact moves have a 30% chance of poisoning the target with each hit.\n\nThis counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.",
   "id": 143,
   "name": "poison-touch",

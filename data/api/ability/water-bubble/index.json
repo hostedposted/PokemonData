@@ -1,5 +1,5 @@
 {
-  "description": "\u3058\u3076\u3093\u306b\u3000\u305f\u3044\u3059\u308b\u3000\u307b\u306e\u304a\u30bf\u30a4\u30d7\u306e\n\u308f\u3056\u306e\u3000\u3044\u308a\u3087\u304f\u3092\u3000\u3055\u3052\u308b\u3002\n\u3084\u3051\u3069\u3000\u3057\u306a\u3044\u3002",
+  "description": "Lowers the power of Fire-type moves done to the\nPok\u00e9mon and prevents the Pok\u00e9mon from getting\na burn.",
   "effect": "When this Pok\u00e9mon is hit by a Fire move, the damage is halved.  When this Pok\u00e9mon uses a Water move, the power is doubled. This Pok\u00e9mon cannot be burned, and if it becomes burned, the burn is immediately cured.",
   "id": 199,
   "name": "water-bubble",

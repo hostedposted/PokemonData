@@ -1,5 +1,5 @@
 {
-  "description": "\u3060\u3057\u305f\u3000\u308f\u3056\u3068\u3000\u304a\u306a\u3058\n\u30bf\u30a4\u30d7\u306b\u3000\u3078\u3093\u304b\u3059\u308b\u3002",
+  "description": "Changes the Pok\u00e9mon\u2019s type to\nthe type of the move it\u2019s using.",
   "effect": "Changes the bearer's type to match each move it uses.\n\nThe type change takes place just before the move is used.",
   "id": 168,
   "name": "protean",

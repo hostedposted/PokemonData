@@ -1,5 +1,5 @@
 {
-  "description": "\u308f\u3056\u3092\u3000\u3042\u3066\u305f\u3000\u3042\u3044\u3066\u306e\n\u3069\u3046\u3050\u3092\u3000\u3046\u3070\u3063\u3066\u3057\u307e\u3046\u3002",
+  "description": "The Pok\u00e9mon steals the held item\nof a Pok\u00e9mon it hits with a move.",
   "effect": "Steals the target's held item when the bearer uses a damaging move.",
   "id": 170,
   "name": "magician",

@@ -1,5 +1,5 @@
 {
-  "description": "Gu\u00e9rit parfois le statut\ndes alli\u00e9s alentour.",
+  "description": "May heal an ally\u2019s status\nconditions.",
   "effect": "Friendly Pok\u00e9mon next to this Pok\u00e9mon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.",
   "id": 131,
   "name": "healer",

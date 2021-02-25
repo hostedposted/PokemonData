@@ -1,5 +1,5 @@
 {
-  "description": "\u3053\u3046\u3052\u304d\u3092\u3000\u3046\u3051\u308b\u3068\n\u307c\u3046\u304e\u3087\u304c\u3000\u3042\u304c\u308b\u3002",
+  "description": "Boosts the Defense stat when hit by an attack.",
   "effect": "Raises this Pok\u00e9mon's Defense by one stage when it takes damage from a move.",
   "id": 192,
   "name": "stamina",

@@ -1,5 +1,5 @@
 {
-  "description": "Divise par deux le\npoids du Pok\u00e9mon.",
+  "description": "Halves the Pok\u00e9mon\u2019s\nweight.",
   "effect": "This Pok\u00e9mon has half the usual weight for its species.",
   "id": 135,
   "name": "light-metal",

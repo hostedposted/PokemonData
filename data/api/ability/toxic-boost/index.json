@@ -1,5 +1,5 @@
 {
-  "description": "Booste les att. physiques\nsi le statut est poison.",
+  "description": "Powers up physical\nattacks when poisoned.",
   "effect": "This Pok\u00e9mon has 1.5\u00d7 its Attack when poisoned.",
   "id": 137,
   "name": "toxic-boost",

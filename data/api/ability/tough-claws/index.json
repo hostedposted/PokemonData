@@ -1,5 +1,5 @@
 {
-  "description": "\u305b\u3063\u3057\u3087\u304f\u3059\u308b\u3000\u308f\u3056\u306e\n\u3044\u308a\u3087\u304f\u304c\u3000\u3042\u304c\u308b\u3002",
+  "description": "Powers up moves that\nmake direct contact.",
   "effect": "Strengthens moves that make contact to 1.33\u00d7 their power.",
   "id": 181,
   "name": "tough-claws",

@@ -1,5 +1,5 @@
 {
-  "description": "Un coup physique baisse la\nD\u00e9fense, monte la Vitesse.",
+  "description": "Physical attacks lower\nDefense and raise Speed.",
   "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
   "id": 133,
   "name": "weak-armor",

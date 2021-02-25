@@ -1,5 +1,5 @@
 {
-  "description": "\uff28\uff30\u304c\u3000\u304a\u304a\u3044\u3068\u304d\u306f\u3000\u3080\u308c\u3066\u3000\u3064\u3088\u304f\u306a\u308b\u3002\n\uff28\uff30\u306e\u3000\u306e\u3053\u308a\u304c\u3000\u3059\u304f\u306a\u304f\u306a\u308b\u3068\n\u3080\u308c\u306f\u3000\u3061\u308a\u3062\u308a\u306b\u3000\u306a\u3063\u3066\u3057\u307e\u3046\u3002",
+  "description": "When it has a lot of HP, the Pok\u00e9mon forms a\npowerful school. It stops schooling when its HP\nis low.",
   "effect": "If this Pok\u00e9mon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise.\n\nThis ability cannot be replaced, copied, or nullified.",
   "id": 208,
   "name": "schooling",

@@ -1,5 +1,5 @@
 {
-  "description": "Emp\u00eache la D\u00e9f. de baisser\n\u00e0 cause d\u2019attaques.",
+  "description": "Protects the Pok\u00e9mon from\nDefense-lowering attacks.",
   "effect": "This Pok\u00e9mon's Defense cannot be lowered by other Pok\u00e9mon.\n\nThis Pok\u00e9mon can still be passed negative Defense modifiers through heart swap or guard swap.",
   "id": 145,
   "name": "big-pecks",

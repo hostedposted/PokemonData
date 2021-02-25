@@ -1,5 +1,5 @@
 {
-  "description": "Hindert den Gegner durch Stress\nam Beerenkonsum.",
+  "description": "Makes the foe nervous and\nunable to eat Berries.",
   "effect": "Opposing Pok\u00e9mon cannot eat held Berries while this Pok\u00e9mon is in battle.\n\nAffected Pok\u00e9mon can still use bug bite or pluck to eat a target's Berry.",
   "id": 127,
   "name": "unnerve",

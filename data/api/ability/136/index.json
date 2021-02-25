@@ -1,5 +1,5 @@
 {
-  "description": "Re\u00e7oit moins de d\u00e9g\u00e2ts si\nles PV sont au maximum.",
+  "description": "Reduces damage when HP\nis full.",
   "effect": "This Pok\u00e9mon takes half as much damage when it is hit having full HP.",
   "id": 136,
   "name": "multiscale",

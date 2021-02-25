@@ -1,5 +1,5 @@
 {
-  "description": "\u3066\u3093\u304d\u304c\u3000\u3042\u3089\u308c\u3000\u306e\u3068\u304d\n\u3059\u3070\u3084\u3055\u304c\u3000\u3042\u304c\u308b\u3002",
+  "description": "Boosts the Pok\u00e9mon\u2019s Speed stat in a hailstorm.",
   "effect": "During Hail, this Pok\u00e9mon has double Speed.",
   "id": 202,
   "name": "slush-rush",

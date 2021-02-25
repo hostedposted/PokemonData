@@ -1,5 +1,5 @@
 {
-  "description": "\u306f\u3069\u3046\u306e\u3000\u308f\u3056\u306e\n\u3044\u308a\u3087\u304f\u304c\u3000\u305f\u304b\u3044\u3002",
+  "description": "Powers up aura and pulse moves.",
   "effect": "Strengthens aura and pulse moves to 1.5\u00d7 their power.",
   "id": 178,
   "name": "mega-launcher",

@@ -1,5 +1,5 @@
 {
-  "description": "Neutralise les d\u00e9g\u00e2ts dus\n\u00e0 la m\u00e9t\u00e9o.",
+  "description": "Protects the Pok\u00e9mon from\ndamage from weather.",
   "effect": "This Pok\u00e9mon does not take damage from weather.",
   "id": 142,
   "name": "overcoat",

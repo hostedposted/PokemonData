@@ -1,5 +1,5 @@
 {
-  "description": "Monte l\u2019Attaque quand\nil met un ennemi K.O.",
+  "description": "Boosts Attack after\nknocking out any Pok\u00e9mon.",
   "effect": "This Pok\u00e9mon's Attack rises one stage upon knocking out another Pok\u00e9mon, even a friendly Pok\u00e9mon.\n\nThis ability does not take effect when the Pok\u00e9mon indirectly causes another Pok\u00e9mon to faint, e.g. through poison or spikes.\n\nIf this Pok\u00e9mon knocks out a Pok\u00e9mon with mummy, the former's ability will change without taking effect.",
   "id": 153,
   "name": "moxie",

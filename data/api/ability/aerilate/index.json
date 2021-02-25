@@ -1,5 +1,5 @@
 {
-  "description": "\u30ce\u30fc\u30de\u30eb\u30bf\u30a4\u30d7\u306e\u3000\u308f\u3056\u304c\n\u3072\u3053\u3046\u30bf\u30a4\u30d7\u306b\u306a\u308b\u3002",
+  "description": "Normal-type moves become\nFlying-type moves.",
   "effect": "Turns the bearer's normal-type moves into flying-type moves.  Moves changed by this ability have 1.3\u00d7 their power.",
   "id": 184,
   "name": "aerilate",

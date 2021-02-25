@@ -1,5 +1,5 @@
 {
-  "description": "\u307f\u304b\u305f\u3078\u306e\u3000\u30e1\u30f3\u30bf\u30eb\n\u3053\u3046\u3052\u304d\u3092\u3000\u3075\u305b\u3050\u3002",
+  "description": "Protects allies from attacks that\nlimit their move choices.",
   "effect": "Protects allies against moves that affect their mental state.",
   "id": 165,
   "name": "aroma-veil",

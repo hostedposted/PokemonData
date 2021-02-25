@@ -1,5 +1,5 @@
 {
-  "description": "Utilise les attaques de\nstatut en premier.",
+  "description": "Gives priority to a\nstatus move.",
   "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
   "id": 158,
   "name": "prankster",

@@ -1,5 +1,5 @@
 {
-  "description": "Augmente l\u2019Attaque apr\u00e8s\nune attaque Plante.",
+  "description": "Boosts Attack when hit by\na Grass-type move.",
   "effect": "Whenever a grass-type move hits this Pok\u00e9mon, its Attack rises one stage, negating any other effect on it.",
   "id": 157,
   "name": "sap-sipper",

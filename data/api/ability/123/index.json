@@ -1,5 +1,5 @@
 {
-  "description": "Infligge danni ai nemici addormentati.",
+  "description": "Reduces a sleeping foe\u2019s\nHP.",
   "effect": "Opposing Pok\u00e9mon take 1/8 of their maximum HP in damage after each turn while they are asleep.",
   "id": 123,
   "name": "bad-dreams",
