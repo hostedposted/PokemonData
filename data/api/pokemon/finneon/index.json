@@ -1,0 +1,451 @@
+{
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "url": "https://thepokeapi.com/ability/swift-swim",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "storm-drain",
+      "url": "https://thepokeapi.com/ability/storm-drain",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "water-veil",
+      "url": "https://thepokeapi.com/ability/water-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "It lures in prey with its shining tail fins. It stays near the surface during the day and moves to the depths when night falls.",
+  "egg_groups": [
+    "water2"
+  ],
+  "evolution_chain": [
+    [
+      "finneon"
+    ],
+    [
+      "lumineon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow-then-very-fast",
+  "height": 16,
+  "id": 456,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "pound",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "gust",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psybeam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aurora-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swift",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "splash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-kiss",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "twister",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "air-cutter",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bounce",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "ominous-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "soak",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "finneon",
+  "names": {
+    "french": "\u00c9cayon",
+    "german": "Finneon",
+    "spanish": "Finneon",
+    "italian": "Finneon",
+    "english": "Finneon",
+    "japanese": "\u30b1\u30a4\u30b3\u30a6\u30aa"
+  },
+  "pokedex_numbers": {
+    "national": 456,
+    "original-sinnoh": 134,
+    "extended-sinnoh": 134,
+    "original-alola": 108,
+    "original-melemele": 108,
+    "original-akala": 40,
+    "original-ulaula": 55,
+    "original-poni": 57,
+    "updated-alola": 131,
+    "updated-melemele": 131,
+    "updated-akala": 40,
+    "updated-ulaula": 58,
+    "updated-poni": 69,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "updated-unova": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "fish",
+  "species": "Wing Fish Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/456.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/456.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 49
+    },
+    {
+      "name": "attack",
+      "base_stat": 49
+    },
+    {
+      "name": "defense",
+      "base_stat": 56
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 49
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 61
+    },
+    {
+      "name": "speed",
+      "base_stat": 66
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    }
+  ],
+  "weight_kilograms": 7,
+  "weight_pounds": 15
+}

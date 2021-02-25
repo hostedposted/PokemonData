@@ -1,0 +1,195 @@
+{
+  "description": "Lowers the foe\u2019s ATTACK.",
+  "effect": "When this Pok\u00e9mon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.\n\nThis ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.\n\nThis ability has no effect on an opponent that has a substitute.\n\nOverworld: If the first Pok\u00e9mon in the party has this ability, any random encounter with a Pok\u00e9mon five or more levels lower than it has a 50% chance of being skipped.",
+  "id": 22,
+  "name": "intimidate",
+  "pokemon": [
+    {
+      "name": "ekans",
+      "url": "https://thepokeapi.com/pokemon/ekans",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "arbok",
+      "url": "https://thepokeapi.com/pokemon/arbok",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "growlithe",
+      "url": "https://thepokeapi.com/pokemon/growlithe",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "arcanine",
+      "url": "https://thepokeapi.com/pokemon/arcanine",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tauros",
+      "url": "https://thepokeapi.com/pokemon/tauros",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gyarados",
+      "url": "https://thepokeapi.com/pokemon/gyarados",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snubbull",
+      "url": "https://thepokeapi.com/pokemon/snubbull",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "granbull",
+      "url": "https://thepokeapi.com/pokemon/granbull",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "qwilfish",
+      "url": "https://thepokeapi.com/pokemon/qwilfish",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "stantler",
+      "url": "https://thepokeapi.com/pokemon/stantler",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hitmontop",
+      "url": "https://thepokeapi.com/pokemon/hitmontop",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mightyena",
+      "url": "https://thepokeapi.com/pokemon/mightyena",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "masquerain",
+      "url": "https://thepokeapi.com/pokemon/masquerain",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mawile",
+      "url": "https://thepokeapi.com/pokemon/mawile",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "salamence",
+      "url": "https://thepokeapi.com/pokemon/salamence",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "staravia",
+      "url": "https://thepokeapi.com/pokemon/staravia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "staraptor",
+      "url": "https://thepokeapi.com/pokemon/staraptor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shinx",
+      "url": "https://thepokeapi.com/pokemon/shinx",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "luxio",
+      "url": "https://thepokeapi.com/pokemon/luxio",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "luxray",
+      "url": "https://thepokeapi.com/pokemon/luxray",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "herdier",
+      "url": "https://thepokeapi.com/pokemon/herdier",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "stoutland",
+      "url": "https://thepokeapi.com/pokemon/stoutland",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sandile",
+      "url": "https://thepokeapi.com/pokemon/sandile",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "krokorok",
+      "url": "https://thepokeapi.com/pokemon/krokorok",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "krookodile",
+      "url": "https://thepokeapi.com/pokemon/krookodile",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scraggy",
+      "url": "https://thepokeapi.com/pokemon/scraggy",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "scrafty",
+      "url": "https://thepokeapi.com/pokemon/scrafty",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "litten",
+      "url": "https://thepokeapi.com/pokemon/litten",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "torracat",
+      "url": "https://thepokeapi.com/pokemon/torracat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "incineroar",
+      "url": "https://thepokeapi.com/pokemon/incineroar",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "manectric",
+      "url": "https://thepokeapi.com/pokemon/manectric",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Lowers opponents' Attack one stage upon entering battle."
+}

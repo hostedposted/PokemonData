@@ -1,0 +1,491 @@
+{
+  "abilities": [
+    {
+      "name": "prankster",
+      "url": "https://thepokeapi.com/ability/prankster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "defiant",
+      "url": "https://thepokeapi.com/ability/defiant",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 3,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "thundurus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 59,
+  "id": 642,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thrash",
+      "level": 85,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "level": 67,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "role-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "revenge",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "hammer-arm",
+      "level": 79,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "embargo",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heal-block",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "dark-pulse",
+      "level": 73,
+      "tm": false
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "discharge",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sky-drop",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "volt-switch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "smart-strike",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "thundurus-incarnate",
+  "names": {
+    "french": "Fulguris",
+    "german": "Voltolos",
+    "spanish": "Thundurus",
+    "italian": "Thundurus",
+    "english": "Thundurus",
+    "japanese": "\u30dc\u30eb\u30c8\u30ed\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 642,
+    "original-unova": 148,
+    "updated-unova": 199,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "arms",
+  "species": "Bolt Strike Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/642.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/642.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 79
+    },
+    {
+      "name": "attack",
+      "base_stat": 115
+    },
+    {
+      "name": "defense",
+      "base_stat": 70
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 125
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 80
+    },
+    {
+      "name": "speed",
+      "base_stat": 111
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "url": "https://thepokeapi.com/type/electric"
+    },
+    {
+      "name": "flying",
+      "url": "https://thepokeapi.com/type/flying"
+    }
+  ],
+  "weight_kilograms": 61,
+  "weight_pounds": 134
+}

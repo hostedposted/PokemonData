@@ -1,0 +1,445 @@
+{
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "url": "https://thepokeapi.com/ability/chlorophyll",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "early-bird",
+      "url": "https://thepokeapi.com/ability/early-bird",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pickpocket",
+      "url": "https://thepokeapi.com/ability/pickpocket",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 4,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 4,
+    "fighting": 1,
+    "poison": 4,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 1,
+    "bug": 4,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pok\u00e9mon by suddenly moving. This Pok\u00e9mon polishes its body once a day using leaves.",
+  "egg_groups": [
+    "ground",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "seedot"
+    ],
+    [
+      "nuzleaf"
+    ],
+    [
+      "shiftry"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 20,
+  "id": 273,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-wind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swords-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "growth",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quick-attack",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "defense-curl",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bide",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "self-destruct",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "amnesia",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "explosion",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "false-swipe",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "beat-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-swap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nasty-plot",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defog",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "retaliate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grassy-terrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "seedot",
+  "names": {
+    "french": "Grainipiot",
+    "german": "Samurzel",
+    "spanish": "Seedot",
+    "italian": "Seedot",
+    "english": "Seedot",
+    "japanese": "\u30bf\u30cd\u30dc\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 273,
+    "hoenn": 22,
+    "updated-hoenn": 22,
+    "galar": 39,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "legs",
+  "species": "Acorn Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/273.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/273.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 9
+}

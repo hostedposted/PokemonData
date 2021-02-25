@@ -1,0 +1,99 @@
+{
+  "description": "Avoids sound-based moves.",
+  "effect": "This Pok\u00e9mon is immune to moves flagged as being sound-based.\n\nheal bell is unaffected.  uproar still prevents this Pok\u00e9mon from sleeping.  This Pok\u00e9mon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used.\n\nhowl, roar of time, sonic boom, and yawn are not flagged as sound-based.",
+  "id": 43,
+  "name": "soundproof",
+  "pokemon": [
+    {
+      "name": "voltorb",
+      "url": "https://thepokeapi.com/pokemon/voltorb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "electrode",
+      "url": "https://thepokeapi.com/pokemon/electrode",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mr-mime",
+      "url": "https://thepokeapi.com/pokemon/mr-mime",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "whismur",
+      "url": "https://thepokeapi.com/pokemon/whismur",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "loudred",
+      "url": "https://thepokeapi.com/pokemon/loudred",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "exploud",
+      "url": "https://thepokeapi.com/pokemon/exploud",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shieldon",
+      "url": "https://thepokeapi.com/pokemon/shieldon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bastiodon",
+      "url": "https://thepokeapi.com/pokemon/bastiodon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mime-jr",
+      "url": "https://thepokeapi.com/pokemon/mime-jr",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snover",
+      "url": "https://thepokeapi.com/pokemon/snover",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "abomasnow",
+      "url": "https://thepokeapi.com/pokemon/abomasnow",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bouffalant",
+      "url": "https://thepokeapi.com/pokemon/bouffalant",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "jangmo-o",
+      "url": "https://thepokeapi.com/pokemon/jangmo-o",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hakamo-o",
+      "url": "https://thepokeapi.com/pokemon/hakamo-o",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "kommo-o",
+      "url": "https://thepokeapi.com/pokemon/kommo-o",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Protects against sound-based moves."
+}

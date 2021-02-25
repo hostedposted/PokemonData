@@ -1,0 +1,391 @@
+{
+  "abilities": [
+    {
+      "name": "honey-gather",
+      "url": "https://thepokeapi.com/ability/honey-gather",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shield-dust",
+      "url": "https://thepokeapi.com/ability/shield-dust",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sweet-veil",
+      "url": "https://thepokeapi.com/ability/sweet-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes\u2019 movements and make fools of them.",
+  "egg_groups": [
+    "bug",
+    "fairy"
+  ],
+  "evolution_chain": [
+    [
+      "cutiefly"
+    ],
+    [
+      "ribombee"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 4,
+  "id": 742,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stun-spore",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-life",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skill-swap",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aromatherapy",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "silver-wind",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-buzz",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quiver-dance",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bestow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "sticky-web",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "draining-kiss",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "fairy-wind",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "powder",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "speed-swap",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "cutiefly",
+  "names": {
+    "french": "Bombydou",
+    "german": "Wommel",
+    "spanish": "Cutiefly",
+    "italian": "Cutiefly",
+    "english": "Cutiefly",
+    "japanese": "\u30a2\u30d6\u30ea\u30fc"
+  },
+  "pokedex_numbers": {
+    "national": 742,
+    "original-alola": 83,
+    "original-melemele": 83,
+    "original-ulaula": 43,
+    "original-poni": 33,
+    "updated-alola": 98,
+    "updated-melemele": 98,
+    "updated-ulaula": 43,
+    "updated-poni": 42,
+    "galar": 187,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-akala": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "armor",
+  "species": "Bee Fly Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/742.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/742.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 45
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 55
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 40
+    },
+    {
+      "name": "speed",
+      "base_stat": 84
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "url": "https://thepokeapi.com/type/bug"
+    },
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 0,
+  "weight_pounds": 0
+}

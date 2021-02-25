@@ -1,0 +1,81 @@
+{
+  "description": "Prevents ATTACK reduction.",
+  "effect": "This Pok\u00e9mon's Attack cannot be lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pok\u00e9mon can still be passed negative Attack modifiers through heart swap or power swap.",
+  "id": 52,
+  "name": "hyper-cutter",
+  "pokemon": [
+    {
+      "name": "krabby",
+      "url": "https://thepokeapi.com/pokemon/krabby",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kingler",
+      "url": "https://thepokeapi.com/pokemon/kingler",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pinsir",
+      "url": "https://thepokeapi.com/pokemon/pinsir",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gligar",
+      "url": "https://thepokeapi.com/pokemon/gligar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mawile",
+      "url": "https://thepokeapi.com/pokemon/mawile",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "trapinch",
+      "url": "https://thepokeapi.com/pokemon/trapinch",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corphish",
+      "url": "https://thepokeapi.com/pokemon/corphish",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "crawdaunt",
+      "url": "https://thepokeapi.com/pokemon/crawdaunt",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gliscor",
+      "url": "https://thepokeapi.com/pokemon/gliscor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "crabrawler",
+      "url": "https://thepokeapi.com/pokemon/crabrawler",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "crabominable",
+      "url": "https://thepokeapi.com/pokemon/crabominable",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kingler",
+      "url": "https://thepokeapi.com/pokemon/kingler",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents Attack from being lowered by other Pok\u00e9mon."
+}

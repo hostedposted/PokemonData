@@ -1,0 +1,435 @@
+{
+  "abilities": [
+    {
+      "name": "anticipation",
+      "url": "https://thepokeapi.com/ability/anticipation",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "overcoat",
+      "url": "https://thepokeapi.com/ability/overcoat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 4,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 1,
+    "bug": 2,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "burmy"
+    ],
+    [
+      "wormadam",
+      "mothim"
+    ]
+  ],
+  "evolves_from_species": "burmy",
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 413,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "growth",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confusion",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flail",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "synthesis",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psych-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "skill-swap",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-buzz",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 47,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "quiver-dance",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "wormadam-plant",
+  "names": {
+    "french": "Cheniselle",
+    "german": "Burmadame",
+    "spanish": "Wormadam",
+    "italian": "Wormadam",
+    "english": "Wormadam",
+    "japanese": "\u30df\u30ce\u30de\u30c0\u30e0"
+  },
+  "pokedex_numbers": {
+    "national": 413,
+    "original-sinnoh": 46,
+    "extended-sinnoh": 46,
+    "kalos-central": 45,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "sinnoh",
+  "region_id": 4,
+  "shape": "blob",
+  "species": "Bagworm Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/413.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/413.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 59
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 79
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 105
+    },
+    {
+      "name": "speed",
+      "base_stat": 36
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "url": "https://thepokeapi.com/type/bug"
+    },
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 14
+}

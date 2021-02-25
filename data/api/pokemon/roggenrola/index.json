@@ -1,0 +1,384 @@
+{
+  "abilities": [
+    {
+      "name": "sturdy",
+      "url": "https://thepokeapi.com/ability/sturdy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "weak-armor",
+      "url": "https://thepokeapi.com/ability/weak-armor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-force",
+      "url": "https://thepokeapi.com/ability/sand-force",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 2,
+    "grass": 1,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "roggenrola"
+    ],
+    [
+      "boldore"
+    ],
+    [
+      "gigalith"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 16,
+  "id": 524,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "sand-attack",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "headbutt",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "lock-on",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sandstorm",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "block",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rock-blast",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "gravity",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-polish",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "stealth-rock",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "wide-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "autotomize",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "heavy-slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "roggenrola",
+  "names": {
+    "french": "Nodulithe",
+    "german": "Kiesling",
+    "spanish": "Roggenrola",
+    "italian": "Roggenrola",
+    "english": "Roggenrola",
+    "japanese": "\u30c0\u30f3\u30b4\u30ed"
+  },
+  "pokedex_numbers": {
+    "national": 524,
+    "original-unova": 30,
+    "updated-unova": 68,
+    "conquest-gallery": 40,
+    "kalos-coastal": 120,
+    "original-alola": 98,
+    "original-melemele": 98,
+    "original-poni": 48,
+    "updated-alola": 120,
+    "updated-melemele": 120,
+    "updated-poni": 60,
+    "galar": 168,
+    "isle-of-armor": 154,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "original-akala": null,
+    "updated-akala": null,
+    "original-ulaula": null,
+    "updated-ulaula": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "legs",
+  "species": "Mantle Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/524.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/524.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 25
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 25
+    },
+    {
+      "name": "speed",
+      "base_stat": 15
+    }
+  ],
+  "types": [
+    {
+      "name": "rock",
+      "url": "https://thepokeapi.com/type/rock"
+    }
+  ],
+  "weight_kilograms": 18,
+  "weight_pounds": 40
+}

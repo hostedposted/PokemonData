@@ -1,0 +1,255 @@
+{
+  "description": "Not hit by GROUND attacks.",
+  "effect": "This Pok\u00e9mon is immune to ground-type moves, spikes, toxic spikes, and arena trap.\n\nThis ability is disabled during gravity or ingrain, or while holding an iron ball.  This ability is not disabled during roost.",
+  "id": 26,
+  "name": "levitate",
+  "pokemon": [
+    {
+      "name": "gastly",
+      "url": "https://thepokeapi.com/pokemon/gastly",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "haunter",
+      "url": "https://thepokeapi.com/pokemon/haunter",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "koffing",
+      "url": "https://thepokeapi.com/pokemon/koffing",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "weezing",
+      "url": "https://thepokeapi.com/pokemon/weezing",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "misdreavus",
+      "url": "https://thepokeapi.com/pokemon/misdreavus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unown",
+      "url": "https://thepokeapi.com/pokemon/unown",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vibrava",
+      "url": "https://thepokeapi.com/pokemon/vibrava",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flygon",
+      "url": "https://thepokeapi.com/pokemon/flygon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lunatone",
+      "url": "https://thepokeapi.com/pokemon/lunatone",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "solrock",
+      "url": "https://thepokeapi.com/pokemon/solrock",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "baltoy",
+      "url": "https://thepokeapi.com/pokemon/baltoy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "claydol",
+      "url": "https://thepokeapi.com/pokemon/claydol",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "duskull",
+      "url": "https://thepokeapi.com/pokemon/duskull",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chimecho",
+      "url": "https://thepokeapi.com/pokemon/chimecho",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "latias",
+      "url": "https://thepokeapi.com/pokemon/latias",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "latios",
+      "url": "https://thepokeapi.com/pokemon/latios",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mismagius",
+      "url": "https://thepokeapi.com/pokemon/mismagius",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chingling",
+      "url": "https://thepokeapi.com/pokemon/chingling",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bronzor",
+      "url": "https://thepokeapi.com/pokemon/bronzor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bronzong",
+      "url": "https://thepokeapi.com/pokemon/bronzong",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "carnivine",
+      "url": "https://thepokeapi.com/pokemon/carnivine",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "uxie",
+      "url": "https://thepokeapi.com/pokemon/uxie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mesprit",
+      "url": "https://thepokeapi.com/pokemon/mesprit",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "azelf",
+      "url": "https://thepokeapi.com/pokemon/azelf",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cresselia",
+      "url": "https://thepokeapi.com/pokemon/cresselia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tynamo",
+      "url": "https://thepokeapi.com/pokemon/tynamo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "eelektrik",
+      "url": "https://thepokeapi.com/pokemon/eelektrik",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "eelektross",
+      "url": "https://thepokeapi.com/pokemon/eelektross",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cryogonal",
+      "url": "https://thepokeapi.com/pokemon/cryogonal",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hydreigon",
+      "url": "https://thepokeapi.com/pokemon/hydreigon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vikavolt",
+      "url": "https://thepokeapi.com/pokemon/vikavolt",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "latias",
+      "url": "https://thepokeapi.com/pokemon/latias",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "latios",
+      "url": "https://thepokeapi.com/pokemon/latios",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vikavolt",
+      "url": "https://thepokeapi.com/pokemon/vikavolt",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "weezing",
+      "url": "https://thepokeapi.com/pokemon/weezing",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Evades ground moves."
+}

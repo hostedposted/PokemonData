@@ -1,0 +1,450 @@
+{
+  "abilities": [
+    {
+      "name": "oblivious",
+      "url": "https://thepokeapi.com/ability/oblivious",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "anticipation",
+      "url": "https://thepokeapi.com/ability/anticipation",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hydration",
+      "url": "https://thepokeapi.com/ability/hydration",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 1,
+    "electric": 0,
+    "grass": 4,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
+  "egg_groups": [
+    "water2"
+  ],
+  "evolution_chain": [
+    [
+      "barboach"
+    ],
+    [
+      "whiscash"
+    ]
+  ],
+  "evolves_from_species": "barboach",
+  "growth_rate": "medium",
+  "height": 35,
+  "id": 340,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "fissure",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "rock-slide",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "substitute",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "icy-wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "future-sight",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "muddy-water",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "water-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-tail",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-bomb",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "belch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "whiscash",
+  "names": {
+    "french": "Barbicha",
+    "german": "Welsar",
+    "spanish": "Whiscash",
+    "italian": "Whiscash",
+    "english": "Whiscash",
+    "japanese": "\u30ca\u30de\u30ba\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 340,
+    "hoenn": 128,
+    "original-sinnoh": 81,
+    "extended-sinnoh": 81,
+    "kalos-mountain": 41,
+    "updated-hoenn": 133,
+    "original-alola": 94,
+    "original-melemele": 94,
+    "original-akala": 37,
+    "original-poni": 44,
+    "updated-alola": 114,
+    "updated-melemele": 114,
+    "updated-akala": 37,
+    "updated-poni": 56,
+    "galar": 229,
+    "isle-of-armor": 138,
+    "crown-tundra": 61,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "updated-ulaula": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "hoenn",
+  "region_id": 3,
+  "shape": "fish",
+  "species": "Whiskers Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/340.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/340.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 110
+    },
+    {
+      "name": "attack",
+      "base_stat": 78
+    },
+    {
+      "name": "defense",
+      "base_stat": 73
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 76
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 71
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    },
+    {
+      "name": "ground",
+      "url": "https://thepokeapi.com/type/ground"
+    }
+  ],
+  "weight_kilograms": 24,
+  "weight_pounds": 52
+}

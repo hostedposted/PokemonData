@@ -1,0 +1,15 @@
+{
+  "description": "Just being next to the Pok\u00e9mon powers up moves.",
+  "effect": null,
+  "id": 249,
+  "name": "power-spot",
+  "pokemon": [
+    {
+      "name": "stonjourner",
+      "url": "https://thepokeapi.com/pokemon/stonjourner",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

@@ -1,0 +1,449 @@
+{
+  "abilities": [
+    {
+      "name": "flame-body",
+      "url": "https://thepokeapi.com/ability/flame-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swarm",
+      "url": "https://thepokeapi.com/ability/swarm",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 15,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "According to legends, it was hatched from a flaming cocoon to save people and Pok\u00e9mon that were suffering from the cold.",
+  "egg_groups": [
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "larvesta"
+    ],
+    [
+      "volcarona"
+    ]
+  ],
+  "evolves_from_species": "larvesta",
+  "growth_rate": "slow",
+  "height": 63,
+  "id": 637,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "gust",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "whirlwind",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thrash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "string-shot",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fire-spin",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leech-life",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-wheel",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "silver-wind",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "flare-blitz",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-buzz",
+      "level": 70,
+      "tm": false
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "bug-bite",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "rage-powder",
+      "level": 80,
+      "tm": false
+    },
+    {
+      "name": "quiver-dance",
+      "level": 59,
+      "tm": false
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "struggle-bug",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hurricane",
+      "level": 90,
+      "tm": false
+    },
+    {
+      "name": "fiery-dance",
+      "level": 100,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "volcarona",
+  "names": {
+    "french": "Pyrax",
+    "german": "Ramoth",
+    "spanish": "Volcarona",
+    "italian": "Volcarona",
+    "english": "Volcarona",
+    "japanese": "\u30a6\u30eb\u30ac\u30e2\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 637,
+    "original-unova": 143,
+    "updated-unova": 172,
+    "conquest-gallery": 174,
+    "updated-alola": 204,
+    "updated-akala": 105,
+    "isle-of-armor": 187,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "galar": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-melemele": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "bug-wings",
+  "species": "Sun Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/637.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/637.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 85
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 135
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 105
+    },
+    {
+      "name": "speed",
+      "base_stat": 100
+    }
+  ],
+  "types": [
+    {
+      "name": "bug",
+      "url": "https://thepokeapi.com/type/bug"
+    },
+    {
+      "name": "fire",
+      "url": "https://thepokeapi.com/type/fire"
+    }
+  ],
+  "weight_kilograms": 46,
+  "weight_pounds": 101
+}

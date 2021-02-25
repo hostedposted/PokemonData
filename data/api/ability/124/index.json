@@ -1,0 +1,75 @@
+{
+  "description": "Vole l\u2019objet de l\u2019ennemi\nsi son attaque touche.",
+  "effect": "Whenever a move makes contact with this Pok\u00e9mon, if it does not have a held item, it steals the attacker's held item.\n\nThis Pok\u00e9mon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pok\u00e9mon is wild, it cannot steal from a trained Pok\u00e9mon.",
+  "id": 124,
+  "name": "pickpocket",
+  "pokemon": [
+    {
+      "name": "sneasel",
+      "url": "https://thepokeapi.com/pokemon/sneasel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "seedot",
+      "url": "https://thepokeapi.com/pokemon/seedot",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "nuzleaf",
+      "url": "https://thepokeapi.com/pokemon/nuzleaf",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "shiftry",
+      "url": "https://thepokeapi.com/pokemon/shiftry",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "weavile",
+      "url": "https://thepokeapi.com/pokemon/weavile",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "binacle",
+      "url": "https://thepokeapi.com/pokemon/binacle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "barbaracle",
+      "url": "https://thepokeapi.com/pokemon/barbaracle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "impidimp",
+      "url": "https://thepokeapi.com/pokemon/impidimp",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "morgrem",
+      "url": "https://thepokeapi.com/pokemon/morgrem",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Steals attacking Pok\u00e9mon's held items on contact."
+}

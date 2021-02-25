@@ -1,0 +1,381 @@
+{
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "url": "https://thepokeapi.com/ability/hyper-cutter",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "iron-fist",
+      "url": "https://thepokeapi.com/ability/iron-fist",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "anger-point",
+      "url": "https://thepokeapi.com/ability/anger-point",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 225,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
+  "egg_groups": [
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "crabrawler"
+    ],
+    [
+      "crabominable"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 24,
+  "id": 739,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "leer",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "bubble-beam",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "amnesia",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "dizzy-punch",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "crabhammer",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reversal",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "pursuit",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "superpower",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "iron-defense",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "bulk-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "close-combat",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wide-guard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "power-up-punch",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "brutal-swing",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "crabrawler",
+  "names": {
+    "french": "Crabagarre",
+    "german": "Krabbox",
+    "spanish": "Crabrawler",
+    "italian": "Crabrawler",
+    "english": "Crabrawler",
+    "japanese": "\u30de\u30b1\u30f3\u30ab\u30cb"
+  },
+  "pokedex_numbers": {
+    "national": 739,
+    "original-alola": 59,
+    "original-melemele": 59,
+    "original-akala": 21,
+    "original-ulaula": 30,
+    "original-poni": 17,
+    "updated-alola": 71,
+    "updated-melemele": 71,
+    "updated-akala": 21,
+    "updated-ulaula": 30,
+    "updated-poni": 24,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "updated-unova": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "armor",
+  "species": "Boxing Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/739.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/739.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 47
+    },
+    {
+      "name": "attack",
+      "base_stat": 82
+    },
+    {
+      "name": "defense",
+      "base_stat": 57
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 42
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 47
+    },
+    {
+      "name": "speed",
+      "base_stat": 63
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "url": "https://thepokeapi.com/type/fighting"
+    }
+  ],
+  "weight_kilograms": 7,
+  "weight_pounds": 15
+}

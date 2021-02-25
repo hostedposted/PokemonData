@@ -1,0 +1,453 @@
+{
+  "abilities": [
+    {
+      "name": "blaze",
+      "url": "https://thepokeapi.com/ability/blaze",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "thick-fat",
+      "url": "https://thepokeapi.com/ability/thick-fat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "red",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 4,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 4,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "tepig"
+    ],
+    [
+      "pignite"
+    ],
+    [
+      "emboar"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 20,
+  "id": 498,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "body-slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tail-whip",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 39,
+      "tm": false
+    },
+    {
+      "name": "ember",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "defense-curl",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "smog",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "fire-blast",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magnitude",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "iron-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-wave",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "will-o-wisp",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "overheat",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "odor-sleuth",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "gyro-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "assurance",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "sucker-punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flare-blitz",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "zen-headbutt",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "head-smash",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "heavy-slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "incinerate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fire-pledge",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "heat-crash",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "burn-up",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "tepig",
+  "names": {
+    "french": "Gruikui",
+    "german": "Floink",
+    "spanish": "Tepig",
+    "italian": "Tepig",
+    "english": "Tepig",
+    "japanese": "\u30dd\u30ab\u30d6"
+  },
+  "pokedex_numbers": {
+    "national": 498,
+    "original-unova": 4,
+    "updated-unova": 4,
+    "conquest-gallery": 121,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "galar": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Fire Pig Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/498.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/498.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 65
+    },
+    {
+      "name": "attack",
+      "base_stat": 63
+    },
+    {
+      "name": "defense",
+      "base_stat": 45
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 45
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 45
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    {
+      "name": "fire",
+      "url": "https://thepokeapi.com/type/fire"
+    }
+  ],
+  "weight_kilograms": 10,
+  "weight_pounds": 22
+}

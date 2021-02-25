@@ -1,0 +1,225 @@
+{
+  "description": "Prevents flinching.",
+  "effect": "This Pok\u00e9mon cannot flinch.",
+  "id": 39,
+  "name": "inner-focus",
+  "pokemon": [
+    {
+      "name": "zubat",
+      "url": "https://thepokeapi.com/pokemon/zubat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "golbat",
+      "url": "https://thepokeapi.com/pokemon/golbat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "abra",
+      "url": "https://thepokeapi.com/pokemon/abra",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "kadabra",
+      "url": "https://thepokeapi.com/pokemon/kadabra",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "alakazam",
+      "url": "https://thepokeapi.com/pokemon/alakazam",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "farfetchd",
+      "url": "https://thepokeapi.com/pokemon/farfetchd",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drowzee",
+      "url": "https://thepokeapi.com/pokemon/drowzee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "hypno",
+      "url": "https://thepokeapi.com/pokemon/hypno",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "hitmonchan",
+      "url": "https://thepokeapi.com/pokemon/hitmonchan",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "kangaskhan",
+      "url": "https://thepokeapi.com/pokemon/kangaskhan",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dragonite",
+      "url": "https://thepokeapi.com/pokemon/dragonite",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "crobat",
+      "url": "https://thepokeapi.com/pokemon/crobat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "umbreon",
+      "url": "https://thepokeapi.com/pokemon/umbreon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "girafarig",
+      "url": "https://thepokeapi.com/pokemon/girafarig",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sneasel",
+      "url": "https://thepokeapi.com/pokemon/sneasel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "raikou",
+      "url": "https://thepokeapi.com/pokemon/raikou",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "entei",
+      "url": "https://thepokeapi.com/pokemon/entei",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "suicune",
+      "url": "https://thepokeapi.com/pokemon/suicune",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "snorunt",
+      "url": "https://thepokeapi.com/pokemon/snorunt",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "glalie",
+      "url": "https://thepokeapi.com/pokemon/glalie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "riolu",
+      "url": "https://thepokeapi.com/pokemon/riolu",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lucario",
+      "url": "https://thepokeapi.com/pokemon/lucario",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "throh",
+      "url": "https://thepokeapi.com/pokemon/throh",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sawk",
+      "url": "https://thepokeapi.com/pokemon/sawk",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "darumaka",
+      "url": "https://thepokeapi.com/pokemon/darumaka",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mienfoo",
+      "url": "https://thepokeapi.com/pokemon/mienfoo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mienshao",
+      "url": "https://thepokeapi.com/pokemon/mienshao",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pawniard",
+      "url": "https://thepokeapi.com/pokemon/pawniard",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bisharp",
+      "url": "https://thepokeapi.com/pokemon/bisharp",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mudbray",
+      "url": "https://thepokeapi.com/pokemon/mudbray",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mudsdale",
+      "url": "https://thepokeapi.com/pokemon/mudsdale",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "oranguru",
+      "url": "https://thepokeapi.com/pokemon/oranguru",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "indeedee-male",
+      "url": "https://thepokeapi.com/pokemon/indeedee-male",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kubfu",
+      "url": "https://thepokeapi.com/pokemon/kubfu",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gallade",
+      "url": "https://thepokeapi.com/pokemon/gallade",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "darumaka",
+      "url": "https://thepokeapi.com/pokemon/darumaka",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Prevents flinching."
+}

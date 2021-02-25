@@ -1,0 +1,21 @@
+{
+  "description": "\u30ce\u30fc\u30de\u30eb\u30bf\u30a4\u30d7\u306e\u3000\u308f\u3056\u304c\n\u3072\u3053\u3046\u30bf\u30a4\u30d7\u306b\u306a\u308b\u3002",
+  "effect": "Turns the bearer's normal-type moves into flying-type moves.  Moves changed by this ability have 1.3\u00d7 their power.",
+  "id": 184,
+  "name": "aerilate",
+  "pokemon": [
+    {
+      "name": "pinsir",
+      "url": "https://thepokeapi.com/pokemon/pinsir",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "salamence",
+      "url": "https://thepokeapi.com/pokemon/salamence",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Turns the bearer's normal moves into flying moves and strengthens them to 1.3\u00d7 their power."
+}

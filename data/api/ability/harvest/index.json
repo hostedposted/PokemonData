@@ -1,0 +1,45 @@
+{
+  "description": "Pu\u00f2 ricreare una bacca utilizzata.",
+  "effect": "After each turn, if the last item this Pok\u00e9mon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.",
+  "id": 139,
+  "name": "harvest",
+  "pokemon": [
+    {
+      "name": "exeggcute",
+      "url": "https://thepokeapi.com/pokemon/exeggcute",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "exeggutor",
+      "url": "https://thepokeapi.com/pokemon/exeggutor",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tropius",
+      "url": "https://thepokeapi.com/pokemon/tropius",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "phantump",
+      "url": "https://thepokeapi.com/pokemon/phantump",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "trevenant",
+      "url": "https://thepokeapi.com/pokemon/trevenant",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "exeggutor",
+      "url": "https://thepokeapi.com/pokemon/exeggutor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Has a 50% chance of restoring a used Berry after each turn if the Pok\u00e9mon has held no items in the meantime."
+}

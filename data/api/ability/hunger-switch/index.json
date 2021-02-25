@@ -1,0 +1,15 @@
+{
+  "description": "The Pok\u00e9mon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",
+  "effect": null,
+  "id": 258,
+  "name": "hunger-switch",
+  "pokemon": [
+    {
+      "name": "morpeko",
+      "url": "https://thepokeapi.com/pokemon/morpeko",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

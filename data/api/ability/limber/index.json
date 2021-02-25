@@ -1,0 +1,93 @@
+{
+  "description": "Prevents paralysis.",
+  "effect": "This Pok\u00e9mon cannot be paralyzed.\n\nIf a Pok\u00e9mon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle.",
+  "id": 7,
+  "name": "limber",
+  "pokemon": [
+    {
+      "name": "persian",
+      "url": "https://thepokeapi.com/pokemon/persian",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hitmonlee",
+      "url": "https://thepokeapi.com/pokemon/hitmonlee",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ditto",
+      "url": "https://thepokeapi.com/pokemon/ditto",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "buneary",
+      "url": "https://thepokeapi.com/pokemon/buneary",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lopunny",
+      "url": "https://thepokeapi.com/pokemon/lopunny",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "glameow",
+      "url": "https://thepokeapi.com/pokemon/glameow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "purrloin",
+      "url": "https://thepokeapi.com/pokemon/purrloin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "liepard",
+      "url": "https://thepokeapi.com/pokemon/liepard",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "stunfisk",
+      "url": "https://thepokeapi.com/pokemon/stunfisk",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hawlucha",
+      "url": "https://thepokeapi.com/pokemon/hawlucha",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mareanie",
+      "url": "https://thepokeapi.com/pokemon/mareanie",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "toxapex",
+      "url": "https://thepokeapi.com/pokemon/toxapex",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "clobbopus",
+      "url": "https://thepokeapi.com/pokemon/clobbopus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grapploct",
+      "url": "https://thepokeapi.com/pokemon/grapploct",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents paralysis."
+}

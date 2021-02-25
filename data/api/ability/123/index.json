@@ -1,0 +1,15 @@
+{
+  "description": "Infligge danni ai nemici addormentati.",
+  "effect": "Opposing Pok\u00e9mon take 1/8 of their maximum HP in damage after each turn while they are asleep.",
+  "id": 123,
+  "name": "bad-dreams",
+  "pokemon": [
+    {
+      "name": "darkrai",
+      "url": "https://thepokeapi.com/pokemon/darkrai",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Damages sleeping opponents for 1/8 their max HP after each turn."
+}

@@ -1,0 +1,436 @@
+{
+  "abilities": [
+    {
+      "name": "static",
+      "url": "https://thepokeapi.com/ability/static",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "motor-drive",
+      "url": "https://thepokeapi.com/ability/motor-drive",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "As it flies, it scatters electricity around, so bird Pok\u00e9mon keep their distance. That\u2019s why Emolga can keep all its food to itself.",
+  "egg_groups": [
+    "ground"
+  ],
+  "evolution_chain": [
+    [
+      "emolga"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 587,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tail-whip",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "thunder-shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "agility",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "quick-attack",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spark",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "baton-pass",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "encore",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "pursuit",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "iron-tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "shock-wave",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "roost",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tailwind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "last-resort",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "air-slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "discharge",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electro-ball",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "volt-switch",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wild-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ion-deluge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nuzzle",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "speed-swap",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "emolga",
+  "names": {
+    "french": "Emolga",
+    "german": "Emolga",
+    "spanish": "Emolga",
+    "italian": "Emolga",
+    "english": "Emolga",
+    "japanese": "\u30a8\u30e2\u30f3\u30ac"
+  },
+  "pokedex_numbers": {
+    "national": 587,
+    "original-unova": 93,
+    "updated-unova": 144,
+    "conquest-gallery": 180,
+    "kalos-coastal": 86,
+    "original-alola": 274,
+    "original-poni": 89,
+    "updated-alola": 364,
+    "updated-poni": 111,
+    "isle-of-armor": 102,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "galar": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "original-ulaula": null,
+    "updated-ulaula": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "quadruped",
+  "species": "Sky Squirrel Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/587.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/587.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 55
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 75
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 103
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "url": "https://thepokeapi.com/type/electric"
+    },
+    {
+      "name": "flying",
+      "url": "https://thepokeapi.com/type/flying"
+    }
+  ],
+  "weight_kilograms": 5,
+  "weight_pounds": 11
+}

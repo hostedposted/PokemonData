@@ -1,0 +1,21 @@
+{
+  "description": "Ignores the effects of opposing Pok\u00e9mon's Abilities and moves that draw in moves.",
+  "effect": null,
+  "id": 242,
+  "name": "stalwart",
+  "pokemon": [
+    {
+      "name": "duraludon",
+      "url": "https://thepokeapi.com/pokemon/duraludon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "duraludon",
+      "url": "https://thepokeapi.com/pokemon/duraludon",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

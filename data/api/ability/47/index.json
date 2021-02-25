@@ -1,0 +1,177 @@
+{
+  "description": "Heat-and-cold protection.",
+  "effect": "This Pok\u00e9mon takes half as much damage from fire- and ice-type moves.",
+  "id": 47,
+  "name": "thick-fat",
+  "pokemon": [
+    {
+      "name": "seel",
+      "url": "https://thepokeapi.com/pokemon/seel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dewgong",
+      "url": "https://thepokeapi.com/pokemon/dewgong",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snorlax",
+      "url": "https://thepokeapi.com/pokemon/snorlax",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "marill",
+      "url": "https://thepokeapi.com/pokemon/marill",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "azumarill",
+      "url": "https://thepokeapi.com/pokemon/azumarill",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swinub",
+      "url": "https://thepokeapi.com/pokemon/swinub",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "piloswine",
+      "url": "https://thepokeapi.com/pokemon/piloswine",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "miltank",
+      "url": "https://thepokeapi.com/pokemon/miltank",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "makuhita",
+      "url": "https://thepokeapi.com/pokemon/makuhita",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hariyama",
+      "url": "https://thepokeapi.com/pokemon/hariyama",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "azurill",
+      "url": "https://thepokeapi.com/pokemon/azurill",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "spoink",
+      "url": "https://thepokeapi.com/pokemon/spoink",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grumpig",
+      "url": "https://thepokeapi.com/pokemon/grumpig",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "spheal",
+      "url": "https://thepokeapi.com/pokemon/spheal",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sealeo",
+      "url": "https://thepokeapi.com/pokemon/sealeo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "walrein",
+      "url": "https://thepokeapi.com/pokemon/walrein",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "purugly",
+      "url": "https://thepokeapi.com/pokemon/purugly",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "munchlax",
+      "url": "https://thepokeapi.com/pokemon/munchlax",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mamoswine",
+      "url": "https://thepokeapi.com/pokemon/mamoswine",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tepig",
+      "url": "https://thepokeapi.com/pokemon/tepig",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pignite",
+      "url": "https://thepokeapi.com/pokemon/pignite",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "appletun",
+      "url": "https://thepokeapi.com/pokemon/appletun",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "venusaur",
+      "url": "https://thepokeapi.com/pokemon/venusaur",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rattata",
+      "url": "https://thepokeapi.com/pokemon/rattata",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "snorlax",
+      "url": "https://thepokeapi.com/pokemon/snorlax",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "appletun",
+      "url": "https://thepokeapi.com/pokemon/appletun",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Halves damage from fire and ice moves."
+}

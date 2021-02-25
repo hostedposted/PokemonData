@@ -1,0 +1,159 @@
+{
+  "description": "Anticipe et \u00e9vite les\nattaques de ses alli\u00e9s.",
+  "effect": "This Pok\u00e9mon does not take damage from friendly Pok\u00e9mon's moves, including single-target moves aimed at it.",
+  "id": 140,
+  "name": "telepathy",
+  "pokemon": [
+    {
+      "name": "wobbuffet",
+      "url": "https://thepokeapi.com/pokemon/wobbuffet",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ralts",
+      "url": "https://thepokeapi.com/pokemon/ralts",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "kirlia",
+      "url": "https://thepokeapi.com/pokemon/kirlia",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gardevoir",
+      "url": "https://thepokeapi.com/pokemon/gardevoir",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "meditite",
+      "url": "https://thepokeapi.com/pokemon/meditite",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "medicham",
+      "url": "https://thepokeapi.com/pokemon/medicham",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "wynaut",
+      "url": "https://thepokeapi.com/pokemon/wynaut",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dialga",
+      "url": "https://thepokeapi.com/pokemon/dialga",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "palkia",
+      "url": "https://thepokeapi.com/pokemon/palkia",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "giratina-altered",
+      "url": "https://thepokeapi.com/pokemon/giratina-altered",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "munna",
+      "url": "https://thepokeapi.com/pokemon/munna",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "musharna",
+      "url": "https://thepokeapi.com/pokemon/musharna",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "elgyem",
+      "url": "https://thepokeapi.com/pokemon/elgyem",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "beheeyem",
+      "url": "https://thepokeapi.com/pokemon/beheeyem",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "noibat",
+      "url": "https://thepokeapi.com/pokemon/noibat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "noivern",
+      "url": "https://thepokeapi.com/pokemon/noivern",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "oranguru",
+      "url": "https://thepokeapi.com/pokemon/oranguru",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tapu-koko",
+      "url": "https://thepokeapi.com/pokemon/tapu-koko",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tapu-lele",
+      "url": "https://thepokeapi.com/pokemon/tapu-lele",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tapu-bulu",
+      "url": "https://thepokeapi.com/pokemon/tapu-bulu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tapu-fini",
+      "url": "https://thepokeapi.com/pokemon/tapu-fini",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blipbug",
+      "url": "https://thepokeapi.com/pokemon/blipbug",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dottler",
+      "url": "https://thepokeapi.com/pokemon/dottler",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "orbeetle",
+      "url": "https://thepokeapi.com/pokemon/orbeetle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "orbeetle",
+      "url": "https://thepokeapi.com/pokemon/orbeetle",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Protects against friendly Pok\u00e9mon's damaging moves."
+}

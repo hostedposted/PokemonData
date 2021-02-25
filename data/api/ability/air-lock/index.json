@@ -1,0 +1,15 @@
+{
+  "description": "Negates weather effects.",
+  "effect": "While this Pok\u00e9mon is in battle, weather can still be in play, but will not have any of its effects.\n\nThis ability functions identically to cloud nine.",
+  "id": 76,
+  "name": "air-lock",
+  "pokemon": [
+    {
+      "name": "rayquaza",
+      "url": "https://thepokeapi.com/pokemon/rayquaza",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Negates all effects of weather, but does not prevent the weather itself."
+}

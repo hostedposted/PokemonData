@@ -1,0 +1,105 @@
+{
+  "description": "Prevents ability reduction.",
+  "effect": "This Pok\u00e9mon cannot have its stats lowered by other Pok\u00e9mon.\n\nThis ability does not prevent any stat losses other than stat modifiers, such as the Speed cut from paralysis.  This Pok\u00e9mon can still be passed negative stat modifiers through guard swap, heart swap, or power swap.\n\nThis ability functions identically to white smoke in battle.",
+  "id": 29,
+  "name": "clear-body",
+  "pokemon": [
+    {
+      "name": "tentacool",
+      "url": "https://thepokeapi.com/pokemon/tentacool",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tentacruel",
+      "url": "https://thepokeapi.com/pokemon/tentacruel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "beldum",
+      "url": "https://thepokeapi.com/pokemon/beldum",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "metang",
+      "url": "https://thepokeapi.com/pokemon/metang",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "metagross",
+      "url": "https://thepokeapi.com/pokemon/metagross",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "regirock",
+      "url": "https://thepokeapi.com/pokemon/regirock",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "regice",
+      "url": "https://thepokeapi.com/pokemon/regice",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "registeel",
+      "url": "https://thepokeapi.com/pokemon/registeel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "klink",
+      "url": "https://thepokeapi.com/pokemon/klink",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "klang",
+      "url": "https://thepokeapi.com/pokemon/klang",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "klinklang",
+      "url": "https://thepokeapi.com/pokemon/klinklang",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "carbink",
+      "url": "https://thepokeapi.com/pokemon/carbink",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "diancie",
+      "url": "https://thepokeapi.com/pokemon/diancie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dreepy",
+      "url": "https://thepokeapi.com/pokemon/dreepy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "drakloak",
+      "url": "https://thepokeapi.com/pokemon/drakloak",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dragapult",
+      "url": "https://thepokeapi.com/pokemon/dragapult",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents stats from being lowered by other Pok\u00e9mon."
+}

@@ -1,0 +1,379 @@
+{
+  "abilities": [
+    {
+      "name": "ice-body",
+      "url": "https://thepokeapi.com/ability/ice-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snow-cloak",
+      "url": "https://thepokeapi.com/ability/snow-cloak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "weak-armor",
+      "url": "https://thepokeapi.com/ability/weak-armor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
+  "egg_groups": [
+    "mineral"
+  ],
+  "evolution_chain": [
+    [
+      "vanillite"
+    ],
+    [
+      "vanillish"
+    ],
+    [
+      "vanilluxe"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 16,
+  "id": 582,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "mist",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "ice-beam",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "harden",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acid-armor",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "explosion",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "powder-snow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "imprison",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "astonish",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "signal-beam",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sheer-cold",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "icicle-spear",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron-defense",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "magnet-rise",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "avalanche",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "ice-shard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mirror-shot",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "flash-cannon",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "autotomize",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "vanillite",
+  "names": {
+    "french": "Sorb\u00e9b\u00e9",
+    "german": "Gelatini",
+    "spanish": "Vanillite",
+    "italian": "Vanillite",
+    "english": "Vanillite",
+    "japanese": "\u30d0\u30cb\u30d7\u30c3\u30c1"
+  },
+  "pokedex_numbers": {
+    "national": 582,
+    "original-unova": 88,
+    "updated-unova": 255,
+    "kalos-mountain": 85,
+    "original-alola": 255,
+    "original-ulaula": 127,
+    "updated-alola": 332,
+    "updated-ulaula": 153,
+    "galar": 72,
+    "crown-tundra": 22,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "original-poni": null,
+    "updated-poni": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "blob",
+  "species": "Fresh Snow Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/582.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/582.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 36
+    },
+    {
+      "name": "attack",
+      "base_stat": 50
+    },
+    {
+      "name": "defense",
+      "base_stat": 50
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 65
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 44
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "url": "https://thepokeapi.com/type/ice"
+    }
+  ],
+  "weight_kilograms": 6,
+  "weight_pounds": 13
+}

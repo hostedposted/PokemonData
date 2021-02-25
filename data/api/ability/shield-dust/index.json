@@ -1,0 +1,81 @@
+{
+  "description": "Prevents added effects.",
+  "effect": "This Pok\u00e9mon is immune to the extra effects of moves used against it.\n\nAn extra effect is a move's chance, listed as an \"effect chance\", to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect.  For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.",
+  "id": 19,
+  "name": "shield-dust",
+  "pokemon": [
+    {
+      "name": "caterpie",
+      "url": "https://thepokeapi.com/pokemon/caterpie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "weedle",
+      "url": "https://thepokeapi.com/pokemon/weedle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "venomoth",
+      "url": "https://thepokeapi.com/pokemon/venomoth",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wurmple",
+      "url": "https://thepokeapi.com/pokemon/wurmple",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dustox",
+      "url": "https://thepokeapi.com/pokemon/dustox",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scatterbug",
+      "url": "https://thepokeapi.com/pokemon/scatterbug",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vivillon",
+      "url": "https://thepokeapi.com/pokemon/vivillon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cutiefly",
+      "url": "https://thepokeapi.com/pokemon/cutiefly",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ribombee",
+      "url": "https://thepokeapi.com/pokemon/ribombee",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "snom",
+      "url": "https://thepokeapi.com/pokemon/snom",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "frosmoth",
+      "url": "https://thepokeapi.com/pokemon/frosmoth",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ribombee",
+      "url": "https://thepokeapi.com/pokemon/ribombee",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Protects against incoming moves' extra effects."
+}

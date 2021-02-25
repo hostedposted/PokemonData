@@ -1,0 +1,345 @@
+{
+  "abilities": [
+    {
+      "name": "illuminate",
+      "url": "https://thepokeapi.com/ability/illuminate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "effect-spore",
+      "url": "https://thepokeapi.com/ability/effect-spore",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rain-dish",
+      "url": "https://thepokeapi.com/ability/rain-dish",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 4,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "morelull"
+    ],
+    [
+      "shiinotic"
+    ]
+  ],
+  "evolves_from_species": "morelull",
+  "growth_rate": "medium",
+  "height": 39,
+  "id": 756,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-powder",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "spore",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "moonlight",
+      "level": 11,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ingrain",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charge-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "moonblast",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength-sap",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "spotlight",
+      "level": 53,
+      "tm": false
+    }
+  ],
+  "name": "shiinotic",
+  "names": {
+    "french": "Lampignon",
+    "german": "Lamellux",
+    "spanish": "Shiinotic",
+    "italian": "Shiinotic",
+    "english": "Shiinotic",
+    "japanese": "\u30de\u30b7\u30a7\u30fc\u30c9"
+  },
+  "pokedex_numbers": {
+    "national": 756,
+    "original-alola": 146,
+    "original-akala": 73,
+    "original-ulaula": 65,
+    "updated-alola": 179,
+    "updated-akala": 80,
+    "updated-ulaula": 71,
+    "galar": 341,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "updated-melemele": null,
+    "updated-unova": null,
+    "original-poni": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "humanoid",
+  "species": "Illuminating Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/756.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/756.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 45
+    },
+    {
+      "name": "defense",
+      "base_stat": 80
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 100
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    },
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 12,
+  "weight_pounds": 25
+}

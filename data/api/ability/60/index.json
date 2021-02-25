@@ -1,0 +1,57 @@
+{
+  "description": "Prevents item theft.",
+  "effect": "This Pok\u00e9mon's hold item cannot be removed by other Pok\u00e9mon.\n\nDamaging moves that would remove this Pok\u00e9mon's item can still inflict damage against this Pok\u00e9mon, e.g. knock off or pluck.  This Pok\u00e9mon can still use moves that involve the loss of its own item, e.g. fling or trick.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the encounter rate while fishing is increased.",
+  "id": 60,
+  "name": "sticky-hold",
+  "pokemon": [
+    {
+      "name": "grimer",
+      "url": "https://thepokeapi.com/pokemon/grimer",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "muk",
+      "url": "https://thepokeapi.com/pokemon/muk",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gulpin",
+      "url": "https://thepokeapi.com/pokemon/gulpin",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "swalot",
+      "url": "https://thepokeapi.com/pokemon/swalot",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "shellos",
+      "url": "https://thepokeapi.com/pokemon/shellos",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gastrodon",
+      "url": "https://thepokeapi.com/pokemon/gastrodon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "trubbish",
+      "url": "https://thepokeapi.com/pokemon/trubbish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "accelgor",
+      "url": "https://thepokeapi.com/pokemon/accelgor",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Prevents a held item from being removed by other Pok\u00e9mon."
+}

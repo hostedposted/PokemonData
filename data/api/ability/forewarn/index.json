@@ -1,0 +1,45 @@
+{
+  "description": "Determines what moves\nthe foe has.",
+  "effect": "When this Pok\u00e9mon enters battle, it reveals the move with the highest base power known by any opposing Pok\u00e9mon to all participating trainers.\n\nIn the event of a tie, one is chosen at random.\n\nMoves without a listed base power are assigned one as follows:\n\nPower | Moves\n----: | -----\n  160 | One-hit KO moves: fissure, guillotine, horn drill, and sheer cold\n  120 | Counter moves: counter, metal burst, and mirror coat\n   80 | Variable power or set damage: crush grip, dragon rage, electro ball, endeavor, final gambit, flail, frustration, grass knot, gyro ball, heat crash, heavy slam, hidden power, low kick, natural gift, night shade, psywave, return, reversal, seismic toss, sonic boom, trump card, and wring out\n    0 | Any such move not listed\n",
+  "id": 108,
+  "name": "forewarn",
+  "pokemon": [
+    {
+      "name": "drowzee",
+      "url": "https://thepokeapi.com/pokemon/drowzee",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hypno",
+      "url": "https://thepokeapi.com/pokemon/hypno",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "jynx",
+      "url": "https://thepokeapi.com/pokemon/jynx",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "smoochum",
+      "url": "https://thepokeapi.com/pokemon/smoochum",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "munna",
+      "url": "https://thepokeapi.com/pokemon/munna",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "musharna",
+      "url": "https://thepokeapi.com/pokemon/musharna",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Reveals the opponents' strongest move upon entering battle."
+}

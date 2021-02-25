@@ -1,0 +1,75 @@
+{
+  "description": "Boosts Speed if there is a\nstatus problem.",
+  "effect": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Speed.  This Pok\u00e9mon is not affected by the usual Speed cut from paralysis.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is halved.",
+  "id": 95,
+  "name": "quick-feet",
+  "pokemon": [
+    {
+      "name": "jolteon",
+      "url": "https://thepokeapi.com/pokemon/jolteon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "granbull",
+      "url": "https://thepokeapi.com/pokemon/granbull",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "teddiursa",
+      "url": "https://thepokeapi.com/pokemon/teddiursa",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ursaring",
+      "url": "https://thepokeapi.com/pokemon/ursaring",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "poochyena",
+      "url": "https://thepokeapi.com/pokemon/poochyena",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mightyena",
+      "url": "https://thepokeapi.com/pokemon/mightyena",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "zigzagoon",
+      "url": "https://thepokeapi.com/pokemon/zigzagoon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "linoone",
+      "url": "https://thepokeapi.com/pokemon/linoone",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "shroomish",
+      "url": "https://thepokeapi.com/pokemon/shroomish",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "zigzagoon",
+      "url": "https://thepokeapi.com/pokemon/zigzagoon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "linoone",
+      "url": "https://thepokeapi.com/pokemon/linoone",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Increases Speed to 1.5\u00d7 with a major status ailment."
+}

@@ -1,0 +1,293 @@
+{
+  "abilities": [
+    {
+      "name": "limber",
+      "url": "https://thepokeapi.com/ability/limber",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "technician",
+      "url": "https://thepokeapi.com/ability/technician",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 180,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "Its tentacles tear off easily, but it isn\u2019t alarmed when that happens\u2014it knows they\u2019ll grow back. It\u2019s about as smart as a three-year-old.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "clobbopus"
+    ],
+    [
+      "grapploct"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 24,
+  "id": 852,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "rock smash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "feint",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "bind",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "detect",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "brick break",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "bulk up",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "submission",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "reversal",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "pain split",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "soak",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sucker punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "circle throw",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "seismic toss",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "power-up punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "clobbopus",
+  "names": {
+    "french": "Poulpaf",
+    "german": "Klopptopus",
+    "spanish": "Clobbopus",
+    "italian": "Clobbopus",
+    "english": "Clobbopus",
+    "japanese": "\u30bf\u30bf\u30c3\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 852,
+    "galar": 351,
+    "isle-of-armor": 129,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "tentacles",
+  "species": "Tantrum Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/852.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/852.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 68
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 32
+    }
+  ],
+  "types": [
+    {
+      "name": "fighting",
+      "url": "https://thepokeapi.com/type/fighting"
+    }
+  ],
+  "weight_kilograms": 4,
+  "weight_pounds": 9
+}

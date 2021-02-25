@@ -1,0 +1,473 @@
+{
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "url": "https://thepokeapi.com/ability/chlorophyll",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "run-away",
+      "url": "https://thepokeapi.com/ability/run-away",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 2,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 0
+  },
+  "description": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pok\u00e9mon\u2019s feet are thought to change shape and become similar to the roots of trees.",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "oddish"
+    ],
+    [
+      "gloom"
+    ],
+    [
+      "vileplume",
+      "bellossom"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 20,
+  "id": 43,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acid",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "absorb",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "mega-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "growth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "solar-beam",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "poison-powder",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "stun-spore",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "sleep-powder",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "petal-dance",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sweet-scent",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "moonlight",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "ingrain",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bullet-seed",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "gastro-acid",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "lucky-chant",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "after-you",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grassy-terrain",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "strength-sap",
+      "tm": false,
+      "level": null
+    }
+  ],
+  "name": "oddish",
+  "names": {
+    "french": "Mystherbe",
+    "german": "Myrapla",
+    "spanish": "Oddish",
+    "italian": "Oddish",
+    "english": "Oddish",
+    "japanese": "\u30ca\u30be\u30ce\u30af\u30b5"
+  },
+  "pokedex_numbers": {
+    "national": 43,
+    "kanto": 43,
+    "original-johto": 83,
+    "hoenn": 88,
+    "updated-johto": 83,
+    "kalos-central": 105,
+    "updated-hoenn": 91,
+    "galar": 55,
+    "updated-kanto": 43,
+    "isle-of-armor": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "legs",
+  "species": "Weed Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/43.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/43.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 50
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 75
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 65
+    },
+    {
+      "name": "speed",
+      "base_stat": 30
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    },
+    {
+      "name": "poison",
+      "url": "https://thepokeapi.com/type/poison"
+    }
+  ],
+  "weight_kilograms": 5,
+  "weight_pounds": 12
+}

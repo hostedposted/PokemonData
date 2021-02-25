@@ -1,0 +1,333 @@
+{
+  "abilities": [
+    {
+      "name": "sheer-force",
+      "url": "https://thepokeapi.com/ability/sheer-force",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "heavy-metal",
+      "url": "https://thepokeapi.com/ability/heavy-metal",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "If a job requires serious strength, this Pok\u00e9mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "cufant"
+    ],
+    [
+      "copperajah"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 47,
+  "id": 878,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "rock smash",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "bulldoze",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "strength",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "iron head",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "play rough",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "high horsepower",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "superpower",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "double-edge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "belch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "slam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fissure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defense curl",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cufant",
+  "names": {
+    "french": "Charibari",
+    "german": "Kupfanti",
+    "spanish": "Cufant",
+    "italian": "Cufant",
+    "english": "Cufant",
+    "japanese": "\u30be\u30a6\u30c9\u30a6"
+  },
+  "pokedex_numbers": {
+    "national": 878,
+    "galar": 302,
+    "crown-tundra": 108,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "quadruped",
+  "species": "Copperderm Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/878.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/878.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 72
+    },
+    {
+      "name": "attack",
+      "base_stat": 80
+    },
+    {
+      "name": "defense",
+      "base_stat": 49
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 49
+    },
+    {
+      "name": "speed",
+      "base_stat": 40
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "url": "https://thepokeapi.com/type/steel"
+    }
+  ],
+  "weight_kilograms": 100,
+  "weight_pounds": 220
+}

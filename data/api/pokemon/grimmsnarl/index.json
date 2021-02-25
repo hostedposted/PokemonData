@@ -1,0 +1,391 @@
+{
+  "abilities": [
+    {
+      "name": "prankster",
+      "url": "https://thepokeapi.com/ability/prankster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "frisk",
+      "url": "https://thepokeapi.com/ability/frisk",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pickpocket",
+      "url": "https://thepokeapi.com/ability/pickpocket",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 2
+  },
+  "description": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "impidimp"
+    ],
+    [
+      "morgrem"
+    ],
+    [
+      "grimmsnarl"
+    ]
+  ],
+  "evolves_from_species": "morgrem",
+  "growth_rate": "medium",
+  "height": 59,
+  "id": 861,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "spirit break",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "spirit break",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "false surrender",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bulk up",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "power-up punch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fake out",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "flatter",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fake tears",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "assurance",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "sucker punch",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "dark pulse",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "nasty plot",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "play rough",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "foul play",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "hammer arm",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dynamic-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "grimmsnarl",
+  "names": {
+    "french": "Angoliath",
+    "german": "Olangaa",
+    "spanish": "Grimmsnarl",
+    "italian": "Grimmsnarl",
+    "english": "Grimmsnarl",
+    "japanese": "\u30aa\u30fc\u30ed\u30f3\u30b2"
+  },
+  "pokedex_numbers": {
+    "national": 861,
+    "galar": 240,
+    "crown-tundra": 39,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "species": "Bulk Up Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/861.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/861.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 95
+    },
+    {
+      "name": "attack",
+      "base_stat": 120
+    },
+    {
+      "name": "defense",
+      "base_stat": 65
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 95
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    {
+      "name": "dark",
+      "url": "https://thepokeapi.com/type/dark"
+    },
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 61,
+  "weight_pounds": 134
+}

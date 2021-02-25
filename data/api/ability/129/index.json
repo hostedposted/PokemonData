@@ -1,0 +1,21 @@
+{
+  "description": "Baisse les stats quand les\nPV tombent \u00e0 la moiti\u00e9.",
+  "effect": "This Pok\u00e9mon's Attack and Special Attack are halved when it has half its HP or less.",
+  "id": 129,
+  "name": "defeatist",
+  "pokemon": [
+    {
+      "name": "archen",
+      "url": "https://thepokeapi.com/pokemon/archen",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "archeops",
+      "url": "https://thepokeapi.com/pokemon/archeops",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Halves Attack and Special Attack at 50% max HP or less."
+}

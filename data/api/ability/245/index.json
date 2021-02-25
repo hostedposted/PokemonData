@@ -1,0 +1,27 @@
+{
+  "description": "The Pok\u00e9mon creates a sandstorm when it's hit by an attack.",
+  "effect": null,
+  "id": 245,
+  "name": "sand-spit",
+  "pokemon": [
+    {
+      "name": "silicobra",
+      "url": "https://thepokeapi.com/pokemon/silicobra",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sandaconda",
+      "url": "https://thepokeapi.com/pokemon/sandaconda",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sandaconda",
+      "url": "https://thepokeapi.com/pokemon/sandaconda",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

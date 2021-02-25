@@ -1,0 +1,63 @@
+{
+  "description": "Traps STEEL-type POK\u00e9MON.",
+  "effect": "While this Pok\u00e9mon is in battle, opposing steel-type Pok\u00e9mon cannot flee or switch out.\n\nPok\u00e9mon with run away can still flee.  Pok\u00e9mon can still switch out with the use of a move or item.\n\nOverworld: If the lead Pok\u00e9mon has this ability, Steel-type Pok\u00e9mon have a higher encounter rate.",
+  "id": 42,
+  "name": "magnet-pull",
+  "pokemon": [
+    {
+      "name": "magnemite",
+      "url": "https://thepokeapi.com/pokemon/magnemite",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "magneton",
+      "url": "https://thepokeapi.com/pokemon/magneton",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nosepass",
+      "url": "https://thepokeapi.com/pokemon/nosepass",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "magnezone",
+      "url": "https://thepokeapi.com/pokemon/magnezone",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "probopass",
+      "url": "https://thepokeapi.com/pokemon/probopass",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "meltan",
+      "url": "https://thepokeapi.com/pokemon/meltan",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "geodude",
+      "url": "https://thepokeapi.com/pokemon/geodude",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "graveler",
+      "url": "https://thepokeapi.com/pokemon/graveler",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "golem",
+      "url": "https://thepokeapi.com/pokemon/golem",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents steel opponents from fleeing or switching out."
+}

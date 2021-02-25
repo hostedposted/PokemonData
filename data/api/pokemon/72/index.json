@@ -1,0 +1,545 @@
+{
+  "abilities": [
+    {
+      "name": "clear-body",
+      "url": "https://thepokeapi.com/ability/clear-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "liquid-ooze",
+      "url": "https://thepokeapi.com/ability/liquid-ooze",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rain-dish",
+      "url": "https://thepokeapi.com/ability/rain-dish",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "Its body is 99% water. The remaining 1% contains the organ that makes its poison.",
+  "egg_groups": [
+    "water3"
+  ],
+  "evolution_chain": [
+    [
+      "tentacool"
+    ],
+    [
+      "tentacruel"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 35,
+  "id": 72,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "cut",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "wrap",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "take-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "poison-sting",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "acid",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 22,
+      "tm": false
+    },
+    {
+      "name": "hydro-pump",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aurora-beam",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mega-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rage",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mimic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confuse-ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "barrier",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "skull-bash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "constrict",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "bubble",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "icy-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "whirlpool",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "magic-coat",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dive",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "muddy-water",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brine",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "natural-gift",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acupressure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "wring-out",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "toxic-spikes",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "aqua-ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "poison-jab",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venoshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-wave",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "acid-spray",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hex",
+      "level": 43,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "tentacool",
+  "names": {
+    "french": "Tentacool",
+    "german": "Tentacha",
+    "spanish": "Tentacool",
+    "italian": "Tentacool",
+    "english": "Tentacool",
+    "japanese": "\u30e1\u30ce\u30af\u30e9\u30b2"
+  },
+  "pokedex_numbers": {
+    "national": 72,
+    "kanto": 72,
+    "original-johto": 162,
+    "hoenn": 66,
+    "original-sinnoh": 136,
+    "extended-sinnoh": 136,
+    "updated-johto": 164,
+    "kalos-coastal": 25,
+    "updated-hoenn": 68,
+    "original-alola": 106,
+    "original-melemele": 106,
+    "original-akala": 38,
+    "original-ulaula": 53,
+    "original-poni": 55,
+    "updated-alola": 129,
+    "updated-melemele": 129,
+    "updated-akala": 38,
+    "updated-ulaula": 56,
+    "updated-poni": 67,
+    "isle-of-armor": 40,
+    "updated-kanto": 72,
+    "kalos-central": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "updated-unova": null,
+    "kalos-mountain": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "kanto",
+  "region_id": 1,
+  "shape": "tentacles",
+  "species": "Jellyfish Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/72.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/72.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 40
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 35
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 100
+    },
+    {
+      "name": "speed",
+      "base_stat": 70
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    },
+    {
+      "name": "poison",
+      "url": "https://thepokeapi.com/type/poison"
+    }
+  ],
+  "weight_kilograms": 46,
+  "weight_pounds": 100
+}

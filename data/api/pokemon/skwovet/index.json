@@ -1,0 +1,298 @@
+{
+  "abilities": [
+    {
+      "name": "cheek-pouch",
+      "url": "https://thepokeapi.com/ability/cheek-pouch",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gluttony",
+      "url": "https://thepokeapi.com/ability/gluttony",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "skwovet"
+    ],
+    [
+      "greedent"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 819,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tail whip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "stuff cheeks",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "stockpile",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "swallow",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "spit up",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "body slam",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "counter",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "bullet seed",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "super fang",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "belch",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "rollout",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "defense curl",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "last resort",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "belly drum",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "skwovet",
+  "names": {
+    "french": "Rongourmand",
+    "german": "Raffel",
+    "spanish": "Skwovet",
+    "italian": "Skwovet",
+    "english": "Skwovet",
+    "japanese": "\u30db\u30b7\u30ac\u30ea\u30b9"
+  },
+  "pokedex_numbers": {
+    "national": 819,
+    "galar": 24,
+    "isle-of-armor": 9,
+    "crown-tundra": 5,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "species": "Cheeky Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/819.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/819.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 55
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 35
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 35
+    },
+    {
+      "name": "speed",
+      "base_stat": 25
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "url": "https://thepokeapi.com/type/normal"
+    }
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 6
+}

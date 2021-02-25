@@ -1,0 +1,135 @@
+{
+  "description": "Prevents status problems\nin sunny weather.",
+  "effect": "This Pok\u00e9mon cannot be given a major status ailment during strong sunlight.\n\nThis ability does not heal prior status ailments.  rest will fail altogether with this ability in effect.  yawn will immediately fail if used on this Pok\u00e9mon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime.",
+  "id": 102,
+  "name": "leaf-guard",
+  "pokemon": [
+    {
+      "name": "tangela",
+      "url": "https://thepokeapi.com/pokemon/tangela",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "chikorita",
+      "url": "https://thepokeapi.com/pokemon/chikorita",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bayleef",
+      "url": "https://thepokeapi.com/pokemon/bayleef",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "meganium",
+      "url": "https://thepokeapi.com/pokemon/meganium",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "hoppip",
+      "url": "https://thepokeapi.com/pokemon/hoppip",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "skiploom",
+      "url": "https://thepokeapi.com/pokemon/skiploom",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "jumpluff",
+      "url": "https://thepokeapi.com/pokemon/jumpluff",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "roselia",
+      "url": "https://thepokeapi.com/pokemon/roselia",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "budew",
+      "url": "https://thepokeapi.com/pokemon/budew",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tangrowth",
+      "url": "https://thepokeapi.com/pokemon/tangrowth",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "leafeon",
+      "url": "https://thepokeapi.com/pokemon/leafeon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swadloon",
+      "url": "https://thepokeapi.com/pokemon/swadloon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "petilil",
+      "url": "https://thepokeapi.com/pokemon/petilil",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lilligant",
+      "url": "https://thepokeapi.com/pokemon/lilligant",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "fomantis",
+      "url": "https://thepokeapi.com/pokemon/fomantis",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lurantis",
+      "url": "https://thepokeapi.com/pokemon/lurantis",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bounsweet",
+      "url": "https://thepokeapi.com/pokemon/bounsweet",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "steenee",
+      "url": "https://thepokeapi.com/pokemon/steenee",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tsareena",
+      "url": "https://thepokeapi.com/pokemon/tsareena",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "zarude",
+      "url": "https://thepokeapi.com/pokemon/zarude",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lurantis",
+      "url": "https://thepokeapi.com/pokemon/lurantis",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Protects against major status ailments during strong sunlight."
+}

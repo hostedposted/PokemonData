@@ -1,0 +1,21 @@
+{
+  "description": "When the Pok\u00e9mon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pok\u00e9mon except itself.",
+  "effect": null,
+  "id": 238,
+  "name": "cotton-down",
+  "pokemon": [
+    {
+      "name": "gossifleur",
+      "url": "https://thepokeapi.com/pokemon/gossifleur",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "eldegoss",
+      "url": "https://thepokeapi.com/pokemon/eldegoss",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

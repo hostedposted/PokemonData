@@ -1,0 +1,159 @@
+{
+  "description": "Prevents attraction.",
+  "effect": "This Pok\u00e9mon cannot be infatuated and is immune to captivate.\n\nIf a Pok\u00e9mon is infatuated and acquires this ability, its infatuation is cleared.",
+  "id": 12,
+  "name": "oblivious",
+  "pokemon": [
+    {
+      "name": "slowpoke",
+      "url": "https://thepokeapi.com/pokemon/slowpoke",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "slowbro",
+      "url": "https://thepokeapi.com/pokemon/slowbro",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lickitung",
+      "url": "https://thepokeapi.com/pokemon/lickitung",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "jynx",
+      "url": "https://thepokeapi.com/pokemon/jynx",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "slowking",
+      "url": "https://thepokeapi.com/pokemon/slowking",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swinub",
+      "url": "https://thepokeapi.com/pokemon/swinub",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "piloswine",
+      "url": "https://thepokeapi.com/pokemon/piloswine",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "smoochum",
+      "url": "https://thepokeapi.com/pokemon/smoochum",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "illumise",
+      "url": "https://thepokeapi.com/pokemon/illumise",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wailmer",
+      "url": "https://thepokeapi.com/pokemon/wailmer",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "wailord",
+      "url": "https://thepokeapi.com/pokemon/wailord",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "numel",
+      "url": "https://thepokeapi.com/pokemon/numel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "barboach",
+      "url": "https://thepokeapi.com/pokemon/barboach",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "whiscash",
+      "url": "https://thepokeapi.com/pokemon/whiscash",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "feebas",
+      "url": "https://thepokeapi.com/pokemon/feebas",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "spheal",
+      "url": "https://thepokeapi.com/pokemon/spheal",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sealeo",
+      "url": "https://thepokeapi.com/pokemon/sealeo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "walrein",
+      "url": "https://thepokeapi.com/pokemon/walrein",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lickilicky",
+      "url": "https://thepokeapi.com/pokemon/lickilicky",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mamoswine",
+      "url": "https://thepokeapi.com/pokemon/mamoswine",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "salandit",
+      "url": "https://thepokeapi.com/pokemon/salandit",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "salazzle",
+      "url": "https://thepokeapi.com/pokemon/salazzle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bounsweet",
+      "url": "https://thepokeapi.com/pokemon/bounsweet",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "steenee",
+      "url": "https://thepokeapi.com/pokemon/steenee",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "salazzle",
+      "url": "https://thepokeapi.com/pokemon/salazzle",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Prevents infatuation and protects against captivate."
+}

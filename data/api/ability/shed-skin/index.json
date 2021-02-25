@@ -1,0 +1,123 @@
+{
+  "description": "Heals the body by shedding.",
+  "effect": "After each turn, this Pok\u00e9mon has a 33% of being cured of any major status ailment.",
+  "id": 61,
+  "name": "shed-skin",
+  "pokemon": [
+    {
+      "name": "metapod",
+      "url": "https://thepokeapi.com/pokemon/metapod",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kakuna",
+      "url": "https://thepokeapi.com/pokemon/kakuna",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ekans",
+      "url": "https://thepokeapi.com/pokemon/ekans",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "arbok",
+      "url": "https://thepokeapi.com/pokemon/arbok",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dratini",
+      "url": "https://thepokeapi.com/pokemon/dratini",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dragonair",
+      "url": "https://thepokeapi.com/pokemon/dragonair",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pupitar",
+      "url": "https://thepokeapi.com/pokemon/pupitar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "silcoon",
+      "url": "https://thepokeapi.com/pokemon/silcoon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cascoon",
+      "url": "https://thepokeapi.com/pokemon/cascoon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "seviper",
+      "url": "https://thepokeapi.com/pokemon/seviper",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kricketot",
+      "url": "https://thepokeapi.com/pokemon/kricketot",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "burmy",
+      "url": "https://thepokeapi.com/pokemon/burmy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scraggy",
+      "url": "https://thepokeapi.com/pokemon/scraggy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scrafty",
+      "url": "https://thepokeapi.com/pokemon/scrafty",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "karrablast",
+      "url": "https://thepokeapi.com/pokemon/karrablast",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "spewpa",
+      "url": "https://thepokeapi.com/pokemon/spewpa",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "silicobra",
+      "url": "https://thepokeapi.com/pokemon/silicobra",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sandaconda",
+      "url": "https://thepokeapi.com/pokemon/sandaconda",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sandaconda",
+      "url": "https://thepokeapi.com/pokemon/sandaconda",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Has a 33% chance of curing any major status ailment after each turn."
+}

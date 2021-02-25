@@ -1,0 +1,33 @@
+{
+  "description": "Blesse l\u2019ennemi au moindre\ncontact.",
+  "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to rough skin.",
+  "id": 160,
+  "name": "iron-barbs",
+  "pokemon": [
+    {
+      "name": "ferroseed",
+      "url": "https://thepokeapi.com/pokemon/ferroseed",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ferrothorn",
+      "url": "https://thepokeapi.com/pokemon/ferrothorn",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "togedemaru",
+      "url": "https://thepokeapi.com/pokemon/togedemaru",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "togedemaru",
+      "url": "https://thepokeapi.com/pokemon/togedemaru",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+}

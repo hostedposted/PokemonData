@@ -1,0 +1,401 @@
+{
+  "abilities": [
+    {
+      "name": "prankster",
+      "url": "https://thepokeapi.com/ability/prankster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "infiltrator",
+      "url": "https://thepokeapi.com/ability/infiltrator",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "chlorophyll",
+      "url": "https://thepokeapi.com/ability/chlorophyll",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 4,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 0,
+    "dark": 0,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "Whimsicott doesn\u2019t live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "cottonee"
+    ],
+    [
+      "whimsicott"
+    ]
+  ],
+  "evolves_from_species": "cottonee",
+  "growth_rate": "medium",
+  "height": 28,
+  "id": 547,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "gust",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "hyper-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-drain",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leech-seed",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growth",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psychic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dream-eater",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cotton-spore",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-drain",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "shadow-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "taunt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "helping-hand",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "knock-off",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "covet",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "worry-seed",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "seed-bomb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trick-room",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hurricane",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "moonblast",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "whimsicott",
+  "names": {
+    "french": "Farfaduvet",
+    "german": "Elfun",
+    "spanish": "Whimsicott",
+    "italian": "Whimsicott",
+    "english": "Whimsicott",
+    "japanese": "\u30a8\u30eb\u30d5\u30fc\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 547,
+    "original-unova": 53,
+    "updated-unova": 83,
+    "conquest-gallery": 49,
+    "original-alola": 88,
+    "original-melemele": 88,
+    "original-ulaula": 48,
+    "original-poni": 38,
+    "updated-alola": 106,
+    "updated-melemele": 106,
+    "updated-ulaula": 51,
+    "updated-poni": 50,
+    "galar": 263,
+    "crown-tundra": 169,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "original-akala": null,
+    "updated-akala": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "humanoid",
+  "species": "Windveiled Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/547.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/547.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 67
+    },
+    {
+      "name": "defense",
+      "base_stat": 85
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 77
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 75
+    },
+    {
+      "name": "speed",
+      "base_stat": 116
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    },
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 7,
+  "weight_pounds": 15
+}

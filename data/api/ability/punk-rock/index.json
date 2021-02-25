@@ -1,0 +1,15 @@
+{
+  "description": "Boosts the power of sound-based moves. The Pok\u00e9mon also takes half the damage from these kinds of moves.",
+  "effect": null,
+  "id": 244,
+  "name": "punk-rock",
+  "pokemon": [
+    {
+      "name": "toxtricity-amped",
+      "url": "https://thepokeapi.com/pokemon/toxtricity-amped",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

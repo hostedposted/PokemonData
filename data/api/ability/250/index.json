@@ -1,0 +1,15 @@
+{
+  "description": "Changes the Pok\u00e9mon's type depending on the terrain.",
+  "effect": null,
+  "id": 250,
+  "name": "mimicry",
+  "pokemon": [
+    {
+      "name": "stunfisk",
+      "url": "https://thepokeapi.com/pokemon/stunfisk",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

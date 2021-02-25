@@ -1,0 +1,15 @@
+{
+  "description": "\u30aa\u30fc\u30e9\u306e\u3000\u3053\u3046\u304b\u304c\n\u304e\u3083\u304f\u306b\u3000\u306a\u308b\u3002",
+  "effect": "While this Pok\u00e9mon is on the field, dark aura and fairy aura weaken moves of their respective types to 2/3 their power, rather than strengthening them.",
+  "id": 188,
+  "name": "aura-break",
+  "pokemon": [
+    {
+      "name": "zygarde",
+      "url": "https://thepokeapi.com/pokemon/zygarde",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Makes dark aura and fairy aura weaken moves of their respective types."
+}

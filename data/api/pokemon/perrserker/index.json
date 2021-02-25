@@ -1,0 +1,330 @@
+{
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "url": "https://thepokeapi.com/ability/battle-armor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tough-claws",
+      "url": "https://thepokeapi.com/ability/tough-claws",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "steely-spirit",
+      "url": "https://thepokeapi.com/ability/steely-spirit",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 90,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 2,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 0,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "meowth"
+    ],
+    [
+      "persian",
+      "perrserker"
+    ]
+  ],
+  "evolves_from_species": "meowth",
+  "growth_rate": "medium",
+  "height": 31,
+  "id": 863,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "iron head",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "iron head",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "metal burst",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "fake out",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "hone claws",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "scratch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "pay day",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "metal claw",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "taunt",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "fury swipes",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "screech",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "metal sound",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "mega-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "perrserker",
+  "names": {
+    "french": "Berserkatt",
+    "german": "Mauzinger",
+    "spanish": "Perrserker",
+    "italian": "Perrserker",
+    "english": "Perrserker",
+    "japanese": "\u30cb\u30e3\u30a4\u30ad\u30f3\u30b0"
+  },
+  "pokedex_numbers": {
+    "national": 863,
+    "galar": 183,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "species": "Viking Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/863.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/863.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 110
+    },
+    {
+      "name": "defense",
+      "base_stat": 100
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 50
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "url": "https://thepokeapi.com/type/steel"
+    }
+  ],
+  "weight_kilograms": 28,
+  "weight_pounds": 62
+}

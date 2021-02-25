@@ -1,0 +1,93 @@
+{
+  "description": "Emp\u00eache la D\u00e9f. de baisser\n\u00e0 cause d\u2019attaques.",
+  "effect": "This Pok\u00e9mon's Defense cannot be lowered by other Pok\u00e9mon.\n\nThis Pok\u00e9mon can still be passed negative Defense modifiers through heart swap or guard swap.",
+  "id": 145,
+  "name": "big-pecks",
+  "pokemon": [
+    {
+      "name": "pidgey",
+      "url": "https://thepokeapi.com/pokemon/pidgey",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pidgeotto",
+      "url": "https://thepokeapi.com/pokemon/pidgeotto",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pidgeot",
+      "url": "https://thepokeapi.com/pokemon/pidgeot",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "chatot",
+      "url": "https://thepokeapi.com/pokemon/chatot",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pidove",
+      "url": "https://thepokeapi.com/pokemon/pidove",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tranquill",
+      "url": "https://thepokeapi.com/pokemon/tranquill",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "unfezant",
+      "url": "https://thepokeapi.com/pokemon/unfezant",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ducklett",
+      "url": "https://thepokeapi.com/pokemon/ducklett",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "swanna",
+      "url": "https://thepokeapi.com/pokemon/swanna",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "vullaby",
+      "url": "https://thepokeapi.com/pokemon/vullaby",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mandibuzz",
+      "url": "https://thepokeapi.com/pokemon/mandibuzz",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "fletchling",
+      "url": "https://thepokeapi.com/pokemon/fletchling",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rookidee",
+      "url": "https://thepokeapi.com/pokemon/rookidee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "corvisquire",
+      "url": "https://thepokeapi.com/pokemon/corvisquire",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Protects against Defense drops."
+}

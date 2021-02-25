@@ -1,0 +1,147 @@
+{
+  "description": "Restaure un peu de PV\nsi le Pok\u00e9mon est retir\u00e9.",
+  "effect": "This Pok\u00e9mon regains 1/3 of its maximum HP when it is switched out for another Pok\u00e9mon under any circumstances other than having fainted.\n\nThis ability does not take effect when a battle ends.",
+  "id": 144,
+  "name": "regenerator",
+  "pokemon": [
+    {
+      "name": "slowpoke",
+      "url": "https://thepokeapi.com/pokemon/slowpoke",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slowbro",
+      "url": "https://thepokeapi.com/pokemon/slowbro",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tangela",
+      "url": "https://thepokeapi.com/pokemon/tangela",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slowking",
+      "url": "https://thepokeapi.com/pokemon/slowking",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "corsola",
+      "url": "https://thepokeapi.com/pokemon/corsola",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ho-oh",
+      "url": "https://thepokeapi.com/pokemon/ho-oh",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tangrowth",
+      "url": "https://thepokeapi.com/pokemon/tangrowth",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "audino",
+      "url": "https://thepokeapi.com/pokemon/audino",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "solosis",
+      "url": "https://thepokeapi.com/pokemon/solosis",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "duosion",
+      "url": "https://thepokeapi.com/pokemon/duosion",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "reuniclus",
+      "url": "https://thepokeapi.com/pokemon/reuniclus",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "foongus",
+      "url": "https://thepokeapi.com/pokemon/foongus",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "amoonguss",
+      "url": "https://thepokeapi.com/pokemon/amoonguss",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "alomomola",
+      "url": "https://thepokeapi.com/pokemon/alomomola",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mienfoo",
+      "url": "https://thepokeapi.com/pokemon/mienfoo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mienshao",
+      "url": "https://thepokeapi.com/pokemon/mienshao",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mareanie",
+      "url": "https://thepokeapi.com/pokemon/mareanie",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "toxapex",
+      "url": "https://thepokeapi.com/pokemon/toxapex",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gossifleur",
+      "url": "https://thepokeapi.com/pokemon/gossifleur",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "eldegoss",
+      "url": "https://thepokeapi.com/pokemon/eldegoss",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "slowpoke",
+      "url": "https://thepokeapi.com/pokemon/slowpoke",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slowbro",
+      "url": "https://thepokeapi.com/pokemon/slowbro",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slowking",
+      "url": "https://thepokeapi.com/pokemon/slowking",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Heals for 1/3 max HP upon switching out."
+}

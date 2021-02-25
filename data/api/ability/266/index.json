@@ -1,0 +1,15 @@
+{
+  "description": "This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability.",
+  "effect": null,
+  "id": 266,
+  "name": "as-one",
+  "pokemon": [
+    {
+      "name": "calyrex",
+      "url": "https://thepokeapi.com/pokemon/calyrex",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

@@ -1,0 +1,45 @@
+{
+  "description": "Hurts to touch.",
+  "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user takes 1/8 of its maximum HP in damage.\n\nThis ability functions identically to iron barbs.",
+  "id": 24,
+  "name": "rough-skin",
+  "pokemon": [
+    {
+      "name": "carvanha",
+      "url": "https://thepokeapi.com/pokemon/carvanha",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sharpedo",
+      "url": "https://thepokeapi.com/pokemon/sharpedo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gible",
+      "url": "https://thepokeapi.com/pokemon/gible",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gabite",
+      "url": "https://thepokeapi.com/pokemon/gabite",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "garchomp",
+      "url": "https://thepokeapi.com/pokemon/garchomp",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "druddigon",
+      "url": "https://thepokeapi.com/pokemon/druddigon",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Damages attacking Pok\u00e9mon for 1/8 their max HP on contact."
+}

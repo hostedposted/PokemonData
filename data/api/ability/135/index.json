@@ -1,0 +1,51 @@
+{
+  "description": "Divise par deux le\npoids du Pok\u00e9mon.",
+  "effect": "This Pok\u00e9mon has half the usual weight for its species.",
+  "id": 135,
+  "name": "light-metal",
+  "pokemon": [
+    {
+      "name": "scizor",
+      "url": "https://thepokeapi.com/pokemon/scizor",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "beldum",
+      "url": "https://thepokeapi.com/pokemon/beldum",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "metang",
+      "url": "https://thepokeapi.com/pokemon/metang",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "metagross",
+      "url": "https://thepokeapi.com/pokemon/metagross",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "registeel",
+      "url": "https://thepokeapi.com/pokemon/registeel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "duraludon",
+      "url": "https://thepokeapi.com/pokemon/duraludon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "duraludon",
+      "url": "https://thepokeapi.com/pokemon/duraludon",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Halves the Pok\u00e9mon's weight."
+}

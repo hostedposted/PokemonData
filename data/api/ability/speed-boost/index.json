@@ -1,0 +1,81 @@
+{
+  "description": "Gradually boosts SPEED.",
+  "effect": "This Pok\u00e9mon's Speed rises one stage after each turn.",
+  "id": 3,
+  "name": "speed-boost",
+  "pokemon": [
+    {
+      "name": "yanma",
+      "url": "https://thepokeapi.com/pokemon/yanma",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "torchic",
+      "url": "https://thepokeapi.com/pokemon/torchic",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "combusken",
+      "url": "https://thepokeapi.com/pokemon/combusken",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blaziken",
+      "url": "https://thepokeapi.com/pokemon/blaziken",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ninjask",
+      "url": "https://thepokeapi.com/pokemon/ninjask",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "carvanha",
+      "url": "https://thepokeapi.com/pokemon/carvanha",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sharpedo",
+      "url": "https://thepokeapi.com/pokemon/sharpedo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "yanmega",
+      "url": "https://thepokeapi.com/pokemon/yanmega",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "venipede",
+      "url": "https://thepokeapi.com/pokemon/venipede",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "whirlipede",
+      "url": "https://thepokeapi.com/pokemon/whirlipede",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "scolipede",
+      "url": "https://thepokeapi.com/pokemon/scolipede",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blaziken",
+      "url": "https://thepokeapi.com/pokemon/blaziken",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises Speed one stage after each turn."
+}

@@ -1,0 +1,298 @@
+{
+  "abilities": [
+    {
+      "name": "strong-jaw",
+      "url": "https://thepokeapi.com/ability/strong-jaw",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "competitive",
+      "url": "https://thepokeapi.com/ability/competitive",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 0,
+    "ground": 4,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "yamper"
+    ],
+    [
+      "boltund"
+    ]
+  ],
+  "evolves_from_species": "yamper",
+  "growth_rate": "fast",
+  "height": 39,
+  "id": 836,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "electrify",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tail whip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "nuzzle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "roar",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "spark",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "charm",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "charge",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "wild charge",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "play rough",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "electric terrain",
+      "level": 62,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "boltund",
+  "names": {
+    "french": "Fulgudog",
+    "german": "Bellektro",
+    "spanish": "Boltund",
+    "italian": "Boltund",
+    "english": "Boltund",
+    "japanese": "\u30d1\u30eb\u30b9\u30ef\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 836,
+    "galar": 47,
+    "crown-tundra": 156,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "quadruped",
+  "species": "Dog Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/836.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/836.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 69
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 90
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 60
+    },
+    {
+      "name": "speed",
+      "base_stat": 121
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "url": "https://thepokeapi.com/type/electric"
+    }
+  ],
+  "weight_kilograms": 34,
+  "weight_pounds": 75
+}

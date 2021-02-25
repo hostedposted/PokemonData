@@ -1,0 +1,39 @@
+{
+  "description": "Firmly anchors the body.",
+  "effect": "This Pok\u00e9mon cannot be forced out of battle by moves such as whirlwind.\n\ndragon tail and circle throw still inflict damage against this Pok\u00e9mon.\n\nOverworld: If the lead Pok\u00e9mon has this ability, the success rate while fishing is increased.",
+  "id": 21,
+  "name": "suction-cups",
+  "pokemon": [
+    {
+      "name": "octillery",
+      "url": "https://thepokeapi.com/pokemon/octillery",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lileep",
+      "url": "https://thepokeapi.com/pokemon/lileep",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cradily",
+      "url": "https://thepokeapi.com/pokemon/cradily",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "inkay",
+      "url": "https://thepokeapi.com/pokemon/inkay",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "malamar",
+      "url": "https://thepokeapi.com/pokemon/malamar",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Prevents being forced out of battle by other Pok\u00e9mon's moves."
+}

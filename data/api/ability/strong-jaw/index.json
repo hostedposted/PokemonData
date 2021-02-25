@@ -1,0 +1,81 @@
+{
+  "description": "\u3042\u3054\u304c\u3000\u304c\u3093\u3058\u3087\u3046\u3067\n\u304b\u3080\u3000\u3061\u304b\u3089\u304c\u3000\u3064\u3088\u3044\u3002",
+  "effect": "Strengthens biting moves to 1.5\u00d7 their power.",
+  "id": 173,
+  "name": "strong-jaw",
+  "pokemon": [
+    {
+      "name": "tyrunt",
+      "url": "https://thepokeapi.com/pokemon/tyrunt",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tyrantrum",
+      "url": "https://thepokeapi.com/pokemon/tyrantrum",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "yungoos",
+      "url": "https://thepokeapi.com/pokemon/yungoos",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gumshoos",
+      "url": "https://thepokeapi.com/pokemon/gumshoos",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bruxish",
+      "url": "https://thepokeapi.com/pokemon/bruxish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "chewtle",
+      "url": "https://thepokeapi.com/pokemon/chewtle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "drednaw",
+      "url": "https://thepokeapi.com/pokemon/drednaw",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "boltund",
+      "url": "https://thepokeapi.com/pokemon/boltund",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dracovish",
+      "url": "https://thepokeapi.com/pokemon/dracovish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sharpedo",
+      "url": "https://thepokeapi.com/pokemon/sharpedo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gumshoos",
+      "url": "https://thepokeapi.com/pokemon/gumshoos",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drednaw",
+      "url": "https://thepokeapi.com/pokemon/drednaw",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Strengthens biting moves to 1.5\u00d7 their power."
+}

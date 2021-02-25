@@ -1,0 +1,57 @@
+{
+  "description": "Diminue les d\u00e9g\u00e2ts subis\npar les alli\u00e9s.",
+  "effect": "All friendly Pok\u00e9mon take 0.75\u00d7 as much direct damage from moves while this Pok\u00e9mon is in battle.\n\nThis effect stacks if multiple allied Pok\u00e9mon have it.",
+  "id": 132,
+  "name": "friend-guard",
+  "pokemon": [
+    {
+      "name": "clefairy",
+      "url": "https://thepokeapi.com/pokemon/clefairy",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "jigglypuff",
+      "url": "https://thepokeapi.com/pokemon/jigglypuff",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cleffa",
+      "url": "https://thepokeapi.com/pokemon/cleffa",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "igglybuff",
+      "url": "https://thepokeapi.com/pokemon/igglybuff",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "happiny",
+      "url": "https://thepokeapi.com/pokemon/happiny",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "scatterbug",
+      "url": "https://thepokeapi.com/pokemon/scatterbug",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "spewpa",
+      "url": "https://thepokeapi.com/pokemon/spewpa",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vivillon",
+      "url": "https://thepokeapi.com/pokemon/vivillon",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Decreases all direct damage taken by friendly Pok\u00e9mon to 0.75\u00d7."
+}

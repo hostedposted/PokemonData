@@ -1,0 +1,21 @@
+{
+  "description": "\u307f\u305a\u30bf\u30a4\u30d7\u306e\u3000\u308f\u3056\u3092\u3000\u3046\u3051\u308b\u3068\n\u307c\u3046\u304e\u3087\u304c\u3000\u3050\u30fc\u3093\u3068\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Raises this Pok\u00e9mon's Defense by two stages when it's hit by a Water move.",
+  "id": 195,
+  "name": "water-compaction",
+  "pokemon": [
+    {
+      "name": "sandygast",
+      "url": "https://thepokeapi.com/pokemon/sandygast",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "palossand",
+      "url": "https://thepokeapi.com/pokemon/palossand",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises this Pok\u00e9mon's Defense by two stages when it's hit by a Water move."
+}

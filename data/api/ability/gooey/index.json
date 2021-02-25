@@ -1,0 +1,27 @@
+{
+  "description": "\u3075\u308c\u305f\u3000\u3042\u3044\u3066\u306e\n\u3059\u3070\u3084\u3055\u3092\u3000\u3055\u3052\u308b\u3002",
+  "effect": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact.",
+  "id": 183,
+  "name": "gooey",
+  "pokemon": [
+    {
+      "name": "goomy",
+      "url": "https://thepokeapi.com/pokemon/goomy",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sliggoo",
+      "url": "https://thepokeapi.com/pokemon/sliggoo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "goodra",
+      "url": "https://thepokeapi.com/pokemon/goodra",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Lowers attacking Pok\u00e9mon's Speed by one stage on contact."
+}

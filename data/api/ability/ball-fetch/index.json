@@ -1,0 +1,15 @@
+{
+  "description": "If the Pok\u00e9mon is not holding an item, it will fetch the Pok\u00e9 Ball from the first failed throw of the battle.",
+  "effect": null,
+  "id": 237,
+  "name": "ball-fetch",
+  "pokemon": [
+    {
+      "name": "yamper",
+      "url": "https://thepokeapi.com/pokemon/yamper",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

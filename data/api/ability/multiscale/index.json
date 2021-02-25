@@ -1,0 +1,21 @@
+{
+  "description": "Re\u00e7oit moins de d\u00e9g\u00e2ts si\nles PV sont au maximum.",
+  "effect": "This Pok\u00e9mon takes half as much damage when it is hit having full HP.",
+  "id": 136,
+  "name": "multiscale",
+  "pokemon": [
+    {
+      "name": "dragonite",
+      "url": "https://thepokeapi.com/pokemon/dragonite",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lugia",
+      "url": "https://thepokeapi.com/pokemon/lugia",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Halves damage taken from full HP."
+}

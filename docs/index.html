@@ -50,17 +50,12 @@
                 <div class="col-md-3">
                     <nav class="docs-sidebar" data-spy="affix" data-offset-top="300" data-offset-bottom="200" role="navigation">
                         <ul class="nav">
-                            <li><a href="#line2">API Quickstart</a></li>
-                            <li><a href="#line3">GET Methods</a>
+                            <li><a href="#line1">API Quickstart</a></li>
+                            <li><a href="#line2">GET Methods</a></li>
+                            <li><a href="#line3">Usage Examples</a>
                                 <ul class="nav">
-                                    <li><a href="#line3_1">Pokemon</a></li>
-                                    <li><a href="#line3_2">Type</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#line4">Usage Examples</a>
-                                <ul class="nav">
-                                    <li><a href="#line4_1">Node.js (JavaScript)</a></li>
-                                    <li><a href="#line4_2">Python</a></li>
+                                    <li><a href="#line3_1">Node.js (JavaScript)</a></li>
+                                    <li><a href="#line3_2">Python</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -76,7 +71,8 @@
                                             <ul>
                                                 <li><strong>Project Name : </strong>ThePokeApi</li>
                                                 <li><strong>Project URL : </strong> <a href="https://github.com/hostedposted/PokemonData" target="_blank">https://github.com/hostedposted/PokemonData</a></li>
-                                                <li><strong>Query Endpoint : </strong> <a href="https://thepokeapi.com/" target="_blank">thepokeapi.com/</a></li>
+                                                <li><strong>Endpoints : </strong>pokemon, type, ability</li>
+                                                <li><strong>Query Endpoint : </strong> <a href="https://thepokeapi.com/" target="_blank">https://thepokeapi.com/</a></li>
                                             </ul>
                                         </div>
                                         <hr>
@@ -99,7 +95,7 @@
                             </div>
                         </div>
                     </section>
-                    <section id="line2" class="section">
+                    <section id="line1" class="section">
                         <div class="row">
                             <div class="col-md-12 left-align">
                                 <h2 class="dark-text">API Quickstart<a href="#top">#back to top</a>
@@ -122,14 +118,14 @@
                                 </div>
                             </form>
                             <p>
-                                <b>Confused?</b> You can try <a onclick="putValue('pokemon/pikachu')">pokemon/pikachu</a>, <a onclick="putValue('pokemon/500')">pokemon/500</a>, <a onclick="putValue('type/1')">type/1</a>, <a onclick="putValue('type/fairy')">type/fairy</a>, 
+                                <b>Confused?</b> You can try <a onclick="putValue('pokemon/pikachu')">pokemon/pikachu</a>, <a onclick="putValue('pokemon/300')">pokemon/300</a>, <a onclick="putValue('type/1')">type/1</a>, <a onclick="putValue('type/fairy')">type/fairy</a>, <a onclick="putValue('pokemon/random?min=100&max=500')">pokemon/random?min=100&max=500</a>, 
                                 etc.
                             </p>
                             <pre><code class="json"><div id="pokeData"></div></code></pre>
                         </p>
                         <hr>
                     </section>
-                    <section id="line3" class="section">
+                    <section id="line2" class="section">
                         <div class="row">
                             <div class="col-md-12 left-align">
                                 <h2 class="dark-text">GET Methods<a href="#top">#back to top</a>
@@ -137,54 +133,17 @@
                                 </h2>
                             </div>
                         </div>
-                        <section id="line3_1" class="section">
-                            <h4 class="dark-text"><code>/pokemon</code></h4>
-                            <h4 class="mini-title"><code>/pokemon/all</code></h4>
-                            <p>Retrieves the complete pokemon database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/all" target="blank_">https://thepokeapi.com/pokemon/all</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="getpokemonall"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/pokemon/random</code></h4>
-                            <p>Retrieves a random pokemon from the database.<br>Request URL : <a href="https://thepokeapi.com/pokemon/random" target="blank_">https://thepokeapi.com/pokemon/random</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="getpokemonrand"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/pokemon/{name}</code></h4>
-                            <p>Searches the database and retrives pokemon named {name}.<br>Request URL : <a href="https://thepokeapi.com/pokemon/infernape" target="blank_">https://thepokeapi.com/pokemon/infernape</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="getpokemonname"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/pokemon/{dexid}</code></h4>
-                            <p>Searches the database and retrives pokemon numbered {dexid}.<br>Request URL : <a href="https://thepokeapi.com/pokemon/696" target="blank_">https://thepokeapi.com/pokemon/696</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="getpokemonid"></div></code></pre>
-                            <hr>
-                        </section>
-                        <section id="line3_2" class="section">
-                            <h4 class="dark-text"><code>/types</code></h4>
-                            <h4 class="mini-title"><code>/types/all</code></h4>
-                            <p>Retrieves the complete types database.<br>Request URL : <a href="https://thepokeapi.com/type/all" target="blank_">https://thepokeapi.com/type/all</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="gettypeall"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/types/random</code></h4>
-                            <p>Retrives a random type from the database.<br>Request URL : <a href="https://thepokeapi.com/type/random" target="blank_">https://thepokeapi.com/type/random</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="gettyperand"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/types/{name}</code></h4>
-                            <p>Searches the database and retrives type named {name}.<br>Request URL : <a href="https://thepokeapi.com/type/fairy" target="blank_">https://thepokeapi.com/type/fairy</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="gettypename"></div></code></pre>
-
-                            <h4 class="mini-title"><code>/types/{typesID}</code></h4>
-                            <p>Searches the database and retrives type numbered {typesID}.<br>Request URL : <a href="https://thepokeapi.com/type/15" target="blank_">https://thepokeapi.com/type/15</a></p>
-                            <b>Output sample:</b>
-                            <pre><code><div class="gettypeid"></div></code></pre>
-                            <hr>
-                        </section>
+                    <h3>For all of these {endpoint} is the api endpoint, {dexId} is the id of the item, {name} is the items name.</h3>
+                    <h4 class="mini-title"><code>/{endpoint}/all</code></h4>
+                    This will return all info under given endpoint.
+                    <h4 class="mini-title"><code>/{endpoint}/random</code></h4>
+                    This will randomly return a json for the given endpoint. You also can change the min id and the max id by using <code>/{endpoint}/random?min=10&max=20</code> changing min to the minimum and max to the maximum. Or just <code>/{endpoint}/random?max=20</code> not giving the min parameter this will also work vice-versa.
+                    <h4 class="mini-title"><code>/{endpoint}/{name}</code></h4>
+                    This will return the json of the given name from the given endpoint.
+                    <h4 class="mini-title"><code>/{endpoint}/{dexId}</code></h4>
+                    This will return the json of the given dexId from the given endpoint.
                     </section>
-                    <section id="line4" class="section">
+                    <section id="line3" class="section">
                         <div class="row">
                             <div class="col-md-12 left-align">
                                 <h2 class="dark-text">Usage Examples<a href="#top">#back to top</a>
@@ -192,7 +151,7 @@
                                 </h2>
                             </div>
                         </div>
-                        <section id="line4_1" class="section">
+                        <section id="line3_1" class="section">
                             <h4 class="dark-text">Node.js (JavaScript)</h4>
                             <h4 class="mini-title"><strong>Using npm fetch</strong></h4>
                             <ul class="bullet-list">
@@ -201,7 +160,7 @@
                                 <pre><code>yarn add node-fetch</code></pre>
                                 <li><strong>Create a file <code>ThePokeApi.js</code></strong></li>
                                 <pre><code>
-const fetchUrl = require("fetch ").fetchUrl;
+const fetchUrl = require("fetch").fetchUrl;
 
 const url = 'https://thepokeapi.com/pokemon/random';
 
@@ -220,7 +179,7 @@ fetchUrl(url, function(error, meta, body) {
 froakie
                             </ul>
                         </section>
-                        <section id="line4_2" class="section">
+                        <section id="line3_2" class="section">
                             <h4 class="dark-text">Python</h4>
                             <ul class="bullet-list">
                                 <li><strong>Install <code>requests</code> using pip or any other package manager</strong></li>
@@ -249,7 +208,6 @@ print(response['name'])
     <script src="js/custom.js "></script>
     <script src="js/main.js "></script>
     <script src="js/themes.js "></script>
-    <script src="js/jsonsamples.js"></script>
 </body>
 
 </html>

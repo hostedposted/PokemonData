@@ -1,0 +1,117 @@
+{
+  "description": "Raises Attack if the foe\nis of the same gender.",
+  "effect": "This Pok\u00e9mon inflicts 1.25\u00d7 as much regular damage against Pok\u00e9mon of the same gender and 0.75\u00d7 as much regular damage against Pok\u00e9mon of the opposite gender.\n\nIf either Pok\u00e9mon is genderless, damage is unaffected.",
+  "id": 79,
+  "name": "rivalry",
+  "pokemon": [
+    {
+      "name": "nidoran-f",
+      "url": "https://thepokeapi.com/pokemon/nidoran-f",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nidorina",
+      "url": "https://thepokeapi.com/pokemon/nidorina",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nidoqueen",
+      "url": "https://thepokeapi.com/pokemon/nidoqueen",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nidoran-m",
+      "url": "https://thepokeapi.com/pokemon/nidoran-m",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nidorino",
+      "url": "https://thepokeapi.com/pokemon/nidorino",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nidoking",
+      "url": "https://thepokeapi.com/pokemon/nidoking",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "beautifly",
+      "url": "https://thepokeapi.com/pokemon/beautifly",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "shinx",
+      "url": "https://thepokeapi.com/pokemon/shinx",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "luxio",
+      "url": "https://thepokeapi.com/pokemon/luxio",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "luxray",
+      "url": "https://thepokeapi.com/pokemon/luxray",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pidove",
+      "url": "https://thepokeapi.com/pokemon/pidove",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tranquill",
+      "url": "https://thepokeapi.com/pokemon/tranquill",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "unfezant",
+      "url": "https://thepokeapi.com/pokemon/unfezant",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "axew",
+      "url": "https://thepokeapi.com/pokemon/axew",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "fraxure",
+      "url": "https://thepokeapi.com/pokemon/fraxure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "haxorus",
+      "url": "https://thepokeapi.com/pokemon/haxorus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "litleo",
+      "url": "https://thepokeapi.com/pokemon/litleo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pyroar",
+      "url": "https://thepokeapi.com/pokemon/pyroar",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Increases damage inflicted to 1.25\u00d7 against Pok\u00e9mon of the same gender, but decreases damage to 0.75\u00d7 against the opposite gender."
+}

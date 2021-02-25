@@ -1,0 +1,27 @@
+{
+  "description": "\u30ce\u30fc\u30de\u30eb\u30bf\u30a4\u30d7\u306e\u3000\u308f\u3056\u304c\n\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306b\u306a\u308b\u3002",
+  "effect": "Turns the bearer's normal-type moves into fairy moves.  Moves changed by this ability have 1.3\u00d7 their power.",
+  "id": 182,
+  "name": "pixilate",
+  "pokemon": [
+    {
+      "name": "sylveon",
+      "url": "https://thepokeapi.com/pokemon/sylveon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gardevoir",
+      "url": "https://thepokeapi.com/pokemon/gardevoir",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "altaria",
+      "url": "https://thepokeapi.com/pokemon/altaria",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Turns the bearer's normal moves into fairy moves and strengthens them to 1.3\u00d7 their power."
+}

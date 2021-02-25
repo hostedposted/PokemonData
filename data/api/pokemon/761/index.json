@@ -1,0 +1,339 @@
+{
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "url": "https://thepokeapi.com/ability/leaf-guard",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "oblivious",
+      "url": "https://thepokeapi.com/ability/oblivious",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sweet-veil",
+      "url": "https://thepokeapi.com/ability/sweet-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 235,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It tries to resist being swallowed by a bird Pok\u00e9mon by spinning the sepals on its head. It\u2019s usually a fruitless attempt.",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "bounsweet"
+    ],
+    [
+      "steenee"
+    ],
+    [
+      "tsareena"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium-slow",
+  "height": 12,
+  "id": 761,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "razor-leaf",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "splash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "charm",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "sweet-scent",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "grass-whistle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "magical-leaf",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "feint",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "acupressure",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-rough",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "play-nice",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatic-mist",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "bounsweet",
+  "names": {
+    "french": "Croquine",
+    "german": "Frubberl",
+    "spanish": "Bounsweet",
+    "italian": "Bounsweet",
+    "english": "Bounsweet",
+    "japanese": "\u30a2\u30de\u30ab\u30b8"
+  },
+  "pokedex_numbers": {
+    "national": 761,
+    "original-alola": 171,
+    "original-akala": 98,
+    "updated-alola": 207,
+    "updated-akala": 108,
+    "galar": 52,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "updated-melemele": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "legs",
+  "species": "Fruit Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/761.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/761.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 42
+    },
+    {
+      "name": "attack",
+      "base_stat": 30
+    },
+    {
+      "name": "defense",
+      "base_stat": 38
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 38
+    },
+    {
+      "name": "speed",
+      "base_stat": 32
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

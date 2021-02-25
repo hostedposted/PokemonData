@@ -1,0 +1,93 @@
+{
+  "description": "The Pok\u00e9mon gradually\nrecovers HP in rain.",
+  "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during rain.",
+  "id": 44,
+  "name": "rain-dish",
+  "pokemon": [
+    {
+      "name": "squirtle",
+      "url": "https://thepokeapi.com/pokemon/squirtle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "wartortle",
+      "url": "https://thepokeapi.com/pokemon/wartortle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blastoise",
+      "url": "https://thepokeapi.com/pokemon/blastoise",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tentacool",
+      "url": "https://thepokeapi.com/pokemon/tentacool",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tentacruel",
+      "url": "https://thepokeapi.com/pokemon/tentacruel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lotad",
+      "url": "https://thepokeapi.com/pokemon/lotad",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lombre",
+      "url": "https://thepokeapi.com/pokemon/lombre",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ludicolo",
+      "url": "https://thepokeapi.com/pokemon/ludicolo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "wingull",
+      "url": "https://thepokeapi.com/pokemon/wingull",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pelipper",
+      "url": "https://thepokeapi.com/pokemon/pelipper",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "surskit",
+      "url": "https://thepokeapi.com/pokemon/surskit",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "morelull",
+      "url": "https://thepokeapi.com/pokemon/morelull",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "shiinotic",
+      "url": "https://thepokeapi.com/pokemon/shiinotic",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blastoise",
+      "url": "https://thepokeapi.com/pokemon/blastoise",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Heals for 1/16 max HP after each turn during rain."
+}

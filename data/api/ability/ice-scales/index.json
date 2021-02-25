@@ -1,0 +1,21 @@
+{
+  "description": "The Pok\u00e9mon is protected by ice scales, which halve the damage taken from special moves.",
+  "effect": null,
+  "id": 246,
+  "name": "ice-scales",
+  "pokemon": [
+    {
+      "name": "snom",
+      "url": "https://thepokeapi.com/pokemon/snom",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "frosmoth",
+      "url": "https://thepokeapi.com/pokemon/frosmoth",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

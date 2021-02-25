@@ -1,0 +1,33 @@
+{
+  "description": "Adjusts power according\nto the foe\u2019s ability.",
+  "effect": "When this Pok\u00e9mon enters battle, its Attack or Special Attack, whichever corresponds to its opponents' weaker total defensive stat, rises one stage.  In the event of a tie, Special Attack is raised.\n\nThis ability also takes effect when acquired during a battle.",
+  "id": 88,
+  "name": "download",
+  "pokemon": [
+    {
+      "name": "porygon",
+      "url": "https://thepokeapi.com/pokemon/porygon",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "porygon2",
+      "url": "https://thepokeapi.com/pokemon/porygon2",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "porygon",
+      "url": "https://thepokeapi.com/pokemon/porygon",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "genesect",
+      "url": "https://thepokeapi.com/pokemon/genesect",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle."
+}

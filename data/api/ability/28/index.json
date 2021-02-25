@@ -1,0 +1,105 @@
+{
+  "description": "Passes on status problems.",
+  "effect": "Whenever this Pok\u00e9mon is burned, paralyzed, or poisoned, the Pok\u00e9mon who gave this Pok\u00e9mon that ailment is also given the ailment.\n\nThis ability passes back bad poison when this Pok\u00e9mon is badly poisoned.  This ability cannot pass on a status ailment that the Pok\u00e9mon did not directly receive from another Pok\u00e9mon, such as the poison from toxic spikes or the burn from a flame orb.\n\nOverworld: If the lead Pok\u00e9mon has this ability, wild Pok\u00e9mon have a 50% chance of having the lead Pok\u00e9mon's nature, and a 50% chance of being given a random nature as usual, including the lead Pok\u00e9mon's nature.  This does not work on Pok\u00e9mon received outside of battle or roaming legendaries.",
+  "id": 28,
+  "name": "synchronize",
+  "pokemon": [
+    {
+      "name": "abra",
+      "url": "https://thepokeapi.com/pokemon/abra",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kadabra",
+      "url": "https://thepokeapi.com/pokemon/kadabra",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "alakazam",
+      "url": "https://thepokeapi.com/pokemon/alakazam",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mew",
+      "url": "https://thepokeapi.com/pokemon/mew",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "natu",
+      "url": "https://thepokeapi.com/pokemon/natu",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "xatu",
+      "url": "https://thepokeapi.com/pokemon/xatu",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "espeon",
+      "url": "https://thepokeapi.com/pokemon/espeon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "umbreon",
+      "url": "https://thepokeapi.com/pokemon/umbreon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ralts",
+      "url": "https://thepokeapi.com/pokemon/ralts",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kirlia",
+      "url": "https://thepokeapi.com/pokemon/kirlia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gardevoir",
+      "url": "https://thepokeapi.com/pokemon/gardevoir",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "munna",
+      "url": "https://thepokeapi.com/pokemon/munna",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "musharna",
+      "url": "https://thepokeapi.com/pokemon/musharna",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "elgyem",
+      "url": "https://thepokeapi.com/pokemon/elgyem",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "beheeyem",
+      "url": "https://thepokeapi.com/pokemon/beheeyem",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "indeedee-male",
+      "url": "https://thepokeapi.com/pokemon/indeedee-male",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Copies burns, paralysis, and poison received onto the Pok\u00e9mon that inflicted them."
+}

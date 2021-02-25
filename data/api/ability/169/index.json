@@ -1,0 +1,21 @@
+{
+  "description": "\u3076\u3064\u308a\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u304c\n\u306f\u3093\u3076\u3093\u306b\u306a\u308b\u3002",
+  "effect": "Halves damage from physical attacks.",
+  "id": 169,
+  "name": "fur-coat",
+  "pokemon": [
+    {
+      "name": "furfrou",
+      "url": "https://thepokeapi.com/pokemon/furfrou",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "persian",
+      "url": "https://thepokeapi.com/pokemon/persian",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Halves damage from physical attacks."
+}

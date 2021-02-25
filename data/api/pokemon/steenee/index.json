@@ -1,0 +1,344 @@
+{
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "url": "https://thepokeapi.com/ability/leaf-guard",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "oblivious",
+      "url": "https://thepokeapi.com/ability/oblivious",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sweet-veil",
+      "url": "https://thepokeapi.com/ability/sweet-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 120,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "It bounces around, swinging the sepals on its head with abandon. They\u2019re quite painful when they smack you!",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "bounsweet"
+    ],
+    [
+      "steenee"
+    ],
+    [
+      "tsareena"
+    ]
+  ],
+  "evolves_from_species": "bounsweet",
+  "growth_rate": "medium-slow",
+  "height": 28,
+  "id": 762,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-slap",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "splash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet-scent",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "magical-leaf",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "play-nice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatic-mist",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "steenee",
+  "names": {
+    "french": "Candine",
+    "german": "Frubaila",
+    "spanish": "Steenee",
+    "italian": "Steenee",
+    "english": "Steenee",
+    "japanese": "\u30a2\u30de\u30de\u30a4\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 762,
+    "original-alola": 172,
+    "original-akala": 99,
+    "updated-alola": 208,
+    "updated-akala": 109,
+    "galar": 53,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "updated-melemele": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "humanoid",
+  "species": "Fruit Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/762.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/762.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 52
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 48
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 48
+    },
+    {
+      "name": "speed",
+      "base_stat": 62
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 18
+}

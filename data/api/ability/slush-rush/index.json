@@ -1,0 +1,45 @@
+{
+  "description": "\u3066\u3093\u304d\u304c\u3000\u3042\u3089\u308c\u3000\u306e\u3068\u304d\n\u3059\u3070\u3084\u3055\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "During Hail, this Pok\u00e9mon has double Speed.",
+  "id": 202,
+  "name": "slush-rush",
+  "pokemon": [
+    {
+      "name": "cubchoo",
+      "url": "https://thepokeapi.com/pokemon/cubchoo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "beartic",
+      "url": "https://thepokeapi.com/pokemon/beartic",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "arctozolt",
+      "url": "https://thepokeapi.com/pokemon/arctozolt",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "arctovish",
+      "url": "https://thepokeapi.com/pokemon/arctovish",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sandshrew",
+      "url": "https://thepokeapi.com/pokemon/sandshrew",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sandslash",
+      "url": "https://thepokeapi.com/pokemon/sandslash",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "During Hail, this Pok\u00e9mon has double Speed."
+}

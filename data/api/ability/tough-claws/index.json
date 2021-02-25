@@ -1,0 +1,51 @@
+{
+  "description": "\u305b\u3063\u3057\u3087\u304f\u3059\u308b\u3000\u308f\u3056\u306e\n\u3044\u308a\u3087\u304f\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Strengthens moves that make contact to 1.33\u00d7 their power.",
+  "id": 181,
+  "name": "tough-claws",
+  "pokemon": [
+    {
+      "name": "binacle",
+      "url": "https://thepokeapi.com/pokemon/binacle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "barbaracle",
+      "url": "https://thepokeapi.com/pokemon/barbaracle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "perrserker",
+      "url": "https://thepokeapi.com/pokemon/perrserker",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "charizard",
+      "url": "https://thepokeapi.com/pokemon/charizard",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "aerodactyl",
+      "url": "https://thepokeapi.com/pokemon/aerodactyl",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "metagross",
+      "url": "https://thepokeapi.com/pokemon/metagross",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "meowth",
+      "url": "https://thepokeapi.com/pokemon/meowth",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Strengthens moves that make contact to 1.33\u00d7 their power."
+}

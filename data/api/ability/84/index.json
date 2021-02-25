@@ -1,0 +1,93 @@
+{
+  "description": "Raises Speed if a held\nitem is used.",
+  "effect": "When this Pok\u00e9mon uses or loses its held item, its Speed is doubled.  If it gains another item or leaves battle, this bonus is lost.\n\nThis includes when the Pok\u00e9mon drops its item because of knock off.  This bonus does not count as a stat modifier.  There is no notification when this ability takes effect.",
+  "id": 84,
+  "name": "unburden",
+  "pokemon": [
+    {
+      "name": "hitmonlee",
+      "url": "https://thepokeapi.com/pokemon/hitmonlee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "treecko",
+      "url": "https://thepokeapi.com/pokemon/treecko",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "grovyle",
+      "url": "https://thepokeapi.com/pokemon/grovyle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sceptile",
+      "url": "https://thepokeapi.com/pokemon/sceptile",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "drifloon",
+      "url": "https://thepokeapi.com/pokemon/drifloon",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drifblim",
+      "url": "https://thepokeapi.com/pokemon/drifblim",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "purrloin",
+      "url": "https://thepokeapi.com/pokemon/purrloin",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "liepard",
+      "url": "https://thepokeapi.com/pokemon/liepard",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "accelgor",
+      "url": "https://thepokeapi.com/pokemon/accelgor",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "swirlix",
+      "url": "https://thepokeapi.com/pokemon/swirlix",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slurpuff",
+      "url": "https://thepokeapi.com/pokemon/slurpuff",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "hawlucha",
+      "url": "https://thepokeapi.com/pokemon/hawlucha",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "nickit",
+      "url": "https://thepokeapi.com/pokemon/nickit",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "thievul",
+      "url": "https://thepokeapi.com/pokemon/thievul",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Doubles Speed upon using or losing a held item."
+}

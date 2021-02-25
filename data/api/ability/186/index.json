@@ -1,0 +1,15 @@
+{
+  "description": "\u305c\u3093\u3044\u3093\u306e\u3000\u3042\u304f\u30bf\u30a4\u30d7\u306e\n\u308f\u3056\u304c\u3000\u3064\u3088\u304f\u306a\u308b\u3002",
+  "effect": "Strengthens dark moves for all friendly and opposing Pok\u00e9mon.",
+  "id": 186,
+  "name": "dark-aura",
+  "pokemon": [
+    {
+      "name": "yveltal",
+      "url": "https://thepokeapi.com/pokemon/yveltal",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Strengthens dark moves to 1.33\u00d7 their power for all friendly and opposing Pok\u00e9mon."
+}

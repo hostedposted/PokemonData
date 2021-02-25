@@ -1,0 +1,15 @@
+{
+  "description": "\u3042\u3044\u3066\u306b\u3000\u305f\u304a\u3055\u308c\u305f\u3068\u304d\n\uff28\uff30\u306e\u3000\u306e\u3053\u308a\u306e\u3000\u3076\u3093\u3060\u3051\n\u3042\u3044\u3066\u306b\u3000\u30c0\u30e1\u30fc\u30b8\u3092\u3000\u3042\u305f\u3048\u308b\u3002",
+  "effect": "When this Pok\u00e9mon faints from an opponent's move, that opponent takes damage equal to the HP this Pok\u00e9mon had remaining.",
+  "id": 215,
+  "name": "innards-out",
+  "pokemon": [
+    {
+      "name": "pyukumuku",
+      "url": "https://thepokeapi.com/pokemon/pyukumuku",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "When this Pok\u00e9mon faints from an opponent's move, that opponent takes damage equal to the HP this Pok\u00e9mon had remaining."
+}

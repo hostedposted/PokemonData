@@ -1,0 +1,305 @@
+{
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "url": "https://thepokeapi.com/ability/water-absorb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ice-body",
+      "url": "https://thepokeapi.com/ability/ice-body",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "slush-rush",
+      "url": "https://thepokeapi.com/ability/slush-rush",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 2,
+    "grass": 2,
+    "ice": 0,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The skin on its face is impervious to attack, but breathing difficulties made this Pok\u00e9mon go extinct anyway.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "arctovish"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 79,
+  "id": 883,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "powder snow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "icy wind",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "ancient power",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "aurora veil",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "freeze-dry",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "super fang",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "fishious rend",
+      "level": 63,
+      "tm": false
+    },
+    {
+      "name": "icicle crash",
+      "level": 70,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "level": 77,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "arctovish",
+  "names": {
+    "french": "Hydragla",
+    "german": "Pescryodon",
+    "spanish": "Arctovish",
+    "italian": "Arctovish",
+    "english": "Arctovish",
+    "japanese": "\u30a6\u30aa\u30c1\u30eb\u30c9\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 883,
+    "galar": 377,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "fish",
+  "species": "Fossil Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/883.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/883.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 90
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 100
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 90
+    },
+    {
+      "name": "speed",
+      "base_stat": 55
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    },
+    {
+      "name": "ice",
+      "url": "https://thepokeapi.com/type/ice"
+    }
+  ],
+  "weight_kilograms": 175,
+  "weight_pounds": 386
+}

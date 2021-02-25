@@ -1,0 +1,57 @@
+{
+  "description": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+  "effect": "The weather changes to hail when this Pok\u00e9mon enters battle and does not end unless cancelled by another weather condition.\n\nIf multiple Pok\u00e9mon with this ability, drizzle, drought, or sand stream are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pok\u00e9mon will stay.",
+  "id": 117,
+  "name": "snow-warning",
+  "pokemon": [
+    {
+      "name": "snover",
+      "url": "https://thepokeapi.com/pokemon/snover",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "abomasnow",
+      "url": "https://thepokeapi.com/pokemon/abomasnow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vanilluxe",
+      "url": "https://thepokeapi.com/pokemon/vanilluxe",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "amaura",
+      "url": "https://thepokeapi.com/pokemon/amaura",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "aurorus",
+      "url": "https://thepokeapi.com/pokemon/aurorus",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "abomasnow",
+      "url": "https://thepokeapi.com/pokemon/abomasnow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vulpix",
+      "url": "https://thepokeapi.com/pokemon/vulpix",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ninetales",
+      "url": "https://thepokeapi.com/pokemon/ninetales",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Summons hail that lasts indefinitely upon entering battle."
+}

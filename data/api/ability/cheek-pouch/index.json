@@ -1,0 +1,39 @@
+{
+  "description": "\u304d\u306e\u307f\u3092\u3000\u305f\u3079\u308b\u3068\n\uff28\uff30\u3082\u3000\u304b\u3044\u3075\u304f\u3059\u308b\u3002",
+  "effect": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+  "id": 167,
+  "name": "cheek-pouch",
+  "pokemon": [
+    {
+      "name": "bunnelby",
+      "url": "https://thepokeapi.com/pokemon/bunnelby",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "diggersby",
+      "url": "https://thepokeapi.com/pokemon/diggersby",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dedenne",
+      "url": "https://thepokeapi.com/pokemon/dedenne",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skwovet",
+      "url": "https://thepokeapi.com/pokemon/skwovet",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "greedent",
+      "url": "https://thepokeapi.com/pokemon/greedent",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+}

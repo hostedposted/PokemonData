@@ -1,0 +1,33 @@
+{
+  "description": "Boosts the Pok\u00e9mon's Speed stat drastically if hit by a Fire- or Water-type move.",
+  "effect": null,
+  "id": 243,
+  "name": "steam-engine",
+  "pokemon": [
+    {
+      "name": "rolycoly",
+      "url": "https://thepokeapi.com/pokemon/rolycoly",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "carkol",
+      "url": "https://thepokeapi.com/pokemon/carkol",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "coalossal",
+      "url": "https://thepokeapi.com/pokemon/coalossal",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "coalossal",
+      "url": "https://thepokeapi.com/pokemon/coalossal",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

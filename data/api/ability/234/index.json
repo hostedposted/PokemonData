@@ -1,0 +1,15 @@
+{
+  "description": "Boosts the Pok\u00e9mon's Attack stat when the Pok\u00e9mon enters a battle.",
+  "effect": null,
+  "id": 234,
+  "name": "intrepid-sword",
+  "pokemon": [
+    {
+      "name": "zacian-hero",
+      "url": "https://thepokeapi.com/pokemon/zacian-hero",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

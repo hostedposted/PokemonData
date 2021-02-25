@@ -1,0 +1,21 @@
+{
+  "description": "Protects the Pok\u00e9mon and its ally Pok\u00e9mon from being poisoned.",
+  "effect": null,
+  "id": 257,
+  "name": "pastel-veil",
+  "pokemon": [
+    {
+      "name": "ponyta",
+      "url": "https://thepokeapi.com/pokemon/ponyta",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rapidash",
+      "url": "https://thepokeapi.com/pokemon/rapidash",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": null
+}

@@ -1,0 +1,69 @@
+{
+  "description": "The Pok\u00e9mon can\u2019t use\nany held items.",
+  "effect": "In battle, this Pok\u00e9mon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative.  This Pok\u00e9mon also cannot use fling.\n\nThe Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected.  Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual.  All held items work as usual out of battle.\n\nOther moves that use the held item, such as natural gift and switcheroo, work as usual.",
+  "id": 103,
+  "name": "klutz",
+  "pokemon": [
+    {
+      "name": "buneary",
+      "url": "https://thepokeapi.com/pokemon/buneary",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lopunny",
+      "url": "https://thepokeapi.com/pokemon/lopunny",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "woobat",
+      "url": "https://thepokeapi.com/pokemon/woobat",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "swoobat",
+      "url": "https://thepokeapi.com/pokemon/swoobat",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "audino",
+      "url": "https://thepokeapi.com/pokemon/audino",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "golett",
+      "url": "https://thepokeapi.com/pokemon/golett",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "golurk",
+      "url": "https://thepokeapi.com/pokemon/golurk",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "stufful",
+      "url": "https://thepokeapi.com/pokemon/stufful",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bewear",
+      "url": "https://thepokeapi.com/pokemon/bewear",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "toxel",
+      "url": "https://thepokeapi.com/pokemon/toxel",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Prevents the Pok\u00e9mon from using its held item in battle."
+}

@@ -1,0 +1,147 @@
+{
+  "description": "Traverse les barri\u00e8res de\nl\u2019ennemi pour attaquer.",
+  "effect": "This Pok\u00e9mon's moves ignore light screen, reflect, and safeguard.",
+  "id": 151,
+  "name": "infiltrator",
+  "pokemon": [
+    {
+      "name": "zubat",
+      "url": "https://thepokeapi.com/pokemon/zubat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "golbat",
+      "url": "https://thepokeapi.com/pokemon/golbat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "crobat",
+      "url": "https://thepokeapi.com/pokemon/crobat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "hoppip",
+      "url": "https://thepokeapi.com/pokemon/hoppip",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "skiploom",
+      "url": "https://thepokeapi.com/pokemon/skiploom",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "jumpluff",
+      "url": "https://thepokeapi.com/pokemon/jumpluff",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ninjask",
+      "url": "https://thepokeapi.com/pokemon/ninjask",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "seviper",
+      "url": "https://thepokeapi.com/pokemon/seviper",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "spiritomb",
+      "url": "https://thepokeapi.com/pokemon/spiritomb",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cottonee",
+      "url": "https://thepokeapi.com/pokemon/cottonee",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "whimsicott",
+      "url": "https://thepokeapi.com/pokemon/whimsicott",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "litwick",
+      "url": "https://thepokeapi.com/pokemon/litwick",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lampent",
+      "url": "https://thepokeapi.com/pokemon/lampent",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "chandelure",
+      "url": "https://thepokeapi.com/pokemon/chandelure",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "espurr",
+      "url": "https://thepokeapi.com/pokemon/espurr",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "meowstic-male",
+      "url": "https://thepokeapi.com/pokemon/meowstic-male",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "inkay",
+      "url": "https://thepokeapi.com/pokemon/inkay",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "malamar",
+      "url": "https://thepokeapi.com/pokemon/malamar",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "noibat",
+      "url": "https://thepokeapi.com/pokemon/noibat",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "noivern",
+      "url": "https://thepokeapi.com/pokemon/noivern",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dreepy",
+      "url": "https://thepokeapi.com/pokemon/dreepy",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drakloak",
+      "url": "https://thepokeapi.com/pokemon/drakloak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dragapult",
+      "url": "https://thepokeapi.com/pokemon/dragapult",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Bypasses light screen, reflect, and safeguard."
+}

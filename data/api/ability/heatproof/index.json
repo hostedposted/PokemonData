@@ -1,0 +1,27 @@
+{
+  "description": "Weakens the power of\nFire-type moves.",
+  "effect": "This Pok\u00e9mon takes half as much damage from fire-type moves and burns.",
+  "id": 85,
+  "name": "heatproof",
+  "pokemon": [
+    {
+      "name": "bronzor",
+      "url": "https://thepokeapi.com/pokemon/bronzor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bronzong",
+      "url": "https://thepokeapi.com/pokemon/bronzong",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rolycoly",
+      "url": "https://thepokeapi.com/pokemon/rolycoly",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Halves damage from fire moves and burns."
+}

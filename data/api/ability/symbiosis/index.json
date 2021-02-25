@@ -1,0 +1,39 @@
+{
+  "description": "\u307f\u304b\u305f\u306b\u3000\u3069\u3046\u3050\u3092\n\u308f\u305f\u305b\u308b\u3088\u3046\u306b\u3000\u306a\u308b\u3002",
+  "effect": "Passes the bearer's held item to an ally when the ally uses up its item.",
+  "id": 180,
+  "name": "symbiosis",
+  "pokemon": [
+    {
+      "name": "flabebe",
+      "url": "https://thepokeapi.com/pokemon/flabebe",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "floette",
+      "url": "https://thepokeapi.com/pokemon/floette",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "florges",
+      "url": "https://thepokeapi.com/pokemon/florges",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "oranguru",
+      "url": "https://thepokeapi.com/pokemon/oranguru",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "floette",
+      "url": "https://thepokeapi.com/pokemon/floette",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Passes the bearer's held item to an ally when the ally uses up its item."
+}

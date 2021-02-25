@@ -1,0 +1,15 @@
+{
+  "description": "When the Pok\u00e9mon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pok\u00e9mon.",
+  "effect": null,
+  "id": 251,
+  "name": "screen-cleaner",
+  "pokemon": [
+    {
+      "name": "mr-rime",
+      "url": "https://thepokeapi.com/pokemon/mr-rime",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": null
+}

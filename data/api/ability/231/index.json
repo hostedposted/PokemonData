@@ -1,0 +1,15 @@
+{
+  "description": "\uff28\uff30\u304c\u3000\u307e\u3093\u305f\u3093\u306e\u3000\u3068\u304d\u306b\n\u3046\u3051\u308b\u3000\u30c0\u30e1\u30fc\u30b8\u304c\u3000\u3059\u304f\u306a\u304f\u306a\u308b\u3002",
+  "effect": "When this Pok\u00e9mon has full HP, regular damage (not fixed damage!) from moves is halved.\n\nThis ability cannot be nullified.",
+  "id": 231,
+  "name": "shadow-shield",
+  "pokemon": [
+    {
+      "name": "lunala",
+      "url": "https://thepokeapi.com/pokemon/lunala",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "When this Pok\u00e9mon has full HP, regular damage from moves is halved."
+}

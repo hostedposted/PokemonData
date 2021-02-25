@@ -1,0 +1,69 @@
+{
+  "description": "Increases the frequency\nof multi-strike moves.",
+  "effect": "This Pok\u00e9mon always hits five times with two-to-five-hit moves, such as icicle spear.  It also bypasses the accuracy checks on triple kick's second and third hits.",
+  "id": 92,
+  "name": "skill-link",
+  "pokemon": [
+    {
+      "name": "shellder",
+      "url": "https://thepokeapi.com/pokemon/shellder",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "cloyster",
+      "url": "https://thepokeapi.com/pokemon/cloyster",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "aipom",
+      "url": "https://thepokeapi.com/pokemon/aipom",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ambipom",
+      "url": "https://thepokeapi.com/pokemon/ambipom",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "minccino",
+      "url": "https://thepokeapi.com/pokemon/minccino",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cinccino",
+      "url": "https://thepokeapi.com/pokemon/cinccino",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikipek",
+      "url": "https://thepokeapi.com/pokemon/pikipek",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "trumbeak",
+      "url": "https://thepokeapi.com/pokemon/trumbeak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "toucannon",
+      "url": "https://thepokeapi.com/pokemon/toucannon",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "heracross",
+      "url": "https://thepokeapi.com/pokemon/heracross",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Extends two-to-five-hit moves and triple kick to their full length every time."
+}

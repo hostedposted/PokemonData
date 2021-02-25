@@ -1,0 +1,63 @@
+{
+  "description": "\u305f\u307e\u3084\u3000\u3070\u304f\u3060\u3093\u306b\n\u3042\u305f\u3089\u306a\u3044\u3002",
+  "effect": "Protects against bullet, ball, and bomb-based moves.",
+  "id": 171,
+  "name": "bulletproof",
+  "pokemon": [
+    {
+      "name": "chespin",
+      "url": "https://thepokeapi.com/pokemon/chespin",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "quilladin",
+      "url": "https://thepokeapi.com/pokemon/quilladin",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "chesnaught",
+      "url": "https://thepokeapi.com/pokemon/chesnaught",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "jangmo-o",
+      "url": "https://thepokeapi.com/pokemon/jangmo-o",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hakamo-o",
+      "url": "https://thepokeapi.com/pokemon/hakamo-o",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kommo-o",
+      "url": "https://thepokeapi.com/pokemon/kommo-o",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wooloo",
+      "url": "https://thepokeapi.com/pokemon/wooloo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dubwool",
+      "url": "https://thepokeapi.com/pokemon/dubwool",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "applin",
+      "url": "https://thepokeapi.com/pokemon/applin",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Protects against bullet, ball, and bomb-based moves."
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Enables the Pok\u00e9mon to move first occasionally.",
+  "effect": null,
+  "id": 259,
+  "name": "quick-draw",
+  "pokemon": [
+    {
+      "name": "slowbro",
+      "url": "https://thepokeapi.com/pokemon/slowbro",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

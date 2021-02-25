@@ -1,0 +1,465 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "properties": {
+    "abilities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "is_hidden": {
+            "type": "boolean"
+          },
+          "slot": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "is_hidden",
+          "name",
+          "slot",
+          "url"
+        ]
+      }
+    },
+    "capture_rate": {
+      "type": "integer"
+    },
+    "color": {
+      "type": "string"
+    },
+    "damage_multipliers": {
+      "type": "object",
+      "properties": {
+        "normal": {
+          "type": "integer"
+        },
+        "fire": {
+          "type": "integer"
+        },
+        "water": {
+          "type": "integer"
+        },
+        "electric": {
+          "type": "integer"
+        },
+        "grass": {
+          "type": "integer"
+        },
+        "ice": {
+          "type": "integer"
+        },
+        "fighting": {
+          "type": "integer"
+        },
+        "poison": {
+          "type": "integer"
+        },
+        "ground": {
+          "type": "integer"
+        },
+        "flying": {
+          "type": "integer"
+        },
+        "psychic": {
+          "type": "integer"
+        },
+        "bug": {
+          "type": "integer"
+        },
+        "rock": {
+          "type": "integer"
+        },
+        "ghost": {
+          "type": "integer"
+        },
+        "dragon": {
+          "type": "integer"
+        },
+        "dark": {
+          "type": "integer"
+        },
+        "steel": {
+          "type": "integer"
+        },
+        "fairy": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "bug",
+        "dark",
+        "dragon",
+        "electric",
+        "fairy",
+        "fighting",
+        "fire",
+        "flying",
+        "ghost",
+        "grass",
+        "ground",
+        "ice",
+        "normal",
+        "poison",
+        "psychic",
+        "rock",
+        "steel",
+        "water"
+      ]
+    },
+    "description": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "egg_groups": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "evolution_chain": {
+      "type": "array",
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "evolves_from_species": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "growth_rate": {
+      "type": "string"
+    },
+    "height": {
+      "type": "integer"
+    },
+    "id": {
+      "type": "integer"
+    },
+    "is_baby": {
+      "type": "boolean"
+    },
+    "is_legendary": {
+      "type": "boolean"
+    },
+    "is_mythical": {
+      "type": "boolean"
+    },
+    "moves": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "tm": {
+            "type": "boolean"
+          },
+          "level": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "level",
+          "name",
+          "tm"
+        ]
+      }
+    },
+    "name": {
+      "type": "string"
+    },
+    "names": {
+      "type": "object",
+      "properties": {
+        "french": {
+          "type": "string"
+        },
+        "german": {
+          "type": "string"
+        },
+        "spanish": {
+          "type": "string"
+        },
+        "italian": {
+          "type": "string"
+        },
+        "english": {
+          "type": "string"
+        },
+        "japanese": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "english",
+        "french",
+        "german",
+        "italian",
+        "japanese",
+        "spanish"
+      ]
+    },
+    "pokedex_numbers": {
+      "type": "object",
+      "properties": {
+        "national": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "kanto": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-johto": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-johto": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "kalos-central": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "isle-of-armor": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-kanto": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "conquest-gallery": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "galar": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-alola": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-melemele": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-akala": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-alola": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-melemele": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-akala": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-unova": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-ulaula": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-poni": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-ulaula": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-poni": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "kalos-mountain": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "hoenn": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-sinnoh": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "extended-sinnoh": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "updated-hoenn": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "kalos-coastal": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "crown-tundra": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "original-unova": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    },
+    "region": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "integer"
+    },
+    "shape": {
+      "type": "string"
+    },
+    "species": {
+      "type": "string"
+    },
+    "sprites": {
+      "type": "object",
+      "properties": {
+        "default": {
+          "type": "string"
+        },
+        "shiny": {
+          "type": [
+            "null",
+            "string"
+          ]
+        }
+      },
+      "required": [
+        "shiny"
+      ]
+    },
+    "stats": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "base_stat": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "base_stat",
+          "name"
+        ]
+      }
+    },
+    "types": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "url"
+        ]
+      }
+    },
+    "weight_kilograms": {
+      "type": "integer"
+    },
+    "weight_pounds": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "description": "\u30dd\u30b1\u30e2\u30f3\u304c\u3000\u3072\u3093\u3057\u306b\u3000\u306a\u308b\u305f\u3073\u306b\n\u3068\u304f\u3053\u3046\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints.",
+  "id": 220,
+  "name": "soul-heart",
+  "pokemon": [
+    {
+      "name": "magearna",
+      "url": "https://thepokeapi.com/pokemon/magearna",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "magearna",
+      "url": "https://thepokeapi.com/pokemon/magearna",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "This Pok\u00e9mon's Special Attack rises by one stage every time any Pok\u00e9mon faints."
+}

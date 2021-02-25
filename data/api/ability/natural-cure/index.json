@@ -1,0 +1,105 @@
+{
+  "description": "Heals upon switching out.",
+  "effect": "This Pok\u00e9mon is cured of any major status ailment when it is switched out for another Pok\u00e9mon.\n\nIf this ability is acquired during battle, the Pok\u00e9mon is cured upon leaving battle before losing the temporary ability.",
+  "id": 30,
+  "name": "natural-cure",
+  "pokemon": [
+    {
+      "name": "chansey",
+      "url": "https://thepokeapi.com/pokemon/chansey",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "staryu",
+      "url": "https://thepokeapi.com/pokemon/staryu",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "starmie",
+      "url": "https://thepokeapi.com/pokemon/starmie",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "corsola",
+      "url": "https://thepokeapi.com/pokemon/corsola",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "blissey",
+      "url": "https://thepokeapi.com/pokemon/blissey",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "celebi",
+      "url": "https://thepokeapi.com/pokemon/celebi",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "roselia",
+      "url": "https://thepokeapi.com/pokemon/roselia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swablu",
+      "url": "https://thepokeapi.com/pokemon/swablu",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "altaria",
+      "url": "https://thepokeapi.com/pokemon/altaria",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "budew",
+      "url": "https://thepokeapi.com/pokemon/budew",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "roserade",
+      "url": "https://thepokeapi.com/pokemon/roserade",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "happiny",
+      "url": "https://thepokeapi.com/pokemon/happiny",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shaymin-land",
+      "url": "https://thepokeapi.com/pokemon/shaymin-land",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "phantump",
+      "url": "https://thepokeapi.com/pokemon/phantump",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "trevenant",
+      "url": "https://thepokeapi.com/pokemon/trevenant",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "comfey",
+      "url": "https://thepokeapi.com/pokemon/comfey",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Cures any major status ailment upon switching out."
+}

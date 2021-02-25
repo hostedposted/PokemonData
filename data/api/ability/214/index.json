@@ -1,0 +1,15 @@
+{
+  "description": "\u3042\u3044\u3066\u306b\u3000\u3044\u3042\u3064\u304b\u3093\u3092\u3000\u3042\u305f\u3048\n\u3053\u3061\u3089\u306b\u3000\u3080\u304b\u3063\u3066\u3000\u305b\u3093\u305b\u3044\u308f\u3056\u3092\n\u3060\u305b\u306a\u3044\u3000\u3088\u3046\u306b\u3059\u308b\u3002",
+  "effect": "When an opposing Pok\u00e9mon attempts to use a move that targets this Pok\u00e9mon or an ally, and that move has priority, it will fail.",
+  "id": 214,
+  "name": "queenly-majesty",
+  "pokemon": [
+    {
+      "name": "tsareena",
+      "url": "https://thepokeapi.com/pokemon/tsareena",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Opposing Pok\u00e9mon cannot use priority attacks."
+}

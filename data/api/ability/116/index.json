@@ -1,0 +1,33 @@
+{
+  "description": "Powers down super\u00ad\neffective moves.",
+  "effect": "This Pok\u00e9mon takes 0.75\u00d7 as much damage from moves that are super effective against it.\n\nThis ability functions identically to filter.",
+  "id": 116,
+  "name": "solid-rock",
+  "pokemon": [
+    {
+      "name": "camerupt",
+      "url": "https://thepokeapi.com/pokemon/camerupt",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rhyperior",
+      "url": "https://thepokeapi.com/pokemon/rhyperior",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tirtouga",
+      "url": "https://thepokeapi.com/pokemon/tirtouga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "carracosta",
+      "url": "https://thepokeapi.com/pokemon/carracosta",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Decreases damage taken from super-effective moves by 1/4."
+}

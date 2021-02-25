@@ -1,0 +1,15 @@
+{
+  "description": "The Pok\u00e9mon's ice head can take a physical attack as a substitute, but the attack also changes the Pok\u00e9mon's appearance. The ice will be restored when it hails.",
+  "effect": null,
+  "id": 248,
+  "name": "ice-face",
+  "pokemon": [
+    {
+      "name": "eiscue-ice",
+      "url": "https://thepokeapi.com/pokemon/eiscue-ice",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

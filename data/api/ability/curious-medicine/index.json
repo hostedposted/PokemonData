@@ -1,0 +1,15 @@
+{
+  "description": "When the Pok\u00e9mon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
+  "effect": null,
+  "id": 261,
+  "name": "curious-medicine",
+  "pokemon": [
+    {
+      "name": "slowking",
+      "url": "https://thepokeapi.com/pokemon/slowking",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

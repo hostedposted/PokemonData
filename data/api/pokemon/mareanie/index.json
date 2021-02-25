@@ -1,0 +1,360 @@
+{
+  "abilities": [
+    {
+      "name": "merciless",
+      "url": "https://thepokeapi.com/ability/merciless",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "limber",
+      "url": "https://thepokeapi.com/ability/limber",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "regenerator",
+      "url": "https://thepokeapi.com/ability/regenerator",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 190,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 2,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 0
+  },
+  "description": "Aside from its head, its body parts regenerate quickly if they\u2019re cut off. After a good night\u2019s sleep, Mareanie is back to normal.",
+  "egg_groups": [
+    "water1"
+  ],
+  "evolution_chain": [
+    [
+      "mareanie"
+    ],
+    [
+      "toxapex"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 16,
+  "id": 747,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "poison-sting",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "pin-missile",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "peck",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "recover",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "haze",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "spike-cannon",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stockpile",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "spit-up",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "swallow",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hail",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic-spikes",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "wide-guard",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "venom-drench",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "liquidation",
+      "level": 49,
+      "tm": false
+    }
+  ],
+  "name": "mareanie",
+  "names": {
+    "french": "Vorast\u00e9rie",
+    "german": "Garstella",
+    "spanish": "Mareanie",
+    "italian": "Mareanie",
+    "english": "Mareanie",
+    "japanese": "\u30d2\u30c9\u30a4\u30c7"
+  },
+  "pokedex_numbers": {
+    "national": 747,
+    "original-alola": 113,
+    "original-melemele": 113,
+    "original-akala": 45,
+    "updated-alola": 136,
+    "updated-melemele": 136,
+    "updated-akala": 45,
+    "galar": 307,
+    "isle-of-armor": 127,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "blob",
+  "species": "Brutal Star Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/747.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/747.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 50
+    },
+    {
+      "name": "attack",
+      "base_stat": 53
+    },
+    {
+      "name": "defense",
+      "base_stat": 62
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 43
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 52
+    },
+    {
+      "name": "speed",
+      "base_stat": 45
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "url": "https://thepokeapi.com/type/poison"
+    },
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    }
+  ],
+  "weight_kilograms": 8,
+  "weight_pounds": 18
+}

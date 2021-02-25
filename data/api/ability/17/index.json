@@ -1,0 +1,33 @@
+{
+  "description": "Prevents poisoning.",
+  "effect": "This Pok\u00e9mon cannot be poisoned.  This includes bad poison.\n\nIf a Pok\u00e9mon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.",
+  "id": 17,
+  "name": "immunity",
+  "pokemon": [
+    {
+      "name": "snorlax",
+      "url": "https://thepokeapi.com/pokemon/snorlax",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gligar",
+      "url": "https://thepokeapi.com/pokemon/gligar",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "zangoose",
+      "url": "https://thepokeapi.com/pokemon/zangoose",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "snorlax",
+      "url": "https://thepokeapi.com/pokemon/snorlax",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents poison."
+}

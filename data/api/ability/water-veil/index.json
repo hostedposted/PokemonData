@@ -1,0 +1,75 @@
+{
+  "description": "Prevents burns.",
+  "effect": "This Pok\u00e9mon cannot be burned.\n\nIf a Pok\u00e9mon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle.",
+  "id": 41,
+  "name": "water-veil",
+  "pokemon": [
+    {
+      "name": "goldeen",
+      "url": "https://thepokeapi.com/pokemon/goldeen",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "seaking",
+      "url": "https://thepokeapi.com/pokemon/seaking",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mantine",
+      "url": "https://thepokeapi.com/pokemon/mantine",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "wailmer",
+      "url": "https://thepokeapi.com/pokemon/wailmer",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wailord",
+      "url": "https://thepokeapi.com/pokemon/wailord",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "huntail",
+      "url": "https://thepokeapi.com/pokemon/huntail",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "buizel",
+      "url": "https://thepokeapi.com/pokemon/buizel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "floatzel",
+      "url": "https://thepokeapi.com/pokemon/floatzel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "finneon",
+      "url": "https://thepokeapi.com/pokemon/finneon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "lumineon",
+      "url": "https://thepokeapi.com/pokemon/lumineon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mantyke",
+      "url": "https://thepokeapi.com/pokemon/mantyke",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Prevents burns."
+}

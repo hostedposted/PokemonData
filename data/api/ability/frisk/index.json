@@ -1,0 +1,171 @@
+{
+  "description": "The Pok\u00e9mon can check\nthe foe\u2019s held item.",
+  "effect": "When this Pok\u00e9mon enters battle, it reveals an opposing Pok\u00e9mon's held item to all participating trainers.\n\nIn a double battle, if one opponent has an item, this Pok\u00e9mon will Frisk that Pok\u00e9mon; if both have an item, it will Frisk one at random.",
+  "id": 119,
+  "name": "frisk",
+  "pokemon": [
+    {
+      "name": "wigglytuff",
+      "url": "https://thepokeapi.com/pokemon/wigglytuff",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sentret",
+      "url": "https://thepokeapi.com/pokemon/sentret",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "furret",
+      "url": "https://thepokeapi.com/pokemon/furret",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "yanma",
+      "url": "https://thepokeapi.com/pokemon/yanma",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "stantler",
+      "url": "https://thepokeapi.com/pokemon/stantler",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "shuppet",
+      "url": "https://thepokeapi.com/pokemon/shuppet",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "banette",
+      "url": "https://thepokeapi.com/pokemon/banette",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "duskull",
+      "url": "https://thepokeapi.com/pokemon/duskull",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dusclops",
+      "url": "https://thepokeapi.com/pokemon/dusclops",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "yanmega",
+      "url": "https://thepokeapi.com/pokemon/yanmega",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dusknoir",
+      "url": "https://thepokeapi.com/pokemon/dusknoir",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gothita",
+      "url": "https://thepokeapi.com/pokemon/gothita",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gothorita",
+      "url": "https://thepokeapi.com/pokemon/gothorita",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gothitelle",
+      "url": "https://thepokeapi.com/pokemon/gothitelle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "phantump",
+      "url": "https://thepokeapi.com/pokemon/phantump",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "trevenant",
+      "url": "https://thepokeapi.com/pokemon/trevenant",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pumpkaboo-average",
+      "url": "https://thepokeapi.com/pokemon/pumpkaboo-average",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gourgeist-average",
+      "url": "https://thepokeapi.com/pokemon/gourgeist-average",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "noibat",
+      "url": "https://thepokeapi.com/pokemon/noibat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "noivern",
+      "url": "https://thepokeapi.com/pokemon/noivern",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "orbeetle",
+      "url": "https://thepokeapi.com/pokemon/orbeetle",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "impidimp",
+      "url": "https://thepokeapi.com/pokemon/impidimp",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "morgrem",
+      "url": "https://thepokeapi.com/pokemon/morgrem",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "exeggutor",
+      "url": "https://thepokeapi.com/pokemon/exeggutor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "orbeetle",
+      "url": "https://thepokeapi.com/pokemon/orbeetle",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Reveals an opponent's held item upon entering battle."
+}

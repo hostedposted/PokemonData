@@ -1,0 +1,21 @@
+{
+  "description": "\u30b0\u30e9\u30b9\u30d5\u30a3\u30fc\u30eb\u30c9\u306e\u3068\u304d\n\u307c\u3046\u304e\u3087\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Boosts Defense while grassy terrain is in effect.",
+  "id": 179,
+  "name": "grass-pelt",
+  "pokemon": [
+    {
+      "name": "skiddo",
+      "url": "https://thepokeapi.com/pokemon/skiddo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gogoat",
+      "url": "https://thepokeapi.com/pokemon/gogoat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Boosts Defense while grassy terrain is in effect."
+}

@@ -1,0 +1,147 @@
+{
+  "description": "Heals status problems if\nit is raining.",
+  "effect": "This Pok\u00e9mon is cured of any major status ailment after each turn during rain.",
+  "id": 93,
+  "name": "hydration",
+  "pokemon": [
+    {
+      "name": "seel",
+      "url": "https://thepokeapi.com/pokemon/seel",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dewgong",
+      "url": "https://thepokeapi.com/pokemon/dewgong",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lapras",
+      "url": "https://thepokeapi.com/pokemon/lapras",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vaporeon",
+      "url": "https://thepokeapi.com/pokemon/vaporeon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "smoochum",
+      "url": "https://thepokeapi.com/pokemon/smoochum",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "wingull",
+      "url": "https://thepokeapi.com/pokemon/wingull",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "barboach",
+      "url": "https://thepokeapi.com/pokemon/barboach",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "whiscash",
+      "url": "https://thepokeapi.com/pokemon/whiscash",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gorebyss",
+      "url": "https://thepokeapi.com/pokemon/gorebyss",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "luvdisc",
+      "url": "https://thepokeapi.com/pokemon/luvdisc",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "phione",
+      "url": "https://thepokeapi.com/pokemon/phione",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "manaphy",
+      "url": "https://thepokeapi.com/pokemon/manaphy",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tympole",
+      "url": "https://thepokeapi.com/pokemon/tympole",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "palpitoad",
+      "url": "https://thepokeapi.com/pokemon/palpitoad",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ducklett",
+      "url": "https://thepokeapi.com/pokemon/ducklett",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "swanna",
+      "url": "https://thepokeapi.com/pokemon/swanna",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "alomomola",
+      "url": "https://thepokeapi.com/pokemon/alomomola",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "shelmet",
+      "url": "https://thepokeapi.com/pokemon/shelmet",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "accelgor",
+      "url": "https://thepokeapi.com/pokemon/accelgor",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "goomy",
+      "url": "https://thepokeapi.com/pokemon/goomy",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sliggoo",
+      "url": "https://thepokeapi.com/pokemon/sliggoo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "goodra",
+      "url": "https://thepokeapi.com/pokemon/goodra",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lapras",
+      "url": "https://thepokeapi.com/pokemon/lapras",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Cures any major status ailment after each turn during rain."
+}

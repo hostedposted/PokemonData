@@ -1,0 +1,251 @@
+{
+  "abilities": [
+    {
+      "name": "clear-body",
+      "url": "https://thepokeapi.com/ability/clear-body",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "infiltrator",
+      "url": "https://thepokeapi.com/ability/infiltrator",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "cursed-body",
+      "url": "https://thepokeapi.com/ability/cursed-body",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 0,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 2,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "If this weak Pok\u00e9mon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "dreepy"
+    ],
+    [
+      "drakloak"
+    ],
+    [
+      "dragapult"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 20,
+  "id": 885,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "astonish",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "grudge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confuse ray",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "double team",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "disable",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "dragon tail",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "sucker punch",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "dreepy",
+  "names": {
+    "french": "Fantyrm",
+    "german": "Grolldra",
+    "spanish": "Dreepy",
+    "italian": "Dreepy",
+    "english": "Dreepy",
+    "japanese": "\u30c9\u30e9\u30e1\u30b7\u30e4"
+  },
+  "pokedex_numbers": {
+    "national": 885,
+    "galar": 395,
+    "crown-tundra": 110,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "squiggle",
+  "species": "Lingering Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/885.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/885.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 28
+    },
+    {
+      "name": "attack",
+      "base_stat": 60
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 40
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 82
+    }
+  ],
+  "types": [
+    {
+      "name": "dragon",
+      "url": "https://thepokeapi.com/type/dragon"
+    },
+    {
+      "name": "ghost",
+      "url": "https://thepokeapi.com/type/ghost"
+    }
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 4
+}

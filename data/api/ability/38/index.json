@@ -1,0 +1,105 @@
+{
+  "description": "Poisons foe on contact.",
+  "effect": "Whenever a move makes contact with this Pok\u00e9mon, the move's user has a 30% chance of being poisoned.",
+  "id": 38,
+  "name": "poison-point",
+  "pokemon": [
+    {
+      "name": "nidoran-f",
+      "url": "https://thepokeapi.com/pokemon/nidoran-f",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nidorina",
+      "url": "https://thepokeapi.com/pokemon/nidorina",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nidoqueen",
+      "url": "https://thepokeapi.com/pokemon/nidoqueen",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nidoran-m",
+      "url": "https://thepokeapi.com/pokemon/nidoran-m",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nidorino",
+      "url": "https://thepokeapi.com/pokemon/nidorino",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "nidoking",
+      "url": "https://thepokeapi.com/pokemon/nidoking",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "seadra",
+      "url": "https://thepokeapi.com/pokemon/seadra",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "qwilfish",
+      "url": "https://thepokeapi.com/pokemon/qwilfish",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "roselia",
+      "url": "https://thepokeapi.com/pokemon/roselia",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "budew",
+      "url": "https://thepokeapi.com/pokemon/budew",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "roserade",
+      "url": "https://thepokeapi.com/pokemon/roserade",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "venipede",
+      "url": "https://thepokeapi.com/pokemon/venipede",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "whirlipede",
+      "url": "https://thepokeapi.com/pokemon/whirlipede",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "scolipede",
+      "url": "https://thepokeapi.com/pokemon/scolipede",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skrelp",
+      "url": "https://thepokeapi.com/pokemon/skrelp",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dragalge",
+      "url": "https://thepokeapi.com/pokemon/dragalge",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Has a 30% chance of poisoning attacking Pok\u00e9mon on contact."
+}

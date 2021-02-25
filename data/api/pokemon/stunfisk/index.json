@@ -1,0 +1,493 @@
+{
+  "abilities": [
+    {
+      "name": "static",
+      "url": "https://thepokeapi.com/ability/static",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "limber",
+      "url": "https://thepokeapi.com/ability/limber",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sand-veil",
+      "url": "https://thepokeapi.com/ability/sand-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "brown",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 2,
+    "electric": 0,
+    "grass": 2,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+  "egg_groups": [
+    "water1",
+    "indeterminate"
+  ],
+  "evolution_chain": [
+    [
+      "stunfisk"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 28,
+  "id": 618,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water-gun",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder-shock",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "thunderbolt",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "thunder-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thunder",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "earthquake",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fissure",
+      "level": 61,
+      "tm": false
+    },
+    {
+      "name": "dig",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bide",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "flash",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-slide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "snore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "curse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "flail",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "spite",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sludge-bomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mud-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sandstorm",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "endure",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spark",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "pain-split",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "uproar",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "revenge",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "yawn",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "endeavor",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "secret-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "camouflage",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "mud-sport",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "astonish",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rock-tomb",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "muddy-water",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "bounce",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "mud-shot",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "shock-wave",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "me-first",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "magnet-rise",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "aqua-tail",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "earth-power",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mud-bomb",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "discharge",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "stone-edge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "stealth-rock",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "sludge-wave",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "foul-play",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect-type",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "bulldoze",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "electroweb",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "eerie-impulse",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "stunfisk",
+  "names": {
+    "french": "Limonde",
+    "german": "Flunschlik",
+    "spanish": "Stunfisk",
+    "italian": "Stunfisk",
+    "english": "Stunfisk",
+    "japanese": "\u30de\u30c3\u30ae\u30e7"
+  },
+  "pokedex_numbers": {
+    "national": 618,
+    "original-unova": 124,
+    "updated-unova": 231,
+    "kalos-mountain": 39,
+    "galar": 226,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null
+  },
+  "region": "unova",
+  "region_id": 5,
+  "shape": "fish",
+  "species": "Trap Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/618.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/618.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 109
+    },
+    {
+      "name": "attack",
+      "base_stat": 66
+    },
+    {
+      "name": "defense",
+      "base_stat": 84
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 81
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 99
+    },
+    {
+      "name": "speed",
+      "base_stat": 32
+    }
+  ],
+  "types": [
+    {
+      "name": "ground",
+      "url": "https://thepokeapi.com/type/ground"
+    },
+    {
+      "name": "electric",
+      "url": "https://thepokeapi.com/type/electric"
+    }
+  ],
+  "weight_kilograms": 11,
+  "weight_pounds": 24
+}

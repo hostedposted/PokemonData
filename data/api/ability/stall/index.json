@@ -1,0 +1,15 @@
+{
+  "description": "The Pok\u00e9mon moves after\neven slower foes.",
+  "effect": "This Pok\u00e9mon moves last within its priority bracket.\n\nMultiple Pok\u00e9mon with this ability move in order of Speed amongst themselves.\n\nThe full incense and lagging tail take precedence over this ability; that is, Pok\u00e9mon with these items move after Pok\u00e9mon with this ability.  Pok\u00e9mon with both this ability and one of these items are delayed as much as if they had only the item.\n\nThis ability works as usual during trick room: Pok\u00e9mon with this ability will move in reverse order of Speed after Pok\u00e9mon without it.",
+  "id": 100,
+  "name": "stall",
+  "pokemon": [
+    {
+      "name": "sableye",
+      "url": "https://thepokeapi.com/pokemon/sableye",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Makes the Pok\u00e9mon move last within its move's priority bracket."
+}

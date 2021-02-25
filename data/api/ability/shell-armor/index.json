@@ -1,0 +1,177 @@
+{
+  "description": "Blocks critical hits.",
+  "effect": "Moves cannot score critical hits against this Pok\u00e9mon.\n\nThis ability functions identically to battle armor.",
+  "id": 75,
+  "name": "shell-armor",
+  "pokemon": [
+    {
+      "name": "shellder",
+      "url": "https://thepokeapi.com/pokemon/shellder",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cloyster",
+      "url": "https://thepokeapi.com/pokemon/cloyster",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "krabby",
+      "url": "https://thepokeapi.com/pokemon/krabby",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "kingler",
+      "url": "https://thepokeapi.com/pokemon/kingler",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lapras",
+      "url": "https://thepokeapi.com/pokemon/lapras",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "omanyte",
+      "url": "https://thepokeapi.com/pokemon/omanyte",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "omastar",
+      "url": "https://thepokeapi.com/pokemon/omastar",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "torkoal",
+      "url": "https://thepokeapi.com/pokemon/torkoal",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "corphish",
+      "url": "https://thepokeapi.com/pokemon/corphish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "crawdaunt",
+      "url": "https://thepokeapi.com/pokemon/crawdaunt",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "clamperl",
+      "url": "https://thepokeapi.com/pokemon/clamperl",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "turtwig",
+      "url": "https://thepokeapi.com/pokemon/turtwig",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "grotle",
+      "url": "https://thepokeapi.com/pokemon/grotle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "torterra",
+      "url": "https://thepokeapi.com/pokemon/torterra",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "oshawott",
+      "url": "https://thepokeapi.com/pokemon/oshawott",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dewott",
+      "url": "https://thepokeapi.com/pokemon/dewott",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "samurott",
+      "url": "https://thepokeapi.com/pokemon/samurott",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dwebble",
+      "url": "https://thepokeapi.com/pokemon/dwebble",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "crustle",
+      "url": "https://thepokeapi.com/pokemon/crustle",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "escavalier",
+      "url": "https://thepokeapi.com/pokemon/escavalier",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "shelmet",
+      "url": "https://thepokeapi.com/pokemon/shelmet",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "turtonator",
+      "url": "https://thepokeapi.com/pokemon/turtonator",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chewtle",
+      "url": "https://thepokeapi.com/pokemon/chewtle",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drednaw",
+      "url": "https://thepokeapi.com/pokemon/drednaw",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "slowbro",
+      "url": "https://thepokeapi.com/pokemon/slowbro",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "kingler",
+      "url": "https://thepokeapi.com/pokemon/kingler",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lapras",
+      "url": "https://thepokeapi.com/pokemon/lapras",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drednaw",
+      "url": "https://thepokeapi.com/pokemon/drednaw",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Protects against critical hits."
+}

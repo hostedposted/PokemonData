@@ -1,0 +1,159 @@
+{
+  "description": "Trades accuracy for power.",
+  "effect": "This Pok\u00e9mon's physical moves do 1.5\u00d7 as much regular damage, but have 0.8\u00d7 their usual accuracy.\n\nSpecial moves are unaffected.  Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+  "id": 55,
+  "name": "hustle",
+  "pokemon": [
+    {
+      "name": "rattata",
+      "url": "https://thepokeapi.com/pokemon/rattata",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "nidoran-f",
+      "url": "https://thepokeapi.com/pokemon/nidoran-f",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "nidorina",
+      "url": "https://thepokeapi.com/pokemon/nidorina",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "nidoran-m",
+      "url": "https://thepokeapi.com/pokemon/nidoran-m",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "nidorino",
+      "url": "https://thepokeapi.com/pokemon/nidorino",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "togepi",
+      "url": "https://thepokeapi.com/pokemon/togepi",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "togetic",
+      "url": "https://thepokeapi.com/pokemon/togetic",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corsola",
+      "url": "https://thepokeapi.com/pokemon/corsola",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "remoraid",
+      "url": "https://thepokeapi.com/pokemon/remoraid",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "delibird",
+      "url": "https://thepokeapi.com/pokemon/delibird",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "combee",
+      "url": "https://thepokeapi.com/pokemon/combee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "togekiss",
+      "url": "https://thepokeapi.com/pokemon/togekiss",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "darumaka",
+      "url": "https://thepokeapi.com/pokemon/darumaka",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rufflet",
+      "url": "https://thepokeapi.com/pokemon/rufflet",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "durant",
+      "url": "https://thepokeapi.com/pokemon/durant",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "deino",
+      "url": "https://thepokeapi.com/pokemon/deino",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "zweilous",
+      "url": "https://thepokeapi.com/pokemon/zweilous",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flapple",
+      "url": "https://thepokeapi.com/pokemon/flapple",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dracozolt",
+      "url": "https://thepokeapi.com/pokemon/dracozolt",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rattata",
+      "url": "https://thepokeapi.com/pokemon/rattata",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "darumaka",
+      "url": "https://thepokeapi.com/pokemon/darumaka",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flapple",
+      "url": "https://thepokeapi.com/pokemon/flapple",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Strengthens physical moves to inflict 1.5\u00d7 damage, but decreases their accuracy to 0.8\u00d7."
+}

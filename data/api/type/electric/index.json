@@ -1,0 +1,329 @@
+{
+  "damage_relations": {
+    "double_damage_from": [
+      {
+        "name": "ground",
+        "url": "https://thepokeapi.com/type/ground"
+      }
+    ],
+    "double_damage_to": [
+      {
+        "name": "flying",
+        "url": "https://thepokeapi.com/type/flying"
+      },
+      {
+        "name": "water",
+        "url": "https://thepokeapi.com/type/water"
+      }
+    ],
+    "half_damage_from": [
+      {
+        "name": "flying",
+        "url": "https://thepokeapi.com/type/flying"
+      },
+      {
+        "name": "steel",
+        "url": "https://thepokeapi.com/type/steel"
+      },
+      {
+        "name": "electric",
+        "url": "https://thepokeapi.com/type/electric"
+      }
+    ],
+    "half_damage_to": [
+      {
+        "name": "grass",
+        "url": "https://thepokeapi.com/type/grass"
+      },
+      {
+        "name": "electric",
+        "url": "https://thepokeapi.com/type/electric"
+      },
+      {
+        "name": "dragon",
+        "url": "https://thepokeapi.com/type/dragon"
+      }
+    ],
+    "no_damage_from": [],
+    "no_damage_to": [
+      {
+        "name": "ground",
+        "url": "https://thepokeapi.com/type/ground"
+      }
+    ]
+  },
+  "name": "electric",
+  "id": 13,
+  "pokemon": [
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "slot": 1
+    },
+    {
+      "name": "raichu",
+      "url": "https://thepokeapi.com/pokemon/raichu",
+      "slot": 1
+    },
+    {
+      "name": "magnemite",
+      "url": "https://thepokeapi.com/pokemon/magnemite",
+      "slot": 1
+    },
+    {
+      "name": "magneton",
+      "url": "https://thepokeapi.com/pokemon/magneton",
+      "slot": 1
+    },
+    {
+      "name": "voltorb",
+      "url": "https://thepokeapi.com/pokemon/voltorb",
+      "slot": 1
+    },
+    {
+      "name": "electrode",
+      "url": "https://thepokeapi.com/pokemon/electrode",
+      "slot": 1
+    },
+    {
+      "name": "electabuzz",
+      "url": "https://thepokeapi.com/pokemon/electabuzz",
+      "slot": 1
+    },
+    {
+      "name": "jolteon",
+      "url": "https://thepokeapi.com/pokemon/jolteon",
+      "slot": 1
+    },
+    {
+      "name": "zapdos",
+      "url": "https://thepokeapi.com/pokemon/zapdos",
+      "slot": 1
+    },
+    {
+      "name": "chinchou",
+      "url": "https://thepokeapi.com/pokemon/chinchou",
+      "slot": 2
+    },
+    {
+      "name": "lanturn",
+      "url": "https://thepokeapi.com/pokemon/lanturn",
+      "slot": 2
+    },
+    {
+      "name": "pichu",
+      "url": "https://thepokeapi.com/pokemon/pichu",
+      "slot": 1
+    },
+    {
+      "name": "mareep",
+      "url": "https://thepokeapi.com/pokemon/mareep",
+      "slot": 1
+    },
+    {
+      "name": "flaaffy",
+      "url": "https://thepokeapi.com/pokemon/flaaffy",
+      "slot": 1
+    },
+    {
+      "name": "ampharos",
+      "url": "https://thepokeapi.com/pokemon/ampharos",
+      "slot": 1
+    },
+    {
+      "name": "elekid",
+      "url": "https://thepokeapi.com/pokemon/elekid",
+      "slot": 1
+    },
+    {
+      "name": "raikou",
+      "url": "https://thepokeapi.com/pokemon/raikou",
+      "slot": 1
+    },
+    {
+      "name": "electrike",
+      "url": "https://thepokeapi.com/pokemon/electrike",
+      "slot": 1
+    },
+    {
+      "name": "manectric",
+      "url": "https://thepokeapi.com/pokemon/manectric",
+      "slot": 1
+    },
+    {
+      "name": "plusle",
+      "url": "https://thepokeapi.com/pokemon/plusle",
+      "slot": 1
+    },
+    {
+      "name": "minun",
+      "url": "https://thepokeapi.com/pokemon/minun",
+      "slot": 1
+    },
+    {
+      "name": "shinx",
+      "url": "https://thepokeapi.com/pokemon/shinx",
+      "slot": 1
+    },
+    {
+      "name": "luxio",
+      "url": "https://thepokeapi.com/pokemon/luxio",
+      "slot": 1
+    },
+    {
+      "name": "luxray",
+      "url": "https://thepokeapi.com/pokemon/luxray",
+      "slot": 1
+    },
+    {
+      "name": "pachirisu",
+      "url": "https://thepokeapi.com/pokemon/pachirisu",
+      "slot": 1
+    },
+    {
+      "name": "magnezone",
+      "url": "https://thepokeapi.com/pokemon/magnezone",
+      "slot": 1
+    },
+    {
+      "name": "electivire",
+      "url": "https://thepokeapi.com/pokemon/electivire",
+      "slot": 1
+    },
+    {
+      "name": "rotom",
+      "url": "https://thepokeapi.com/pokemon/rotom",
+      "slot": 1
+    },
+    {
+      "name": "blitzle",
+      "url": "https://thepokeapi.com/pokemon/blitzle",
+      "slot": 1
+    },
+    {
+      "name": "zebstrika",
+      "url": "https://thepokeapi.com/pokemon/zebstrika",
+      "slot": 1
+    },
+    {
+      "name": "emolga",
+      "url": "https://thepokeapi.com/pokemon/emolga",
+      "slot": 1
+    },
+    {
+      "name": "joltik",
+      "url": "https://thepokeapi.com/pokemon/joltik",
+      "slot": 2
+    },
+    {
+      "name": "galvantula",
+      "url": "https://thepokeapi.com/pokemon/galvantula",
+      "slot": 2
+    },
+    {
+      "name": "tynamo",
+      "url": "https://thepokeapi.com/pokemon/tynamo",
+      "slot": 1
+    },
+    {
+      "name": "eelektrik",
+      "url": "https://thepokeapi.com/pokemon/eelektrik",
+      "slot": 1
+    },
+    {
+      "name": "eelektross",
+      "url": "https://thepokeapi.com/pokemon/eelektross",
+      "slot": 1
+    },
+    {
+      "name": "stunfisk",
+      "url": "https://thepokeapi.com/pokemon/stunfisk",
+      "slot": 2
+    },
+    {
+      "name": "zekrom",
+      "url": "https://thepokeapi.com/pokemon/zekrom",
+      "slot": 2
+    },
+    {
+      "name": "helioptile",
+      "url": "https://thepokeapi.com/pokemon/helioptile",
+      "slot": 1
+    },
+    {
+      "name": "heliolisk",
+      "url": "https://thepokeapi.com/pokemon/heliolisk",
+      "slot": 1
+    },
+    {
+      "name": "dedenne",
+      "url": "https://thepokeapi.com/pokemon/dedenne",
+      "slot": 1
+    },
+    {
+      "name": "charjabug",
+      "url": "https://thepokeapi.com/pokemon/charjabug",
+      "slot": 2
+    },
+    {
+      "name": "vikavolt",
+      "url": "https://thepokeapi.com/pokemon/vikavolt",
+      "slot": 2
+    },
+    {
+      "name": "togedemaru",
+      "url": "https://thepokeapi.com/pokemon/togedemaru",
+      "slot": 1
+    },
+    {
+      "name": "xurkitree",
+      "url": "https://thepokeapi.com/pokemon/xurkitree",
+      "slot": 1
+    },
+    {
+      "name": "zeraora",
+      "url": "https://thepokeapi.com/pokemon/zeraora",
+      "slot": 1
+    },
+    {
+      "name": "yamper",
+      "url": "https://thepokeapi.com/pokemon/yamper",
+      "slot": 1
+    },
+    {
+      "name": "boltund",
+      "url": "https://thepokeapi.com/pokemon/boltund",
+      "slot": 1
+    },
+    {
+      "name": "toxel",
+      "url": "https://thepokeapi.com/pokemon/toxel",
+      "slot": 1
+    },
+    {
+      "name": "pincurchin",
+      "url": "https://thepokeapi.com/pokemon/pincurchin",
+      "slot": 1
+    },
+    {
+      "name": "morpeko",
+      "url": "https://thepokeapi.com/pokemon/morpeko",
+      "slot": 1
+    },
+    {
+      "name": "dracozolt",
+      "url": "https://thepokeapi.com/pokemon/dracozolt",
+      "slot": 1
+    },
+    {
+      "name": "arctozolt",
+      "url": "https://thepokeapi.com/pokemon/arctozolt",
+      "slot": 1
+    },
+    {
+      "name": "regieleki",
+      "url": "https://thepokeapi.com/pokemon/regieleki",
+      "slot": 1
+    }
+  ]
+}

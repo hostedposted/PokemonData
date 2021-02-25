@@ -1,0 +1,75 @@
+{
+  "description": "\u307f\u304b\u305f\u306e\u3000\u30dd\u30b1\u30e2\u30f3\u306f\n\u306d\u3080\u3089\u306a\u304f\u306a\u308b\u3002",
+  "effect": "Prevents friendly Pok\u00e9mon from sleeping.",
+  "id": 175,
+  "name": "sweet-veil",
+  "pokemon": [
+    {
+      "name": "swirlix",
+      "url": "https://thepokeapi.com/pokemon/swirlix",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "slurpuff",
+      "url": "https://thepokeapi.com/pokemon/slurpuff",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cutiefly",
+      "url": "https://thepokeapi.com/pokemon/cutiefly",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ribombee",
+      "url": "https://thepokeapi.com/pokemon/ribombee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bounsweet",
+      "url": "https://thepokeapi.com/pokemon/bounsweet",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "steenee",
+      "url": "https://thepokeapi.com/pokemon/steenee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "tsareena",
+      "url": "https://thepokeapi.com/pokemon/tsareena",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "milcery",
+      "url": "https://thepokeapi.com/pokemon/milcery",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "alcremie",
+      "url": "https://thepokeapi.com/pokemon/alcremie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ribombee",
+      "url": "https://thepokeapi.com/pokemon/ribombee",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "alcremie",
+      "url": "https://thepokeapi.com/pokemon/alcremie",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Prevents friendly Pok\u00e9mon from sleeping."
+}

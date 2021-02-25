@@ -1,0 +1,27 @@
+{
+  "description": "Ups DEFENSE if suffering.",
+  "effect": "Whenever this Pok\u00e9mon has a major status ailment, it has 1.5\u00d7 its Defense.\n\nThis bonus does not count as a stat modifier.",
+  "id": 63,
+  "name": "marvel-scale",
+  "pokemon": [
+    {
+      "name": "dratini",
+      "url": "https://thepokeapi.com/pokemon/dratini",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dragonair",
+      "url": "https://thepokeapi.com/pokemon/dragonair",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "milotic",
+      "url": "https://thepokeapi.com/pokemon/milotic",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Increases Defense to 1.5\u00d7 with a major status ailment."
+}

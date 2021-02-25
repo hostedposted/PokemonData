@@ -1,0 +1,183 @@
+{
+  "description": "Raises foe\u2019s PP usage.",
+  "effect": "Moves targetting this Pok\u00e9mon use one extra PP.\n\nThis ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pok\u00e9mon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pok\u00e9mon, ally moves that target all other Pok\u00e9mon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.\n\nWhen this Pok\u00e9mon enters battle, all participating trainers are notified that it has this ability.\n\nOverworld: If the lead Pok\u00e9mon has this ability, higher-levelled Pok\u00e9mon have their encounter rate increased.",
+  "id": 46,
+  "name": "pressure",
+  "pokemon": [
+    {
+      "name": "aerodactyl",
+      "url": "https://thepokeapi.com/pokemon/aerodactyl",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "articuno",
+      "url": "https://thepokeapi.com/pokemon/articuno",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "zapdos",
+      "url": "https://thepokeapi.com/pokemon/zapdos",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "moltres",
+      "url": "https://thepokeapi.com/pokemon/moltres",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mewtwo",
+      "url": "https://thepokeapi.com/pokemon/mewtwo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "raikou",
+      "url": "https://thepokeapi.com/pokemon/raikou",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "entei",
+      "url": "https://thepokeapi.com/pokemon/entei",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "suicune",
+      "url": "https://thepokeapi.com/pokemon/suicune",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lugia",
+      "url": "https://thepokeapi.com/pokemon/lugia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ho-oh",
+      "url": "https://thepokeapi.com/pokemon/ho-oh",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wailmer",
+      "url": "https://thepokeapi.com/pokemon/wailmer",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "wailord",
+      "url": "https://thepokeapi.com/pokemon/wailord",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dusclops",
+      "url": "https://thepokeapi.com/pokemon/dusclops",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "absol",
+      "url": "https://thepokeapi.com/pokemon/absol",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "deoxys-normal",
+      "url": "https://thepokeapi.com/pokemon/deoxys-normal",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vespiquen",
+      "url": "https://thepokeapi.com/pokemon/vespiquen",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "spiritomb",
+      "url": "https://thepokeapi.com/pokemon/spiritomb",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "weavile",
+      "url": "https://thepokeapi.com/pokemon/weavile",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dusknoir",
+      "url": "https://thepokeapi.com/pokemon/dusknoir",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dialga",
+      "url": "https://thepokeapi.com/pokemon/dialga",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "palkia",
+      "url": "https://thepokeapi.com/pokemon/palkia",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "giratina-altered",
+      "url": "https://thepokeapi.com/pokemon/giratina-altered",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pawniard",
+      "url": "https://thepokeapi.com/pokemon/pawniard",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bisharp",
+      "url": "https://thepokeapi.com/pokemon/bisharp",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "kyurem",
+      "url": "https://thepokeapi.com/pokemon/kyurem",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corviknight",
+      "url": "https://thepokeapi.com/pokemon/corviknight",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "eternatus",
+      "url": "https://thepokeapi.com/pokemon/eternatus",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corviknight",
+      "url": "https://thepokeapi.com/pokemon/corviknight",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "eternatus",
+      "url": "https://thepokeapi.com/pokemon/eternatus",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Increases the PP cost of moves targetting the Pok\u00e9mon by one."
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Restores HP if the\nPok\u00e9mon is poisoned.",
+  "effect": "If this Pok\u00e9mon is poisoned, it will heal for 1/8 of its maximum HP after each turn rather than taking damage.  This includes bad poison.",
+  "id": 90,
+  "name": "poison-heal",
+  "pokemon": [
+    {
+      "name": "shroomish",
+      "url": "https://thepokeapi.com/pokemon/shroomish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "breloom",
+      "url": "https://thepokeapi.com/pokemon/breloom",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gliscor",
+      "url": "https://thepokeapi.com/pokemon/gliscor",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+}

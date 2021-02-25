@@ -1,0 +1,117 @@
+{
+  "description": "Utilise les attaques de\nstatut en premier.",
+  "effect": "This Pok\u00e9mon's non-damaging moves have their priority increased by one stage.",
+  "id": 158,
+  "name": "prankster",
+  "pokemon": [
+    {
+      "name": "murkrow",
+      "url": "https://thepokeapi.com/pokemon/murkrow",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sableye",
+      "url": "https://thepokeapi.com/pokemon/sableye",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "volbeat",
+      "url": "https://thepokeapi.com/pokemon/volbeat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "illumise",
+      "url": "https://thepokeapi.com/pokemon/illumise",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "riolu",
+      "url": "https://thepokeapi.com/pokemon/riolu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "purrloin",
+      "url": "https://thepokeapi.com/pokemon/purrloin",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "liepard",
+      "url": "https://thepokeapi.com/pokemon/liepard",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cottonee",
+      "url": "https://thepokeapi.com/pokemon/cottonee",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "whimsicott",
+      "url": "https://thepokeapi.com/pokemon/whimsicott",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tornadus-incarnate",
+      "url": "https://thepokeapi.com/pokemon/tornadus-incarnate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "thundurus-incarnate",
+      "url": "https://thepokeapi.com/pokemon/thundurus-incarnate",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "meowstic-male",
+      "url": "https://thepokeapi.com/pokemon/meowstic-male",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "klefki",
+      "url": "https://thepokeapi.com/pokemon/klefki",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "impidimp",
+      "url": "https://thepokeapi.com/pokemon/impidimp",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "morgrem",
+      "url": "https://thepokeapi.com/pokemon/morgrem",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "banette",
+      "url": "https://thepokeapi.com/pokemon/banette",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "grimmsnarl",
+      "url": "https://thepokeapi.com/pokemon/grimmsnarl",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises non-damaging moves' priority by one stage."
+}

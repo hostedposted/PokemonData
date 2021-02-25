@@ -1,0 +1,15 @@
+{
+  "description": "When the Pok\u00e9mon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
+  "effect": null,
+  "id": 265,
+  "name": "grim-neigh",
+  "pokemon": [
+    {
+      "name": "spectrier",
+      "url": "https://thepokeapi.com/pokemon/spectrier",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

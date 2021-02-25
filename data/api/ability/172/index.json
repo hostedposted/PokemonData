@@ -1,0 +1,63 @@
+{
+  "description": "\u306e\u3046\u308a\u3087\u304f\u304c\u3000\u3055\u304c\u308b\u3068\n\u3068\u304f\u3053\u3046\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Raises Special Attack by two stages upon having any stat lowered.",
+  "id": 172,
+  "name": "competitive",
+  "pokemon": [
+    {
+      "name": "jigglypuff",
+      "url": "https://thepokeapi.com/pokemon/jigglypuff",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "wigglytuff",
+      "url": "https://thepokeapi.com/pokemon/wigglytuff",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "igglybuff",
+      "url": "https://thepokeapi.com/pokemon/igglybuff",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "milotic",
+      "url": "https://thepokeapi.com/pokemon/milotic",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gothita",
+      "url": "https://thepokeapi.com/pokemon/gothita",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gothorita",
+      "url": "https://thepokeapi.com/pokemon/gothorita",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gothitelle",
+      "url": "https://thepokeapi.com/pokemon/gothitelle",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "boltund",
+      "url": "https://thepokeapi.com/pokemon/boltund",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "articuno",
+      "url": "https://thepokeapi.com/pokemon/articuno",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises Special Attack by two stages upon having any stat lowered."
+}

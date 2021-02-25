@@ -1,0 +1,15 @@
+{
+  "description": "Powers up ally Pok\u00e9mon's Steel-type moves.",
+  "effect": null,
+  "id": 252,
+  "name": "steely-spirit",
+  "pokemon": [
+    {
+      "name": "perrserker",
+      "url": "https://thepokeapi.com/pokemon/perrserker",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

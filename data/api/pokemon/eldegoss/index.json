@@ -1,0 +1,304 @@
+{
+  "abilities": [
+    {
+      "name": "cotton-down",
+      "url": "https://thepokeapi.com/ability/cotton-down",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "regenerator",
+      "url": "https://thepokeapi.com/ability/regenerator",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "effect-spore",
+      "url": "https://thepokeapi.com/ability/effect-spore",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 0,
+    "bug": 4,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 1,
+    "dark": 2,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "gossifleur"
+    ],
+    [
+      "eldegoss"
+    ]
+  ],
+  "evolves_from_species": "gossifleur",
+  "growth_rate": "medium",
+  "height": 20,
+  "id": 830,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "cotton spore",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "cotton spore",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leafage",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sing",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rapid spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet scent",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "razor leaf",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "leaf tornado",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "synthesis",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "hyper voice",
+      "level": 34,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "leaf storm",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "cotton guard",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "eldegoss",
+  "names": {
+    "french": "Blancoton",
+    "german": "Cottomi",
+    "spanish": "Eldegoss",
+    "italian": "Eldegoss",
+    "english": "Eldegoss",
+    "japanese": "\u30ef\u30bf\u30b7\u30e9\u30ac"
+  },
+  "pokedex_numbers": {
+    "national": 830,
+    "galar": 127,
+    "crown-tundra": 167,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "blob",
+  "species": "Cotton Bloom Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/830.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/830.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 60
+    },
+    {
+      "name": "attack",
+      "base_stat": 50
+    },
+    {
+      "name": "defense",
+      "base_stat": 90
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 80
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 120
+    },
+    {
+      "name": "speed",
+      "base_stat": 60
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 2,
+  "weight_pounds": 6
+}

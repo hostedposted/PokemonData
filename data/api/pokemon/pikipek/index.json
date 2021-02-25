@@ -1,0 +1,363 @@
+{
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "url": "https://thepokeapi.com/ability/keen-eye",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "skill-link",
+      "url": "https://thepokeapi.com/ability/skill-link",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pickup",
+      "url": "https://thepokeapi.com/ability/pickup",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 255,
+  "color": "black",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 2,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!",
+  "egg_groups": [
+    "flying"
+  ],
+  "evolution_chain": [
+    [
+      "pikipek"
+    ],
+    [
+      "trumbeak"
+    ],
+    [
+      "toucannon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 731,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "swords-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fly",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fury-attack",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "growl",
+      "level": 3,
+      "tm": false
+    },
+    {
+      "name": "supersonic",
+      "level": 13,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "drill-peck",
+      "level": 27,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "screech",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mirror-move",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "thief",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "steel-wing",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rock-smash",
+      "level": 9,
+      "tm": false
+    },
+    {
+      "name": "uproar",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "brick-break",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "feather-dance",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "hyper-voice",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "bullet-seed",
+      "level": 31,
+      "tm": false
+    },
+    {
+      "name": "aerial-ace",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "level": 19,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "brave-bird",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "smack-down",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "flame-charge",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "echoed-voice",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "boomburst",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "pikipek",
+  "names": {
+    "french": "Picassaut",
+    "german": "Peppeck",
+    "spanish": "Pikipek",
+    "italian": "Pikipek",
+    "english": "Pikipek",
+    "japanese": "\u30c4\u30c4\u30b1\u30e9"
+  },
+  "pokedex_numbers": {
+    "national": 731,
+    "original-alola": 10,
+    "original-melemele": 10,
+    "original-akala": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-alola": 10,
+    "updated-melemele": 10,
+    "updated-akala": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "updated-unova": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "wings",
+  "species": "Woodpecker Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/731.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/731.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 35
+    },
+    {
+      "name": "attack",
+      "base_stat": 75
+    },
+    {
+      "name": "defense",
+      "base_stat": 30
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 30
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 30
+    },
+    {
+      "name": "speed",
+      "base_stat": 65
+    }
+  ],
+  "types": [
+    {
+      "name": "normal",
+      "url": "https://thepokeapi.com/type/normal"
+    },
+    {
+      "name": "flying",
+      "url": "https://thepokeapi.com/type/flying"
+    }
+  ],
+  "weight_kilograms": 1,
+  "weight_pounds": 3
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Adopte l\u2019apparence du\nPok\u00e9mon adverse.",
+  "effect": "This Pok\u00e9mon transforms into a random opponent upon entering battle.  This effect is identical to the move transform.",
+  "id": 150,
+  "name": "imposter",
+  "pokemon": [
+    {
+      "name": "ditto",
+      "url": "https://thepokeapi.com/pokemon/ditto",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Transforms upon entering battle."
+}

@@ -1,0 +1,21 @@
+{
+  "description": "\u3053\u3046\u3052\u304d\u3092\u3000\u3046\u3051\u308b\u3068\n\u307c\u3046\u304e\u3087\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Raises this Pok\u00e9mon's Defense by one stage when it takes damage from a move.",
+  "id": 192,
+  "name": "stamina",
+  "pokemon": [
+    {
+      "name": "mudbray",
+      "url": "https://thepokeapi.com/pokemon/mudbray",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mudsdale",
+      "url": "https://thepokeapi.com/pokemon/mudsdale",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Raises this Pok\u00e9mon's Defense by one stage when it takes damage from a move."
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Booste les att. sp\u00e9ciales\nsi le statut est br\u00fblure.",
+  "effect": "This Pok\u00e9mon has 1.5\u00d7 its Special Attack when burned.",
+  "id": 138,
+  "name": "flare-boost",
+  "pokemon": [
+    {
+      "name": "drifloon",
+      "url": "https://thepokeapi.com/pokemon/drifloon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "drifblim",
+      "url": "https://thepokeapi.com/pokemon/drifblim",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Increases Special Attack to 1.5\u00d7 when burned."
+}

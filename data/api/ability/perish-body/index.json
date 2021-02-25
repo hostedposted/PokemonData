@@ -1,0 +1,15 @@
+{
+  "description": "When hit by a move that makes direct contact, the Pok\u00e9mon and the attacker will faint after three turns unless they switch out of battle.",
+  "effect": null,
+  "id": 253,
+  "name": "perish-body",
+  "pokemon": [
+    {
+      "name": "cursola",
+      "url": "https://thepokeapi.com/pokemon/cursola",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

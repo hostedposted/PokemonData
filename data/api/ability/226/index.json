@@ -1,0 +1,21 @@
+{
+  "description": "\u3068\u3046\u3058\u3087\u3046\u3000\u3057\u305f\u3068\u304d\u306b\n\u30a8\u30ec\u30ad\u30d5\u30a3\u30fc\u30eb\u30c9\u3092\u3000\u306f\u308a\u3081\u3050\u3089\u305b\u308b\u3002",
+  "effect": "When this Pok\u00e9mon enters battle, it changes the terrain to electric terrain.",
+  "id": 226,
+  "name": "electric-surge",
+  "pokemon": [
+    {
+      "name": "tapu-koko",
+      "url": "https://thepokeapi.com/pokemon/tapu-koko",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pincurchin",
+      "url": "https://thepokeapi.com/pokemon/pincurchin",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "When this Pok\u00e9mon enters battle, it changes the terrain to Electric Terrain."
+}

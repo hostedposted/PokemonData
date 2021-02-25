@@ -1,0 +1,63 @@
+{
+  "description": "Heightens the critical-hit\nratios of moves.",
+  "effect": "This Pok\u00e9mon's moves have critical hit rates one stage higher than normal.",
+  "id": 105,
+  "name": "super-luck",
+  "pokemon": [
+    {
+      "name": "togepi",
+      "url": "https://thepokeapi.com/pokemon/togepi",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "togetic",
+      "url": "https://thepokeapi.com/pokemon/togetic",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "murkrow",
+      "url": "https://thepokeapi.com/pokemon/murkrow",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "absol",
+      "url": "https://thepokeapi.com/pokemon/absol",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "honchkrow",
+      "url": "https://thepokeapi.com/pokemon/honchkrow",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "togekiss",
+      "url": "https://thepokeapi.com/pokemon/togekiss",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pidove",
+      "url": "https://thepokeapi.com/pokemon/pidove",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tranquill",
+      "url": "https://thepokeapi.com/pokemon/tranquill",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "unfezant",
+      "url": "https://thepokeapi.com/pokemon/unfezant",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Raises moves' critical hit rates one stage."
+}

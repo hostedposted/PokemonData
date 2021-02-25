@@ -1,0 +1,303 @@
+{
+  "abilities": [
+    {
+      "name": "pressure",
+      "url": "https://thepokeapi.com/ability/pressure",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 255,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 0,
+    "poison": 0,
+    "ground": 2,
+    "flying": 1,
+    "psychic": 2,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 1,
+    "dragon": 2,
+    "dark": 1,
+    "steel": 1,
+    "fairy": 1
+  },
+  "description": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "eternatus"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 787,
+  "id": 890,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "poison tail",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confuse ray",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "dragon tail",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "venoshock",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "dragon dance",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "cross poison",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "dragon pulse",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "flamethrower",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "dynamax cannon",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "cosmic power",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "recover",
+      "level": 72,
+      "tm": false
+    },
+    {
+      "name": "hyper beam",
+      "level": 80,
+      "tm": false
+    },
+    {
+      "name": "eternabeam",
+      "level": 88,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "mega-kick",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "eternatus",
+  "names": {
+    "french": "\u00c9thernatos",
+    "german": "Endynalos",
+    "spanish": "Eternatus",
+    "italian": "Eternatus",
+    "english": "Eternatus",
+    "japanese": "\u30e0\u30b2\u30f3\u30c0\u30a4\u30ca"
+  },
+  "pokedex_numbers": {
+    "national": 890,
+    "galar": 400,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "wings",
+  "species": "Gigantic Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/890.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/890.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 140
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 145
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 95
+    },
+    {
+      "name": "speed",
+      "base_stat": 130
+    }
+  ],
+  "types": [
+    {
+      "name": "poison",
+      "url": "https://thepokeapi.com/type/poison"
+    },
+    {
+      "name": "dragon",
+      "url": "https://thepokeapi.com/type/dragon"
+    }
+  ],
+  "weight_kilograms": 950,
+  "weight_pounds": 2094
+}

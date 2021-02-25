@@ -1,0 +1,147 @@
+{
+  "description": "Ups ATTACK if suffering.",
+  "effect": "Whenever this Pok\u00e9mon is asleep, burned, paralyzed, or poisoned, it has 1.5\u00d7 its Attack.  This Pok\u00e9mon is not affected by the usual Attack cut from a burn.\n\nThis bonus does not count as a stat modifier.",
+  "id": 62,
+  "name": "guts",
+  "pokemon": [
+    {
+      "name": "rattata",
+      "url": "https://thepokeapi.com/pokemon/rattata",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "machop",
+      "url": "https://thepokeapi.com/pokemon/machop",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "machoke",
+      "url": "https://thepokeapi.com/pokemon/machoke",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "machamp",
+      "url": "https://thepokeapi.com/pokemon/machamp",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flareon",
+      "url": "https://thepokeapi.com/pokemon/flareon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "heracross",
+      "url": "https://thepokeapi.com/pokemon/heracross",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ursaring",
+      "url": "https://thepokeapi.com/pokemon/ursaring",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "tyrogue",
+      "url": "https://thepokeapi.com/pokemon/tyrogue",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "larvitar",
+      "url": "https://thepokeapi.com/pokemon/larvitar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "taillow",
+      "url": "https://thepokeapi.com/pokemon/taillow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swellow",
+      "url": "https://thepokeapi.com/pokemon/swellow",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "makuhita",
+      "url": "https://thepokeapi.com/pokemon/makuhita",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "hariyama",
+      "url": "https://thepokeapi.com/pokemon/hariyama",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "shinx",
+      "url": "https://thepokeapi.com/pokemon/shinx",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "luxio",
+      "url": "https://thepokeapi.com/pokemon/luxio",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "luxray",
+      "url": "https://thepokeapi.com/pokemon/luxray",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "timburr",
+      "url": "https://thepokeapi.com/pokemon/timburr",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "gurdurr",
+      "url": "https://thepokeapi.com/pokemon/gurdurr",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "conkeldurr",
+      "url": "https://thepokeapi.com/pokemon/conkeldurr",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "throh",
+      "url": "https://thepokeapi.com/pokemon/throh",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "obstagoon",
+      "url": "https://thepokeapi.com/pokemon/obstagoon",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "machamp",
+      "url": "https://thepokeapi.com/pokemon/machamp",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Increases Attack to 1.5\u00d7 with a major status ailment."
+}

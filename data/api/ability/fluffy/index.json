@@ -1,0 +1,33 @@
+{
+  "description": "\u3042\u3044\u3066\u304b\u3089\u3000\u3046\u3051\u305f\u3000\u305b\u3063\u3057\u3087\u304f\u3059\u308b\u3000\u308f\u3056\u306e\n\u30c0\u30e1\u30fc\u30b8\u3092\u3000\u306f\u3093\u3052\u3093\u3059\u308b\u304c\u3000\u307b\u306e\u304a\u30bf\u30a4\u30d7\u306e\n\u308f\u3056\u306e\u3000\u30c0\u30e1\u30fc\u30b8\u306f\u3000\uff12\u3070\u3044\u306b\u306a\u308b\u3002",
+  "effect": "Damage from contact moves is halved.  Damage from Fire moves is doubled.",
+  "id": 218,
+  "name": "fluffy",
+  "pokemon": [
+    {
+      "name": "stufful",
+      "url": "https://thepokeapi.com/pokemon/stufful",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bewear",
+      "url": "https://thepokeapi.com/pokemon/bewear",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "wooloo",
+      "url": "https://thepokeapi.com/pokemon/wooloo",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "dubwool",
+      "url": "https://thepokeapi.com/pokemon/dubwool",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
+}

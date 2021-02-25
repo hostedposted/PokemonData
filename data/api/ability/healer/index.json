@@ -1,0 +1,81 @@
+{
+  "description": "Gu\u00e9rit parfois le statut\ndes alli\u00e9s alentour.",
+  "effect": "Friendly Pok\u00e9mon next to this Pok\u00e9mon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn.",
+  "id": 131,
+  "name": "healer",
+  "pokemon": [
+    {
+      "name": "chansey",
+      "url": "https://thepokeapi.com/pokemon/chansey",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bellossom",
+      "url": "https://thepokeapi.com/pokemon/bellossom",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "blissey",
+      "url": "https://thepokeapi.com/pokemon/blissey",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "audino",
+      "url": "https://thepokeapi.com/pokemon/audino",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "alomomola",
+      "url": "https://thepokeapi.com/pokemon/alomomola",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "spritzee",
+      "url": "https://thepokeapi.com/pokemon/spritzee",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "aromatisse",
+      "url": "https://thepokeapi.com/pokemon/aromatisse",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hatenna",
+      "url": "https://thepokeapi.com/pokemon/hatenna",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hattrem",
+      "url": "https://thepokeapi.com/pokemon/hattrem",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hatterene",
+      "url": "https://thepokeapi.com/pokemon/hatterene",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "audino",
+      "url": "https://thepokeapi.com/pokemon/audino",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "hatterene",
+      "url": "https://thepokeapi.com/pokemon/hatterene",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+}

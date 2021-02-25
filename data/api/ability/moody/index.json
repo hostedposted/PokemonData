@@ -1,0 +1,51 @@
+{
+  "description": "Monte une stat tout en\nen baissant une autre.",
+  "effect": "After each turn, one of this Pok\u00e9mon's stats at random rises two stages, and another falls one stage.\n\nIf a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.",
+  "id": 141,
+  "name": "moody",
+  "pokemon": [
+    {
+      "name": "remoraid",
+      "url": "https://thepokeapi.com/pokemon/remoraid",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "octillery",
+      "url": "https://thepokeapi.com/pokemon/octillery",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "smeargle",
+      "url": "https://thepokeapi.com/pokemon/smeargle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "snorunt",
+      "url": "https://thepokeapi.com/pokemon/snorunt",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "glalie",
+      "url": "https://thepokeapi.com/pokemon/glalie",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bidoof",
+      "url": "https://thepokeapi.com/pokemon/bidoof",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bibarel",
+      "url": "https://thepokeapi.com/pokemon/bibarel",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Raises a random stat two stages and lowers another one stage after each turn."
+}

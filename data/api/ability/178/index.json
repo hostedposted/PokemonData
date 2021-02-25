@@ -1,0 +1,27 @@
+{
+  "description": "\u306f\u3069\u3046\u306e\u3000\u308f\u3056\u306e\n\u3044\u308a\u3087\u304f\u304c\u3000\u305f\u304b\u3044\u3002",
+  "effect": "Strengthens aura and pulse moves to 1.5\u00d7 their power.",
+  "id": 178,
+  "name": "mega-launcher",
+  "pokemon": [
+    {
+      "name": "clauncher",
+      "url": "https://thepokeapi.com/pokemon/clauncher",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "clawitzer",
+      "url": "https://thepokeapi.com/pokemon/clawitzer",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "blastoise",
+      "url": "https://thepokeapi.com/pokemon/blastoise",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Strengthens aura and pulse moves to 1.5\u00d7 their power."
+}

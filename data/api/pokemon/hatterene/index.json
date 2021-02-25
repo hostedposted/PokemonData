@@ -1,0 +1,356 @@
+{
+  "abilities": [
+    {
+      "name": "healer",
+      "url": "https://thepokeapi.com/ability/healer",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "anticipation",
+      "url": "https://thepokeapi.com/ability/anticipation",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "magic-bounce",
+      "url": "https://thepokeapi.com/ability/magic-bounce",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "pink",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pok\u00e9mon is also known as the Forest Witch.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "hatenna"
+    ],
+    [
+      "hattrem"
+    ],
+    [
+      "hatterene"
+    ]
+  ],
+  "evolves_from_species": "hattrem",
+  "growth_rate": "slow",
+  "height": 83,
+  "id": 858,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "psycho cut",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "psycho cut",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "brutal swing",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "confusion",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "play nice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "life dew",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "disarming voice",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "psybeam",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "heal pulse",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "dazzling gleam",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "calm mind",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "psychic",
+      "level": 46,
+      "tm": false
+    },
+    {
+      "name": "healing wish",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "magic powder",
+      "level": 64,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "hatterene",
+  "names": {
+    "french": "Sorcilence",
+    "german": "Silembrim",
+    "spanish": "Hatterene",
+    "italian": "Hatterene",
+    "english": "Hatterene",
+    "japanese": "\u30d6\u30ea\u30e0\u30aa\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 858,
+    "galar": 243,
+    "crown-tundra": 42,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "blob",
+  "species": "Silent Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/858.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/858.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 57
+    },
+    {
+      "name": "attack",
+      "base_stat": 90
+    },
+    {
+      "name": "defense",
+      "base_stat": 95
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 136
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 103
+    },
+    {
+      "name": "speed",
+      "base_stat": 29
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "url": "https://thepokeapi.com/type/psychic"
+    },
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 5,
+  "weight_pounds": 11
+}

@@ -1,0 +1,99 @@
+{
+  "description": "Sa peur de certains types\naugmente sa Vitesse.",
+  "effect": "This Pok\u00e9mon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.",
+  "id": 155,
+  "name": "rattled",
+  "pokemon": [
+    {
+      "name": "magikarp",
+      "url": "https://thepokeapi.com/pokemon/magikarp",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "ledyba",
+      "url": "https://thepokeapi.com/pokemon/ledyba",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sudowoodo",
+      "url": "https://thepokeapi.com/pokemon/sudowoodo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dunsparce",
+      "url": "https://thepokeapi.com/pokemon/dunsparce",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "snubbull",
+      "url": "https://thepokeapi.com/pokemon/snubbull",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "granbull",
+      "url": "https://thepokeapi.com/pokemon/granbull",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "poochyena",
+      "url": "https://thepokeapi.com/pokemon/poochyena",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "whismur",
+      "url": "https://thepokeapi.com/pokemon/whismur",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "clamperl",
+      "url": "https://thepokeapi.com/pokemon/clamperl",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bonsly",
+      "url": "https://thepokeapi.com/pokemon/bonsly",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cubchoo",
+      "url": "https://thepokeapi.com/pokemon/cubchoo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "yamper",
+      "url": "https://thepokeapi.com/pokemon/yamper",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "toxel",
+      "url": "https://thepokeapi.com/pokemon/toxel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "meowth",
+      "url": "https://thepokeapi.com/pokemon/meowth",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "persian",
+      "url": "https://thepokeapi.com/pokemon/persian",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move."
+}

@@ -1,0 +1,39 @@
+{
+  "description": "The Pok\u00e9mon is prone to\nwild stat changes.",
+  "effect": "Each stage of this Pok\u00e9mon's stat modifiers acts as two stages.  These doubled stages are still limited to a minimum of -6 and a maximum of 6.\n\nThis Pok\u00e9mon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling.",
+  "id": 86,
+  "name": "simple",
+  "pokemon": [
+    {
+      "name": "numel",
+      "url": "https://thepokeapi.com/pokemon/numel",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "bidoof",
+      "url": "https://thepokeapi.com/pokemon/bidoof",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bibarel",
+      "url": "https://thepokeapi.com/pokemon/bibarel",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "woobat",
+      "url": "https://thepokeapi.com/pokemon/woobat",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "swoobat",
+      "url": "https://thepokeapi.com/pokemon/swoobat",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Doubles the Pok\u00e9mon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+}

@@ -1,0 +1,57 @@
+{
+  "description": "Encounter rate increases.",
+  "effect": "Overworld: If the lead Pok\u00e9mon has this ability, the wild encounter rate is doubled.\n\nThis ability has no effect in battle.",
+  "id": 35,
+  "name": "illuminate",
+  "pokemon": [
+    {
+      "name": "staryu",
+      "url": "https://thepokeapi.com/pokemon/staryu",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "starmie",
+      "url": "https://thepokeapi.com/pokemon/starmie",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chinchou",
+      "url": "https://thepokeapi.com/pokemon/chinchou",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "lanturn",
+      "url": "https://thepokeapi.com/pokemon/lanturn",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "volbeat",
+      "url": "https://thepokeapi.com/pokemon/volbeat",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "watchog",
+      "url": "https://thepokeapi.com/pokemon/watchog",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "morelull",
+      "url": "https://thepokeapi.com/pokemon/morelull",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shiinotic",
+      "url": "https://thepokeapi.com/pokemon/shiinotic",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Doubles the wild encounter rate."
+}

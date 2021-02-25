@@ -1,0 +1,15 @@
+{
+  "description": "Powers up Dragon-type moves.",
+  "effect": null,
+  "id": 263,
+  "name": "dragons-maw",
+  "pokemon": [
+    {
+      "name": "regidrago",
+      "url": "https://thepokeapi.com/pokemon/regidrago",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

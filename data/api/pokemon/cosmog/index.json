@@ -1,0 +1,148 @@
+{
+  "abilities": [
+    {
+      "name": "unaware",
+      "url": "https://thepokeapi.com/ability/unaware",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 2,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 0,
+    "bug": 1,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "Whether or not it\u2019s a Pok\u00e9mon from this world is a mystery. When it\u2019s in a jam, it warps away to a safe place to hide.",
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "evolution_chain": [
+    [
+      "cosmog"
+    ],
+    [
+      "cosmoem"
+    ],
+    [
+      "solgaleo",
+      "lunala"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "slow",
+  "height": 8,
+  "id": 789,
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "teleport",
+      "level": 23,
+      "tm": false
+    },
+    {
+      "name": "splash",
+      "level": 1,
+      "tm": false
+    }
+  ],
+  "name": "cosmog",
+  "names": {
+    "french": "Cosmog",
+    "german": "Cosmog",
+    "spanish": "Cosmog",
+    "italian": "Cosmog",
+    "english": "Cosmog",
+    "japanese": "\u30b3\u30b9\u30e2\u30c3\u30b0"
+  },
+  "pokedex_numbers": {
+    "national": 789,
+    "original-alola": 289,
+    "updated-alola": 387,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "galar": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "ball",
+  "species": "Nebula Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/789.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/789.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 43
+    },
+    {
+      "name": "attack",
+      "base_stat": 29
+    },
+    {
+      "name": "defense",
+      "base_stat": 31
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 29
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 31
+    },
+    {
+      "name": "speed",
+      "base_stat": 37
+    }
+  ],
+  "types": [
+    {
+      "name": "psychic",
+      "url": "https://thepokeapi.com/type/psychic"
+    }
+  ],
+  "weight_kilograms": 0,
+  "weight_pounds": 0
+}

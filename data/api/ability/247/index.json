@@ -1,0 +1,39 @@
+{
+  "description": "Ripens Berries and doubles their effect.",
+  "effect": null,
+  "id": 247,
+  "name": "ripen",
+  "pokemon": [
+    {
+      "name": "applin",
+      "url": "https://thepokeapi.com/pokemon/applin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flapple",
+      "url": "https://thepokeapi.com/pokemon/flapple",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "appletun",
+      "url": "https://thepokeapi.com/pokemon/appletun",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "flapple",
+      "url": "https://thepokeapi.com/pokemon/flapple",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "appletun",
+      "url": "https://thepokeapi.com/pokemon/appletun",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

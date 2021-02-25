@@ -1,0 +1,105 @@
+{
+  "description": "The Pok\u00e9mon regains HP in\na hailstorm.",
+  "effect": "This Pok\u00e9mon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.",
+  "id": 115,
+  "name": "ice-body",
+  "pokemon": [
+    {
+      "name": "seel",
+      "url": "https://thepokeapi.com/pokemon/seel",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dewgong",
+      "url": "https://thepokeapi.com/pokemon/dewgong",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "snorunt",
+      "url": "https://thepokeapi.com/pokemon/snorunt",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "glalie",
+      "url": "https://thepokeapi.com/pokemon/glalie",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "spheal",
+      "url": "https://thepokeapi.com/pokemon/spheal",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sealeo",
+      "url": "https://thepokeapi.com/pokemon/sealeo",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "walrein",
+      "url": "https://thepokeapi.com/pokemon/walrein",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "regice",
+      "url": "https://thepokeapi.com/pokemon/regice",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "glaceon",
+      "url": "https://thepokeapi.com/pokemon/glaceon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vanillite",
+      "url": "https://thepokeapi.com/pokemon/vanillite",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vanillish",
+      "url": "https://thepokeapi.com/pokemon/vanillish",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "vanilluxe",
+      "url": "https://thepokeapi.com/pokemon/vanilluxe",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "bergmite",
+      "url": "https://thepokeapi.com/pokemon/bergmite",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "avalugg",
+      "url": "https://thepokeapi.com/pokemon/avalugg",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mr-rime",
+      "url": "https://thepokeapi.com/pokemon/mr-rime",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "arctovish",
+      "url": "https://thepokeapi.com/pokemon/arctovish",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+}

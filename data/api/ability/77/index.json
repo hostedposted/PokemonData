@@ -1,0 +1,57 @@
+{
+  "description": "Raises evasion if the\nPok\u00e9mon is confused.",
+  "effect": "When this Pok\u00e9mon is confused, it has twice its evasion.",
+  "id": 77,
+  "name": "tangled-feet",
+  "pokemon": [
+    {
+      "name": "pidgey",
+      "url": "https://thepokeapi.com/pokemon/pidgey",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pidgeotto",
+      "url": "https://thepokeapi.com/pokemon/pidgeotto",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pidgeot",
+      "url": "https://thepokeapi.com/pokemon/pidgeot",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "doduo",
+      "url": "https://thepokeapi.com/pokemon/doduo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dodrio",
+      "url": "https://thepokeapi.com/pokemon/dodrio",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "spinda",
+      "url": "https://thepokeapi.com/pokemon/spinda",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "chatot",
+      "url": "https://thepokeapi.com/pokemon/chatot",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "mr-rime",
+      "url": "https://thepokeapi.com/pokemon/mr-rime",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Doubles evasion when confused."
+}

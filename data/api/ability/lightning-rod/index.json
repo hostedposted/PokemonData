@@ -1,0 +1,219 @@
+{
+  "description": "Draws electrical moves.",
+  "effect": "All other Pok\u00e9mon's single-target electric-type moves are redirected to this Pok\u00e9mon if it is an eligible target.  Other Pok\u00e9mon's Electric moves raise this Pok\u00e9mon's Special Attack one stage, negating any other effect on it, and cannot miss it.\n\nIf the move's intended target also has this ability, the move is not redirected.  When multiple Pok\u00e9mon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pok\u00e9mon.  follow me takes precedence over this ability.\n\nIf the Pok\u00e9mon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost.",
+  "id": 31,
+  "name": "lightning-rod",
+  "pokemon": [
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "raichu",
+      "url": "https://thepokeapi.com/pokemon/raichu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cubone",
+      "url": "https://thepokeapi.com/pokemon/cubone",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rhyhorn",
+      "url": "https://thepokeapi.com/pokemon/rhyhorn",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "rhydon",
+      "url": "https://thepokeapi.com/pokemon/rhydon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "goldeen",
+      "url": "https://thepokeapi.com/pokemon/goldeen",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "seaking",
+      "url": "https://thepokeapi.com/pokemon/seaking",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pichu",
+      "url": "https://thepokeapi.com/pokemon/pichu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "electrike",
+      "url": "https://thepokeapi.com/pokemon/electrike",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "manectric",
+      "url": "https://thepokeapi.com/pokemon/manectric",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "plusle",
+      "url": "https://thepokeapi.com/pokemon/plusle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "rhyperior",
+      "url": "https://thepokeapi.com/pokemon/rhyperior",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "blitzle",
+      "url": "https://thepokeapi.com/pokemon/blitzle",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "zebstrika",
+      "url": "https://thepokeapi.com/pokemon/zebstrika",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "togedemaru",
+      "url": "https://thepokeapi.com/pokemon/togedemaru",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pincurchin",
+      "url": "https://thepokeapi.com/pokemon/pincurchin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "sceptile",
+      "url": "https://thepokeapi.com/pokemon/sceptile",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "togedemaru",
+      "url": "https://thepokeapi.com/pokemon/togedemaru",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "pikachu",
+      "url": "https://thepokeapi.com/pokemon/pikachu",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Redirects single-target electric moves to this Pok\u00e9mon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+}

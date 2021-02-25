@@ -1,0 +1,15 @@
+{
+  "description": "Powers up Electric-type moves.",
+  "effect": null,
+  "id": 262,
+  "name": "transistor",
+  "pokemon": [
+    {
+      "name": "regieleki",
+      "url": "https://thepokeapi.com/pokemon/regieleki",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

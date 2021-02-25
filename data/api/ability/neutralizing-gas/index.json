@@ -1,0 +1,15 @@
+{
+  "description": "If the Pok\u00e9mon with Neutralizing Gas is in the battle, the effects of all Pok\u00e9mon's Abilities will be nullified or will not be triggered.",
+  "effect": null,
+  "id": 256,
+  "name": "neutralizing-gas",
+  "pokemon": [
+    {
+      "name": "weezing",
+      "url": "https://thepokeapi.com/pokemon/weezing",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": null
+}

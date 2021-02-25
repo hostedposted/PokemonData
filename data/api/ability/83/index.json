@@ -1,0 +1,63 @@
+{
+  "description": "Raises Attack upon taking\na critical hit.",
+  "effect": "Whenever this Pok\u00e9mon receives a critical hit, its Attack rises to the maximum of 6 stages.\n\nThis ability will still take effect if the critical hit is received by a substitute.",
+  "id": 83,
+  "name": "anger-point",
+  "pokemon": [
+    {
+      "name": "mankey",
+      "url": "https://thepokeapi.com/pokemon/mankey",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "primeape",
+      "url": "https://thepokeapi.com/pokemon/primeape",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tauros",
+      "url": "https://thepokeapi.com/pokemon/tauros",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "camerupt",
+      "url": "https://thepokeapi.com/pokemon/camerupt",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sandile",
+      "url": "https://thepokeapi.com/pokemon/sandile",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "krokorok",
+      "url": "https://thepokeapi.com/pokemon/krokorok",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "krookodile",
+      "url": "https://thepokeapi.com/pokemon/krookodile",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "crabrawler",
+      "url": "https://thepokeapi.com/pokemon/crabrawler",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "crabominable",
+      "url": "https://thepokeapi.com/pokemon/crabominable",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+}

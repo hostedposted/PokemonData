@@ -1,0 +1,27 @@
+{
+  "description": "Raises ATTACK.",
+  "effect": "This Pok\u00e9mon's Attack is doubled in battle.\n\nThis bonus does not count as a stat modifier.\n\nThis ability functions identically to huge power.",
+  "id": 74,
+  "name": "pure-power",
+  "pokemon": [
+    {
+      "name": "meditite",
+      "url": "https://thepokeapi.com/pokemon/meditite",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "medicham",
+      "url": "https://thepokeapi.com/pokemon/medicham",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "medicham",
+      "url": "https://thepokeapi.com/pokemon/medicham",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Doubles Attack in battle."
+}

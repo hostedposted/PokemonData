@@ -1,0 +1,373 @@
+{
+  "abilities": [
+    {
+      "name": "hunger-switch",
+      "url": "https://thepokeapi.com/ability/hunger-switch",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 180,
+  "color": "yellow",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 1,
+    "electric": 0,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 2,
+    "poison": 1,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 2,
+    "rock": 1,
+    "ghost": 0,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 0,
+    "fairy": 2
+  },
+  "description": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "morpeko"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 12,
+  "id": 877,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "thunder shock",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "tail whip",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "power trip",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "quick attack",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "flatter",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "bite",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "spark",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "torment",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "agility",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "bullet seed",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "crunch",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "aura wheel",
+      "level": 55,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "swagger",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "super fang",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "charge",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "tickle",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "rapid spin",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "quash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "parting shot",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "fake out",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "morpeko",
+  "names": {
+    "french": "Morpeko",
+    "german": "Morpeko",
+    "spanish": "Morpeko",
+    "italian": "Morpeko",
+    "english": "Morpeko",
+    "japanese": "\u30e2\u30eb\u30da\u30b3"
+  },
+  "pokedex_numbers": {
+    "national": 877,
+    "galar": 344,
+    "isle-of-armor": 104,
+    "crown-tundra": 157,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "humanoid",
+  "species": "Two-Sided Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/877.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/877.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 58
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 58
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 70
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 58
+    },
+    {
+      "name": "speed",
+      "base_stat": 97
+    }
+  ],
+  "types": [
+    {
+      "name": "electric",
+      "url": "https://thepokeapi.com/type/electric"
+    },
+    {
+      "name": "dark",
+      "url": "https://thepokeapi.com/type/dark"
+    }
+  ],
+  "weight_kilograms": 3,
+  "weight_pounds": 7
+}

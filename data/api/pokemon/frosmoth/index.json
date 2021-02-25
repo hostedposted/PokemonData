@@ -1,0 +1,347 @@
+{
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "url": "https://thepokeapi.com/ability/shield-dust",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ice-scales",
+      "url": "https://thepokeapi.com/ability/ice-scales",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 75,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 4,
+    "water": 1,
+    "electric": 1,
+    "grass": 0,
+    "ice": 0,
+    "fighting": 1,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 4,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "snom"
+    ],
+    [
+      "frosmoth"
+    ]
+  ],
+  "evolves_from_species": "snom",
+  "growth_rate": "medium",
+  "height": 51,
+  "id": 873,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "icy wind",
+      "level": 0,
+      "tm": false
+    },
+    {
+      "name": "icy wind",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "powder snow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "struggle bug",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "helping hand",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stun spore",
+      "level": 4,
+      "tm": false
+    },
+    {
+      "name": "infestation",
+      "level": 8,
+      "tm": false
+    },
+    {
+      "name": "mist",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "defog",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "feather dance",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "aurora beam",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "hail",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "bug buzz",
+      "level": 32,
+      "tm": false
+    },
+    {
+      "name": "aurora veil",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "blizzard",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "tailwind",
+      "level": 44,
+      "tm": false
+    },
+    {
+      "name": "wide guard",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "quiver dance",
+      "level": 52,
+      "tm": false
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "razor-wind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "psyshock",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "whirlwind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "frosmoth",
+  "names": {
+    "french": "Beldeneige",
+    "german": "Mottineva",
+    "spanish": "Frosmoth",
+    "italian": "Frosmoth",
+    "english": "Frosmoth",
+    "japanese": "\u30e2\u30b9\u30ce\u30a6"
+  },
+  "pokedex_numbers": {
+    "national": 873,
+    "galar": 350,
+    "crown-tundra": 2,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "bug-wings",
+  "species": "Frost Moth Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/873.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/873.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 65
+    },
+    {
+      "name": "defense",
+      "base_stat": 60
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 125
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 90
+    },
+    {
+      "name": "speed",
+      "base_stat": 65
+    }
+  ],
+  "types": [
+    {
+      "name": "ice",
+      "url": "https://thepokeapi.com/type/ice"
+    },
+    {
+      "name": "bug",
+      "url": "https://thepokeapi.com/type/bug"
+    }
+  ],
+  "weight_kilograms": 42,
+  "weight_pounds": 93
+}

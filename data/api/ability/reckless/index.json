@@ -1,0 +1,87 @@
+{
+  "description": "Powers up moves that\nhave recoil damage.",
+  "effect": "This Pok\u00e9mon's recoil moves and crash moves have 1.2\u00d7 their base power.\n\nstruggle is unaffected.\n\nThe \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick.",
+  "id": 120,
+  "name": "reckless",
+  "pokemon": [
+    {
+      "name": "hitmonlee",
+      "url": "https://thepokeapi.com/pokemon/hitmonlee",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rhyhorn",
+      "url": "https://thepokeapi.com/pokemon/rhyhorn",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "rhydon",
+      "url": "https://thepokeapi.com/pokemon/rhydon",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "starly",
+      "url": "https://thepokeapi.com/pokemon/starly",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "staravia",
+      "url": "https://thepokeapi.com/pokemon/staravia",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "staraptor",
+      "url": "https://thepokeapi.com/pokemon/staraptor",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "rhyperior",
+      "url": "https://thepokeapi.com/pokemon/rhyperior",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "emboar",
+      "url": "https://thepokeapi.com/pokemon/emboar",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "basculin-red-striped",
+      "url": "https://thepokeapi.com/pokemon/basculin-red-striped",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "mienfoo",
+      "url": "https://thepokeapi.com/pokemon/mienfoo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mienshao",
+      "url": "https://thepokeapi.com/pokemon/mienshao",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "bouffalant",
+      "url": "https://thepokeapi.com/pokemon/bouffalant",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "obstagoon",
+      "url": "https://thepokeapi.com/pokemon/obstagoon",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Strengthens recoil moves to 1.2\u00d7 their power."
+}

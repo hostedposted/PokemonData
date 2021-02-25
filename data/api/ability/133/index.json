@@ -1,0 +1,147 @@
+{
+  "description": "Un coup physique baisse la\nD\u00e9fense, monte la Vitesse.",
+  "effect": "Whenever a physical move hits this Pok\u00e9mon, its Speed rises one stage and its Defense falls one stage.\n\nThis ability triggers on every hit of a multiple-hit move.",
+  "id": 133,
+  "name": "weak-armor",
+  "pokemon": [
+    {
+      "name": "onix",
+      "url": "https://thepokeapi.com/pokemon/onix",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "omanyte",
+      "url": "https://thepokeapi.com/pokemon/omanyte",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "omastar",
+      "url": "https://thepokeapi.com/pokemon/omastar",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "kabuto",
+      "url": "https://thepokeapi.com/pokemon/kabuto",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "kabutops",
+      "url": "https://thepokeapi.com/pokemon/kabutops",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "slugma",
+      "url": "https://thepokeapi.com/pokemon/slugma",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "magcargo",
+      "url": "https://thepokeapi.com/pokemon/magcargo",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "skarmory",
+      "url": "https://thepokeapi.com/pokemon/skarmory",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "roggenrola",
+      "url": "https://thepokeapi.com/pokemon/roggenrola",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "boldore",
+      "url": "https://thepokeapi.com/pokemon/boldore",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dwebble",
+      "url": "https://thepokeapi.com/pokemon/dwebble",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "crustle",
+      "url": "https://thepokeapi.com/pokemon/crustle",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "garbodor",
+      "url": "https://thepokeapi.com/pokemon/garbodor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "vanillite",
+      "url": "https://thepokeapi.com/pokemon/vanillite",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vanillish",
+      "url": "https://thepokeapi.com/pokemon/vanillish",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vanilluxe",
+      "url": "https://thepokeapi.com/pokemon/vanilluxe",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "vullaby",
+      "url": "https://thepokeapi.com/pokemon/vullaby",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "mandibuzz",
+      "url": "https://thepokeapi.com/pokemon/mandibuzz",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sinistea",
+      "url": "https://thepokeapi.com/pokemon/sinistea",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "polteageist",
+      "url": "https://thepokeapi.com/pokemon/polteageist",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cursola",
+      "url": "https://thepokeapi.com/pokemon/cursola",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corsola",
+      "url": "https://thepokeapi.com/pokemon/corsola",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "garbodor",
+      "url": "https://thepokeapi.com/pokemon/garbodor",
+      "is_hidden": false,
+      "slot": 2
+    }
+  ],
+  "short_effect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+}

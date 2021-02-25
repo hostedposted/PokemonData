@@ -1,0 +1,15 @@
+{
+  "description": "\u3082\u3063\u3066\u3044\u308b\u3000\u30e1\u30e2\u30ea\u3067\n\u3058\u3076\u3093\u306e\u3000\u30bf\u30a4\u30d7\u304c\u3000\u304b\u308f\u308b\u3002",
+  "effect": "Changes this Pok\u00e9mon's type to match its held Memory.\n\nThis ability cannot be copied, replaced, or nullified.  This ability only takes effect for Silvally.",
+  "id": 225,
+  "name": "rks-system",
+  "pokemon": [
+    {
+      "name": "silvally",
+      "url": "https://thepokeapi.com/pokemon/silvally",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Changes this Pok\u00e9mon's type to match its held Memory."
+}

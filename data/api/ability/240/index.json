@@ -1,0 +1,21 @@
+{
+  "description": "Bounces back only the stat-lowering effects that the Pok\u00e9mon receives.",
+  "effect": null,
+  "id": 240,
+  "name": "mirror-armor",
+  "pokemon": [
+    {
+      "name": "corviknight",
+      "url": "https://thepokeapi.com/pokemon/corviknight",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "corviknight",
+      "url": "https://thepokeapi.com/pokemon/corviknight",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

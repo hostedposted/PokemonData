@@ -1,0 +1,263 @@
+{
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "url": "https://thepokeapi.com/ability/sweet-veil",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "aroma-veil",
+      "url": "https://thepokeapi.com/ability/aroma-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 200,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 1,
+    "electric": 1,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 1,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 1,
+    "ghost": 2,
+    "dragon": 0,
+    "dark": 1,
+    "steel": 2,
+    "fairy": 1
+  },
+  "description": "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "milcery"
+    ],
+    [
+      "alcremie"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 8,
+  "id": 868,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "tackle",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "aromatic mist",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet kiss",
+      "level": 5,
+      "tm": false
+    },
+    {
+      "name": "sweet scent",
+      "level": 10,
+      "tm": false
+    },
+    {
+      "name": "draining kiss",
+      "level": 15,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 20,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "acid armor",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "dazzling gleam",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "recover",
+      "level": 40,
+      "tm": false
+    },
+    {
+      "name": "misty terrain",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "entrainment",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "baby-doll eyes",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "last resort",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "calm-mind",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "milcery",
+  "names": {
+    "french": "Cr\u00e8my",
+    "german": "Hokumil",
+    "spanish": "Milcery",
+    "italian": "Milcery",
+    "english": "Milcery",
+    "japanese": "\u30de\u30db\u30df\u30eb"
+  },
+  "pokedex_numbers": {
+    "national": 868,
+    "galar": 185,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "ball",
+  "species": "Cream Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/868.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/868.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45
+    },
+    {
+      "name": "attack",
+      "base_stat": 40
+    },
+    {
+      "name": "defense",
+      "base_stat": 40
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 61
+    },
+    {
+      "name": "speed",
+      "base_stat": 34
+    }
+  ],
+  "types": [
+    {
+      "name": "fairy",
+      "url": "https://thepokeapi.com/type/fairy"
+    }
+  ],
+  "weight_kilograms": 0,
+  "weight_pounds": 1
+}

@@ -1,0 +1,345 @@
+{
+  "abilities": [
+    {
+      "name": "water-bubble",
+      "url": "https://thepokeapi.com/ability/water-bubble",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "water-absorb",
+      "url": "https://thepokeapi.com/ability/water-absorb",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 100,
+  "color": "green",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 1,
+    "water": 0,
+    "electric": 2,
+    "grass": 1,
+    "ice": 0,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 2,
+    "psychic": 1,
+    "bug": 1,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "It has a habit of storing things it values in its water bubble. If its Trainer doesn\u2019t watch out, Araquanid will try to put them in its bubble!",
+  "egg_groups": [
+    "water1",
+    "bug"
+  ],
+  "evolution_chain": [
+    [
+      "dewpider"
+    ],
+    [
+      "araquanid"
+    ]
+  ],
+  "evolves_from_species": "dewpider",
+  "growth_rate": "medium",
+  "height": 71,
+  "id": 752,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "bite",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "surf",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "ice-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "blizzard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bubble-beam",
+      "level": 16,
+      "tm": false
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "waterfall",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leech-life",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "bubble",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "spider-web",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rain-dance",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "crunch",
+      "level": 38,
+      "tm": false
+    },
+    {
+      "name": "mirror-coat",
+      "level": 50,
+      "tm": false
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aqua-ring",
+      "level": 26,
+      "tm": false
+    },
+    {
+      "name": "poison-jab",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "x-scissor",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "bug-bite",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "wide-guard",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "soak",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "entrainment",
+      "level": 62,
+      "tm": false
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "scald",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frost-breath",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "infestation",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "lunge",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "liquidation",
+      "level": 57,
+      "tm": false
+    }
+  ],
+  "name": "araquanid",
+  "names": {
+    "french": "Tarenbulle",
+    "german": "Aranestro",
+    "spanish": "Araquanid",
+    "italian": "Araquanid",
+    "english": "Araquanid",
+    "japanese": "\u30aa\u30cb\u30b7\u30ba\u30af\u30e2"
+  },
+  "pokedex_numbers": {
+    "national": 752,
+    "original-alola": 142,
+    "original-akala": 69,
+    "original-ulaula": 63,
+    "updated-alola": 175,
+    "updated-akala": 76,
+    "updated-ulaula": 69,
+    "galar": 215,
+    "crown-tundra": 92,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "updated-melemele": null,
+    "updated-unova": null,
+    "original-poni": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "armor",
+  "species": "Water Bubble Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/752.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/752.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 68
+    },
+    {
+      "name": "attack",
+      "base_stat": 70
+    },
+    {
+      "name": "defense",
+      "base_stat": 92
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 132
+    },
+    {
+      "name": "speed",
+      "base_stat": 42
+    }
+  ],
+  "types": [
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    },
+    {
+      "name": "bug",
+      "url": "https://thepokeapi.com/type/bug"
+    }
+  ],
+  "weight_kilograms": 82,
+  "weight_pounds": 181
+}

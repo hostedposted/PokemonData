@@ -1,0 +1,27 @@
+{
+  "description": "\u3059\u3079\u3066\u306e\u3000\u304a\u3068\u308f\u3056\u304c\n\u307f\u305a\u30bf\u30a4\u30d7\u306b\u3000\u306a\u308b\u3002",
+  "effect": "When this Pok\u00e9mon uses a move that is sound-based, that move's type is Water.",
+  "id": 204,
+  "name": "liquid-voice",
+  "pokemon": [
+    {
+      "name": "popplio",
+      "url": "https://thepokeapi.com/pokemon/popplio",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "brionne",
+      "url": "https://thepokeapi.com/pokemon/brionne",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "primarina",
+      "url": "https://thepokeapi.com/pokemon/primarina",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Sound-based moves become Water-type."
+}

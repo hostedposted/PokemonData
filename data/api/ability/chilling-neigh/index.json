@@ -1,0 +1,15 @@
+{
+  "description": "When the Pok\u00e9mon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.",
+  "effect": null,
+  "id": 264,
+  "name": "chilling-neigh",
+  "pokemon": [
+    {
+      "name": "glastrier",
+      "url": "https://thepokeapi.com/pokemon/glastrier",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

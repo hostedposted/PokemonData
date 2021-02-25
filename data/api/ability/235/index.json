@@ -1,0 +1,15 @@
+{
+  "description": "Boosts the Pok\u00e9mon's Defense stat when the Pok\u00e9mon enters a battle.",
+  "effect": null,
+  "id": 235,
+  "name": "dauntless-shield",
+  "pokemon": [
+    {
+      "name": "zamazenta-hero",
+      "url": "https://thepokeapi.com/pokemon/zamazenta-hero",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": null
+}

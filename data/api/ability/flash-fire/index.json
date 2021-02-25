@@ -1,0 +1,153 @@
+{
+  "description": "Powers up if hit by fire.",
+  "effect": "This Pok\u00e9mon is immune to fire-type moves.  Once this Pok\u00e9mon has been hit by a Fire move, its own Fire moves will inflict 1.5\u00d7 as much damage until it leaves battle.\n\nThis ability has no effect while the Pok\u00e9mon is frozen.  The Fire damage bonus is retained even if the Pok\u00e9mon is frozen and thawed or the ability is lost or disabled.  Fire moves will ignore this Pok\u00e9mon's substitute.  This ability takes effect even on non-damaging moves, i.e. will o wisp.",
+  "id": 18,
+  "name": "flash-fire",
+  "pokemon": [
+    {
+      "name": "vulpix",
+      "url": "https://thepokeapi.com/pokemon/vulpix",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "ninetales",
+      "url": "https://thepokeapi.com/pokemon/ninetales",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "growlithe",
+      "url": "https://thepokeapi.com/pokemon/growlithe",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "arcanine",
+      "url": "https://thepokeapi.com/pokemon/arcanine",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "ponyta",
+      "url": "https://thepokeapi.com/pokemon/ponyta",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rapidash",
+      "url": "https://thepokeapi.com/pokemon/rapidash",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "flareon",
+      "url": "https://thepokeapi.com/pokemon/flareon",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "cyndaquil",
+      "url": "https://thepokeapi.com/pokemon/cyndaquil",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "quilava",
+      "url": "https://thepokeapi.com/pokemon/quilava",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "typhlosion",
+      "url": "https://thepokeapi.com/pokemon/typhlosion",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "houndour",
+      "url": "https://thepokeapi.com/pokemon/houndour",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "houndoom",
+      "url": "https://thepokeapi.com/pokemon/houndoom",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "heatran",
+      "url": "https://thepokeapi.com/pokemon/heatran",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "litwick",
+      "url": "https://thepokeapi.com/pokemon/litwick",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lampent",
+      "url": "https://thepokeapi.com/pokemon/lampent",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "chandelure",
+      "url": "https://thepokeapi.com/pokemon/chandelure",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "heatmor",
+      "url": "https://thepokeapi.com/pokemon/heatmor",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "rolycoly",
+      "url": "https://thepokeapi.com/pokemon/rolycoly",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "carkol",
+      "url": "https://thepokeapi.com/pokemon/carkol",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "coalossal",
+      "url": "https://thepokeapi.com/pokemon/coalossal",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sizzlipede",
+      "url": "https://thepokeapi.com/pokemon/sizzlipede",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "centiskorch",
+      "url": "https://thepokeapi.com/pokemon/centiskorch",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "coalossal",
+      "url": "https://thepokeapi.com/pokemon/coalossal",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "centiskorch",
+      "url": "https://thepokeapi.com/pokemon/centiskorch",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Protects against fire moves.  Once one has been blocked, the Pok\u00e9mon's own Fire moves inflict 1.5\u00d7 damage until it leaves battle."
+}

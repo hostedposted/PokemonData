@@ -1,0 +1,15 @@
+{
+  "description": "\u306f\u304c\u306d\u30bf\u30a4\u30d7\u306e\u3000\u308f\u3056\u306e\n\u3044\u308a\u3087\u304f\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "This Pok\u00e9mon's Steel moves have 1.5\u00d7 power.",
+  "id": 200,
+  "name": "steelworker",
+  "pokemon": [
+    {
+      "name": "dhelmise",
+      "url": "https://thepokeapi.com/pokemon/dhelmise",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "This Pok\u00e9mon's Steel moves have 1.5\u00d7 power."
+}

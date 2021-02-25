@@ -1,0 +1,63 @@
+{
+  "description": "Augmente la Vitesse lors\ndes temp\u00eates de sable.",
+  "effect": "This Pok\u00e9mon's Speed is doubled during a sandstorm, and it does not take sandstorm damage, regardless of type.",
+  "id": 146,
+  "name": "sand-rush",
+  "pokemon": [
+    {
+      "name": "sandshrew",
+      "url": "https://thepokeapi.com/pokemon/sandshrew",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "sandslash",
+      "url": "https://thepokeapi.com/pokemon/sandslash",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "herdier",
+      "url": "https://thepokeapi.com/pokemon/herdier",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "stoutland",
+      "url": "https://thepokeapi.com/pokemon/stoutland",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "drilbur",
+      "url": "https://thepokeapi.com/pokemon/drilbur",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "excadrill",
+      "url": "https://thepokeapi.com/pokemon/excadrill",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "lycanroc-midday",
+      "url": "https://thepokeapi.com/pokemon/lycanroc-midday",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "dracozolt",
+      "url": "https://thepokeapi.com/pokemon/dracozolt",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dracovish",
+      "url": "https://thepokeapi.com/pokemon/dracovish",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+}

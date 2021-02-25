@@ -1,0 +1,21 @@
+{
+  "description": "\u3042\u3044\u3066\u306e\u3000\u3053\u3046\u3052\u304d\u3067\n\uff28\uff30\u304c\u3000\u306f\u3093\u3076\u3093\u306b\u3000\u306a\u308b\u3068\n\u3068\u304f\u3053\u3046\u304c\u3000\u3042\u304c\u308b\u3002",
+  "effect": "Whenever this Pok\u00e9mon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage.",
+  "id": 201,
+  "name": "berserk",
+  "pokemon": [
+    {
+      "name": "drampa",
+      "url": "https://thepokeapi.com/pokemon/drampa",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "moltres",
+      "url": "https://thepokeapi.com/pokemon/moltres",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Raises this Pok\u00e9mon's Special Attack by one stage every time its HP drops below half."
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Changes the Pok\u00e9mon's type to the type of the move it's about to use.",
+  "effect": null,
+  "id": 236,
+  "name": "libero",
+  "pokemon": [
+    {
+      "name": "scorbunny",
+      "url": "https://thepokeapi.com/pokemon/scorbunny",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "raboot",
+      "url": "https://thepokeapi.com/pokemon/raboot",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cinderace",
+      "url": "https://thepokeapi.com/pokemon/cinderace",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "cinderace",
+      "url": "https://thepokeapi.com/pokemon/cinderace",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

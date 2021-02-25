@@ -1,0 +1,21 @@
+{
+  "description": "Ignores the effects of opposing Pok\u00e9mon's Abilities and moves that draw in moves.",
+  "effect": null,
+  "id": 239,
+  "name": "propeller-tail",
+  "pokemon": [
+    {
+      "name": "arrokuda",
+      "url": "https://thepokeapi.com/pokemon/arrokuda",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "barraskewda",
+      "url": "https://thepokeapi.com/pokemon/barraskewda",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "short_effect": null
+}

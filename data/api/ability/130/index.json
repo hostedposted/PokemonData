@@ -1,0 +1,99 @@
+{
+  "description": "Peut emp\u00eacher l\u2019ennemi de\nr\u00e9utiliser une attaque.",
+  "effect": "Moves that hit this Pok\u00e9mon have a 30% chance of being Disabled afterward.",
+  "id": 130,
+  "name": "cursed-body",
+  "pokemon": [
+    {
+      "name": "gengar",
+      "url": "https://thepokeapi.com/pokemon/gengar",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "shuppet",
+      "url": "https://thepokeapi.com/pokemon/shuppet",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "banette",
+      "url": "https://thepokeapi.com/pokemon/banette",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "froslass",
+      "url": "https://thepokeapi.com/pokemon/froslass",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "frillish",
+      "url": "https://thepokeapi.com/pokemon/frillish",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "jellicent",
+      "url": "https://thepokeapi.com/pokemon/jellicent",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sinistea",
+      "url": "https://thepokeapi.com/pokemon/sinistea",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "polteageist",
+      "url": "https://thepokeapi.com/pokemon/polteageist",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dreepy",
+      "url": "https://thepokeapi.com/pokemon/dreepy",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "drakloak",
+      "url": "https://thepokeapi.com/pokemon/drakloak",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "dragapult",
+      "url": "https://thepokeapi.com/pokemon/dragapult",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "corsola",
+      "url": "https://thepokeapi.com/pokemon/corsola",
+      "is_hidden": true,
+      "slot": 3
+    },
+    {
+      "name": "gengar",
+      "url": "https://thepokeapi.com/pokemon/gengar",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Has a 30% chance of Disabling any move that hits the Pok\u00e9mon."
+}

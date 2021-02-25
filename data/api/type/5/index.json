@@ -1,0 +1,406 @@
+{
+  "damage_relations": {
+    "double_damage_from": [
+      {
+        "name": "water",
+        "url": "https://thepokeapi.com/type/water"
+      },
+      {
+        "name": "grass",
+        "url": "https://thepokeapi.com/type/grass"
+      },
+      {
+        "name": "ice",
+        "url": "https://thepokeapi.com/type/ice"
+      }
+    ],
+    "double_damage_to": [
+      {
+        "name": "poison",
+        "url": "https://thepokeapi.com/type/poison"
+      },
+      {
+        "name": "rock",
+        "url": "https://thepokeapi.com/type/rock"
+      },
+      {
+        "name": "steel",
+        "url": "https://thepokeapi.com/type/steel"
+      },
+      {
+        "name": "fire",
+        "url": "https://thepokeapi.com/type/fire"
+      },
+      {
+        "name": "electric",
+        "url": "https://thepokeapi.com/type/electric"
+      }
+    ],
+    "half_damage_from": [
+      {
+        "name": "poison",
+        "url": "https://thepokeapi.com/type/poison"
+      },
+      {
+        "name": "rock",
+        "url": "https://thepokeapi.com/type/rock"
+      }
+    ],
+    "half_damage_to": [
+      {
+        "name": "bug",
+        "url": "https://thepokeapi.com/type/bug"
+      },
+      {
+        "name": "grass",
+        "url": "https://thepokeapi.com/type/grass"
+      }
+    ],
+    "no_damage_from": [
+      {
+        "name": "electric",
+        "url": "https://thepokeapi.com/type/electric"
+      }
+    ],
+    "no_damage_to": [
+      {
+        "name": "flying",
+        "url": "https://thepokeapi.com/type/flying"
+      }
+    ]
+  },
+  "name": "ground",
+  "id": 5,
+  "pokemon": [
+    {
+      "name": "sandshrew",
+      "url": "https://thepokeapi.com/pokemon/sandshrew",
+      "slot": 1
+    },
+    {
+      "name": "sandslash",
+      "url": "https://thepokeapi.com/pokemon/sandslash",
+      "slot": 1
+    },
+    {
+      "name": "nidoqueen",
+      "url": "https://thepokeapi.com/pokemon/nidoqueen",
+      "slot": 2
+    },
+    {
+      "name": "nidoking",
+      "url": "https://thepokeapi.com/pokemon/nidoking",
+      "slot": 2
+    },
+    {
+      "name": "diglett",
+      "url": "https://thepokeapi.com/pokemon/diglett",
+      "slot": 1
+    },
+    {
+      "name": "dugtrio",
+      "url": "https://thepokeapi.com/pokemon/dugtrio",
+      "slot": 1
+    },
+    {
+      "name": "geodude",
+      "url": "https://thepokeapi.com/pokemon/geodude",
+      "slot": 2
+    },
+    {
+      "name": "graveler",
+      "url": "https://thepokeapi.com/pokemon/graveler",
+      "slot": 2
+    },
+    {
+      "name": "golem",
+      "url": "https://thepokeapi.com/pokemon/golem",
+      "slot": 2
+    },
+    {
+      "name": "onix",
+      "url": "https://thepokeapi.com/pokemon/onix",
+      "slot": 2
+    },
+    {
+      "name": "cubone",
+      "url": "https://thepokeapi.com/pokemon/cubone",
+      "slot": 1
+    },
+    {
+      "name": "marowak",
+      "url": "https://thepokeapi.com/pokemon/marowak",
+      "slot": 1
+    },
+    {
+      "name": "rhyhorn",
+      "url": "https://thepokeapi.com/pokemon/rhyhorn",
+      "slot": 1
+    },
+    {
+      "name": "rhydon",
+      "url": "https://thepokeapi.com/pokemon/rhydon",
+      "slot": 1
+    },
+    {
+      "name": "wooper",
+      "url": "https://thepokeapi.com/pokemon/wooper",
+      "slot": 2
+    },
+    {
+      "name": "quagsire",
+      "url": "https://thepokeapi.com/pokemon/quagsire",
+      "slot": 2
+    },
+    {
+      "name": "gligar",
+      "url": "https://thepokeapi.com/pokemon/gligar",
+      "slot": 1
+    },
+    {
+      "name": "steelix",
+      "url": "https://thepokeapi.com/pokemon/steelix",
+      "slot": 2
+    },
+    {
+      "name": "swinub",
+      "url": "https://thepokeapi.com/pokemon/swinub",
+      "slot": 2
+    },
+    {
+      "name": "piloswine",
+      "url": "https://thepokeapi.com/pokemon/piloswine",
+      "slot": 2
+    },
+    {
+      "name": "phanpy",
+      "url": "https://thepokeapi.com/pokemon/phanpy",
+      "slot": 1
+    },
+    {
+      "name": "donphan",
+      "url": "https://thepokeapi.com/pokemon/donphan",
+      "slot": 1
+    },
+    {
+      "name": "larvitar",
+      "url": "https://thepokeapi.com/pokemon/larvitar",
+      "slot": 2
+    },
+    {
+      "name": "pupitar",
+      "url": "https://thepokeapi.com/pokemon/pupitar",
+      "slot": 2
+    },
+    {
+      "name": "marshtomp",
+      "url": "https://thepokeapi.com/pokemon/marshtomp",
+      "slot": 2
+    },
+    {
+      "name": "swampert",
+      "url": "https://thepokeapi.com/pokemon/swampert",
+      "slot": 2
+    },
+    {
+      "name": "nincada",
+      "url": "https://thepokeapi.com/pokemon/nincada",
+      "slot": 2
+    },
+    {
+      "name": "numel",
+      "url": "https://thepokeapi.com/pokemon/numel",
+      "slot": 2
+    },
+    {
+      "name": "camerupt",
+      "url": "https://thepokeapi.com/pokemon/camerupt",
+      "slot": 2
+    },
+    {
+      "name": "trapinch",
+      "url": "https://thepokeapi.com/pokemon/trapinch",
+      "slot": 1
+    },
+    {
+      "name": "vibrava",
+      "url": "https://thepokeapi.com/pokemon/vibrava",
+      "slot": 1
+    },
+    {
+      "name": "flygon",
+      "url": "https://thepokeapi.com/pokemon/flygon",
+      "slot": 1
+    },
+    {
+      "name": "barboach",
+      "url": "https://thepokeapi.com/pokemon/barboach",
+      "slot": 2
+    },
+    {
+      "name": "whiscash",
+      "url": "https://thepokeapi.com/pokemon/whiscash",
+      "slot": 2
+    },
+    {
+      "name": "baltoy",
+      "url": "https://thepokeapi.com/pokemon/baltoy",
+      "slot": 1
+    },
+    {
+      "name": "claydol",
+      "url": "https://thepokeapi.com/pokemon/claydol",
+      "slot": 1
+    },
+    {
+      "name": "groudon",
+      "url": "https://thepokeapi.com/pokemon/groudon",
+      "slot": 1
+    },
+    {
+      "name": "torterra",
+      "url": "https://thepokeapi.com/pokemon/torterra",
+      "slot": 2
+    },
+    {
+      "name": "gastrodon",
+      "url": "https://thepokeapi.com/pokemon/gastrodon",
+      "slot": 2
+    },
+    {
+      "name": "gible",
+      "url": "https://thepokeapi.com/pokemon/gible",
+      "slot": 2
+    },
+    {
+      "name": "gabite",
+      "url": "https://thepokeapi.com/pokemon/gabite",
+      "slot": 2
+    },
+    {
+      "name": "garchomp",
+      "url": "https://thepokeapi.com/pokemon/garchomp",
+      "slot": 2
+    },
+    {
+      "name": "hippopotas",
+      "url": "https://thepokeapi.com/pokemon/hippopotas",
+      "slot": 1
+    },
+    {
+      "name": "hippowdon",
+      "url": "https://thepokeapi.com/pokemon/hippowdon",
+      "slot": 1
+    },
+    {
+      "name": "rhyperior",
+      "url": "https://thepokeapi.com/pokemon/rhyperior",
+      "slot": 1
+    },
+    {
+      "name": "gliscor",
+      "url": "https://thepokeapi.com/pokemon/gliscor",
+      "slot": 1
+    },
+    {
+      "name": "mamoswine",
+      "url": "https://thepokeapi.com/pokemon/mamoswine",
+      "slot": 2
+    },
+    {
+      "name": "drilbur",
+      "url": "https://thepokeapi.com/pokemon/drilbur",
+      "slot": 1
+    },
+    {
+      "name": "excadrill",
+      "url": "https://thepokeapi.com/pokemon/excadrill",
+      "slot": 1
+    },
+    {
+      "name": "palpitoad",
+      "url": "https://thepokeapi.com/pokemon/palpitoad",
+      "slot": 2
+    },
+    {
+      "name": "seismitoad",
+      "url": "https://thepokeapi.com/pokemon/seismitoad",
+      "slot": 2
+    },
+    {
+      "name": "sandile",
+      "url": "https://thepokeapi.com/pokemon/sandile",
+      "slot": 1
+    },
+    {
+      "name": "krokorok",
+      "url": "https://thepokeapi.com/pokemon/krokorok",
+      "slot": 1
+    },
+    {
+      "name": "krookodile",
+      "url": "https://thepokeapi.com/pokemon/krookodile",
+      "slot": 1
+    },
+    {
+      "name": "stunfisk",
+      "url": "https://thepokeapi.com/pokemon/stunfisk",
+      "slot": 1
+    },
+    {
+      "name": "golett",
+      "url": "https://thepokeapi.com/pokemon/golett",
+      "slot": 1
+    },
+    {
+      "name": "golurk",
+      "url": "https://thepokeapi.com/pokemon/golurk",
+      "slot": 1
+    },
+    {
+      "name": "diggersby",
+      "url": "https://thepokeapi.com/pokemon/diggersby",
+      "slot": 2
+    },
+    {
+      "name": "zygarde",
+      "url": "https://thepokeapi.com/pokemon/zygarde",
+      "slot": 2
+    },
+    {
+      "name": "mudbray",
+      "url": "https://thepokeapi.com/pokemon/mudbray",
+      "slot": 1
+    },
+    {
+      "name": "mudsdale",
+      "url": "https://thepokeapi.com/pokemon/mudsdale",
+      "slot": 1
+    },
+    {
+      "name": "sandygast",
+      "url": "https://thepokeapi.com/pokemon/sandygast",
+      "slot": 2
+    },
+    {
+      "name": "palossand",
+      "url": "https://thepokeapi.com/pokemon/palossand",
+      "slot": 2
+    },
+    {
+      "name": "silicobra",
+      "url": "https://thepokeapi.com/pokemon/silicobra",
+      "slot": 1
+    },
+    {
+      "name": "sandaconda",
+      "url": "https://thepokeapi.com/pokemon/sandaconda",
+      "slot": 1
+    },
+    {
+      "name": "runerigus",
+      "url": "https://thepokeapi.com/pokemon/runerigus",
+      "slot": 1
+    }
+  ]
+}

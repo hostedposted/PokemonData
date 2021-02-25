@@ -1,0 +1,33 @@
+{
+  "description": "Draining causes injury.",
+  "effect": "Whenever a Pok\u00e9mon would heal after hitting this Pok\u00e9mon with a leeching move like absorb, it instead loses as many HP as it would usually gain.\n\ndream eater is unaffected.",
+  "id": 64,
+  "name": "liquid-ooze",
+  "pokemon": [
+    {
+      "name": "tentacool",
+      "url": "https://thepokeapi.com/pokemon/tentacool",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "tentacruel",
+      "url": "https://thepokeapi.com/pokemon/tentacruel",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "gulpin",
+      "url": "https://thepokeapi.com/pokemon/gulpin",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "swalot",
+      "url": "https://thepokeapi.com/pokemon/swalot",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "short_effect": "Damages opponents using leeching moves for as much as they would heal."
+}

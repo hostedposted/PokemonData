@@ -1,0 +1,313 @@
+{
+  "abilities": [
+    {
+      "name": "gulp-missile",
+      "url": "https://thepokeapi.com/ability/gulp-missile",
+      "is_hidden": false,
+      "slot": 1
+    }
+  ],
+  "capture_rate": 45,
+  "color": "blue",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 0,
+    "water": 0,
+    "electric": 4,
+    "grass": 1,
+    "ice": 1,
+    "fighting": 0,
+    "poison": 1,
+    "ground": 0,
+    "flying": 1,
+    "psychic": 1,
+    "bug": 0,
+    "rock": 2,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "cramorant"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 31,
+  "id": 845,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "belch",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "peck",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stockpile",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "swallow",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "spit up",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "water gun",
+      "level": 7,
+      "tm": false
+    },
+    {
+      "name": "fury attack",
+      "level": 14,
+      "tm": false
+    },
+    {
+      "name": "pluck",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "dive",
+      "level": 28,
+      "tm": false
+    },
+    {
+      "name": "drill peck",
+      "level": 35,
+      "tm": false
+    },
+    {
+      "name": "amnesia",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "thrash",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "hydro pump",
+      "level": 56,
+      "tm": false
+    },
+    {
+      "name": "defog",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aerial ace",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "feather dance",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "aqua ring",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "roost",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rollout",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "cramorant",
+  "names": {
+    "french": "Nigosier",
+    "german": "Urgl",
+    "spanish": "Cramorant",
+    "italian": "Cramorant",
+    "english": "Cramorant",
+    "japanese": "\u30a6\u30c3\u30a6"
+  },
+  "pokedex_numbers": {
+    "national": 845,
+    "galar": 309,
+    "isle-of-armor": 93,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "wings",
+  "species": "Gulp Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/845.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/845.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 85
+    },
+    {
+      "name": "defense",
+      "base_stat": 55
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 85
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 95
+    },
+    {
+      "name": "speed",
+      "base_stat": 85
+    }
+  ],
+  "types": [
+    {
+      "name": "flying",
+      "url": "https://thepokeapi.com/type/flying"
+    },
+    {
+      "name": "water",
+      "url": "https://thepokeapi.com/type/water"
+    }
+  ],
+  "weight_kilograms": 18,
+  "weight_pounds": 40
+}

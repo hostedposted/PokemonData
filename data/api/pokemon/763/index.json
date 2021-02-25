@@ -1,0 +1,374 @@
+{
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "url": "https://thepokeapi.com/ability/leaf-guard",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "queenly-majesty",
+      "url": "https://thepokeapi.com/ability/queenly-majesty",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "sweet-veil",
+      "url": "https://thepokeapi.com/ability/sweet-veil",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "purple",
+  "damage_multipliers": {
+    "normal": 1,
+    "fire": 2,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 2,
+    "fighting": 1,
+    "poison": 2,
+    "ground": 0,
+    "flying": 4,
+    "psychic": 2,
+    "bug": 1,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 0,
+    "steel": 1,
+    "fairy": 2
+  },
+  "description": "A Pok\u00e9mon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
+  "egg_groups": [
+    "plant"
+  ],
+  "evolution_chain": [
+    [
+      "bounsweet"
+    ],
+    [
+      "steenee"
+    ],
+    [
+      "tsareena"
+    ]
+  ],
+  "evolves_from_species": "steenee",
+  "growth_rate": "medium-slow",
+  "height": 47,
+  "id": 763,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "double-slap",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "stomp",
+      "level": 29,
+      "tm": false
+    },
+    {
+      "name": "razor-leaf",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "solar-beam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "double-team",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "light-screen",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "reflect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "high-jump-kick",
+      "level": 49,
+      "tm": false
+    },
+    {
+      "name": "splash",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rest",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "substitute",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "protect",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "swagger",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "attract",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sleep-talk",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "return",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "frustration",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "safeguard",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "rapid-spin",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "sweet-scent",
+      "level": 17,
+      "tm": false
+    },
+    {
+      "name": "hidden-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "sunny-day",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "facade",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "nature-power",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "teeter-dance",
+      "level": 25,
+      "tm": false
+    },
+    {
+      "name": "aromatherapy",
+      "level": 41,
+      "tm": false
+    },
+    {
+      "name": "magical-leaf",
+      "level": 21,
+      "tm": false
+    },
+    {
+      "name": "u-turn",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "payback",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "fling",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "punishment",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "energy-ball",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "giga-impact",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "leaf-storm",
+      "level": 45,
+      "tm": false
+    },
+    {
+      "name": "power-whip",
+      "level": 53,
+      "tm": false
+    },
+    {
+      "name": "captivate",
+      "level": 37,
+      "tm": false
+    },
+    {
+      "name": "grass-knot",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "low-sweep",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "round",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "acrobatics",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "confide",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "aromatic-mist",
+      "level": 33,
+      "tm": false
+    },
+    {
+      "name": "dazzling-gleam",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "trop-kick",
+      "level": 0,
+      "tm": false
+    }
+  ],
+  "name": "tsareena",
+  "names": {
+    "french": "Sucreine",
+    "german": "Fruyal",
+    "spanish": "Tsareena",
+    "italian": "Tsareena",
+    "english": "Tsareena",
+    "japanese": "\u30a2\u30de\u30fc\u30b8\u30e7"
+  },
+  "pokedex_numbers": {
+    "national": 763,
+    "original-alola": 173,
+    "original-akala": 100,
+    "updated-alola": 209,
+    "updated-akala": 110,
+    "galar": 54,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-melemele": null,
+    "updated-melemele": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "alola",
+  "region_id": 7,
+  "shape": "humanoid",
+  "species": "Fruit Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/763.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/763.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 72
+    },
+    {
+      "name": "attack",
+      "base_stat": 120
+    },
+    {
+      "name": "defense",
+      "base_stat": 98
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 50
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 98
+    },
+    {
+      "name": "speed",
+      "base_stat": 72
+    }
+  ],
+  "types": [
+    {
+      "name": "grass",
+      "url": "https://thepokeapi.com/type/grass"
+    }
+  ],
+  "weight_kilograms": 21,
+  "weight_pounds": 47
+}

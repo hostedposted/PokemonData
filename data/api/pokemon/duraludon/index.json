@@ -1,0 +1,325 @@
+{
+  "abilities": [
+    {
+      "name": "light-metal",
+      "url": "https://thepokeapi.com/ability/light-metal",
+      "is_hidden": false,
+      "slot": 1
+    },
+    {
+      "name": "heavy-metal",
+      "url": "https://thepokeapi.com/ability/heavy-metal",
+      "is_hidden": false,
+      "slot": 2
+    },
+    {
+      "name": "stalwart",
+      "url": "https://thepokeapi.com/ability/stalwart",
+      "is_hidden": true,
+      "slot": 3
+    }
+  ],
+  "capture_rate": 45,
+  "color": "white",
+  "damage_multipliers": {
+    "normal": 0,
+    "fire": 1,
+    "water": 0,
+    "electric": 0,
+    "grass": 0,
+    "ice": 1,
+    "fighting": 1,
+    "poison": 0,
+    "ground": 2,
+    "flying": 0,
+    "psychic": 0,
+    "bug": 0,
+    "rock": 0,
+    "ghost": 1,
+    "dragon": 1,
+    "dark": 1,
+    "steel": 0,
+    "fairy": 1
+  },
+  "description": "The special metal that composes its body is very light, so this Pok\u00e9mon has considerable agility. It lives in caves because it dislikes the rain.",
+  "egg_groups": [],
+  "evolution_chain": [
+    [
+      "duraludon"
+    ]
+  ],
+  "evolves_from_species": null,
+  "growth_rate": "medium",
+  "height": 71,
+  "id": 884,
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "moves": [
+    {
+      "name": "metal claw",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "leer",
+      "level": 1,
+      "tm": false
+    },
+    {
+      "name": "rock smash",
+      "level": 6,
+      "tm": false
+    },
+    {
+      "name": "hone claws",
+      "level": 12,
+      "tm": false
+    },
+    {
+      "name": "metal sound",
+      "level": 18,
+      "tm": false
+    },
+    {
+      "name": "breaking swipe",
+      "level": 24,
+      "tm": false
+    },
+    {
+      "name": "dragon tail",
+      "level": 30,
+      "tm": false
+    },
+    {
+      "name": "iron defense",
+      "level": 36,
+      "tm": false
+    },
+    {
+      "name": "laser focus",
+      "level": 42,
+      "tm": false
+    },
+    {
+      "name": "dragon claw",
+      "level": 48,
+      "tm": false
+    },
+    {
+      "name": "flash cannon",
+      "level": 54,
+      "tm": false
+    },
+    {
+      "name": "metal burst",
+      "level": 60,
+      "tm": false
+    },
+    {
+      "name": "hyper beam",
+      "level": 66,
+      "tm": false
+    },
+    {
+      "name": "slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "night slash",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "mirror coat",
+      "tm": false,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "focus-punch",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "hone-claws",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "work-up",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "headbutt",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "dragon-claw",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "curse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "water-pulse",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "roar",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    },
+    {
+      "name": "toxic",
+      "tm": true,
+      "level": null
+    }
+  ],
+  "name": "duraludon",
+  "names": {
+    "french": "Duralugon",
+    "german": "Duraludon",
+    "spanish": "Duraludon",
+    "italian": "Duraludon",
+    "english": "Duraludon",
+    "japanese": "\u30b8\u30e5\u30e9\u30eb\u30c9\u30f3"
+  },
+  "pokedex_numbers": {
+    "national": 884,
+    "galar": 371,
+    "kanto": null,
+    "original-johto": null,
+    "updated-johto": null,
+    "kalos-central": null,
+    "isle-of-armor": null,
+    "updated-kanto": null,
+    "conquest-gallery": null,
+    "original-alola": null,
+    "original-melemele": null,
+    "original-akala": null,
+    "updated-alola": null,
+    "updated-melemele": null,
+    "updated-akala": null,
+    "updated-unova": null,
+    "original-ulaula": null,
+    "original-poni": null,
+    "updated-ulaula": null,
+    "updated-poni": null,
+    "kalos-mountain": null,
+    "hoenn": null,
+    "original-sinnoh": null,
+    "extended-sinnoh": null,
+    "updated-hoenn": null,
+    "kalos-coastal": null,
+    "crown-tundra": null,
+    "original-unova": null
+  },
+  "region": "galar",
+  "region_id": 8,
+  "shape": "upright",
+  "species": "Alloy Pok\u00e9mon",
+  "sprites": {
+    "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/884.png",
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/884.png"
+  },
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 70
+    },
+    {
+      "name": "attack",
+      "base_stat": 95
+    },
+    {
+      "name": "defense",
+      "base_stat": 115
+    },
+    {
+      "name": "special-attack",
+      "base_stat": 120
+    },
+    {
+      "name": "special-defense",
+      "base_stat": 50
+    },
+    {
+      "name": "speed",
+      "base_stat": 85
+    }
+  ],
+  "types": [
+    {
+      "name": "steel",
+      "url": "https://thepokeapi.com/type/steel"
+    },
+    {
+      "name": "dragon",
+      "url": "https://thepokeapi.com/type/dragon"
+    }
+  ],
+  "weight_kilograms": 40,
+  "weight_pounds": 88
+}
