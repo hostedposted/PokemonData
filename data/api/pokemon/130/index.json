@@ -502,34 +502,118 @@
     "japanese": "\u30ae\u30e3\u30e9\u30c9\u30b9"
   },
   "pokedex_numbers": {
-    "national": 130,
-    "kanto": 130,
-    "original-johto": 77,
-    "hoenn": 53,
-    "original-sinnoh": 24,
-    "extended-sinnoh": 24,
-    "updated-johto": 77,
-    "conquest-gallery": 14,
-    "kalos-central": 50,
-    "updated-hoenn": 54,
-    "original-alola": 92,
-    "original-melemele": 92,
-    "original-akala": 35,
-    "original-ulaula": 52,
-    "original-poni": 42,
-    "updated-alola": 112,
-    "updated-melemele": 112,
-    "updated-akala": 35,
-    "updated-ulaula": 55,
-    "updated-poni": 54,
-    "galar": 145,
-    "isle-of-armor": 43,
-    "crown-tundra": 63,
-    "updated-kanto": 130,
-    "updated-unova": null,
-    "kalos-mountain": null,
-    "kalos-coastal": null,
-    "original-unova": null
+    "national": {
+      "id": 130,
+      "url": "https://thepokeapi.com/pokedex/national"
+    },
+    "kanto": {
+      "id": 130,
+      "url": "https://thepokeapi.com/pokedex/kanto"
+    },
+    "original-johto": {
+      "id": 77,
+      "url": "https://thepokeapi.com/pokedex/original-johto"
+    },
+    "hoenn": {
+      "id": 53,
+      "url": "https://thepokeapi.com/pokedex/hoenn"
+    },
+    "original-sinnoh": {
+      "id": 24,
+      "url": "https://thepokeapi.com/pokedex/original-sinnoh"
+    },
+    "extended-sinnoh": {
+      "id": 24,
+      "url": "https://thepokeapi.com/pokedex/extended-sinnoh"
+    },
+    "updated-johto": {
+      "id": 77,
+      "url": "https://thepokeapi.com/pokedex/updated-johto"
+    },
+    "conquest-gallery": {
+      "id": 14,
+      "url": "https://thepokeapi.com/pokedex/conquest-gallery"
+    },
+    "kalos-central": {
+      "id": 50,
+      "url": "https://thepokeapi.com/pokedex/kalos-central"
+    },
+    "updated-hoenn": {
+      "id": 54,
+      "url": "https://thepokeapi.com/pokedex/updated-hoenn"
+    },
+    "original-alola": {
+      "id": 92,
+      "url": "https://thepokeapi.com/pokedex/original-alola"
+    },
+    "original-melemele": {
+      "id": 92,
+      "url": "https://thepokeapi.com/pokedex/original-melemele"
+    },
+    "original-akala": {
+      "id": 35,
+      "url": "https://thepokeapi.com/pokedex/original-akala"
+    },
+    "original-ulaula": {
+      "id": 52,
+      "url": "https://thepokeapi.com/pokedex/original-ulaula"
+    },
+    "original-poni": {
+      "id": 42,
+      "url": "https://thepokeapi.com/pokedex/original-poni"
+    },
+    "updated-alola": {
+      "id": 112,
+      "url": "https://thepokeapi.com/pokedex/updated-alola"
+    },
+    "updated-melemele": {
+      "id": 112,
+      "url": "https://thepokeapi.com/pokedex/updated-melemele"
+    },
+    "updated-akala": {
+      "id": 35,
+      "url": "https://thepokeapi.com/pokedex/updated-akala"
+    },
+    "updated-ulaula": {
+      "id": 55,
+      "url": "https://thepokeapi.com/pokedex/updated-ulaula"
+    },
+    "updated-poni": {
+      "id": 54,
+      "url": "https://thepokeapi.com/pokedex/updated-poni"
+    },
+    "galar": {
+      "id": 145,
+      "url": "https://thepokeapi.com/pokedex/galar"
+    },
+    "isle-of-armor": {
+      "id": 43,
+      "url": "https://thepokeapi.com/pokedex/isle-of-armor"
+    },
+    "crown-tundra": {
+      "id": 63,
+      "url": "https://thepokeapi.com/pokedex/crown-tundra"
+    },
+    "updated-kanto": {
+      "id": 130,
+      "url": "https://thepokeapi.com/pokedex/updated-kanto"
+    },
+    "updated-unova": {
+      "id": null,
+      "url": "https://thepokeapi.com/pokedex/updated-unova"
+    },
+    "kalos-mountain": {
+      "id": null,
+      "url": "https://thepokeapi.com/pokedex/kalos-mountain"
+    },
+    "kalos-coastal": {
+      "id": null,
+      "url": "https://thepokeapi.com/pokedex/kalos-coastal"
+    },
+    "original-unova": {
+      "id": null,
+      "url": "https://thepokeapi.com/pokedex/original-unova"
+    }
   },
   "region": "kanto",
   "region_id": 1,

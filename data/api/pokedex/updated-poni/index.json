@@ -1,0 +1,659 @@
+{
+  "description": "Ultra Sun/Ultra Moon Poni dex",
+  "id": 25,
+  "is_main_series": true,
+  "name": "updated-poni",
+  "region": "alola",
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "pikipek",
+      "url": "https://thepokeapi.com/pokemon/pikipek"
+    },
+    {
+      "id": 2,
+      "name": "trumbeak",
+      "url": "https://thepokeapi.com/pokemon/trumbeak"
+    },
+    {
+      "id": 3,
+      "name": "toucannon",
+      "url": "https://thepokeapi.com/pokemon/toucannon"
+    },
+    {
+      "id": 4,
+      "name": "yungoos",
+      "url": "https://thepokeapi.com/pokemon/yungoos"
+    },
+    {
+      "id": 5,
+      "name": "gumshoos",
+      "url": "https://thepokeapi.com/pokemon/gumshoos"
+    },
+    {
+      "id": 6,
+      "name": "rattata",
+      "url": "https://thepokeapi.com/pokemon/rattata"
+    },
+    {
+      "id": 7,
+      "name": "raticate",
+      "url": "https://thepokeapi.com/pokemon/raticate"
+    },
+    {
+      "id": 8,
+      "name": "buneary",
+      "url": "https://thepokeapi.com/pokemon/buneary"
+    },
+    {
+      "id": 9,
+      "name": "lopunny",
+      "url": "https://thepokeapi.com/pokemon/lopunny"
+    },
+    {
+      "id": 10,
+      "name": "inkay",
+      "url": "https://thepokeapi.com/pokemon/inkay"
+    },
+    {
+      "id": 11,
+      "name": "malamar",
+      "url": "https://thepokeapi.com/pokemon/malamar"
+    },
+    {
+      "id": 12,
+      "name": "zorua",
+      "url": "https://thepokeapi.com/pokemon/zorua"
+    },
+    {
+      "id": 13,
+      "name": "zoroark",
+      "url": "https://thepokeapi.com/pokemon/zoroark"
+    },
+    {
+      "id": 14,
+      "name": "furfrou",
+      "url": "https://thepokeapi.com/pokemon/furfrou"
+    },
+    {
+      "id": 15,
+      "name": "happiny",
+      "url": "https://thepokeapi.com/pokemon/happiny"
+    },
+    {
+      "id": 16,
+      "name": "chansey",
+      "url": "https://thepokeapi.com/pokemon/chansey"
+    },
+    {
+      "id": 17,
+      "name": "blissey",
+      "url": "https://thepokeapi.com/pokemon/blissey"
+    },
+    {
+      "id": 18,
+      "name": "wingull",
+      "url": "https://thepokeapi.com/pokemon/wingull"
+    },
+    {
+      "id": 19,
+      "name": "pelipper",
+      "url": "https://thepokeapi.com/pokemon/pelipper"
+    },
+    {
+      "id": 20,
+      "name": "drowzee",
+      "url": "https://thepokeapi.com/pokemon/drowzee"
+    },
+    {
+      "id": 21,
+      "name": "hypno",
+      "url": "https://thepokeapi.com/pokemon/hypno"
+    },
+    {
+      "id": 22,
+      "name": "makuhita",
+      "url": "https://thepokeapi.com/pokemon/makuhita"
+    },
+    {
+      "id": 23,
+      "name": "hariyama",
+      "url": "https://thepokeapi.com/pokemon/hariyama"
+    },
+    {
+      "id": 24,
+      "name": "crabrawler",
+      "url": "https://thepokeapi.com/pokemon/crabrawler"
+    },
+    {
+      "id": 25,
+      "name": "crabominable",
+      "url": "https://thepokeapi.com/pokemon/crabominable"
+    },
+    {
+      "id": 26,
+      "name": "zubat",
+      "url": "https://thepokeapi.com/pokemon/zubat"
+    },
+    {
+      "id": 27,
+      "name": "golbat",
+      "url": "https://thepokeapi.com/pokemon/golbat"
+    },
+    {
+      "id": 28,
+      "name": "crobat",
+      "url": "https://thepokeapi.com/pokemon/crobat"
+    },
+    {
+      "id": 29,
+      "name": "noibat",
+      "url": "https://thepokeapi.com/pokemon/noibat"
+    },
+    {
+      "id": 30,
+      "name": "noivern",
+      "url": "https://thepokeapi.com/pokemon/noivern"
+    },
+    {
+      "id": 31,
+      "name": "diglett",
+      "url": "https://thepokeapi.com/pokemon/diglett"
+    },
+    {
+      "id": 32,
+      "name": "dugtrio",
+      "url": "https://thepokeapi.com/pokemon/dugtrio"
+    },
+    {
+      "id": 33,
+      "name": "spearow",
+      "url": "https://thepokeapi.com/pokemon/spearow"
+    },
+    {
+      "id": 34,
+      "name": "fearow",
+      "url": "https://thepokeapi.com/pokemon/fearow"
+    },
+    {
+      "id": 35,
+      "name": "rufflet",
+      "url": "https://thepokeapi.com/pokemon/rufflet"
+    },
+    {
+      "id": 36,
+      "name": "braviary",
+      "url": "https://thepokeapi.com/pokemon/braviary"
+    },
+    {
+      "id": 37,
+      "name": "vullaby",
+      "url": "https://thepokeapi.com/pokemon/vullaby"
+    },
+    {
+      "id": 38,
+      "name": "mandibuzz",
+      "url": "https://thepokeapi.com/pokemon/mandibuzz"
+    },
+    {
+      "id": 39,
+      "name": "mankey",
+      "url": "https://thepokeapi.com/pokemon/mankey"
+    },
+    {
+      "id": 40,
+      "name": "primeape",
+      "url": "https://thepokeapi.com/pokemon/primeape"
+    },
+    {
+      "id": 41,
+      "name": "oricorio",
+      "url": "https://thepokeapi.com/pokemon/oricorio"
+    },
+    {
+      "id": 42,
+      "name": "cutiefly",
+      "url": "https://thepokeapi.com/pokemon/cutiefly"
+    },
+    {
+      "id": 43,
+      "name": "ribombee",
+      "url": "https://thepokeapi.com/pokemon/ribombee"
+    },
+    {
+      "id": 44,
+      "name": "flabebe",
+      "url": "https://thepokeapi.com/pokemon/flabebe"
+    },
+    {
+      "id": 45,
+      "name": "floette",
+      "url": "https://thepokeapi.com/pokemon/floette"
+    },
+    {
+      "id": 46,
+      "name": "florges",
+      "url": "https://thepokeapi.com/pokemon/florges"
+    },
+    {
+      "id": 47,
+      "name": "petilil",
+      "url": "https://thepokeapi.com/pokemon/petilil"
+    },
+    {
+      "id": 48,
+      "name": "lilligant",
+      "url": "https://thepokeapi.com/pokemon/lilligant"
+    },
+    {
+      "id": 49,
+      "name": "cottonee",
+      "url": "https://thepokeapi.com/pokemon/cottonee"
+    },
+    {
+      "id": 50,
+      "name": "whimsicott",
+      "url": "https://thepokeapi.com/pokemon/whimsicott"
+    },
+    {
+      "id": 51,
+      "name": "psyduck",
+      "url": "https://thepokeapi.com/pokemon/psyduck"
+    },
+    {
+      "id": 52,
+      "name": "golduck",
+      "url": "https://thepokeapi.com/pokemon/golduck"
+    },
+    {
+      "id": 53,
+      "name": "magikarp",
+      "url": "https://thepokeapi.com/pokemon/magikarp"
+    },
+    {
+      "id": 54,
+      "name": "gyarados",
+      "url": "https://thepokeapi.com/pokemon/gyarados"
+    },
+    {
+      "id": 55,
+      "name": "barboach",
+      "url": "https://thepokeapi.com/pokemon/barboach"
+    },
+    {
+      "id": 56,
+      "name": "whiscash",
+      "url": "https://thepokeapi.com/pokemon/whiscash"
+    },
+    {
+      "id": 57,
+      "name": "machop",
+      "url": "https://thepokeapi.com/pokemon/machop"
+    },
+    {
+      "id": 58,
+      "name": "machoke",
+      "url": "https://thepokeapi.com/pokemon/machoke"
+    },
+    {
+      "id": 59,
+      "name": "machamp",
+      "url": "https://thepokeapi.com/pokemon/machamp"
+    },
+    {
+      "id": 60,
+      "name": "roggenrola",
+      "url": "https://thepokeapi.com/pokemon/roggenrola"
+    },
+    {
+      "id": 61,
+      "name": "boldore",
+      "url": "https://thepokeapi.com/pokemon/boldore"
+    },
+    {
+      "id": 62,
+      "name": "gigalith",
+      "url": "https://thepokeapi.com/pokemon/gigalith"
+    },
+    {
+      "id": 63,
+      "name": "carbink",
+      "url": "https://thepokeapi.com/pokemon/carbink"
+    },
+    {
+      "id": 64,
+      "name": "sableye",
+      "url": "https://thepokeapi.com/pokemon/sableye"
+    },
+    {
+      "id": 65,
+      "name": "rockruff",
+      "url": "https://thepokeapi.com/pokemon/rockruff"
+    },
+    {
+      "id": 66,
+      "name": "lycanroc",
+      "url": "https://thepokeapi.com/pokemon/lycanroc"
+    },
+    {
+      "id": 67,
+      "name": "tentacool",
+      "url": "https://thepokeapi.com/pokemon/tentacool"
+    },
+    {
+      "id": 68,
+      "name": "tentacruel",
+      "url": "https://thepokeapi.com/pokemon/tentacruel"
+    },
+    {
+      "id": 69,
+      "name": "finneon",
+      "url": "https://thepokeapi.com/pokemon/finneon"
+    },
+    {
+      "id": 70,
+      "name": "lumineon",
+      "url": "https://thepokeapi.com/pokemon/lumineon"
+    },
+    {
+      "id": 71,
+      "name": "mudbray",
+      "url": "https://thepokeapi.com/pokemon/mudbray"
+    },
+    {
+      "id": 72,
+      "name": "mudsdale",
+      "url": "https://thepokeapi.com/pokemon/mudsdale"
+    },
+    {
+      "id": 73,
+      "name": "tauros",
+      "url": "https://thepokeapi.com/pokemon/tauros"
+    },
+    {
+      "id": 74,
+      "name": "miltank",
+      "url": "https://thepokeapi.com/pokemon/miltank"
+    },
+    {
+      "id": 75,
+      "name": "basculin",
+      "url": "https://thepokeapi.com/pokemon/basculin"
+    },
+    {
+      "id": 76,
+      "name": "stufful",
+      "url": "https://thepokeapi.com/pokemon/stufful"
+    },
+    {
+      "id": 77,
+      "name": "bewear",
+      "url": "https://thepokeapi.com/pokemon/bewear"
+    },
+    {
+      "id": 78,
+      "name": "pinsir",
+      "url": "https://thepokeapi.com/pokemon/pinsir"
+    },
+    {
+      "id": 79,
+      "name": "goomy",
+      "url": "https://thepokeapi.com/pokemon/goomy"
+    },
+    {
+      "id": 80,
+      "name": "sliggoo",
+      "url": "https://thepokeapi.com/pokemon/sliggoo"
+    },
+    {
+      "id": 81,
+      "name": "goodra",
+      "url": "https://thepokeapi.com/pokemon/goodra"
+    },
+    {
+      "id": 82,
+      "name": "castform",
+      "url": "https://thepokeapi.com/pokemon/castform"
+    },
+    {
+      "id": 83,
+      "name": "wimpod",
+      "url": "https://thepokeapi.com/pokemon/wimpod"
+    },
+    {
+      "id": 84,
+      "name": "golisopod",
+      "url": "https://thepokeapi.com/pokemon/golisopod"
+    },
+    {
+      "id": 85,
+      "name": "skarmory",
+      "url": "https://thepokeapi.com/pokemon/skarmory"
+    },
+    {
+      "id": 86,
+      "name": "snubbull",
+      "url": "https://thepokeapi.com/pokemon/snubbull"
+    },
+    {
+      "id": 87,
+      "name": "granbull",
+      "url": "https://thepokeapi.com/pokemon/granbull"
+    },
+    {
+      "id": 88,
+      "name": "shellos",
+      "url": "https://thepokeapi.com/pokemon/shellos"
+    },
+    {
+      "id": 89,
+      "name": "gastrodon",
+      "url": "https://thepokeapi.com/pokemon/gastrodon"
+    },
+    {
+      "id": 90,
+      "name": "relicanth",
+      "url": "https://thepokeapi.com/pokemon/relicanth"
+    },
+    {
+      "id": 91,
+      "name": "dhelmise",
+      "url": "https://thepokeapi.com/pokemon/dhelmise"
+    },
+    {
+      "id": 92,
+      "name": "carvanha",
+      "url": "https://thepokeapi.com/pokemon/carvanha"
+    },
+    {
+      "id": 93,
+      "name": "sharpedo",
+      "url": "https://thepokeapi.com/pokemon/sharpedo"
+    },
+    {
+      "id": 94,
+      "name": "skrelp",
+      "url": "https://thepokeapi.com/pokemon/skrelp"
+    },
+    {
+      "id": 95,
+      "name": "dragalge",
+      "url": "https://thepokeapi.com/pokemon/dragalge"
+    },
+    {
+      "id": 96,
+      "name": "clauncher",
+      "url": "https://thepokeapi.com/pokemon/clauncher"
+    },
+    {
+      "id": 97,
+      "name": "clawitzer",
+      "url": "https://thepokeapi.com/pokemon/clawitzer"
+    },
+    {
+      "id": 98,
+      "name": "wailmer",
+      "url": "https://thepokeapi.com/pokemon/wailmer"
+    },
+    {
+      "id": 99,
+      "name": "wailord",
+      "url": "https://thepokeapi.com/pokemon/wailord"
+    },
+    {
+      "id": 100,
+      "name": "lapras",
+      "url": "https://thepokeapi.com/pokemon/lapras"
+    },
+    {
+      "id": 101,
+      "name": "tropius",
+      "url": "https://thepokeapi.com/pokemon/tropius"
+    },
+    {
+      "id": 102,
+      "name": "exeggcute",
+      "url": "https://thepokeapi.com/pokemon/exeggcute"
+    },
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "url": "https://thepokeapi.com/pokemon/exeggutor"
+    },
+    {
+      "id": 104,
+      "name": "corphish",
+      "url": "https://thepokeapi.com/pokemon/corphish"
+    },
+    {
+      "id": 105,
+      "name": "crawdaunt",
+      "url": "https://thepokeapi.com/pokemon/crawdaunt"
+    },
+    {
+      "id": 106,
+      "name": "mienfoo",
+      "url": "https://thepokeapi.com/pokemon/mienfoo"
+    },
+    {
+      "id": 107,
+      "name": "mienshao",
+      "url": "https://thepokeapi.com/pokemon/mienshao"
+    },
+    {
+      "id": 108,
+      "name": "jangmo-o",
+      "url": "https://thepokeapi.com/pokemon/jangmo-o"
+    },
+    {
+      "id": 109,
+      "name": "hakamo-o",
+      "url": "https://thepokeapi.com/pokemon/hakamo-o"
+    },
+    {
+      "id": 110,
+      "name": "kommo-o",
+      "url": "https://thepokeapi.com/pokemon/kommo-o"
+    },
+    {
+      "id": 111,
+      "name": "emolga",
+      "url": "https://thepokeapi.com/pokemon/emolga"
+    },
+    {
+      "id": 112,
+      "name": "scyther",
+      "url": "https://thepokeapi.com/pokemon/scyther"
+    },
+    {
+      "id": 113,
+      "name": "scizor",
+      "url": "https://thepokeapi.com/pokemon/scizor"
+    },
+    {
+      "id": 114,
+      "name": "heracross",
+      "url": "https://thepokeapi.com/pokemon/heracross"
+    },
+    {
+      "id": 115,
+      "name": "aipom",
+      "url": "https://thepokeapi.com/pokemon/aipom"
+    },
+    {
+      "id": 116,
+      "name": "ambipom",
+      "url": "https://thepokeapi.com/pokemon/ambipom"
+    },
+    {
+      "id": 117,
+      "name": "litleo",
+      "url": "https://thepokeapi.com/pokemon/litleo"
+    },
+    {
+      "id": 118,
+      "name": "pyroar",
+      "url": "https://thepokeapi.com/pokemon/pyroar"
+    },
+    {
+      "id": 119,
+      "name": "misdreavus",
+      "url": "https://thepokeapi.com/pokemon/misdreavus"
+    },
+    {
+      "id": 120,
+      "name": "mismagius",
+      "url": "https://thepokeapi.com/pokemon/mismagius"
+    },
+    {
+      "id": 121,
+      "name": "druddigon",
+      "url": "https://thepokeapi.com/pokemon/druddigon"
+    },
+    {
+      "id": 122,
+      "name": "lickitung",
+      "url": "https://thepokeapi.com/pokemon/lickitung"
+    },
+    {
+      "id": 123,
+      "name": "lickilicky",
+      "url": "https://thepokeapi.com/pokemon/lickilicky"
+    },
+    {
+      "id": 124,
+      "name": "riolu",
+      "url": "https://thepokeapi.com/pokemon/riolu"
+    },
+    {
+      "id": 125,
+      "name": "lucario",
+      "url": "https://thepokeapi.com/pokemon/lucario"
+    },
+    {
+      "id": 126,
+      "name": "dratini",
+      "url": "https://thepokeapi.com/pokemon/dratini"
+    },
+    {
+      "id": 127,
+      "name": "dragonair",
+      "url": "https://thepokeapi.com/pokemon/dragonair"
+    },
+    {
+      "id": 128,
+      "name": "dragonite",
+      "url": "https://thepokeapi.com/pokemon/dragonite"
+    },
+    {
+      "id": 129,
+      "name": "aerodactyl",
+      "url": "https://thepokeapi.com/pokemon/aerodactyl"
+    },
+    {
+      "id": 130,
+      "name": "tapu-fini",
+      "url": "https://thepokeapi.com/pokemon/tapu-fini"
+    }
+  ]
+}

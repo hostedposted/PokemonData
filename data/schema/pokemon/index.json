@@ -114,10 +114,7 @@
       ]
     },
     "description": {
-      "type": [
-        "null",
-        "string"
-      ]
+      "type": "string"
     },
     "egg_groups": {
       "type": "array",
@@ -221,171 +218,479 @@
       "type": "object",
       "properties": {
         "national": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "kanto": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-johto": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-johto": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "kalos-central": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "isle-of-armor": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-kanto": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "conquest-gallery": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "galar": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-alola": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-melemele": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-akala": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-alola": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-melemele": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-akala": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-unova": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-ulaula": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-poni": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-ulaula": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-poni": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "kalos-mountain": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "hoenn": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-sinnoh": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "extended-sinnoh": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "updated-hoenn": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "kalos-coastal": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "crown-tundra": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         },
         "original-unova": {
-          "type": [
-            "integer",
-            "null"
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
           ]
         }
       }

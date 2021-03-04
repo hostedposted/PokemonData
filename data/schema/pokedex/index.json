@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "properties": {
+    "description": {
+      "type": "string"
+    },
+    "id": {
+      "type": "integer"
+    },
+    "is_main_series": {
+      "type": "boolean"
+    },
+    "name": {
+      "type": "string"
+    },
+    "region": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "pokemon": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "url"
+        ]
+      }
+    }
+  },
+  "required": [
+    "region"
+  ]
+}
