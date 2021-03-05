@@ -339,7 +339,7 @@
   "species": "Swift Horse Pok\u00e9mon",
   "sprites": {
     "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/897.png",
-    "shiny": null
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/897.png"
   },
   "stats": [
     {

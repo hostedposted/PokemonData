@@ -714,13 +714,11 @@
           "type": "string"
         },
         "shiny": {
-          "type": [
-            "null",
-            "string"
-          ]
+          "type": "string"
         }
       },
       "required": [
+        "default",
         "shiny"
       ]
     },

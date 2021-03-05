@@ -339,7 +339,7 @@
   "species": "Wild Horse Pok\u00e9mon",
   "sprites": {
     "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/896.png",
-    "shiny": null
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/896.png"
   },
   "stats": [
     {

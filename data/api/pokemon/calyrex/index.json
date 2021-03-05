@@ -394,7 +394,7 @@
   "species": "King Pok\u00e9mon",
   "sprites": {
     "default": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/898.png",
-    "shiny": null
+    "shiny": "https://raw.githubusercontent.com/hostedposted/PokemonData/master/sprites/pokemon/shiny/898.png"
   },
   "stats": [
     {
